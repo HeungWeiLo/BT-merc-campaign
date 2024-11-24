@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|wsmall]
+> [!infobox|wmedium]
 > # Champion (CHP-1N)
 > ![CHP-1N.jpg](/img/user/z_Assets/Mechs/CHP-1N.jpg)
 > 

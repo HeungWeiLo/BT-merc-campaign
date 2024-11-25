@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cammal
-xcood: "111.4"
-ycood: "-164.975"
-spectralType: F3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cammal/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cammal
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F3V.png]] |
+> | X coord | 111.4 |
+> | Y coord| -164.975 |
+> | Spectral Type | F3V ![[F3V.png\|F3V.png]] |
 
-# Planet 1 - Sexton's World ![[barren16.png]]
+# Planet 1 - Sexton's World ![[barren16.png\|barren16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - MacRobert ![[iceg3.png]]
+# Planet 2 - MacRobert ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,15 +43,15 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Eostre (large)
-- ![[rock13.png]] Þonar (large)
-- ![[rock4.png]] Wodin (large)
-- ![[rock9.png]] Ing (medium)
-- ![[oddmoon2.png]] Frige (medium)
-- ![[rock3.png]] Frike (medium)
+- ![[rock7.png\|rock7.png]] Eostre (large)
+- ![[rock13.png\|rock13.png]] Þonar (large)
+- ![[rock4.png\|rock4.png]] Wodin (large)
+- ![[rock9.png\|rock9.png]] Ing (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Frige (medium)
+- ![[rock3.png\|rock3.png]] Frike (medium)
 
 
-# Planet 3 - Peña ![[greenhouse30.png]]
+# Planet 3 - Peña ![[greenhouse30.png\|greenhouse30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cammal ![[green47.png]]
+# Planet 4 - Cammal ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,9 +88,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Mullen (large)
+- [[rock5.png\|rock5.png]] Mullen (large)
 
-# Planet 5 - Macuiltonaleque ![[barren10.png]]
+# Planet 5 - Macuiltonaleque ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -111,12 +106,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Eostre (medium)
-- ![[rock8.png]] Þonar (medium)
-- ![[oddmoon1.png]] Frey (medium)
+- ![[rock14.png\|rock14.png]] Eostre (medium)
+- ![[rock8.png\|rock8.png]] Þonar (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Frey (medium)
 
 
-# Planet 6 - Cinteotl ![[gasg21.png]]
+# Planet 6 - Cinteotl ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,17 +126,17 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Vitra 1 (giant)
-- ![[rock15.png]] Vitra 2 (large)
-- ![[rock10.png]] Vitra 3 (large)
-- ![[rock9.png]] Vitra 4 (large)
-- ![[rock4.png]] Vitra 5 (large)
-- ![[rock5.png]] Vitra 6 (medium)
-- ![[oddmoon3.png]] Vitra 7 (medium)
-- ![[rock1.png]] Vitra 8 (medium)
+- ![[rock11.png\|rock11.png]] Vitra 1 (giant)
+- ![[rock15.png\|rock15.png]] Vitra 2 (large)
+- ![[rock10.png\|rock10.png]] Vitra 3 (large)
+- ![[rock9.png\|rock9.png]] Vitra 4 (large)
+- ![[rock4.png\|rock4.png]] Vitra 5 (large)
+- ![[rock5.png\|rock5.png]] Vitra 6 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Vitra 7 (medium)
+- ![[rock1.png\|rock1.png]] Vitra 8 (medium)
 
 
-# Planet 7 - Riley ![[gasg14.png]]
+# Planet 7 - Riley ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,14 +151,14 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] XPX1 (large)
-- ![[rock1.png]] XPX2 (large)
-- ![[rock4.png]] XPX3 (large)
-- ![[rock15.png]] XPX4 (large)
-- ![[rock14.png]] XPX5 (large)
-- ![[oddmoon2.png]] XPX6 (medium)
-- ![[oddmoon1.png]] XPX7 (medium)
-- ![[oddmoon3.png]] XPX8 (medium)
-- ![[oddmoon2.png]] XPX9 (medium)
+- ![[rock8.png\|rock8.png]] XPX1 (large)
+- ![[rock1.png\|rock1.png]] XPX2 (large)
+- ![[rock4.png\|rock4.png]] XPX3 (large)
+- ![[rock15.png\|rock15.png]] XPX4 (large)
+- ![[rock14.png\|rock14.png]] XPX5 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] XPX6 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] XPX7 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] XPX8 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] XPX9 (medium)
 
 

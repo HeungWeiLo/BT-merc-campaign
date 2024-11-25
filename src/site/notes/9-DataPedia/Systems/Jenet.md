@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Jenet
-xcood: "191.664"
-ycood: "-253.952"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/jenet/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Jenet
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 191.664 |
+> | Y coord| -253.952 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Lang ![[gasg21.png]]
+# Planet 1 - Lang ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 9
 
-- [[rock3.png]] Vostakova (giant)
+- [[rock3.png\|rock3.png]] Vostakova (giant)
 
-# Planet 2 - Anataboga ![[gasg3.png]]
+# Planet 2 - Anataboga ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -55,7 +50,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Jenet ![[green39.png]]
+# Planet 3 - Jenet ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Espinoza's Belt I ![[asteroid2.png]]
+# Planet 4 - Espinoza's Belt I ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Kawilarang's Rift ![[gasg14.png]]
+# Planet 5 - Kawilarang's Rift ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -112,13 +107,13 @@ dg-publish: true
 4
 0
 
-- ![[oddmoon3.png]] Lopter 1 (medium)
-- ![[oddmoon1.png]] Lopter 2 (medium)
-- ![[oddmoon2.png]] Lopter 3 (medium)
-- ![[rock5.png]] Lopter 4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Lopter 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lopter 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lopter 3 (medium)
+- ![[rock5.png\|rock5.png]] Lopter 4 (medium)
 
 
-# Planet 6 - Barong ![[gasg37.png]]
+# Planet 6 - Barong ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -136,14 +131,14 @@ dg-publish: true
 5
 0
 
-- ![[rock9.png]] Ethlinn I (large)
-- ![[rock15.png]] Ethlinn II (large)
-- ![[rock8.png]] Ethlinn III (medium)
-- ![[oddmoon1.png]] Ethlinn IV (medium)
-- ![[oddmoon3.png]] Ethlinn V (medium)
+- ![[rock9.png\|rock9.png]] Ethlinn I (large)
+- ![[rock15.png\|rock15.png]] Ethlinn II (large)
+- ![[rock8.png\|rock8.png]] Ethlinn III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ethlinn IV (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ethlinn V (medium)
 
 
-# Planet 7 - Espinoza's Belt II ![[asteroid3.png]]
+# Planet 7 - Espinoza's Belt II ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -158,7 +153,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Himaphan ![[gasg8.png]]
+# Planet 8 - Himaphan ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -176,5 +171,5 @@ dg-publish: true
 3
 9
 
-- [[oddmoon1.png]] Batu Bara (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Batu Bara (medium)
 

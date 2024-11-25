@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calseraigne
-xcood: "-8.281"
-ycood: "-367.667"
-spectralType: M7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calseraigne/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calseraigne
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M7V.png]] |
+> | X coord | -8.281 |
+> | Y coord| -367.667 |
+> | Spectral Type | M7V ![[M7V.png\|M7V.png]] |
 
-# Planet 1 - Calseraigne ![[green44.png]]
+# Planet 1 - Calseraigne ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Warrumbungle Shire ![[gasg33.png]]
+# Planet 2 - Warrumbungle Shire ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Xinanmen (medium)
-- ![[oddmoon1.png]] Mörlunda-Tveta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Xinanmen (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mörlunda-Tveta (medium)
 
 
-# Planet 3 - Rēzeknes Novads ![[rock6.png]]
+# Planet 3 - Rēzeknes Novads ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Vaggeryds ![[gasg14.png]]
+# Planet 4 - Vaggeryds ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,13 +83,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Ang (giant)
-- ![[rock2.png]] LeBlanc (large)
-- ![[rock11.png]] Groves (large)
-- ![[rock5.png]] Hegel (large)
+- ![[rock10.png\|rock10.png]] Ang (giant)
+- ![[rock2.png\|rock2.png]] LeBlanc (large)
+- ![[rock11.png\|rock11.png]] Groves (large)
+- ![[rock5.png\|rock5.png]] Hegel (large)
 
 
-# Planet 5 - Lesovy ![[gasg7.png]]
+# Planet 5 - Lesovy ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,14 +104,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Mollema I (large)
-- ![[oddmoon3.png]] Mollema II (medium)
-- ![[rock12.png]] Mollema III (medium)
-- ![[oddmoon1.png]] Mollema IV (medium)
-- ![[rock1.png]] Mollema V (medium)
+- ![[rock2.png\|rock2.png]] Mollema I (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Mollema II (medium)
+- ![[rock12.png\|rock12.png]] Mollema III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mollema IV (medium)
+- ![[rock1.png\|rock1.png]] Mollema V (medium)
 
 
-# Planet 6 - New Galmal-eup ![[gasg32.png]]
+# Planet 6 - New Galmal-eup ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,13 +126,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Rauni A (medium)
-- ![[rock5.png]] Rauni B (medium)
-- ![[rock17.png]] Rauni C (medium)
-- ![[rock1.png]] Rauni D (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rauni A (medium)
+- ![[rock5.png\|rock5.png]] Rauni B (medium)
+- ![[rock17.png\|rock17.png]] Rauni C (medium)
+- ![[rock1.png\|rock1.png]] Rauni D (medium)
 
 
-# Planet 7 - Matisyrazemlya ![[gasg35.png]]
+# Planet 7 - Matisyrazemlya ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,7 +149,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Lupao ![[gasg28.png]]
+# Planet 8 - Lupao ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,7 +166,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Hoyle ![[iceg17.png]]
+# Planet 9 - Hoyle ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -186,14 +181,14 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Tenyalang (large)
-- ![[oddmoon3.png]] Kinnara (medium)
-- ![[oddmoon2.png]] C.1 (medium)
-- ![[oddmoon1.png]] Thep Norsingha (medium)
-- ![[rock16.png]] Phra Narai (medium)
+- ![[rock15.png\|rock15.png]] Tenyalang (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Kinnara (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] C.1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Thep Norsingha (medium)
+- ![[rock16.png\|rock16.png]] Phra Narai (medium)
 
 
-# Planet 10 - 1D1 Belt ![[asteroid3.png]]
+# Planet 10 - 1D1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -205,7 +200,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Isosomppi's Planet ![[gasg1.png]]
+# Planet 11 - Isosomppi's Planet ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -220,5 +215,5 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Kalamariá (large)
+- [[rock11.png\|rock11.png]] Kalamariá (large)
 

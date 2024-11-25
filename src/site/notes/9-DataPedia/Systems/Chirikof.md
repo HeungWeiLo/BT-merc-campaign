@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chirikof
-xcood: "335.799"
-ycood: "-233.463"
-spectralType: F8IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chirikof/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chirikof
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8IV.png]] |
+> | X coord | 335.799 |
+> | Y coord| -233.463 |
+> | Spectral Type | F8IV ![[F8IV.png\|F8IV.png]] |
 
-# Planet 1 - Sterquilinus's Wheel ![[greenhouse40.png]]
+# Planet 1 - Sterquilinus's Wheel ![[greenhouse40.png\|greenhouse40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Jove ![[barren1.png]]
+# Planet 2 - Jove ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Hercules's Meridian ![[barren8.png]]
+# Planet 3 - Hercules's Meridian ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -67,9 +62,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] T1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] T1 (medium)
 
-# Planet 4 - Chirikof ![[green7.png]]
+# Planet 4 - Chirikof ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,11 +86,11 @@ Chirikof was first colonized in the 24th century as a mining colony, despite the
 Manufacturing centers:
 Fort Chirikof Repair Facilities
 
-- ![[oddmoon3.png]] Madden (medium)
-- ![[rock3.png]] Pietrikof (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Madden (medium)
+- ![[rock3.png\|rock3.png]] Pietrikof (large)
 
 
-# Planet 5 - Saturnus ![[rock7.png]]
+# Planet 5 - Saturnus ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -112,7 +107,7 @@ Fort Chirikof Repair Facilities
 
 
 
-# Planet 6 - Chandler's Ship ![[rock3.png]]
+# Planet 6 - Chandler's Ship ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -129,7 +124,7 @@ Fort Chirikof Repair Facilities
 
 
 
-# Planet 7 - Laetitia ![[gasg10.png]]
+# Planet 7 - Laetitia ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,11 +139,11 @@ Fort Chirikof Repair Facilities
 
 
 
-- ![[oddmoon2.png]] PE1 (medium)
-- ![[rock2.png]] PE2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] PE1 (medium)
+- ![[rock2.png\|rock2.png]] PE2 (medium)
 
 
-# Planet 8 - Fontenot's Belt ![[asteroid3.png]]
+# Planet 8 - Fontenot's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -160,7 +155,7 @@ Fort Chirikof Repair Facilities
 
 
 
-# Planet 9 - Ma'mun's Rock ![[gasg31.png]]
+# Planet 9 - Ma'mun's Rock ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,12 +170,12 @@ Fort Chirikof Repair Facilities
 
 
 
-- ![[rock14.png]] Acidalia (large)
-- ![[rock16.png]] Cynthia (large)
-- ![[oddmoon2.png]] Chione (medium)
+- ![[rock14.png\|rock14.png]] Acidalia (large)
+- ![[rock16.png\|rock16.png]] Cynthia (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Chione (medium)
 
 
-# Planet 10 - Surendar ![[gasg38.png]]
+# Planet 10 - Surendar ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -197,7 +192,7 @@ Fort Chirikof Repair Facilities
 
 
 
-# Planet 11 - Port Maccley ![[gasg8.png]]
+# Planet 11 - Port Maccley ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

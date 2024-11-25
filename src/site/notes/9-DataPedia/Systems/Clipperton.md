@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Clipperton
-xcood: "-248.983"
-ycood: "-204.524"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/clipperton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Clipperton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | -248.983 |
+> | Y coord| -204.524 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Redon ![[rock7.png]]
+# Planet 1 - Redon ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Langenlois ![[barren17.png]]
+# Planet 2 - Langenlois ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Clipperton ![[green55.png]]
+# Planet 3 - Clipperton ![[green55.png\|green55.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,11 +64,11 @@ dg-publish: true
 
 Clipperton is a warm-temperate planet with standard gravity and a comfortable atmosphere. The planet has sufficient arable land set aside to feed the population and abundant natural resources that are used to support the planet’s extensive industrial base. Clipperton is home to Irian Naval Systems, which orbits the planet and produces both JumpShips and DropShips.
 
-- ![[oddmoon2.png]] Revillagigedo (medium)
-- ![[rock14.png]] Socorro (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Revillagigedo (medium)
+- ![[rock14.png\|rock14.png]] Socorro (large)
 
 
-# Planet 4 - La Bernerie-en-Retz Belt ![[asteroid2.png]]
+# Planet 4 - La Bernerie-en-Retz Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -85,7 +80,7 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-# Planet 5 - Sigonce ![[gasg22.png]]
+# Planet 5 - Sigonce ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -100,11 +95,11 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-- ![[rock13.png]] F1 (large)
-- ![[rock11.png]] F2 (large)
+- ![[rock13.png\|rock13.png]] F1 (large)
+- ![[rock11.png\|rock11.png]] F2 (large)
 
 
-# Planet 6 - Pierrefitte-en-Beauvaisis ![[gasg2.png]]
+# Planet 6 - Pierrefitte-en-Beauvaisis ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -119,12 +114,12 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-- ![[rock6.png]] Susano O Alpha (medium)
-- ![[rock17.png]] Susano O Beta (medium)
-- ![[rock3.png]] Susano O Gamma (medium)
+- ![[rock6.png\|rock6.png]] Susano O Alpha (medium)
+- ![[rock17.png\|rock17.png]] Susano O Beta (medium)
+- ![[rock3.png\|rock3.png]] Susano O Gamma (medium)
 
 
-# Planet 7 - Saint-Étienne-de-Saint-Geoirs ![[gasg36.png]]
+# Planet 7 - Saint-Étienne-de-Saint-Geoirs ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,12 +134,12 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-- ![[rock9.png]] Anteros 1 (large)
-- ![[rock17.png]] Anteros 2 (large)
-- ![[rock4.png]] Anteros 3 (large)
+- ![[rock9.png\|rock9.png]] Anteros 1 (large)
+- ![[rock17.png\|rock17.png]] Anteros 2 (large)
+- ![[rock4.png\|rock4.png]] Anteros 3 (large)
 
 
-# Planet 8 - Marray ![[gasg3.png]]
+# Planet 8 - Marray ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -161,7 +156,7 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-# Planet 9 - Old Yunganza ![[gasg23.png]]
+# Planet 9 - Old Yunganza ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -176,11 +171,11 @@ Clipperton is a warm-temperate planet with standard gravity and a comfortable at
 
 
 
-- ![[oddmoon3.png]] LKF-1 (medium)
-- ![[rock15.png]] LKF-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] LKF-1 (medium)
+- ![[rock15.png\|rock15.png]] LKF-2 (medium)
 
 
-# Planet 10 - Ivanisov's Den ![[gasg21.png]]
+# Planet 10 - Ivanisov's Den ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

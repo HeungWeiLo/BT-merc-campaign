@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carcassonne
-xcood: "380.381"
-ycood: "18.128"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carcassonne/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carcassonne
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 380.381 |
+> | Y coord| 18.128 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Carcassonne ![[green33.png]]
+# Planet 1 - Carcassonne ![[green33.png\|green33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Alexander ![[gasg5.png]]
+# Planet 2 - Alexander ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Ihu Alpha (large)
-- ![[rock12.png]] Ihu Beta (large)
+- ![[rock8.png\|rock8.png]] Ihu Alpha (large)
+- ![[rock12.png\|rock12.png]] Ihu Beta (large)
 
 
-# Planet 3 - Vouzailles ![[rock4.png]]
+# Planet 3 - Vouzailles ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Senlisse ![[rock7.png]]
+# Planet 4 - Senlisse ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Vertumnus Belt ![[asteroid1.png]]
+# Planet 5 - Vertumnus Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Geratskirchen ![[gasg3.png]]
+# Planet 6 - Geratskirchen ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,11 +111,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Wogan 1 (large)
-- ![[rock3.png]] Wogan 2 (large)
+- ![[rock13.png\|rock13.png]] Wogan 1 (large)
+- ![[rock3.png\|rock3.png]] Wogan 2 (large)
 
 
-# Planet 7 - Chamouillac ![[iceg19.png]]
+# Planet 7 - Chamouillac ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

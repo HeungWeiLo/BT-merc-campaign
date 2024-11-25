@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chaffee (LC)
-xcood: "-95.395"
-ycood: "82.416"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chaffee-lc/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chaffee (LC)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | -95.395 |
+> | Y coord| 82.416 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Vergas ![[greenhouse15.png]]
+# Planet 1 - Vergas ![[greenhouse15.png\|greenhouse15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Omro ![[iceg4.png]]
+# Planet 2 - Omro ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Amaterasu (large)
-- ![[oddmoon3.png]] Yo (medium)
-- ![[oddmoon2.png]] Zenmyo (medium)
+- ![[rock13.png\|rock13.png]] Amaterasu (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Yo (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Zenmyo (medium)
 
 
-# Planet 3 - Chaffee (LC) ![[green51.png]]
+# Planet 3 - Chaffee (LC) ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Gadsden Belt ![[asteroid3.png]]
+# Planet 4 - Gadsden Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -86,7 +81,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Rugāji ![[gasg6.png]]
+# Planet 5 - Rugāji ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -101,15 +96,15 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] W1 (large)
-- ![[rock6.png]] W2 (large)
-- ![[rock5.png]] W3 (large)
-- ![[rock11.png]] W4 (large)
-- ![[rock13.png]] W5 (large)
-- ![[rock16.png]] W6 (medium)
+- ![[rock3.png\|rock3.png]] W1 (large)
+- ![[rock6.png\|rock6.png]] W2 (large)
+- ![[rock5.png\|rock5.png]] W3 (large)
+- ![[rock11.png\|rock11.png]] W4 (large)
+- ![[rock13.png\|rock13.png]] W5 (large)
+- ![[rock16.png\|rock16.png]] W6 (medium)
 
 
-# Planet 6 - Arca ![[gasg10.png]]
+# Planet 6 - Arca ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Szombathely (large)
+- [[rock16.png\|rock16.png]] Szombathely (large)
 
-# Planet 7 - Namasakata ![[iceg11.png]]
+# Planet 7 - Namasakata ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Ailuros Alpha (large)
-- ![[rock12.png]] Ailuros Beta (large)
+- ![[rock4.png\|rock4.png]] Ailuros Alpha (large)
+- ![[rock12.png\|rock12.png]] Ailuros Beta (large)
 
 

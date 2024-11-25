@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chertan
-xcood: "-74.708"
-ycood: "-15.558"
-spectralType: A3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chertan/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chertan
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[A3V.png]] |
+> | X coord | -74.708 |
+> | Y coord| -15.558 |
+> | Spectral Type | A3V ![[A3V.png\|A3V.png]] |
 
-# Planet 1 - Chertan ![[dry26.png]]
+# Planet 1 - Chertan ![[dry26.png\|dry26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -38,11 +33,11 @@ During the Succession Wars, Chertan was part of the Marik Principality of the Fr
 
 During the Jihad, mercenaries employed by the Word of Blake savaged several mining towns and obliterated the spaceport at New Pittsburgh. Despite the damage, the planetary infrastructure and economy recovered following the influx of new residents relocated to Chertan under Devlin Stone‘s Relocation Act.
 
-- ![[rock4.png]] Osei (large)
-- ![[rock7.png]] Pelipa (medium)
+- ![[rock4.png\|rock4.png]] Osei (large)
+- ![[rock7.png\|rock7.png]] Pelipa (medium)
 
 
-# Planet 2 - Czernobog ![[iceg1.png]]
+# Planet 2 - Czernobog ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -57,12 +52,12 @@ During the Jihad, mercenaries employed by the Word of Blake savaged several mini
 
 
 
-- ![[oddmoon1.png]] Deywis (medium)
-- ![[rock9.png]] Dewing Isching (medium)
-- ![[oddmoon2.png]] Aušrinė (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Deywis (medium)
+- ![[rock9.png\|rock9.png]] Dewing Isching (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Aušrinė (medium)
 
 
-# Planet 3 - Sinaa ![[rock6.png]]
+# Planet 3 - Sinaa ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -79,7 +74,7 @@ During the Jihad, mercenaries employed by the Word of Blake savaged several mini
 
 
 
-# Planet 4 - Dazbog ![[iceg18.png]]
+# Planet 4 - Dazbog ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -94,12 +89,12 @@ During the Jihad, mercenaries employed by the Word of Blake savaged several mini
 
 
 
-- ![[rock15.png]] Urzhumskiy 1 (large)
-- ![[rock9.png]] Urzhumskiy 2 (medium)
-- ![[oddmoon3.png]] Urzhumskiy 3 (medium)
+- ![[rock15.png\|rock15.png]] Urzhumskiy 1 (large)
+- ![[rock9.png\|rock9.png]] Urzhumskiy 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Urzhumskiy 3 (medium)
 
 
-# Planet 5 - Chernabog's Choice ![[frozen34.png]]
+# Planet 5 - Chernabog's Choice ![[frozen34.png\|frozen34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -119,7 +114,7 @@ During the Jihad, mercenaries employed by the Word of Blake savaged several mini
 
 
 
-# Planet 6 - Rashitov's Folly ![[iceg17.png]]
+# Planet 6 - Rashitov's Folly ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -134,9 +129,9 @@ During the Jihad, mercenaries employed by the Word of Blake savaged several mini
 
 
 
-- [[rock1.png]] Duez (medium)
+- [[rock1.png\|rock1.png]] Duez (medium)
 
-# Planet 7 - Sun Wu K'ung ![[rock17.png]]
+# Planet 7 - Sun Wu K'ung ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

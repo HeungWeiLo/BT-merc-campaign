@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colorado
-xcood: "344.568"
-ycood: "-199.071"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colorado/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colorado
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | 344.568 |
+> | Y coord| -199.071 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Harrison's Wheel ![[rock2.png]]
+# Planet 1 - Harrison's Wheel ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Colorado ![[green43.png]]
+# Planet 2 - Colorado ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 Colorado is a cold, unforgiving arctic planet and most of its continents are covered in ice year round. However, there is enough arable land at the equator to feed the planet without relying on imported food. Colorado was settled to take advantage of the abundant sources of germanium and the planet has proven to be the largest source of the material in the Federated Suns. Unfortunately, the mining has caused serious damage to the world's ecology but the production of JumpShips is too important to stop the process.
 
-- ![[rock9.png]] Vale (large)
-- ![[oddmoon1.png]] Aspen (medium)
+- ![[rock9.png\|rock9.png]] Vale (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Aspen (medium)
 
 
-# Planet 3 - Bryant ![[gasg4.png]]
+# Planet 3 - Bryant ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,15 +65,15 @@ Colorado is a cold, unforgiving arctic planet and most of its continents are cov
 
 
 
-- ![[rock2.png]] Milda Alpha (large)
-- ![[rock12.png]] Milda Beta (large)
-- ![[rock1.png]] Milda Gamma (medium)
-- ![[oddmoon1.png]] Milda Delta (medium)
-- ![[rock5.png]] Milda Epsilon (medium)
-- ![[oddmoon3.png]] Milda Zeta (medium)
+- ![[rock2.png\|rock2.png]] Milda Alpha (large)
+- ![[rock12.png\|rock12.png]] Milda Beta (large)
+- ![[rock1.png\|rock1.png]] Milda Gamma (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Milda Delta (medium)
+- ![[rock5.png\|rock5.png]] Milda Epsilon (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Milda Zeta (medium)
 
 
-# Planet 4 - Njor Belt ![[asteroid2.png]]
+# Planet 4 - Njor Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -90,7 +85,7 @@ Colorado is a cold, unforgiving arctic planet and most of its continents are cov
 
 
 
-# Planet 5 - O'Herlihy ![[gasg18.png]]
+# Planet 5 - O'Herlihy ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -107,7 +102,7 @@ Colorado is a cold, unforgiving arctic planet and most of its continents are cov
 
 
 
-# Planet 6 - New Cumberl ![[gasg2.png]]
+# Planet 6 - New Cumberl ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,8 +117,8 @@ Colorado is a cold, unforgiving arctic planet and most of its continents are cov
 
 
 
-- ![[rock5.png]] Jesus Christ (medium)
-- ![[oddmoon1.png]] Yahshua (medium)
-- ![[rock7.png]] Alaha (medium)
+- ![[rock5.png\|rock5.png]] Jesus Christ (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Yahshua (medium)
+- ![[rock7.png\|rock7.png]] Alaha (medium)
 
 

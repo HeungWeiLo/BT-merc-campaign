@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calpaca
-xcood: "-20.166"
-ycood: "-214.831"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calpaca/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calpaca
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | -20.166 |
+> | Y coord| -214.831 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Calpaca ![[green10.png]]
+# Planet 1 - Calpaca ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chersonisos ![[gasg20.png]]
+# Planet 2 - Chersonisos ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Annapolis (medium)
-- ![[rock9.png]] Perosa Canavese (medium)
-- ![[rock16.png]] Aboite (medium)
+- ![[rock1.png\|rock1.png]] Annapolis (medium)
+- ![[rock9.png\|rock9.png]] Perosa Canavese (medium)
+- ![[rock16.png\|rock16.png]] Aboite (medium)
 
 
-# Planet 3 - Goldsworthy ![[rock10.png]]
+# Planet 3 - Goldsworthy ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bin Labid ![[gasg27.png]]
+# Planet 4 - Bin Labid ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Atkarskiy ![[gasg21.png]]
+# Planet 5 - Atkarskiy ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,11 +100,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Brunhilt (medium)
-- ![[rock3.png]] Fenrisulfr (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Brunhilt (medium)
+- ![[rock3.png\|rock3.png]] Fenrisulfr (medium)
 
 
-# Planet 6 - Claxton ![[gasg33.png]]
+# Planet 6 - Claxton ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Amaunet (giant)
+- [[rock14.png\|rock14.png]] Amaunet (giant)
 
-# Planet 7 - MacKinley ![[gasg31.png]]
+# Planet 7 - MacKinley ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Espargo ![[iceg16.png]]
+# Planet 8 - Espargo ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -160,7 +155,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Rāe Bareli ![[gasg22.png]]
+# Planet 9 - Rāe Bareli ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,7 +172,7 @@ dg-publish: true
 
 
 
-# Planet 10 - New Groningen ![[gasg17.png]]
+# Planet 10 - New Groningen ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -192,9 +187,9 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Niflheim (large)
-- ![[rock13.png]] Rind (large)
-- ![[rock11.png]] Loke (large)
-- ![[rock8.png]] Vak (medium)
+- ![[rock9.png\|rock9.png]] Niflheim (large)
+- ![[rock13.png\|rock13.png]] Rind (large)
+- ![[rock11.png\|rock11.png]] Loke (large)
+- ![[rock8.png\|rock8.png]] Vak (medium)
 
 

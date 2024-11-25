@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Celebes
-xcood: "118.075"
-ycood: "75.829"
-spectralType: M7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/celebes/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Celebes
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M7V.png]] |
+> | X coord | 118.075 |
+> | Y coord| 75.829 |
+> | Spectral Type | M7V ![[M7V.png\|M7V.png]] |
 
-# Planet 1 - Celebes ![[green39.png]]
+# Planet 1 - Celebes ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Evans's Planet ![[gasg36.png]]
+# Planet 2 - Evans's Planet ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Purbacaraka's Belt ![[asteroid2.png]]
+# Planet 3 - Purbacaraka's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Djojopoespito ![[gasg3.png]]
+# Planet 4 - Djojopoespito ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -82,7 +77,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Maryadi ![[gasg6.png]]
+# Planet 5 - Maryadi ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -97,11 +92,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] J1 (medium)
-- ![[rock14.png]] J2 (medium)
+- ![[rock16.png\|rock16.png]] J1 (medium)
+- ![[rock14.png\|rock14.png]] J2 (medium)
 
 
-# Planet 6 - Kusuma ![[gasg16.png]]
+# Planet 6 - Kusuma ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,11 +111,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Singalang Burong I (medium)
-- ![[oddmoon3.png]] Singalang Burong II (medium)
+- ![[rock17.png\|rock17.png]] Singalang Burong I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Singalang Burong II (medium)
 
 
-# Planet 7 - Maldonado's Rock ![[gasg14.png]]
+# Planet 7 - Maldonado's Rock ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,7 +132,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Thundayal's Rest ![[gasg7.png]]
+# Planet 8 - Thundayal's Rest ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -152,5 +147,5 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Dean (medium)
+- [[rock1.png\|rock1.png]] Dean (medium)
 

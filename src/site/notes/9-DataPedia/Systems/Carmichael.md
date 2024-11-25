@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carmichael
-xcood: "199.553"
-ycood: "-349.033"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carmichael/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carmichael
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | 199.553 |
+> | Y coord| -349.033 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Carmichael ![[green16.png]]
+# Planet 1 - Carmichael ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sögel ![[badwater39.png]]
+# Planet 2 - Sögel ![[badwater39.png\|badwater39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - New Plymouth ![[rock3.png]]
+# Planet 3 - New Plymouth ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Petherbridge's Garden ![[barren4.png]]
+# Planet 4 - Petherbridge's Garden ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - New Val-des-Bois ![[barren20.png]]
+# Planet 5 - New Val-des-Bois ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Bonne-Espérance ![[gasg11.png]]
+# Planet 6 - Bonne-Espérance ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] IJR-1 (large)
+- [[rock12.png\|rock12.png]] IJR-1 (large)
 
-# Planet 7 - Coultrip ![[gasg33.png]]
+# Planet 7 - Coultrip ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Romarigães ![[gasg14.png]]
+# Planet 8 - Romarigães ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,14 +153,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] MTE1 (large)
-- ![[rock16.png]] MTE2 (large)
-- ![[rock7.png]] MTE3 (medium)
-- ![[rock9.png]] MTE4 (medium)
-- ![[rock11.png]] MTE5 (medium)
+- ![[rock14.png\|rock14.png]] MTE1 (large)
+- ![[rock16.png\|rock16.png]] MTE2 (large)
+- ![[rock7.png\|rock7.png]] MTE3 (medium)
+- ![[rock9.png\|rock9.png]] MTE4 (medium)
+- ![[rock11.png\|rock11.png]] MTE5 (medium)
 
 
-# Planet 9 - De Jesús ![[gasg36.png]]
+# Planet 9 - De Jesús ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -180,12 +175,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Oisin (medium)
-- ![[oddmoon2.png]] Banba (medium)
-- ![[rock3.png]] Eochaid Ollathair (medium)
+- ![[rock7.png\|rock7.png]] Oisin (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Banba (medium)
+- ![[rock3.png\|rock3.png]] Eochaid Ollathair (medium)
 
 
-# Planet 10 - Brown ![[iceg3.png]]
+# Planet 10 - Brown ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -202,7 +197,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Chatham-Kent ![[gasg17.png]]
+# Planet 11 - Chatham-Kent ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -219,7 +214,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Larwood ![[gasg15.png]]
+# Planet 12 - Larwood ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

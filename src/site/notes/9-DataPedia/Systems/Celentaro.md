@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Celentaro
-xcood: "339.936"
-ycood: "-348.979"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/celentaro/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Celentaro
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 339.936 |
+> | Y coord| -348.979 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Delgado ![[iceg9.png]]
+# Planet 1 - Delgado ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Fiesco ![[iceg5.png]]
+# Planet 2 - Fiesco ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Celentaro ![[green1.png]]
+# Planet 3 - Celentaro ![[green1.png\|green1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Rangosch ![[frozen11.png]]
+# Planet 4 - Rangosch ![[frozen11.png\|frozen11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Adams's Garden ![[gasg25.png]]
+# Planet 5 - Adams's Garden ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,12 +100,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Agdistes A (giant)
-- ![[oddmoon1.png]] Agdistes B (medium)
-- ![[rock6.png]] Agdistes C (medium)
+- ![[rock10.png\|rock10.png]] Agdistes A (giant)
+- ![[oddmoon1.png\|oddmoon1.png]] Agdistes B (medium)
+- ![[rock6.png\|rock6.png]] Agdistes C (medium)
 
 
-# Planet 6 - Edison's Home ![[gasg29.png]]
+# Planet 6 - Edison's Home ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,13 +120,13 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Lan Ts'ai Ho A (large)
-- ![[rock16.png]] Lan Ts'ai Ho B (large)
-- ![[rock7.png]] Lan Ts'ai Ho C (medium)
-- ![[oddmoon1.png]] Lan Ts'ai Ho D (medium)
+- ![[rock12.png\|rock12.png]] Lan Ts'ai Ho A (large)
+- ![[rock16.png\|rock16.png]] Lan Ts'ai Ho B (large)
+- ![[rock7.png\|rock7.png]] Lan Ts'ai Ho C (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lan Ts'ai Ho D (medium)
 
 
-# Planet 7 - Van Eikeren ![[gasg15.png]]
+# Planet 7 - Van Eikeren ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,13 +141,13 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Bobo-Dioulasso I (large)
-- ![[rock3.png]] Bobo-Dioulasso II (large)
-- ![[rock13.png]] Bobo-Dioulasso III (large)
-- ![[rock9.png]] Bobo-Dioulasso IV (medium)
+- ![[rock12.png\|rock12.png]] Bobo-Dioulasso I (large)
+- ![[rock3.png\|rock3.png]] Bobo-Dioulasso II (large)
+- ![[rock13.png\|rock13.png]] Bobo-Dioulasso III (large)
+- ![[rock9.png\|rock9.png]] Bobo-Dioulasso IV (medium)
 
 
-# Planet 8 - T1 Belt ![[asteroid1.png]]
+# Planet 8 - T1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -164,7 +159,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Pariacaca ![[gasg9.png]]
+# Planet 9 - Pariacaca ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,14 +174,14 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Dao A (large)
-- ![[oddmoon3.png]] Dao B (medium)
-- ![[oddmoon2.png]] Dao C (medium)
-- ![[rock8.png]] Dao D (medium)
-- ![[oddmoon1.png]] Dao E (medium)
+- ![[rock9.png\|rock9.png]] Dao A (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Dao B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dao C (medium)
+- ![[rock8.png\|rock8.png]] Dao D (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dao E (medium)
 
 
-# Planet 10 - Abdul-Jalil ![[gasg22.png]]
+# Planet 10 - Abdul-Jalil ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -201,18 +196,18 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Himeros (giant)
-- ![[rock9.png]] Kauravas (large)
-- ![[rock7.png]] Iacchus (large)
-- ![[rock11.png]] Apollon (large)
-- ![[rock2.png]] Khione (large)
-- ![[rock17.png]] Graiae (medium)
-- ![[oddmoon3.png]] Annona (medium)
-- ![[rock8.png]] Coleman (medium)
-- ![[rock6.png]] Moirae (medium)
+- ![[rock4.png\|rock4.png]] Himeros (giant)
+- ![[rock9.png\|rock9.png]] Kauravas (large)
+- ![[rock7.png\|rock7.png]] Iacchus (large)
+- ![[rock11.png\|rock11.png]] Apollon (large)
+- ![[rock2.png\|rock2.png]] Khione (large)
+- ![[rock17.png\|rock17.png]] Graiae (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Annona (medium)
+- ![[rock8.png\|rock8.png]] Coleman (medium)
+- ![[rock6.png\|rock6.png]] Moirae (medium)
 
 
-# Planet 11 - T2 Belt ![[asteroid3.png]]
+# Planet 11 - T2 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -224,7 +219,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Robinson's Planet ![[gasg11.png]]
+# Planet 12 - Robinson's Planet ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -239,8 +234,8 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Satyavati A (medium)
-- ![[rock7.png]] Satyavati B (medium)
-- ![[oddmoon2.png]] Satyavati C (medium)
+- ![[rock2.png\|rock2.png]] Satyavati A (medium)
+- ![[rock7.png\|rock7.png]] Satyavati B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Satyavati C (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carmelita
-xcood: "749.431"
-ycood: "237.95"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carmelita/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carmelita
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | 749.431 |
+> | Y coord| 237.95 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Pampanal De Bolivar ![[gasg16.png]]
+# Planet 1 - Pampanal De Bolivar ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cantón Ambato ![[greenhouse11.png]]
+# Planet 2 - Cantón Ambato ![[greenhouse11.png\|greenhouse11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Carmelita ![[green1.png]]
+# Planet 3 - Carmelita ![[green1.png\|green1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Joseguango Bajo ![[gasg1.png]]
+# Planet 4 - Joseguango Bajo ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,12 +81,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Ai Apaec (large)
-- ![[rock10.png]] Rodríguez (large)
-- ![[rock9.png]] Cruz (medium)
+- ![[rock17.png\|rock17.png]] Ai Apaec (large)
+- ![[rock10.png\|rock10.png]] Rodríguez (large)
+- ![[rock9.png\|rock9.png]] Cruz (medium)
 
 
-# Planet 5 - Sebastianópolis do Sul ![[gasg36.png]]
+# Planet 5 - Sebastianópolis do Sul ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

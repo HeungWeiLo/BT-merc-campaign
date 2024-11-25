@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bondurant
-xcood: "-162.862"
-ycood: "-45.28"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bondurant/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bondurant
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | -162.862 |
+> | Y coord| -45.28 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Bondurant ![[green42.png]]
+# Planet 1 - Bondurant ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] Gray (large)
+- [[rock10.png\|rock10.png]] Gray (large)
 
-# Planet 2 - Auriwandalo ![[rock14.png]]
+# Planet 2 - Auriwandalo ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] GVN1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] GVN1 (medium)
 
-# Planet 3 - Nerthus ![[gasg1.png]]
+# Planet 3 - Nerthus ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,11 +63,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Ilyap'a (medium)
-- ![[oddmoon3.png]] Chimaera (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ilyap'a (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Chimaera (medium)
 
 
-# Planet 4 - Frau Perchta ![[gasg21.png]]
+# Planet 4 - Frau Perchta ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,14 +82,14 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Butler (large)
-- ![[rock10.png]] Myklebost (large)
-- ![[rock2.png]] Valle (large)
-- ![[rock3.png]] Hawkins (large)
-- ![[rock5.png]] McElroy (large)
+- ![[rock16.png\|rock16.png]] Butler (large)
+- ![[rock10.png\|rock10.png]] Myklebost (large)
+- ![[rock2.png\|rock2.png]] Valle (large)
+- ![[rock3.png\|rock3.png]] Hawkins (large)
+- ![[rock5.png\|rock5.png]] McElroy (large)
 
 
-# Planet 5 - Yo's Retreat ![[gasg12.png]]
+# Planet 5 - Yo's Retreat ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,12 +104,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Davis (medium)
-- ![[rock5.png]] Veive (medium)
-- ![[oddmoon3.png]] Lawson (medium)
+- ![[rock13.png\|rock13.png]] Davis (medium)
+- ![[rock5.png\|rock5.png]] Veive (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Lawson (medium)
 
 
-# Planet 6 - Angleton ![[gasg8.png]]
+# Planet 6 - Angleton ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,9 +124,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Bres (large)
+- [[rock3.png\|rock3.png]] Bres (large)
 
-# Planet 7 - Kershaw ![[frozen26.png]]
+# Planet 7 - Kershaw ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

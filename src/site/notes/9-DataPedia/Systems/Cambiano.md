@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cambiano
-xcood: "351.538"
-ycood: "-241.982"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cambiano/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cambiano
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 351.538 |
+> | Y coord| -241.982 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Fudo ![[gasg21.png]]
+# Planet 1 - Fudo ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Sekhmet (giant)
+- [[rock15.png\|rock15.png]] Sekhmet (giant)
 
-# Planet 2 - Oho Yama ![[rock4.png]]
+# Planet 2 - Oho Yama ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Benzai ![[gasg38.png]]
+# Planet 3 - Benzai ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -66,7 +61,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cambiano ![[green27.png]]
+# Planet 4 - Cambiano ![[green27.png\|green27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -85,9 +80,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Grancagnola (medium)
+- [[rock1.png\|rock1.png]] Grancagnola (medium)
 
-# Planet 5 - Miroka ![[rock5.png]]
+# Planet 5 - Miroka ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Zocho ![[gasg1.png]]
+# Planet 6 - Zocho ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,18 +114,18 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] V.1 (giant)
-- ![[rock15.png]] V.2 (giant)
-- ![[rock9.png]] V.3 (large)
-- ![[rock2.png]] V.4 (large)
-- ![[rock16.png]] V.5 (large)
-- ![[rock5.png]] V.6 (large)
-- ![[oddmoon2.png]] V.7 (medium)
-- ![[rock12.png]] V.8 (medium)
-- ![[oddmoon1.png]] V.9 (medium)
+- ![[rock8.png\|rock8.png]] V.1 (giant)
+- ![[rock15.png\|rock15.png]] V.2 (giant)
+- ![[rock9.png\|rock9.png]] V.3 (large)
+- ![[rock2.png\|rock2.png]] V.4 (large)
+- ![[rock16.png\|rock16.png]] V.5 (large)
+- ![[rock5.png\|rock5.png]] V.6 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] V.7 (medium)
+- ![[rock12.png\|rock12.png]] V.8 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] V.9 (medium)
 
 
-# Planet 7 - Susano Wo ![[iceg17.png]]
+# Planet 7 - Susano Wo ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -147,7 +142,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Scelta di Kazemi ![[iceg19.png]]
+# Planet 8 - Scelta di Kazemi ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -162,11 +157,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Ballangen (large)
-- ![[rock11.png]] Simaxis (large)
+- ![[rock15.png\|rock15.png]] Ballangen (large)
+- ![[rock11.png\|rock11.png]] Simaxis (large)
 
 
-# Planet 9 - Yakushi Nyorai ![[gasg7.png]]
+# Planet 9 - Yakushi Nyorai ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,11 +176,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] San Giovanni in Marignano I (large)
-- ![[rock5.png]] San Giovanni in Marignano II (medium)
+- ![[rock14.png\|rock14.png]] San Giovanni in Marignano I (large)
+- ![[rock5.png\|rock5.png]] San Giovanni in Marignano II (medium)
 
 
-# Planet 10 - Susanoo ![[gasg18.png]]
+# Planet 10 - Susanoo ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -200,13 +195,13 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Taygete (large)
-- ![[rock2.png]] Anteros (large)
-- ![[rock16.png]] Fons (medium)
-- ![[oddmoon1.png]] Aesculapius (medium)
+- ![[rock11.png\|rock11.png]] Taygete (large)
+- ![[rock2.png\|rock2.png]] Anteros (large)
+- ![[rock16.png\|rock16.png]] Fons (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Aesculapius (medium)
 
 
-# Planet 11 - Hoori ![[gasg15.png]]
+# Planet 11 - Hoori ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -221,8 +216,8 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] 7OV-1 (large)
-- ![[rock6.png]] 7OV-2 (large)
-- ![[rock11.png]] 7OV-3 (large)
+- ![[rock9.png\|rock9.png]] 7OV-1 (large)
+- ![[rock6.png\|rock6.png]] 7OV-2 (large)
+- ![[rock11.png\|rock11.png]] 7OV-3 (large)
 
 

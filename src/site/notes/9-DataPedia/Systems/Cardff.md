@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cardff
-xcood: "-377.873"
-ycood: "-5.998"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cardff/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cardff
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -377.873 |
+> | Y coord| -5.998 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Schneider ![[iceg16.png]]
+# Planet 1 - Schneider ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cardff ![[green46.png]]
+# Planet 2 - Cardff ![[green46.png\|green46.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Telipinu (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Telipinu (medium)
 
-# Planet 3 - Sac ![[badwater33.png]]
+# Planet 3 - Sac ![[badwater33.png\|badwater33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Theodopoulos's Sacrifice ![[rock15.png]]
+# Planet 4 - Theodopoulos's Sacrifice ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cotton ![[barren13.png]]
+# Planet 5 - Cotton ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Polster (large)
+- [[rock14.png\|rock14.png]] Polster (large)
 
-# Planet 6 - Fong ![[rock13.png]]
+# Planet 6 - Fong ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Hajdúnánás ![[gasg17.png]]
+# Planet 7 - Hajdúnánás ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,13 +135,13 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Masûkî A (large)
-- ![[rock3.png]] Masûkî B (large)
-- ![[rock15.png]] Masûkî C (large)
-- ![[rock5.png]] Masûkî D (large)
+- ![[rock2.png\|rock2.png]] Masûkî A (large)
+- ![[rock3.png\|rock3.png]] Masûkî B (large)
+- ![[rock15.png\|rock15.png]] Masûkî C (large)
+- ![[rock5.png\|rock5.png]] Masûkî D (large)
 
 
-# Planet 8 - New Youping ![[gasg27.png]]
+# Planet 8 - New Youping ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,13 +156,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Monto (medium)
-- ![[oddmoon2.png]] Aton Ra (medium)
-- ![[rock10.png]] Khnum (medium)
-- ![[oddmoon3.png]] Setesh (medium)
+- ![[rock7.png\|rock7.png]] Monto (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Aton Ra (medium)
+- ![[rock10.png\|rock10.png]] Khnum (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Setesh (medium)
 
 
-# Planet 9 - Wiliams's Planet ![[gasg4.png]]
+# Planet 9 - Wiliams's Planet ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,7 +177,7 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Sainte-Perpétue (large)
-- ![[rock11.png]] Norwich (medium)
+- ![[rock7.png\|rock7.png]] Sainte-Perpétue (large)
+- ![[rock11.png\|rock11.png]] Norwich (medium)
 
 

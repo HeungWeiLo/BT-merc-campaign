@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calloway VI
-xcood: "-58.168"
-ycood: "-199.567"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calloway-vi/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calloway VI
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -58.168 |
+> | Y coord| -199.567 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Calloway I ![[rock11.png]]
+# Planet 1 - Calloway I ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Calloway II ![[barren21.png]]
+# Planet 2 - Calloway II ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Calloway III ![[greenhouse28.png]]
+# Planet 3 - Calloway III ![[greenhouse28.png\|greenhouse28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Calloway IV ![[iceg10.png]]
+# Planet 4 - Calloway IV ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -83,12 +78,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Tyr 1 (large)
-- ![[rock9.png]] Tyr 2 (large)
-- ![[rock10.png]] Tyr 3 (large)
+- ![[rock3.png\|rock3.png]] Tyr 1 (large)
+- ![[rock9.png\|rock9.png]] Tyr 2 (large)
+- ![[rock10.png\|rock10.png]] Tyr 3 (large)
 
 
-# Planet 5 - Calloway V ![[gasg34.png]]
+# Planet 5 - Calloway V ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -103,9 +98,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] De Witt (medium)
+- [[rock5.png\|rock5.png]] De Witt (medium)
 
-# Planet 6 - Calloway VI ![[green39.png]]
+# Planet 6 - Calloway VI ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -129,12 +124,12 @@ An unusual aspect of Calloway VI is the lack of a true night. The three moons th
 Manufacturing centers:
 Earthwerks Incorporated
 
-- ![[oddmoon3.png]] Graves (medium)
-- ![[rock9.png]] Marshall (medium)
-- ![[rock11.png]] Trigg (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Graves (medium)
+- ![[rock9.png\|rock9.png]] Marshall (medium)
+- ![[rock11.png\|rock11.png]] Trigg (large)
 
 
-# Planet 7 - Calloway VII ![[rock10.png]]
+# Planet 7 - Calloway VII ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -151,7 +146,7 @@ Earthwerks Incorporated
 
 
 
-# Planet 8 - Calloway VIII ![[frozen27.png]]
+# Planet 8 - Calloway VIII ![[frozen27.png\|frozen27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -171,7 +166,7 @@ Earthwerks Incorporated
 
 
 
-# Planet 9 - Akbari's Belt ![[asteroid1.png]]
+# Planet 9 - Akbari's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carmen
-xcood: "28.43"
-ycood: "-264.486"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carmen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carmen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 28.43 |
+> | Y coord| -264.486 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Carmen ![[green14.png]]
+# Planet 1 - Carmen ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Godheim ![[gasg37.png]]
+# Planet 2 - Godheim ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Pérez (medium)
-- ![[rock16.png]] Sekiguchi (medium)
-- ![[rock11.png]] Gómez (medium)
+- ![[rock4.png\|rock4.png]] Pérez (medium)
+- ![[rock16.png\|rock16.png]] Sekiguchi (medium)
+- ![[rock11.png\|rock11.png]] Gómez (medium)
 
 
-# Planet 3 - Valhalla ![[iceg5.png]]
+# Planet 3 - Valhalla ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,9 +66,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] S1 (giant)
+- [[rock13.png\|rock13.png]] S1 (giant)
 
-# Planet 4 - Heimdallr ![[gasg8.png]]
+# Planet 4 - Heimdallr ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Laga ![[gasg5.png]]
+# Planet 5 - Laga ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,11 +100,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] El Playón 1 (large)
-- ![[rock13.png]] El Playón 2 (large)
+- ![[rock2.png\|rock2.png]] El Playón 1 (large)
+- ![[rock13.png\|rock13.png]] El Playón 2 (large)
 
 
-# Planet 6 - Svarog Belt ![[asteroid2.png]]
+# Planet 6 - Svarog Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Volos Belt ![[asteroid1.png]]
+# Planet 7 - Volos Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -133,7 +128,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Embla ![[gasg14.png]]
+# Planet 8 - Embla ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -148,12 +143,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Félix (medium)
-- ![[oddmoon2.png]] Pueblo (medium)
-- ![[oddmoon1.png]] El Dorado (medium)
+- ![[rock14.png\|rock14.png]] Félix (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Pueblo (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] El Dorado (medium)
 
 
-# Planet 9 - Bilfrost ![[gasg13.png]]
+# Planet 9 - Bilfrost ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,10 +163,10 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Díaz (large)
-- ![[rock3.png]] Suárez (large)
-- ![[rock2.png]] Moreno (large)
-- ![[rock4.png]] Saxnōt (large)
-- ![[rock14.png]] Ruíz (medium)
+- ![[rock1.png\|rock1.png]] Díaz (large)
+- ![[rock3.png\|rock3.png]] Suárez (large)
+- ![[rock2.png\|rock2.png]] Moreno (large)
+- ![[rock4.png\|rock4.png]] Saxnōt (large)
+- ![[rock14.png\|rock14.png]] Ruíz (medium)
 
 

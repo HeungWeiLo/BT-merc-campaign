@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brisbane
-xcood: "154.953"
-ycood: "-398.782"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brisbane/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brisbane
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 154.953 |
+> | Y coord| -398.782 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Kidner's End ![[gasg17.png]]
+# Planet 1 - Kidner's End ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Dorey ![[gasg15.png]]
+# Planet 2 - Dorey ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Brisbane ![[green29.png]]
+# Planet 3 - Brisbane ![[green29.png\|green29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 Brisbane is a water-rich world located along the fuzzy border between the Magistracy of Canopus and the Taurian Concordat. As a result the planet has seen more than its share of fighting between the two Periphery realms as they battled for Brisbane's water supply. The planet has remained a gem in the Periphery after the fall of the Star League thanks to its clean water, abundant ocean-life and function water purification plants that dot the planet's southern hemisphere. The planet's limited landmasses are primarily comprised of small island chains many of the battles for the planet have been forced into the oceans.
 
-- [[rock14.png]] Benandonner (large)
+- [[rock14.png\|rock14.png]] Benandonner (large)
 
-# Planet 4 - Bramwell ![[gasg38.png]]
+# Planet 4 - Bramwell ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -87,7 +82,7 @@ Brisbane is a water-rich world located along the fuzzy border between the Magist
 
 
 
-# Planet 5 - Brinklow ![[rock7.png]]
+# Planet 5 - Brinklow ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -104,7 +99,7 @@ Brisbane is a water-rich world located along the fuzzy border between the Magist
 
 
 
-# Planet 6 - Jarvis's Folly ![[gasg25.png]]
+# Planet 6 - Jarvis's Folly ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,9 +114,9 @@ Brisbane is a water-rich world located along the fuzzy border between the Magist
 
 
 
-- [[oddmoon2.png]] Cunderdin (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Cunderdin (medium)
 
-# Planet 7 - Akers ![[gasg2.png]]
+# Planet 7 - Akers ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,7 +133,7 @@ Brisbane is a water-rich world located along the fuzzy border between the Magist
 
 
 
-# Planet 8 - Taflambas's Rock ![[gasg32.png]]
+# Planet 8 - Taflambas's Rock ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -153,9 +148,9 @@ Brisbane is a water-rich world located along the fuzzy border between the Magist
 
 
 
-- [[rock5.png]] Hickson (large)
+- [[rock5.png\|rock5.png]] Hickson (large)
 
-# Planet 9 - Pugh's Belt ![[asteroid2.png]]
+# Planet 9 - Pugh's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bucklands
-xcood: "-326.196"
-ycood: "330.561"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bucklands/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bucklands
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | -326.196 |
+> | Y coord| 330.561 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Bauer's Planet ![[rock15.png]]
+# Planet 1 - Bauer's Planet ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Adisa ![[badwater45.png]]
+# Planet 2 - Adisa ![[badwater45.png\|badwater45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Themba ![[gasg1.png]]
+# Planet 3 - Themba ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bucklands ![[green43.png]]
+# Planet 4 - Bucklands ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-# Planet 5 - Korir ![[iceg17.png]]
+# Planet 5 - Korir ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -109,11 +104,11 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-- ![[rock4.png]] Camp Perrin (giant)
-- ![[rock8.png]] Bizana (giant)
+- ![[rock4.png\|rock4.png]] Camp Perrin (giant)
+- ![[rock8.png\|rock8.png]] Bizana (giant)
 
 
-# Planet 6 - Woerns's Belt ![[asteroid2.png]]
+# Planet 6 - Woerns's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -125,7 +120,7 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-# Planet 7 - Kambuji's World ![[gasg16.png]]
+# Planet 7 - Kambuji's World ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,14 +135,14 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-- ![[rock5.png]] Papoutsis 1 (large)
-- ![[rock7.png]] Papoutsis 2 (large)
-- ![[rock9.png]] Papoutsis 3 (large)
-- ![[rock8.png]] Papoutsis 4 (large)
-- ![[oddmoon1.png]] Papoutsis 5 (medium)
+- ![[rock5.png\|rock5.png]] Papoutsis 1 (large)
+- ![[rock7.png\|rock7.png]] Papoutsis 2 (large)
+- ![[rock9.png\|rock9.png]] Papoutsis 3 (large)
+- ![[rock8.png\|rock8.png]] Papoutsis 4 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Papoutsis 5 (medium)
 
 
-# Planet 8 - Hafiz ![[gasg22.png]]
+# Planet 8 - Hafiz ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,11 +157,11 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-- ![[oddmoon2.png]] Z-1 (medium)
-- ![[rock16.png]] Z-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Z-1 (medium)
+- ![[rock16.png\|rock16.png]] Z-2 (medium)
 
 
-# Planet 9 - Omar ![[gasg25.png]]
+# Planet 9 - Omar ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,12 +176,12 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-- ![[oddmoon1.png]] Springbok (medium)
-- ![[oddmoon2.png]] Ekurhuleni (medium)
-- ![[rock7.png]] Lledó (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Springbok (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ekurhuleni (medium)
+- ![[rock7.png\|rock7.png]] Lledó (medium)
 
 
-# Planet 10 - Keter's Hole ![[iceg2.png]]
+# Planet 10 - Keter's Hole ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -203,7 +198,7 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-# Planet 11 - Idriis ![[gasg33.png]]
+# Planet 11 - Idriis ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -218,8 +213,8 @@ The children of Bucklands tend to view their planet as boring and the majority s
 
 
 
-- ![[rock10.png]] EKG1 (giant)
-- ![[oddmoon1.png]] EKG2 (medium)
-- ![[oddmoon3.png]] EKG3 (medium)
+- ![[rock10.png\|rock10.png]] EKG1 (giant)
+- ![[oddmoon1.png\|oddmoon1.png]] EKG2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] EKG3 (medium)
 
 

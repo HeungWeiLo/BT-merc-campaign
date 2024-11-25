@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Clayborne II (Green Stone 3025-)
-xcood: "-405.913"
-ycood: "-79.963"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/clayborne-ii-green-stone-3025/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Clayborne II (Green Stone 3025-)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | -405.913 |
+> | Y coord| -79.963 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Green Stone ![[green6.png]]
+# Planet 1 - Green Stone ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Edo-Khel's Wind ![[gasg34.png]]
+# Planet 2 - Edo-Khel's Wind ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Tagg's Station ![[gasg17.png]]
+# Planet 3 - Tagg's Station ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Covenay A (large)
-- ![[rock15.png]] Covenay B (medium)
-- ![[rock13.png]] Covenay C (medium)
+- ![[rock11.png\|rock11.png]] Covenay A (large)
+- ![[rock15.png\|rock15.png]] Covenay B (medium)
+- ![[rock13.png\|rock13.png]] Covenay C (medium)
 
 
-# Planet 4 - Farnsworth's Choice ![[gasg2.png]]
+# Planet 4 - Farnsworth's Choice ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] R1 (large)
-- ![[rock15.png]] R2 (large)
-- ![[rock13.png]] R3 (large)
+- ![[rock3.png\|rock3.png]] R1 (large)
+- ![[rock15.png\|rock15.png]] R2 (large)
+- ![[rock13.png\|rock13.png]] R3 (large)
 
 
-# Planet 5 - Legh ![[gasg19.png]]
+# Planet 5 - Legh ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,15 +103,15 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Wicksted A (giant)
-- ![[rock17.png]] Wicksted B (large)
-- ![[oddmoon3.png]] Wicksted C (medium)
-- ![[oddmoon1.png]] Wicksted D (medium)
-- ![[rock3.png]] Wicksted E (medium)
-- ![[oddmoon2.png]] Wicksted F (medium)
+- ![[rock2.png\|rock2.png]] Wicksted A (giant)
+- ![[rock17.png\|rock17.png]] Wicksted B (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Wicksted C (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Wicksted D (medium)
+- ![[rock3.png\|rock3.png]] Wicksted E (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Wicksted F (medium)
 
 
-# Planet 6 - Fort Cumberbatch ![[gasg8.png]]
+# Planet 6 - Fort Cumberbatch ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,14 +126,14 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Dirona (large)
-- ![[rock17.png]] Morrigu (large)
-- ![[oddmoon1.png]] Fomorii (medium)
-- ![[oddmoon3.png]] Kington (medium)
-- ![[rock5.png]] Ceridwen (medium)
+- ![[rock10.png\|rock10.png]] Dirona (large)
+- ![[rock17.png\|rock17.png]] Morrigu (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Fomorii (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kington (medium)
+- ![[rock5.png\|rock5.png]] Ceridwen (medium)
 
 
-# Planet 7 - Coverdale's Belt ![[asteroid3.png]]
+# Planet 7 - Coverdale's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -150,7 +145,7 @@ dg-publish: true
 
 
 
-# Planet 8 - North Ayrshire ![[frozen38.png]]
+# Planet 8 - North Ayrshire ![[frozen38.png\|frozen38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -170,7 +165,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Wyles's Stand ![[iceg17.png]]
+# Planet 9 - Wyles's Stand ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -185,7 +180,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Halford (medium)
-- ![[oddmoon1.png]] Binns (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Halford (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Binns (medium)
 
 

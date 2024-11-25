@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cerignola
-xcood: "-328.01"
-ycood: "-286.324"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cerignola/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cerignola
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -328.01 |
+> | Y coord| -286.324 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Tombokoirey II ![[barren24.png]]
+# Planet 1 - Tombokoirey II ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Eixample ![[gasg29.png]]
+# Planet 2 - Eixample ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Nerþuz (medium)
-- ![[oddmoon2.png]] Wodan (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nerþuz (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Wodan (medium)
 
 
-# Planet 3 - Cerignola ![[green8.png]]
+# Planet 3 - Cerignola ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Nuova Poggio San Vicino ![[frozen17.png]]
+# Planet 4 - Nuova Poggio San Vicino ![[frozen17.png\|frozen17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,5 +86,5 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Loke (large)
+- [[rock13.png\|rock13.png]] Loke (large)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Conroe
-xcood: "377.137"
-ycood: "91.456"
-spectralType: F3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/conroe/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Conroe
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F3V.png]] |
+> | X coord | 377.137 |
+> | Y coord| 91.456 |
+> | Spectral Type | F3V ![[F3V.png\|F3V.png]] |
 
-# Planet 1 - Renenutet ![[iceg7.png]]
+# Planet 1 - Renenutet ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Patton (large)
-- ![[rock12.png]] McNeil (large)
+- ![[rock15.png\|rock15.png]] Patton (large)
+- ![[rock12.png\|rock12.png]] McNeil (large)
 
 
-# Planet 2 - Amon ![[barren9.png]]
+# Planet 2 - Amon ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Sekhmet ![[greenhouse18.png]]
+# Planet 3 - Sekhmet ![[greenhouse18.png\|greenhouse18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Conroe ![[green21.png]]
+# Planet 4 - Conroe ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Mentu ![[rock2.png]]
+# Planet 5 - Mentu ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

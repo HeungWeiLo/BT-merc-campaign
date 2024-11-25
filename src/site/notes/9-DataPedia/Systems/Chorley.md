@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chorley
-xcood: "332.933"
-ycood: "379.684"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chorley/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chorley
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 332.933 |
+> | Y coord| 379.684 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - White's Planet ![[gasg27.png]]
+# Planet 1 - White's Planet ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,12 +25,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Rapson (medium)
-- ![[rock13.png]] Susano Wo (medium)
-- ![[oddmoon3.png]] Osmotherley (medium)
+- ![[rock4.png\|rock4.png]] Rapson (medium)
+- ![[rock13.png\|rock13.png]] Susano Wo (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Osmotherley (medium)
 
 
-# Planet 2 - Danas's Sacrifice ![[rock14.png]]
+# Planet 2 - Danas's Sacrifice ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chorley ![[green20.png]]
+# Planet 3 - Chorley ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ewart ![[iceg10.png]]
+# Planet 4 - Ewart ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Redmile (giant)
-- ![[rock11.png]] Winnersh (giant)
-- ![[rock12.png]] East Dunbartonshire (large)
+- ![[rock1.png\|rock1.png]] Redmile (giant)
+- ![[rock11.png\|rock11.png]] Winnersh (giant)
+- ![[rock12.png\|rock12.png]] East Dunbartonshire (large)
 
 
-# Planet 5 - Darwin ![[rock9.png]]
+# Planet 5 - Darwin ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Níðhögg ![[gasg24.png]]
+# Planet 6 - Níðhögg ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Odur ![[gasg31.png]]
+# Planet 7 - Odur ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -142,12 +137,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] O1 (medium)
-- ![[oddmoon1.png]] O2 (medium)
-- ![[oddmoon3.png]] O3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] O1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] O2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] O3 (medium)
 
 
-# Planet 8 - Cantrill's Harvest ![[gasg9.png]]
+# Planet 8 - Cantrill's Harvest ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -164,7 +159,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Welburn's World ![[gasg26.png]]
+# Planet 9 - Welburn's World ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,9 +174,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Morrigna (medium)
+- [[rock17.png\|rock17.png]] Morrigna (medium)
 
-# Planet 10 - Guinn ![[gasg5.png]]
+# Planet 10 - Guinn ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,14 +191,14 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Fódhla (large)
-- ![[rock13.png]] Cerridwyn (large)
-- ![[rock3.png]] Cailleach Beara (medium)
-- ![[rock10.png]] Maeve (medium)
-- ![[oddmoon1.png]] Blodeuedd (medium)
+- ![[rock12.png\|rock12.png]] Fódhla (large)
+- ![[rock13.png\|rock13.png]] Cerridwyn (large)
+- ![[rock3.png\|rock3.png]] Cailleach Beara (medium)
+- ![[rock10.png\|rock10.png]] Maeve (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Blodeuedd (medium)
 
 
-# Planet 11 - Holden ![[iceg6.png]]
+# Planet 11 - Holden ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -218,8 +213,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Phra Indra (medium)
-- ![[oddmoon3.png]] Ananda Devi (medium)
-- ![[oddmoon1.png]] Laturedano (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Phra Indra (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ananda Devi (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Laturedano (medium)
 
 

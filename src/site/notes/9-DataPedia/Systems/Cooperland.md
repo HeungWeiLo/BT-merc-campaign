@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cooperland
-xcood: "567.72"
-ycood: "-266.091"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cooperland/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cooperland
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | 567.72 |
+> | Y coord| -266.091 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Wynn's End ![[gasg21.png]]
+# Planet 1 - Wynn's End ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Frank's Planet ![[greenhouse33.png]]
+# Planet 2 - Frank's Planet ![[greenhouse33.png\|greenhouse33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cooperland ![[green28.png]]
+# Planet 3 - Cooperland ![[green28.png\|green28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] O8T-1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] O8T-1 (medium)
 
-# Planet 4 - Cole ![[gasg4.png]]
+# Planet 4 - Cole ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,12 +81,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Nymphai I (large)
-- ![[rock3.png]] Nymphai II (large)
-- ![[oddmoon2.png]] Nymphai III (medium)
+- ![[rock8.png\|rock8.png]] Nymphai I (large)
+- ![[rock3.png\|rock3.png]] Nymphai II (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Nymphai III (medium)
 
 
-# Planet 5 - Jensen ![[gasg15.png]]
+# Planet 5 - Jensen ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Monroe ![[gasg29.png]]
+# Planet 6 - Monroe ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Hendricks ![[gasg27.png]]
+# Planet 7 - Hendricks ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,11 +135,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Kon (large)
-- ![[rock17.png]] Accla (large)
+- ![[rock8.png\|rock8.png]] Kon (large)
+- ![[rock17.png\|rock17.png]] Accla (large)
 
 
-# Planet 8 - Kappa ![[gasg13.png]]
+# Planet 8 - Kappa ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,11 +154,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] K-1 (medium)
-- ![[oddmoon1.png]] K-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] K-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] K-2 (medium)
 
 
-# Planet 9 - Worthington ![[gasg24.png]]
+# Planet 9 - Worthington ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,5 +173,5 @@ dg-publish: true
 
 
 
-- [[rock8.png]] I1Z1 (medium)
+- [[rock8.png\|rock8.png]] I1Z1 (medium)
 

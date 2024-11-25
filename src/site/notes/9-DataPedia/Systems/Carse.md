@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carse
-xcood: "-15.777"
-ycood: "239.059"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carse/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carse
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | -15.777 |
+> | Y coord| 239.059 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Prucha's World ![[gasg8.png]]
+# Planet 1 - Prucha's World ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Kubina (large)
+- [[rock12.png\|rock12.png]] Kubina (large)
 
-# Planet 2 - Rohm's Gulf ![[iceg18.png]]
+# Planet 2 - Rohm's Gulf ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -47,9 +42,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] WG-1 (large)
+- [[rock2.png\|rock2.png]] WG-1 (large)
 
-# Planet 3 - Pinc's Station ![[greenhouse6.png]]
+# Planet 3 - Pinc's Station ![[greenhouse6.png\|greenhouse6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -65,9 +60,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] U-1 (medium)
+- [[rock12.png\|rock12.png]] U-1 (medium)
 
-# Planet 4 - Carse ![[wet3.png]]
+# Planet 4 - Carse ![[wet3.png\|wet3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ The planets primary industries and exports are plastics and plastisteel using th
 
 
 
-# Planet 5 - Brajdich ![[gasg7.png]]
+# Planet 5 - Brajdich ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -107,7 +102,7 @@ The planets primary industries and exports are plastics and plastisteel using th
 
 
 
-# Planet 6 - Oceanus ![[gasg29.png]]
+# Planet 6 - Oceanus ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,13 +117,13 @@ The planets primary industries and exports are plastics and plastisteel using th
 
 
 
-- ![[oddmoon2.png]] Grandmother Corn I (medium)
-- ![[oddmoon3.png]] Grandmother Corn II (medium)
-- ![[rock12.png]] Grandmother Corn III (medium)
-- ![[rock13.png]] Grandmother Corn IV (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Grandmother Corn I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Grandmother Corn II (medium)
+- ![[rock12.png\|rock12.png]] Grandmother Corn III (medium)
+- ![[rock13.png\|rock13.png]] Grandmother Corn IV (medium)
 
 
-# Planet 7 - Fiser ![[gasg17.png]]
+# Planet 7 - Fiser ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,9 +138,9 @@ The planets primary industries and exports are plastics and plastisteel using th
 
 
 
-- ![[rock13.png]] Olufon I (large)
-- ![[rock14.png]] Olufon II (medium)
-- ![[oddmoon3.png]] Olufon III (medium)
-- ![[oddmoon2.png]] Olufon IV (medium)
+- ![[rock13.png\|rock13.png]] Olufon I (large)
+- ![[rock14.png\|rock14.png]] Olufon II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Olufon III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Olufon IV (medium)
 
 

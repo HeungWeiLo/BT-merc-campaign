@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brusett
-xcood: "245.563"
-ycood: "-328.119"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brusett/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brusett
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 245.563 |
+> | Y coord| -328.119 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Walters ![[iceg17.png]]
+# Planet 1 - Walters ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,13 +25,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Anshur A (medium)
-- ![[oddmoon1.png]] Anshur B (medium)
-- ![[oddmoon2.png]] Anshur C (medium)
-- ![[rock8.png]] Anshur D (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Anshur A (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Anshur B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Anshur C (medium)
+- ![[rock8.png\|rock8.png]] Anshur D (medium)
 
 
-# Planet 2 - Holland ![[greenhouse1.png]]
+# Planet 2 - Holland ![[greenhouse1.png\|greenhouse1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Brusett ![[green20.png]]
+# Planet 3 - Brusett ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Payne's Hold ![[greenhouse24.png]]
+# Planet 4 - Payne's Hold ![[greenhouse24.png\|greenhouse24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Yhel ![[gasg22.png]]
+# Planet 5 - Yhel ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Matlock ![[gasg8.png]]
+# Planet 6 - Matlock ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,17 +120,17 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Lane (large)
-- ![[rock15.png]] Bimbogami (large)
-- ![[rock2.png]] Kojiki (large)
-- ![[rock13.png]] Puckett (large)
-- ![[rock7.png]] Fukurokuju (large)
-- ![[rock1.png]] Brady (medium)
-- ![[oddmoon1.png]] Kishimo Jin (medium)
-- ![[oddmoon3.png]] Jamali (medium)
+- ![[rock3.png\|rock3.png]] Lane (large)
+- ![[rock15.png\|rock15.png]] Bimbogami (large)
+- ![[rock2.png\|rock2.png]] Kojiki (large)
+- ![[rock13.png\|rock13.png]] Puckett (large)
+- ![[rock7.png\|rock7.png]] Fukurokuju (large)
+- ![[rock1.png\|rock1.png]] Brady (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kishimo Jin (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Jamali (medium)
 
 
-# Planet 7 - Akba Atatdia ![[iceg19.png]]
+# Planet 7 - Akba Atatdia ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -150,11 +145,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] V-1 (medium)
-- ![[oddmoon1.png]] V-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] V-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] V-2 (medium)
 
 
-# Planet 8 - Baker's Redoubt ![[gasg38.png]]
+# Planet 8 - Baker's Redoubt ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -171,7 +166,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Wakan Tanka ![[gasg23.png]]
+# Planet 9 - Wakan Tanka ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,13 +181,13 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Berchta (large)
-- ![[rock16.png]] Yngvi (large)
-- ![[oddmoon2.png]] Wōden (medium)
-- ![[oddmoon3.png]] Uuôden (medium)
+- ![[rock6.png\|rock6.png]] Berchta (large)
+- ![[rock16.png\|rock16.png]] Yngvi (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Wōden (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Uuôden (medium)
 
 
-# Planet 10 - Kentucky Belt ![[asteroid3.png]]
+# Planet 10 - Kentucky Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -204,7 +199,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Kwekwaxawe ![[gasg35.png]]
+# Planet 11 - Kwekwaxawe ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -219,13 +214,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] HZG1 (medium)
-- ![[oddmoon2.png]] HZG2 (medium)
-- ![[oddmoon3.png]] HZG3 (medium)
-- ![[oddmoon1.png]] HZG4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] HZG1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] HZG2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] HZG3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] HZG4 (medium)
 
 
-# Planet 12 - Murphy ![[iceg4.png]]
+# Planet 12 - Murphy ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -240,12 +235,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] McCleary I (medium)
-- ![[rock2.png]] McCleary II (medium)
-- ![[oddmoon3.png]] McCleary III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] McCleary I (medium)
+- ![[rock2.png\|rock2.png]] McCleary II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] McCleary III (medium)
 
 
-# Planet 13 - Baird's Land ![[gasg31.png]]
+# Planet 13 - Baird's Land ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -260,8 +255,8 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Benton Harbor I (large)
-- ![[rock6.png]] Benton Harbor II (large)
-- ![[rock2.png]] Benton Harbor III (medium)
+- ![[rock10.png\|rock10.png]] Benton Harbor I (large)
+- ![[rock6.png\|rock6.png]] Benton Harbor II (large)
+- ![[rock2.png\|rock2.png]] Benton Harbor III (medium)
 
 

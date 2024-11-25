@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brooloo
-xcood: "-267.032"
-ycood: "284.556"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brooloo/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brooloo
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | -267.032 |
+> | Y coord| 284.556 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Upper Hunter Shire ![[rock7.png]]
+# Planet 1 - Upper Hunter Shire ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Great Lakes ![[barren12.png]]
+# Planet 2 - Great Lakes ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] DS-1 (large)
-- ![[rock5.png]] DS-2 (large)
+- ![[rock8.png\|rock8.png]] DS-1 (large)
+- ![[rock5.png\|rock5.png]] DS-2 (large)
 
 
-# Planet 3 - Brooloo ![[green14.png]]
+# Planet 3 - Brooloo ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Charybdis's Roost ![[greenhouse14.png]]
+# Planet 4 - Charybdis's Roost ![[greenhouse14.png\|greenhouse14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cassandra ![[rock6.png]]
+# Planet 5 - Cassandra ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Nike ![[rock14.png]]
+# Planet 6 - Nike ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Amathaon Belt ![[asteroid3.png]]
+# Planet 7 - Amathaon Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

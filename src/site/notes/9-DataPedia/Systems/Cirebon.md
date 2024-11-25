@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cirebon
-xcood: "-147.094"
-ycood: "-263.197"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cirebon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cirebon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -147.094 |
+> | Y coord| -263.197 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Paramita's Frontier ![[barren14.png]]
+# Planet 1 - Paramita's Frontier ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Susanti's Hole ![[rock3.png]]
+# Planet 2 - Susanti's Hole ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cirebon ![[green51.png]]
+# Planet 3 - Cirebon ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Pane ![[iceg7.png]]
+# Planet 4 - Pane ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Purbacaraka ![[rock1.png]]
+# Planet 5 - Purbacaraka ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Khosravi's Hold ![[gasg28.png]]
+# Planet 6 - Khosravi's Hold ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,13 +116,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] R3B1 (medium)
-- ![[rock2.png]] R3B2 (medium)
-- ![[oddmoon1.png]] R3B3 (medium)
-- ![[rock13.png]] R3B4 (medium)
+- ![[rock14.png\|rock14.png]] R3B1 (medium)
+- ![[rock2.png\|rock2.png]] R3B2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] R3B3 (medium)
+- ![[rock13.png\|rock13.png]] R3B4 (medium)
 
 
-# Planet 7 - 4O1 Belt ![[asteroid3.png]]
+# Planet 7 - 4O1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - 4O2 Belt ![[asteroid2.png]]
+# Planet 8 - 4O2 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -151,7 +146,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Pakpahan's Harbour ![[gasg12.png]]
+# Planet 9 - Pakpahan's Harbour ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,7 +163,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Nybacka's Dawn ![[gasg5.png]]
+# Planet 10 - Nybacka's Dawn ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,7 +180,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Prawiranega's Tears ![[gasg14.png]]
+# Planet 11 - Prawiranega's Tears ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -200,9 +195,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Invidia (medium)
+- [[rock12.png\|rock12.png]] Invidia (medium)
 
-# Planet 12 - Sukarno ![[gasg29.png]]
+# Planet 12 - Sukarno ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -219,7 +214,7 @@ dg-publish: true
 
 
 
-# Planet 13 - Mellowes's Patch ![[gasg7.png]]
+# Planet 13 - Mellowes's Patch ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

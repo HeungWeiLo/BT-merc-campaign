@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carver V (Liberty 3063+)
-xcood: "-5.436"
-ycood: "-20.722"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carver-v-liberty-3063/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carver V (Liberty 3063+)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | -5.436 |
+> | Y coord| -20.722 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Carver I ![[frozen46.png]]
+# Planet 1 - Carver I ![[frozen46.png\|frozen46.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Carver II ![[gasg1.png]]
+# Planet 2 - Carver II ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -50,12 +45,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Hendrickson I (medium)
-- ![[oddmoon3.png]] Hendrickson II (medium)
-- ![[rock13.png]] Hendrickson III (medium)
+- ![[rock17.png\|rock17.png]] Hendrickson I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hendrickson II (medium)
+- ![[rock13.png\|rock13.png]] Hendrickson III (medium)
 
 
-# Planet 3 - Carver III ![[rock9.png]]
+# Planet 3 - Carver III ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,9 +65,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] Hurstbourne Acres (medium)
+- [[rock4.png\|rock4.png]] Hurstbourne Acres (medium)
 
-# Planet 4 - Carver IV ![[iceg11.png]]
+# Planet 4 - Carver IV ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -87,11 +82,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Garrison (medium)
-- ![[oddmoon1.png]] QV-1 (medium)
+- ![[rock11.png\|rock11.png]] Garrison (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] QV-1 (medium)
 
 
-# Planet 5 - Carver V ![[wet6.png]]
+# Planet 5 - Carver V ![[wet6.png\|wet6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -110,11 +105,11 @@ dg-publish: true
 
 3135 Settled by self-styled pilgrims from the poorest nations in the African and South American continents on Terra, everything about Carver V seemed a divine blessing compared to the homes they left behind. Large, deep oceans, crystal-clear lakes, fertile lands and lush, mostly tropical forests, with few desert regions and rich veins of ore and mineral deposits all awaited the early settlers who didn‘t mind the occasional storm. The planetary capital city of Bellacqu was established on the planet‘s largest island, which the early settlers dubbed Quantico, in the northern Quantico island chain. Just a few short years later, two more large settlements were chartered and established on Carver V. Binsburg, a major mining colony, arose on the eastern edge of Esperanza, largest of the southern Drasken Chain, and New Cairo, based around the Crocales-hunting and ranching industries, appeared on the equatorial Kalimbawe Chain, just a few short years later. These new settlements sparked a renewed interest in the creation of a planet-wide wet navy to keep the scattered communities connected, and by the time of the Star League, the seas of the planetary Infinto Ocean were busy with the traffic of thousands of merchant marine vessels. Less to protect the planet‘s modest mineral mines and Crocales-hide fashion industries than to defend against Capellan encroachment, the SLDF built the Quantico Marine Fortification—an elaborate alternative to the standard Castle Brian—around Quantico and its neighboring Parris Island. This massive fortification, surrounding the islands with a series of weapon towers and underground tunnels, protected Bellacqu, as well as the major spaceports of El Toro and Baku, and several fortified submarine and surface ship bases. In the darkest days of the Amaris coup, three SLDF marine regiments stationed on Carver V successfully held out against the Usurper‘s troops for six long years before Kerensky‘s liberating forces could rescue them. Their valiant defense, as well as Carver V‘s lack of significant resources, and the difficulty in waging large-scale warfare on the island-speckled planet spared the world much of the damage inflicted on its neighbors by the coup. During the centuries under Capellan rule Carver V became a vacation spot for wealthy Confederation citizens, the empty towers of the abandoned Quantico Marine Fortification recognized as a tourist attraction. Captured by the Federated Commonwealth after the Fourth Succession War, Carver V experienced a major upheaval when the Commonwealth fractured in 3057. Torn by fighting between the Capellan Confederation, Federated Suns, Lyran Alliance, Free Worlds League, and even the Word of Blake, only the spirit of the planet‘s citizens allowed the world to recover when the shooting finally stopped. Carver V was renamed Liberty by a popular movement to unify the world that rose during this terrible crucible, and the name was ratified formally after the Jihad, when the world was accepted into The Republic. Since then, Liberty has once more become a paradise to visitors and natives alike.
 
-- ![[rock8.png]] Justice (large)
-- ![[rock7.png]] Freedom (large)
+- ![[rock8.png\|rock8.png]] Justice (large)
+- ![[rock7.png\|rock7.png]] Freedom (large)
 
 
-# Planet 6 - Carver VI ![[frozen26.png]]
+# Planet 6 - Carver VI ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -134,7 +129,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Carver VII ![[gasg24.png]]
+# Planet 7 - Carver VII ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,7 +146,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Carver VIII ![[iceg2.png]]
+# Planet 8 - Carver VIII ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -166,11 +161,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Smith I (giant)
-- ![[rock2.png]] Smith II (large)
+- ![[rock13.png\|rock13.png]] Smith I (giant)
+- ![[rock2.png\|rock2.png]] Smith II (large)
 
 
-# Planet 9 - Carver IX ![[gasg23.png]]
+# Planet 9 - Carver IX ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,12 +180,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] North Cornwall Alpha (large)
-- ![[rock12.png]] North Cornwall Beta (large)
-- ![[rock1.png]] North Cornwall Gamma (large)
+- ![[rock8.png\|rock8.png]] North Cornwall Alpha (large)
+- ![[rock12.png\|rock12.png]] North Cornwall Beta (large)
+- ![[rock1.png\|rock1.png]] North Cornwall Gamma (large)
 
 
-# Planet 10 - Carver X ![[frozen35.png]]
+# Planet 10 - Carver X ![[frozen35.png\|frozen35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -208,9 +203,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Diana (giant)
+- [[rock9.png\|rock9.png]] Diana (giant)
 
-# Planet 11 - Carver XI ![[gasg14.png]]
+# Planet 11 - Carver XI ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,14 +220,14 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] F1 (giant)
-- ![[rock5.png]] F2 (large)
-- ![[rock6.png]] F3 (large)
-- ![[rock16.png]] F4 (large)
-- ![[rock14.png]] F5 (large)
+- ![[rock8.png\|rock8.png]] F1 (giant)
+- ![[rock5.png\|rock5.png]] F2 (large)
+- ![[rock6.png\|rock6.png]] F3 (large)
+- ![[rock16.png\|rock16.png]] F4 (large)
+- ![[rock14.png\|rock14.png]] F5 (large)
 
 
-# Planet 12 - Mercurius Belt ![[asteroid3.png]]
+# Planet 12 - Mercurius Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

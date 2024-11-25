@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Celano
-xcood: "323.458"
-ycood: "-484.147"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/celano/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Celano
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | 323.458 |
+> | Y coord| -484.147 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Scrovegni ![[iceg7.png]]
+# Planet 1 - Scrovegni ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Campanaro ![[iceg13.png]]
+# Planet 2 - Campanaro ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Scalvini ![[greenhouse18.png]]
+# Planet 3 - Scalvini ![[greenhouse18.png\|greenhouse18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Celano ![[wet1.png]]
+# Planet 4 - Celano ![[wet1.png\|wet1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ Edge Industries
 
 
 
-# Planet 5 - Tana di Ebrahimi ![[rock13.png]]
+# Planet 5 - Tana di Ebrahimi ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ Edge Industries
 
 
 
-# Planet 6 - Schiaffino ![[gasg6.png]]
+# Planet 6 - Schiaffino ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,9 +120,9 @@ Edge Industries
 
 
 
-- [[rock17.png]] Folena (medium)
+- [[rock17.png\|rock17.png]] Folena (medium)
 
-# Planet 7 - Surgères Belt ![[asteroid2.png]]
+# Planet 7 - Surgères Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -139,7 +134,7 @@ Edge Industries
 
 
 
-# Planet 8 - Napolitano ![[gasg12.png]]
+# Planet 8 - Napolitano ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -154,5 +149,5 @@ Edge Industries
 
 
 
-- [[rock3.png]] Discordia (large)
+- [[rock3.png\|rock3.png]] Discordia (large)
 

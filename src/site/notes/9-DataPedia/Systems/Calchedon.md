@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calchedon
-xcood: "-366.936"
-ycood: "-96.04"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calchedon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calchedon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | -366.936 |
+> | Y coord| -96.04 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Kendrick's Planet ![[barren23.png]]
+# Planet 1 - Kendrick's Planet ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Myers's Harvest ![[rock4.png]]
+# Planet 2 - Myers's Harvest ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Calchedon ![[green12.png]]
+# Planet 3 - Calchedon ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bin Jafar ![[iceg12.png]]
+# Planet 4 - Bin Jafar ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -86,12 +81,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Yah (large)
-- ![[rock1.png]] Jah (large)
-- ![[rock17.png]] Aset (medium)
+- ![[rock10.png\|rock10.png]] Yah (large)
+- ![[rock1.png\|rock1.png]] Jah (large)
+- ![[rock17.png\|rock17.png]] Aset (medium)
 
 
-# Planet 5 - Ringwood ![[frozen15.png]]
+# Planet 5 - Ringwood ![[frozen15.png\|frozen15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Hallsberg ![[frozen26.png]]
+# Planet 6 - Hallsberg ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -131,7 +126,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Boatwright's World ![[gasg3.png]]
+# Planet 7 - Boatwright's World ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,11 +141,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Cibik A (medium)
-- ![[oddmoon2.png]] Cibik B (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Cibik A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cibik B (medium)
 
 
-# Planet 8 - Åsheim ![[gasg22.png]]
+# Planet 8 - Åsheim ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -167,7 +162,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Norwood Young America ![[gasg5.png]]
+# Planet 9 - Norwood Young America ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,7 +177,7 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Ki Lin (large)
-- ![[rock3.png]] Pan Gu (medium)
+- ![[rock9.png\|rock9.png]] Ki Lin (large)
+- ![[rock3.png\|rock3.png]] Pan Gu (medium)
 
 

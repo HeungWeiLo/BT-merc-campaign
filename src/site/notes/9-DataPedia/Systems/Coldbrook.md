@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coldbrook
-xcood: "-421.851"
-ycood: "126.358"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coldbrook/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coldbrook
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -421.851 |
+> | Y coord| 126.358 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Chiminigagua ![[barren13.png]]
+# Planet 1 - Chiminigagua ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Wainwright ![[barren7.png]]
+# Planet 2 - Wainwright ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Coldbrook ![[green26.png]]
+# Planet 3 - Coldbrook ![[green26.png\|green26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Lac-des-Écorces ![[iceg15.png]]
+# Planet 4 - Lac-des-Écorces ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Fauquier-Strickl ![[gasg10.png]]
+# Planet 5 - Fauquier-Strickl ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,12 +99,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Thunor (large)
-- ![[rock4.png]] Ingwine (large)
-- ![[rock6.png]] Erentil (medium)
+- ![[rock1.png\|rock1.png]] Thunor (large)
+- ![[rock4.png\|rock4.png]] Ingwine (large)
+- ![[rock6.png\|rock6.png]] Erentil (medium)
 
 
-# Planet 6 - Saracura's Frontier ![[gasg31.png]]
+# Planet 6 - Saracura's Frontier ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Lewis (giant)
+- [[rock2.png\|rock2.png]] Lewis (giant)
 
-# Planet 7 - Aiello Calabro ![[gasg16.png]]
+# Planet 7 - Aiello Calabro ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,9 +136,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Pitman (medium)
+- [[rock2.png\|rock2.png]] Pitman (medium)
 
-# Planet 8 - Three Springs ![[gasg21.png]]
+# Planet 8 - Three Springs ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,7 +153,7 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] 4ZM1 (large)
-- ![[oddmoon1.png]] 4ZM2 (medium)
+- ![[rock1.png\|rock1.png]] 4ZM1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 4ZM2 (medium)
 
 

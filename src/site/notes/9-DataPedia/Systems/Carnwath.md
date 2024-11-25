@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carnwath
-xcood: "-63.082"
-ycood: "82.416"
-spectralType: K5IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carnwath/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carnwath
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K5IV.png]] |
+> | X coord | -63.082 |
+> | Y coord| 82.416 |
+> | Spectral Type | K5IV ![[K5IV.png\|K5IV.png]] |
 
-# Planet 1 - Byrne ![[iceg6.png]]
+# Planet 1 - Byrne ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Corunna ![[gasg35.png]]
+# Planet 2 - Corunna ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -47,11 +42,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Myers (large)
-- ![[rock6.png]] Kyklopes (medium)
+- ![[rock10.png\|rock10.png]] Myers (large)
+- ![[rock6.png\|rock6.png]] Kyklopes (medium)
 
 
-# Planet 3 - Carnwath ![[green37.png]]
+# Planet 3 - Carnwath ![[green37.png\|green37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ Carnwath‘s capital city, Carnwath City, is located on the Wartholi continent, 
 
 
 
-# Planet 4 - Jacobson ![[rock12.png]]
+# Planet 4 - Jacobson ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -91,7 +86,7 @@ Carnwath‘s capital city, Carnwath City, is located on the Wartholi continent, 
 
 
 
-# Planet 5 - Saint Johnsbury ![[gasg28.png]]
+# Planet 5 - Saint Johnsbury ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,15 +101,15 @@ Carnwath‘s capital city, Carnwath City, is located on the Wartholi continent, 
 
 
 
-- ![[rock8.png]] Weakley (large)
-- ![[rock10.png]] Okoboji (large)
-- ![[oddmoon3.png]] Bone Lake (medium)
-- ![[rock16.png]] Wewoka (medium)
-- ![[oddmoon2.png]] Flatonia (medium)
-- ![[rock15.png]] Atwell (medium)
+- ![[rock8.png\|rock8.png]] Weakley (large)
+- ![[rock10.png\|rock10.png]] Okoboji (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Bone Lake (medium)
+- ![[rock16.png\|rock16.png]] Wewoka (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Flatonia (medium)
+- ![[rock15.png\|rock15.png]] Atwell (medium)
 
 
-# Planet 6 - Auxesia ![[gasg1.png]]
+# Planet 6 - Auxesia ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,11 +124,11 @@ Carnwath‘s capital city, Carnwath City, is located on the Wartholi continent, 
 
 
 
-- ![[rock13.png]] Oliva A (large)
-- ![[rock1.png]] Oliva B (large)
-- ![[rock15.png]] Oliva C (large)
-- ![[oddmoon2.png]] Oliva D (medium)
-- ![[rock11.png]] Oliva E (medium)
-- ![[oddmoon1.png]] Oliva F (medium)
+- ![[rock13.png\|rock13.png]] Oliva A (large)
+- ![[rock1.png\|rock1.png]] Oliva B (large)
+- ![[rock15.png\|rock15.png]] Oliva C (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Oliva D (medium)
+- ![[rock11.png\|rock11.png]] Oliva E (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Oliva F (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Connaught
-xcood: "-54.292"
-ycood: "-40.367"
-spectralType: M2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/connaught/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Connaught
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M2V.png]] |
+> | X coord | -54.292 |
+> | Y coord| -40.367 |
+> | Spectral Type | M2V ![[M2V.png\|M2V.png]] |
 
-# Planet 1 - Eatwell ![[frozen39.png]]
+# Planet 1 - Eatwell ![[frozen39.png\|frozen39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Udall ![[gasg35.png]]
+# Planet 2 - Udall ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Connaught ![[green32.png]]
+# Planet 3 - Connaught ![[green32.png\|green32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,11 +66,11 @@ dg-publish: true
 
 Connaught is a typical garden world, with ample arable land, a comfortable climate and atmosphere and standard gravity. It also has the added benefit of abundant natural resources and a strong industrial base. Connaught is home to the Kong Interstellar Corp. ‘Mech factories, which produces the Black Knight and Ostsol for the Free Worlds League. Kong Interstellar Corp. also has a sizable ‘Mech repair and refit facility as part of their factories. The Kong facility is located in the major city Skellig on the rainy Leitrim continent.
 
-- ![[oddmoon1.png]] Morrigu (medium)
-- ![[rock12.png]] Medb (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Morrigu (medium)
+- ![[rock12.png\|rock12.png]] Medb (medium)
 
 
-# Planet 4 - Vonhof ![[rock6.png]]
+# Planet 4 - Vonhof ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -92,7 +87,7 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-# Planet 5 - Okonkwo's Garden ![[gasg13.png]]
+# Planet 5 - Okonkwo's Garden ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,11 +102,11 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock5.png]] Chaos I (medium)
-- ![[rock15.png]] Chaos II (medium)
+- ![[rock5.png\|rock5.png]] Chaos I (medium)
+- ![[rock15.png\|rock15.png]] Chaos II (medium)
 
 
-# Planet 6 - Bird ![[gasg31.png]]
+# Planet 6 - Bird ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,11 +121,11 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock3.png]] Odinn (large)
-- ![[rock10.png]] Odin (medium)
+- ![[rock3.png\|rock3.png]] Odinn (large)
+- ![[rock10.png\|rock10.png]] Odin (medium)
 
 
-# Planet 7 - Organ ![[gasg30.png]]
+# Planet 7 - Organ ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,15 +140,15 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock17.png]] Baba Yaga I (large)
-- ![[rock8.png]] Baba Yaga II (large)
-- ![[rock16.png]] Baba Yaga III (large)
-- ![[oddmoon1.png]] Baba Yaga IV (medium)
-- ![[rock4.png]] Baba Yaga V (medium)
-- ![[rock9.png]] Baba Yaga VI (medium)
+- ![[rock17.png\|rock17.png]] Baba Yaga I (large)
+- ![[rock8.png\|rock8.png]] Baba Yaga II (large)
+- ![[rock16.png\|rock16.png]] Baba Yaga III (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Baba Yaga IV (medium)
+- ![[rock4.png\|rock4.png]] Baba Yaga V (medium)
+- ![[rock9.png\|rock9.png]] Baba Yaga VI (medium)
 
 
-# Planet 8 - Lugh ![[gasg26.png]]
+# Planet 8 - Lugh ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,12 +163,12 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock14.png]] Audumla (medium)
-- ![[oddmoon1.png]] Lokkju (medium)
-- ![[rock17.png]] Saint-Édouard-de-Maskinongé (medium)
+- ![[rock14.png\|rock14.png]] Audumla (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lokkju (medium)
+- ![[rock17.png\|rock17.png]] Saint-Édouard-de-Maskinongé (medium)
 
 
-# Planet 9 - Uttley ![[gasg2.png]]
+# Planet 9 - Uttley ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,12 +183,12 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock5.png]] Valkyries I (medium)
-- ![[rock13.png]] Valkyries II (medium)
-- ![[rock12.png]] Valkyries III (medium)
+- ![[rock5.png\|rock5.png]] Valkyries I (medium)
+- ![[rock13.png\|rock13.png]] Valkyries II (medium)
+- ![[rock12.png\|rock12.png]] Valkyries III (medium)
 
 
-# Planet 10 - Balman's Rift ![[gasg18.png]]
+# Planet 10 - Balman's Rift ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,9 +203,9 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- [[rock5.png]] IC51 (large)
+- [[rock5.png\|rock5.png]] IC51 (large)
 
-# Planet 11 - Greenhalgh's Den ![[gasg11.png]]
+# Planet 11 - Greenhalgh's Den ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,8 +220,8 @@ Connaught is a typical garden world, with ample arable land, a comfortable clima
 
 
 
-- ![[rock2.png]] Tuatha Dé Danann (large)
-- ![[rock17.png]] Ceridwen (large)
-- ![[rock4.png]] Bóand (large)
+- ![[rock2.png\|rock2.png]] Tuatha Dé Danann (large)
+- ![[rock17.png\|rock17.png]] Ceridwen (large)
+- ![[rock4.png\|rock4.png]] Bóand (large)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kendall
-xcood: "-370.2"
-ycood: "-200.855"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kendall/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kendall
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | -370.2 |
+> | Y coord| -200.855 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Chujohime ![[greenhouse25.png]]
+# Planet 1 - Chujohime ![[greenhouse25.png\|greenhouse25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,11 +29,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Tsuki Yomi ![[barren14.png]]
+# Planet 2 - Tsuki Yomi ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Susano Wo ![[rock2.png]]
+# Planet 3 - Susano Wo ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kendall ![[green13.png]]
+# Planet 4 - Kendall ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -107,7 +102,7 @@ Kali Yama - Alphard Trading Corporation
 
 
 
-# Planet 5 - Hurstbourne ![[rock11.png]]
+# Planet 5 - Hurstbourne ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -127,7 +122,7 @@ Kali Yama - Alphard Trading Corporation
 
 
 
-# Planet 6 - WVD-1 Belt ![[asteroid1.png]]
+# Planet 6 - WVD-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -142,7 +137,7 @@ Kali Yama - Alphard Trading Corporation
 
 
 
-# Planet 7 - Baudette ![[gasg7.png]]
+# Planet 7 - Baudette ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,9 +155,9 @@ Kali Yama - Alphard Trading Corporation
 3
 9
 
-- [[rock2.png]] Aphrodite (large)
+- [[rock2.png\|rock2.png]] Aphrodite (large)
 
-# Planet 8 - Nova Parcé ![[gasg38.png]]
+# Planet 8 - Nova Parcé ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,12 +175,12 @@ Kali Yama - Alphard Trading Corporation
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - New Center Line ![[gasg18.png]]
+# Planet 9 - New Center Line ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,18 +198,18 @@ Kali Yama - Alphard Trading Corporation
 9
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Kusanagi ![[gasg26.png]]
+# Planet 10 - Kusanagi ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -232,15 +227,15 @@ Kali Yama - Alphard Trading Corporation
 6
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 11 - Aldan ![[gasg33.png]]
+# Planet 11 - Aldan ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -258,12 +253,12 @@ Kali Yama - Alphard Trading Corporation
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

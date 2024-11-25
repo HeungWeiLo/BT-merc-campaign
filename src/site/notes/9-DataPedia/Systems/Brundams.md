@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brundams
-xcood: "-1877.428"
-ycood: "-441.992"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brundams/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brundams
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | -1877.428 |
+> | Y coord| -441.992 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Brundams ![[green51.png]]
+# Planet 1 - Brundams ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hogan ![[rock12.png]]
+# Planet 2 - Hogan ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Madonna del Sasso ![[gasg31.png]]
+# Planet 3 - Madonna del Sasso ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Newsome ![[gasg37.png]]
+# Planet 4 - Newsome ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,12 +80,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] T-1 (giant)
-- ![[rock13.png]] T-2 (large)
-- ![[rock5.png]] T-3 (large)
+- ![[rock7.png\|rock7.png]] T-1 (giant)
+- ![[rock13.png\|rock13.png]] T-2 (large)
+- ![[rock5.png\|rock5.png]] T-3 (large)
 
 
-# Planet 5 - Ts'ai ![[iceg6.png]]
+# Planet 5 - Ts'ai ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -105,9 +100,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Odom (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Odom (medium)
 
-# Planet 6 - White's Choice ![[gasg38.png]]
+# Planet 6 - White's Choice ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Bridget ![[gasg17.png]]
+# Planet 7 - Bridget ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,12 +134,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Bulver 1 (large)
-- ![[rock14.png]] Bulver 2 (large)
-- ![[rock1.png]] Bulver 3 (large)
+- ![[rock5.png\|rock5.png]] Bulver 1 (large)
+- ![[rock14.png\|rock14.png]] Bulver 2 (large)
+- ![[rock1.png\|rock1.png]] Bulver 3 (large)
 
 
-# Planet 8 - South Prairie ![[iceg3.png]]
+# Planet 8 - South Prairie ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -159,11 +154,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Aer (large)
-- ![[rock17.png]] Cynthia (large)
+- ![[rock10.png\|rock10.png]] Aer (large)
+- ![[rock17.png\|rock17.png]] Cynthia (large)
 
 
-# Planet 9 - Opheim's Mistake ![[gasg11.png]]
+# Planet 9 - Opheim's Mistake ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,11 +173,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] 4YC1 (giant)
-- ![[rock11.png]] 4YC2 (giant)
-- ![[rock1.png]] 4YC3 (large)
-- ![[rock13.png]] 4YC4 (large)
-- ![[rock15.png]] 4YC5 (large)
-- ![[rock16.png]] 4YC6 (large)
+- ![[rock7.png\|rock7.png]] 4YC1 (giant)
+- ![[rock11.png\|rock11.png]] 4YC2 (giant)
+- ![[rock1.png\|rock1.png]] 4YC3 (large)
+- ![[rock13.png\|rock13.png]] 4YC4 (large)
+- ![[rock15.png\|rock15.png]] 4YC5 (large)
+- ![[rock16.png\|rock16.png]] 4YC6 (large)
 
 

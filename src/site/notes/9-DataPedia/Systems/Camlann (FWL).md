@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Camlann (FWL)
-xcood: "-153.871"
-ycood: "-233.875"
-spectralType: M0III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/camlann-fwl/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Camlann (FWL)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0III.png]] |
+> | X coord | -153.871 |
+> | Y coord| -233.875 |
+> | Spectral Type | M0III ![[M0III.png\|M0III.png]] |
 
-# Planet 1 - Camlann (FWL) ![[green54.png]]
+# Planet 1 - Camlann (FWL) ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -38,7 +33,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-# Planet 2 - 5T2 ![[greenhouse38.png]]
+# Planet 2 - 5T2 ![[greenhouse38.png\|greenhouse38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-# Planet 3 - 5T3 ![[barren5.png]]
+# Planet 3 - 5T3 ![[barren5.png\|barren5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-# Planet 4 - 5T4 ![[badwater4.png]]
+# Planet 4 - 5T4 ![[badwater4.png\|badwater4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-# Planet 5 - 5T5 ![[rock5.png]]
+# Planet 5 - 5T5 ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,9 +104,9 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- [[rock12.png]] 1ZW.1 (large)
+- [[rock12.png\|rock12.png]] 1ZW.1 (large)
 
-# Planet 6 - 5T6 ![[gasg6.png]]
+# Planet 6 - 5T6 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,17 +121,17 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- ![[rock14.png]] P01 (giant)
-- ![[rock3.png]] P02 (giant)
-- ![[rock9.png]] P03 (large)
-- ![[rock5.png]] P04 (large)
-- ![[oddmoon3.png]] P05 (medium)
-- ![[rock16.png]] P06 (medium)
-- ![[oddmoon2.png]] P07 (medium)
-- ![[oddmoon1.png]] P08 (medium)
+- ![[rock14.png\|rock14.png]] P01 (giant)
+- ![[rock3.png\|rock3.png]] P02 (giant)
+- ![[rock9.png\|rock9.png]] P03 (large)
+- ![[rock5.png\|rock5.png]] P04 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] P05 (medium)
+- ![[rock16.png\|rock16.png]] P06 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] P07 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] P08 (medium)
 
 
-# Planet 7 - 5T7 ![[gasg32.png]]
+# Planet 7 - 5T7 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,15 +146,15 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- ![[rock9.png]] Djajadiningrat (giant)
-- ![[rock14.png]] Voulgaris (giant)
-- ![[rock5.png]] Myers (large)
-- ![[rock11.png]] Jackson (large)
-- ![[rock16.png]] Stewart (large)
-- ![[rock15.png]] Stanley (large)
+- ![[rock9.png\|rock9.png]] Djajadiningrat (giant)
+- ![[rock14.png\|rock14.png]] Voulgaris (giant)
+- ![[rock5.png\|rock5.png]] Myers (large)
+- ![[rock11.png\|rock11.png]] Jackson (large)
+- ![[rock16.png\|rock16.png]] Stewart (large)
+- ![[rock15.png\|rock15.png]] Stanley (large)
 
 
-# Planet 8 - 5T8 ![[gasg10.png]]
+# Planet 8 - 5T8 ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -174,13 +169,13 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- ![[rock12.png]] Raijū A (large)
-- ![[rock17.png]] Raijū B (large)
-- ![[rock2.png]] Raijū C (large)
-- ![[rock9.png]] Raijū D (medium)
+- ![[rock12.png\|rock12.png]] Raijū A (large)
+- ![[rock17.png\|rock17.png]] Raijū B (large)
+- ![[rock2.png\|rock2.png]] Raijū C (large)
+- ![[rock9.png\|rock9.png]] Raijū D (medium)
 
 
-# Planet 9 - 5T9 ![[gasg2.png]]
+# Planet 9 - 5T9 ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -197,7 +192,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-# Planet 10 - 5T10 ![[gasg13.png]]
+# Planet 10 - 5T10 ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -212,12 +207,12 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- ![[rock10.png]] Baal Zebub I (medium)
-- ![[oddmoon2.png]] Baal Zebub II (medium)
-- ![[oddmoon3.png]] Baal Zebub III (medium)
+- ![[rock10.png\|rock10.png]] Baal Zebub I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Baal Zebub II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Baal Zebub III (medium)
 
 
-# Planet 11 - 5T11 ![[gasg18.png]]
+# Planet 11 - 5T11 ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -232,7 +227,7 @@ Camlann itself is barely able to sustain itself, the primarily industry and expo
 
 
 
-- ![[rock11.png]] JCE-1 (medium)
-- ![[oddmoon3.png]] JCE-2 (medium)
+- ![[rock11.png\|rock11.png]] JCE-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] JCE-2 (medium)
 
 

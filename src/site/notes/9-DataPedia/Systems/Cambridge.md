@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cambridge
-xcood: "-301"
-ycood: "640"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cambridge/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cambridge
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -301 |
+> | Y coord| 640 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Dunning ![[rock4.png]]
+# Planet 1 - Dunning ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Soper's Rock ![[greenhouse41.png]]
+# Planet 2 - Soper's Rock ![[greenhouse41.png\|greenhouse41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cambridge ![[green16.png]]
+# Planet 3 - Cambridge ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Clews ![[greenhouse26.png]]
+# Planet 4 - Clews ![[greenhouse26.png\|greenhouse26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Annett ![[gasg6.png]]
+# Planet 5 - Annett ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Llanycrwys ![[iceg7.png]]
+# Planet 6 - Llanycrwys ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -121,9 +116,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] P1 (giant)
+- [[rock8.png\|rock8.png]] P1 (giant)
 
-# Planet 7 - Cuttle ![[gasg13.png]]
+# Planet 7 - Cuttle ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,13 +133,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Chickerell (giant)
-- ![[rock12.png]] Headbourne Worthy (large)
-- ![[rock1.png]] Malham (large)
-- ![[rock2.png]] Proviso (large)
+- ![[rock10.png\|rock10.png]] Chickerell (giant)
+- ![[rock12.png\|rock12.png]] Headbourne Worthy (large)
+- ![[rock1.png\|rock1.png]] Malham (large)
+- ![[rock2.png\|rock2.png]] Proviso (large)
 
 
-# Planet 8 - Turvill's Belt ![[asteroid2.png]]
+# Planet 8 - Turvill's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -156,7 +151,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Amida Belt ![[asteroid1.png]]
+# Planet 9 - Amida Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -168,7 +163,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Satchell ![[gasg19.png]]
+# Planet 10 - Satchell ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -183,8 +178,8 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Elatha 1 (large)
-- ![[rock16.png]] Elatha 2 (large)
-- ![[rock17.png]] Elatha 3 (large)
+- ![[rock10.png\|rock10.png]] Elatha 1 (large)
+- ![[rock16.png\|rock16.png]] Elatha 2 (large)
+- ![[rock17.png\|rock17.png]] Elatha 3 (large)
 
 

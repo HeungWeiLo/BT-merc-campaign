@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calafell
-xcood: "-366.542"
-ycood: "130.232"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calafell/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calafell
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | -366.542 |
+> | Y coord| 130.232 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Montejo de Tiermes ![[rock13.png]]
+# Planet 1 - Montejo de Tiermes ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Santillana del Mar ![[barren21.png]]
+# Planet 2 - Santillana del Mar ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Nueva Limeray ![[iceg12.png]]
+# Planet 3 - Nueva Limeray ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Calafell ![[green57.png]]
+# Planet 4 - Calafell ![[green57.png\|green57.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -86,12 +81,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Torres (medium)
-- ![[rock10.png]] Díaz (medium)
-- ![[rock9.png]] Estrada (medium)
+- ![[rock15.png\|rock15.png]] Torres (medium)
+- ![[rock10.png\|rock10.png]] Díaz (medium)
+- ![[rock9.png\|rock9.png]] Estrada (medium)
 
 
-# Planet 5 - Shamokin ![[iceg2.png]]
+# Planet 5 - Shamokin ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -106,11 +101,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Nuada Argatlam A (medium)
-- ![[rock2.png]] Nuada Argatlam B (medium)
+- ![[rock9.png\|rock9.png]] Nuada Argatlam A (medium)
+- ![[rock2.png\|rock2.png]] Nuada Argatlam B (medium)
 
 
-# Planet 6 - Sant Miquel de Campmajor ![[gasg12.png]]
+# Planet 6 - Sant Miquel de Campmajor ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,13 +120,13 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Huitaca I (giant)
-- ![[rock16.png]] Huitaca II (large)
-- ![[oddmoon3.png]] Huitaca III (medium)
-- ![[oddmoon2.png]] Huitaca IV (medium)
+- ![[rock11.png\|rock11.png]] Huitaca I (giant)
+- ![[rock16.png\|rock16.png]] Huitaca II (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Huitaca III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Huitaca IV (medium)
 
 
-# Planet 7 - Perseus ![[iceg7.png]]
+# Planet 7 - Perseus ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -148,7 +143,7 @@ dg-publish: true
 
 
 
-# Planet 8 - New Celada del Camino ![[gasg28.png]]
+# Planet 8 - New Celada del Camino ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,14 +158,14 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Gratiae A (giant)
-- ![[rock5.png]] Gratiae B (giant)
-- ![[rock3.png]] Gratiae C (large)
-- ![[rock10.png]] Gratiae D (medium)
-- ![[rock13.png]] Gratiae E (medium)
+- ![[rock1.png\|rock1.png]] Gratiae A (giant)
+- ![[rock5.png\|rock5.png]] Gratiae B (giant)
+- ![[rock3.png\|rock3.png]] Gratiae C (large)
+- ![[rock10.png\|rock10.png]] Gratiae D (medium)
+- ![[rock13.png\|rock13.png]] Gratiae E (medium)
 
 
-# Planet 9 - Manihiki ![[gasg31.png]]
+# Planet 9 - Manihiki ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

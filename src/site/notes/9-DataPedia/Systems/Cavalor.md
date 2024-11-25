@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cavalor
-xcood: "60.99"
-ycood: "-387.783"
-spectralType: M4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cavalor/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cavalor
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M4V.png]] |
+> | X coord | 60.99 |
+> | Y coord| -387.783 |
+> | Spectral Type | M4V ![[M4V.png\|M4V.png]] |
 
-# Planet 1 - Cavalor ![[dry19.png]]
+# Planet 1 - Cavalor ![[dry19.png\|dry19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sérent ![[frozen27.png]]
+# Planet 2 - Sérent ![[frozen27.png\|frozen27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Zuzoric ![[gasg12.png]]
+# Planet 3 - Zuzoric ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,13 +66,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Od I (large)
-- ![[rock16.png]] Od II (medium)
-- ![[oddmoon2.png]] Od III (medium)
-- ![[rock12.png]] Od IV (medium)
+- ![[rock13.png\|rock13.png]] Od I (large)
+- ![[rock16.png\|rock16.png]] Od II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Od III (medium)
+- ![[rock12.png\|rock12.png]] Od IV (medium)
 
 
-# Planet 4 - Bule ![[gasg4.png]]
+# Planet 4 - Bule ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,13 +87,13 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Belatugagus (large)
-- ![[rock17.png]] Stord (large)
-- ![[rock6.png]] Vidonho (large)
-- ![[rock9.png]] Dechtiré (large)
+- ![[rock15.png\|rock15.png]] Belatugagus (large)
+- ![[rock17.png\|rock17.png]] Stord (large)
+- ![[rock6.png\|rock6.png]] Vidonho (large)
+- ![[rock9.png\|rock9.png]] Dechtiré (large)
 
 
-# Planet 5 - Waldo ![[gasg36.png]]
+# Planet 5 - Waldo ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -113,15 +108,15 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Bestla 1 (large)
-- ![[rock5.png]] Bestla 2 (large)
-- ![[rock1.png]] Bestla 3 (medium)
-- ![[rock8.png]] Bestla 4 (medium)
-- ![[oddmoon2.png]] Bestla 5 (medium)
-- ![[oddmoon3.png]] Bestla 6 (medium)
+- ![[rock9.png\|rock9.png]] Bestla 1 (large)
+- ![[rock5.png\|rock5.png]] Bestla 2 (large)
+- ![[rock1.png\|rock1.png]] Bestla 3 (medium)
+- ![[rock8.png\|rock8.png]] Bestla 4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bestla 5 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Bestla 6 (medium)
 
 
-# Planet 6 - Xianyang ![[gasg19.png]]
+# Planet 6 - Xianyang ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -138,7 +133,7 @@ dg-publish: true
 
 
 
-# Planet 7 - South Wheatl ![[gasg28.png]]
+# Planet 7 - South Wheatl ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -155,7 +150,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Phra Lak Belt ![[asteroid2.png]]
+# Planet 8 - Phra Lak Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -167,7 +162,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Stewart ![[gasg14.png]]
+# Planet 9 - Stewart ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,9 +177,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] LIE1 (large)
+- [[rock13.png\|rock13.png]] LIE1 (large)
 
-# Planet 10 - Starke ![[gasg3.png]]
+# Planet 10 - Starke ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -199,10 +194,10 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Uuôden (large)
-- ![[rock3.png]] Ēostre (large)
-- ![[rock16.png]] Frīja (large)
-- ![[oddmoon3.png]] Thunor (medium)
-- ![[oddmoon2.png]] Fuik (medium)
+- ![[rock9.png\|rock9.png]] Uuôden (large)
+- ![[rock3.png\|rock3.png]] Ēostre (large)
+- ![[rock16.png\|rock16.png]] Frīja (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Thunor (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fuik (medium)
 
 

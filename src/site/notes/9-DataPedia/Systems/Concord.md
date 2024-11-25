@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Concord
-xcood: "-146.598"
-ycood: "-27.967"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/concord/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Concord
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | -146.598 |
+> | Y coord| -27.967 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - Concord ![[green54.png]]
+# Planet 1 - Concord ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - La Sarre ![[badwater45.png]]
+# Planet 2 - La Sarre ![[badwater45.png\|badwater45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Simmons ![[frozen30.png]]
+# Planet 3 - Simmons ![[frozen30.png\|frozen30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ward's World ![[iceg7.png]]
+# Planet 4 - Ward's World ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -91,12 +86,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Yadkin 1 (large)
-- ![[rock5.png]] Yadkin 2 (large)
-- ![[oddmoon1.png]] Yadkin 3 (medium)
+- ![[rock15.png\|rock15.png]] Yadkin 1 (large)
+- ![[rock5.png\|rock5.png]] Yadkin 2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Yadkin 3 (medium)
 
 
-# Planet 5 - Folhadela ![[gasg2.png]]
+# Planet 5 - Folhadela ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -111,15 +106,15 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Carver (giant)
-- ![[rock7.png]] Ku (large)
-- ![[rock11.png]] Bairstow (large)
-- ![[rock4.png]] Teale (large)
-- ![[rock9.png]] Cardwell (large)
-- ![[oddmoon2.png]] Waman (medium)
+- ![[rock15.png\|rock15.png]] Carver (giant)
+- ![[rock7.png\|rock7.png]] Ku (large)
+- ![[rock11.png\|rock11.png]] Bairstow (large)
+- ![[rock4.png\|rock4.png]] Teale (large)
+- ![[rock9.png\|rock9.png]] Cardwell (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Waman (medium)
 
 
-# Planet 6 - Fallows's Land ![[frozen26.png]]
+# Planet 6 - Fallows's Land ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -137,9 +132,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Ratatoskr (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Ratatoskr (medium)
 
-# Planet 7 - Ramiriquí ![[iceg11.png]]
+# Planet 7 - Ramiriquí ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -154,5 +149,5 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Cobbold (medium)
+- [[rock8.png\|rock8.png]] Cobbold (medium)
 

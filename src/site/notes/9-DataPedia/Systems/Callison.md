@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Callison
-xcood: "-62.556"
-ycood: "-15.044"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/callison/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Callison
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -62.556 |
+> | Y coord| -15.044 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Above Derwent ![[rock9.png]]
+# Planet 1 - Above Derwent ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Callison ![[wet15.png]]
+# Planet 2 - Callison ![[wet15.png\|wet15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 3135 - Callison possesses abundant water, mineral, and agricultural resources. It was originally colonized by the Federation of Skye in the early period of mankind's colonization of the stars before the heavily urbanized and industrialized world was claimed by the Free World League during the Age of War. During the Star League era, Callison was a key border world and trading hub, jointly administered by the Free World League and the Terran Hegemony. After the Amaris Crisis and the collapse of the Star League, Callison reverted to full control by the Free World League. In 2966, Callison joined with other nearby worlds to form the Silver Hawks Coalition to co-ordinate defences against Lyran Commonwealth raids and invasions. Callison remained part of the Free World League throughout the Succession Wars inspite of heavy fighting that devastated many major cities until Lyran Commonwealth mercenaries finally seized the world with a decisive battle at Fallosha, the capital city during the Fourth Succession War. Operation Guerrero resulted in the Free World League recapturing Callison once more. When the Word of Blake Jihad erupted in 3067, the Free World League was initially spared. However, the Word of Blaket eventually attacked, and Callison suffered from a massed assault by mercenary ‘Mech forces. Fortunately, Callison was spared the atrocities committed elsewhere and the world recovered under Republic of the Sphere proved easier than most.
 
-- [[rock9.png]] Yngve (medium)
+- [[rock9.png\|rock9.png]] Yngve (medium)
 
-# Planet 3 - Jhelum ![[rock8.png]]
+# Planet 3 - Jhelum ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kwatee ![[gasg35.png]]
+# Planet 4 - Kwatee ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,14 +80,14 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Bennett (large)
-- ![[rock11.png]] Hall (large)
-- ![[rock5.png]] Tin (large)
-- ![[rock6.png]] Allison (large)
-- ![[rock1.png]] Ross (large)
+- ![[rock10.png\|rock10.png]] Bennett (large)
+- ![[rock11.png\|rock11.png]] Hall (large)
+- ![[rock5.png\|rock5.png]] Tin (large)
+- ![[rock6.png\|rock6.png]] Allison (large)
+- ![[rock1.png\|rock1.png]] Ross (large)
 
 
-# Planet 5 - Darhan ![[gasg19.png]]
+# Planet 5 - Darhan ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,18 +102,18 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Byelobog (large)
-- ![[rock2.png]] Mati Syra Zemlia (large)
-- ![[rock13.png]] Baba Jaga (large)
-- ![[rock8.png]] Chernabog (large)
-- ![[rock14.png]] Arakho (large)
-- ![[oddmoon3.png]] Zorya (medium)
-- ![[oddmoon2.png]] Belobog (medium)
-- ![[rock4.png]] Phillips (medium)
-- ![[rock7.png]] Tchernobog (medium)
+- ![[rock16.png\|rock16.png]] Byelobog (large)
+- ![[rock2.png\|rock2.png]] Mati Syra Zemlia (large)
+- ![[rock13.png\|rock13.png]] Baba Jaga (large)
+- ![[rock8.png\|rock8.png]] Chernabog (large)
+- ![[rock14.png\|rock14.png]] Arakho (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Zorya (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Belobog (medium)
+- ![[rock4.png\|rock4.png]] Phillips (medium)
+- ![[rock7.png\|rock7.png]] Tchernobog (medium)
 
 
-# Planet 6 - McClurkan's Grove ![[gasg36.png]]
+# Planet 6 - McClurkan's Grove ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -133,15 +128,15 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Beard 1 (large)
-- ![[rock14.png]] Beard 2 (large)
-- ![[rock17.png]] Beard 3 (large)
-- ![[oddmoon3.png]] Beard 4 (medium)
-- ![[oddmoon2.png]] Beard 5 (medium)
-- ![[rock4.png]] Beard 6 (medium)
+- ![[rock13.png\|rock13.png]] Beard 1 (large)
+- ![[rock14.png\|rock14.png]] Beard 2 (large)
+- ![[rock17.png\|rock17.png]] Beard 3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Beard 4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Beard 5 (medium)
+- ![[rock4.png\|rock4.png]] Beard 6 (medium)
 
 
-# Planet 7 - Richland Springs ![[gasg29.png]]
+# Planet 7 - Richland Springs ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,9 +151,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] ICN1 (large)
+- [[rock13.png\|rock13.png]] ICN1 (large)
 
-# Planet 8 - Abaangui ![[iceg6.png]]
+# Planet 8 - Abaangui ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -175,7 +170,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Apoyan Tachi ![[iceg12.png]]
+# Planet 9 - Apoyan Tachi ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -190,5 +185,5 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] I-1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] I-1 (medium)
 

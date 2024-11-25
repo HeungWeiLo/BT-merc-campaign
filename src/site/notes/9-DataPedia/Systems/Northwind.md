@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Northwind
-xcood: "34.118"
-ycood: "-2.891"
-spectralType: G2IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/northwind/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Northwind
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2IV.png]] |
+> | X coord | 34.118 |
+> | Y coord| -2.891 |
+> | Spectral Type | G2IV ![[G2IV.png\|G2IV.png]] |
 
-# Planet 1 - Bloomsburg ![[gasg37.png]]
+# Planet 1 - Bloomsburg ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,12 +28,12 @@ dg-publish: true
 3
 4
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Northwind ![[wet17.png]]
+# Planet 2 - Northwind ![[wet17.png\|wet17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -66,9 +61,9 @@ Cosara Weaponries
 2
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 3 - An ![[iceg5.png]]
+# Planet 3 - An ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -86,9 +81,9 @@ Cosara Weaponries
 3
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 4 - Minnetonka ![[gasg5.png]]
+# Planet 4 - Minnetonka ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -106,9 +101,9 @@ Cosara Weaponries
 3
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 5 - Junius ![[rock15.png]]
+# Planet 5 - Junius ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -128,7 +123,7 @@ Cosara Weaponries
 
 
 
-# Planet 6 - Zybinskoye ![[gasg9.png]]
+# Planet 6 - Zybinskoye ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,12 +141,12 @@ Cosara Weaponries
 3
 6
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Barsham ![[gasg12.png]]
+# Planet 7 - Barsham ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,9 +164,9 @@ Cosara Weaponries
 3
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 8 - Miller ![[iceg2.png]]
+# Planet 8 - Miller ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -191,7 +186,7 @@ Cosara Weaponries
 
 
 
-# Planet 9 - Roxton Falls ![[gasg36.png]]
+# Planet 9 - Roxton Falls ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -209,9 +204,9 @@ Cosara Weaponries
 6
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 10 - Allin ![[gasg31.png]]
+# Planet 10 - Allin ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -229,9 +224,9 @@ Cosara Weaponries
 3
 0
 
-- [[.png]]  ()
+- [[.png\|.png]]  ()
 
-# Planet 11 - Twiggs ![[gasg17.png]]
+# Planet 11 - Twiggs ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chengdu
-xcood: "-29.575"
-ycood: "-170.358"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chengdu/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chengdu
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | -29.575 |
+> | Y coord| -170.358 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Buutsagaan ![[rock8.png]]
+# Planet 1 - Buutsagaan ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Venturanza (large)
+- [[rock17.png\|rock17.png]] Venturanza (large)
 
-# Planet 2 - Chengdu ![[green14.png]]
+# Planet 2 - Chengdu ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] Ang (large)
+- [[rock4.png\|rock4.png]] Ang (large)
 
-# Planet 3 - Caodeng ![[frozen23.png]]
+# Planet 3 - Caodeng ![[frozen23.png\|frozen23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,9 +66,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] 4D1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] 4D1 (medium)
 
-# Planet 4 - Qidong Xian ![[rock15.png]]
+# Planet 4 - Qidong Xian ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Zhong ![[gasg26.png]]
+# Planet 5 - Zhong ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,12 +100,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Qin Shubao 1 (large)
-- ![[rock7.png]] Qin Shubao 2 (large)
-- ![[rock1.png]] Qin Shubao 3 (large)
+- ![[rock15.png\|rock15.png]] Qin Shubao 1 (large)
+- ![[rock7.png\|rock7.png]] Qin Shubao 2 (large)
+- ![[rock1.png\|rock1.png]] Qin Shubao 3 (large)
 
 
-# Planet 6 - Shangdian ![[gasg4.png]]
+# Planet 6 - Shangdian ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,9 +120,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Concelho do Búzi (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Concelho do Búzi (medium)
 
-# Planet 7 - Sanjiang Dongzu Zizhixian ![[gasg3.png]]
+# Planet 7 - Sanjiang Dongzu Zizhixian ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

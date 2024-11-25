@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carvajal
-xcood: "417.122"
-ycood: "-435.915"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carvajal/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carvajal
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | 417.122 |
+> | Y coord| -435.915 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Gil ![[rock11.png]]
+# Planet 1 - Gil ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Carvajal ![[green9.png]]
+# Planet 2 - Carvajal ![[green9.png\|green9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - López ![[greenhouse24.png]]
+# Planet 3 - López ![[greenhouse24.png\|greenhouse24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,12 +67,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Zang 1 (medium)
-- ![[rock1.png]] Zang 2 (medium)
-- ![[rock12.png]] Zang 3 (medium)
+- ![[rock4.png\|rock4.png]] Zang 1 (medium)
+- ![[rock1.png\|rock1.png]] Zang 2 (medium)
+- ![[rock12.png\|rock12.png]] Zang 3 (medium)
 
 
-# Planet 4 - Espinoza's Rift ![[gasg3.png]]
+# Planet 4 - Espinoza's Rift ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,12 +87,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] AP21 (giant)
-- ![[rock7.png]] AP22 (giant)
-- ![[rock16.png]] AP23 (large)
-- ![[rock10.png]] AP24 (large)
-- ![[rock9.png]] AP25 (large)
-- ![[rock4.png]] AP26 (large)
-- ![[rock12.png]] AP27 (large)
+- ![[rock6.png\|rock6.png]] AP21 (giant)
+- ![[rock7.png\|rock7.png]] AP22 (giant)
+- ![[rock16.png\|rock16.png]] AP23 (large)
+- ![[rock10.png\|rock10.png]] AP24 (large)
+- ![[rock9.png\|rock9.png]] AP25 (large)
+- ![[rock4.png\|rock4.png]] AP26 (large)
+- ![[rock12.png\|rock12.png]] AP27 (large)
 
 

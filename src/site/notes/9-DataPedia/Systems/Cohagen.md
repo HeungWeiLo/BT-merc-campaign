@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cohagen
-xcood: "372.222"
-ycood: "-316.226"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cohagen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cohagen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 372.222 |
+> | Y coord| -316.226 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Russell's World ![[greenhouse30.png]]
+# Planet 1 - Russell's World ![[greenhouse30.png\|greenhouse30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Spencer ![[iceg10.png]]
+# Planet 2 - Spencer ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,9 +43,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Patterson (large)
+- [[rock16.png\|rock16.png]] Patterson (large)
 
-# Planet 3 - Cohagen ![[green14.png]]
+# Planet 3 - Cohagen ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Fuller's Grove ![[green9.png]]
+# Planet 4 - Fuller's Grove ![[green9.png\|green9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Vedøy's Point ![[frozen13.png]]
+# Planet 5 - Vedøy's Point ![[frozen13.png\|frozen13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -110,11 +105,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Kitshi Manitou (medium)
-- ![[oddmoon1.png]] Jupiter (medium)
+- ![[rock11.png\|rock11.png]] Kitshi Manitou (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Jupiter (medium)
 
 
-# Planet 6 - Browning's Planet ![[gasg38.png]]
+# Planet 6 - Browning's Planet ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,13 +124,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Liu Yuan Ying (large)
-- ![[rock15.png]] Ao Shun (large)
-- ![[oddmoon3.png]] Hsi Shih (medium)
-- ![[rock8.png]] Nu Kwa (medium)
+- ![[rock14.png\|rock14.png]] Liu Yuan Ying (large)
+- ![[rock15.png\|rock15.png]] Ao Shun (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Hsi Shih (medium)
+- ![[rock8.png\|rock8.png]] Nu Kwa (medium)
 
 
-# Planet 7 - Montalópez ![[gasg27.png]]
+# Planet 7 - Montalópez ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,12 +145,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Uke Mochi (large)
-- ![[rock15.png]] Wilson (large)
-- ![[rock2.png]] Fukurokuju (large)
+- ![[rock8.png\|rock8.png]] Uke Mochi (large)
+- ![[rock15.png\|rock15.png]] Wilson (large)
+- ![[rock2.png\|rock2.png]] Fukurokuju (large)
 
 
-# Planet 8 - Brady ![[gasg12.png]]
+# Planet 8 - Brady ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,7 +165,7 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Hanuman I (large)
-- ![[rock6.png]] Hanuman II (large)
+- ![[rock3.png\|rock3.png]] Hanuman I (large)
+- ![[rock6.png\|rock6.png]] Hanuman II (large)
 
 

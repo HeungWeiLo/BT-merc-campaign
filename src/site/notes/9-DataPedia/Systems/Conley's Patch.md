@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Conley's Patch
-xcood: "-220.211"
-ycood: "205.816"
-spectralType: F3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/conley-s-patch/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Conley's Patch
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F3V.png]] |
+> | X coord | -220.211 |
+> | Y coord| 205.816 |
+> | Spectral Type | F3V ![[F3V.png\|F3V.png]] |
 
-# Planet 1 - Parkman ![[barren20.png]]
+# Planet 1 - Parkman ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Areop Enap ![[barren10.png]]
+# Planet 2 - Areop Enap ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Tpereaki ![[rock17.png]]
+# Planet 3 - Tpereaki ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Conley's Patch ![[green34.png]]
+# Planet 4 - Conley's Patch ![[green34.png\|green34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Mahu Fatu Rau ![[rock9.png]]
+# Planet 5 - Mahu Fatu Rau ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Thị Trấn Vĩnh Tuy ![[gasg27.png]]
+# Planet 6 - Thị Trấn Vĩnh Tuy ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,13 +116,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Harris Alpha (large)
-- ![[rock13.png]] Harris Beta (large)
-- ![[rock1.png]] Harris Gamma (large)
-- ![[rock16.png]] Harris Delta (large)
-- ![[oddmoon1.png]] Harris Epsilon (medium)
-- ![[rock17.png]] Harris Zeta (medium)
-- ![[rock11.png]] Harris Eta (medium)
-- ![[oddmoon3.png]] Harris Theta (medium)
+- ![[rock9.png\|rock9.png]] Harris Alpha (large)
+- ![[rock13.png\|rock13.png]] Harris Beta (large)
+- ![[rock1.png\|rock1.png]] Harris Gamma (large)
+- ![[rock16.png\|rock16.png]] Harris Delta (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Harris Epsilon (medium)
+- ![[rock17.png\|rock17.png]] Harris Zeta (medium)
+- ![[rock11.png\|rock11.png]] Harris Eta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Harris Theta (medium)
 
 

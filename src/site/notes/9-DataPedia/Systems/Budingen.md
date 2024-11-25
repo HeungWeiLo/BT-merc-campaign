@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Budingen
-xcood: "382.302"
-ycood: "162.025"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/budingen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Budingen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | 382.302 |
+> | Y coord| 162.025 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Richard ![[greenhouse11.png]]
+# Planet 1 - Richard ![[greenhouse11.png\|greenhouse11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Budingen ![[green37.png]]
+# Planet 2 - Budingen ![[green37.png\|green37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] Parcae (medium)
+- [[rock10.png\|rock10.png]] Parcae (medium)
 
-# Planet 3 - Rolland ![[rock1.png]]
+# Planet 3 - Rolland ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Plaine de Hubert ![[gasg23.png]]
+# Planet 4 - Plaine de Hubert ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - 3PR1 Belt ![[asteroid2.png]]
+# Planet 5 - 3PR1 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Baker's Planet ![[gasg8.png]]
+# Planet 6 - Baker's Planet ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -117,7 +112,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Marston Magna ![[iceg15.png]]
+# Planet 7 - Marston Magna ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -134,7 +129,7 @@ dg-publish: true
 
 
 
-# Planet 8 - 3PR2 Belt ![[asteroid3.png]]
+# Planet 8 - 3PR2 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 9 - L'Amour ![[gasg9.png]]
+# Planet 9 - L'Amour ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,5 +156,5 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Rumina (large)
+- [[rock6.png\|rock6.png]] Rumina (large)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chaumont
-xcood: "360.585"
-ycood: "17.213"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chaumont/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chaumont
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | 360.585 |
+> | Y coord| 17.213 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Descamps's World ![[gasg26.png]]
+# Planet 1 - Descamps's World ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,14 +25,14 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] BII-1 (large)
-- ![[rock17.png]] BII-2 (large)
-- ![[rock5.png]] BII-3 (medium)
-- ![[rock1.png]] BII-4 (medium)
-- ![[rock6.png]] BII-5 (medium)
+- ![[rock3.png\|rock3.png]] BII-1 (large)
+- ![[rock17.png\|rock17.png]] BII-2 (large)
+- ![[rock5.png\|rock5.png]] BII-3 (medium)
+- ![[rock1.png\|rock1.png]] BII-4 (medium)
+- ![[rock6.png\|rock6.png]] BII-5 (medium)
 
 
-# Planet 2 - Chaumont ![[green53.png]]
+# Planet 2 - Chaumont ![[green53.png\|green53.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,7 +53,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Guillemin ![[gasg17.png]]
+# Planet 3 - Guillemin ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bastien's Den ![[gasg33.png]]
+# Planet 4 - Bastien's Den ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Erreur de Angot ![[gasg4.png]]
+# Planet 5 - Erreur de Angot ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,15 +102,15 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] K-1 (large)
-- ![[rock9.png]] K-2 (large)
-- ![[rock10.png]] K-3 (large)
-- ![[oddmoon3.png]] K-4 (medium)
-- ![[rock14.png]] K-5 (medium)
-- ![[rock3.png]] K-6 (medium)
+- ![[rock13.png\|rock13.png]] K-1 (large)
+- ![[rock9.png\|rock9.png]] K-2 (large)
+- ![[rock10.png\|rock10.png]] K-3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] K-4 (medium)
+- ![[rock14.png\|rock14.png]] K-5 (medium)
+- ![[rock3.png\|rock3.png]] K-6 (medium)
 
 
-# Planet 6 - Lila ![[gasg13.png]]
+# Planet 6 - Lila ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

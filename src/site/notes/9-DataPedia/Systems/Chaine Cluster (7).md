@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chaine Cluster (7)
-xcood: "-235.003"
-ycood: "568.796"
-spectralType: K5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chaine-cluster-7/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chaine Cluster (7)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K5V.png]] |
+> | X coord | -235.003 |
+> | Y coord| 568.796 |
+> | Spectral Type | K5V ![[K5V.png\|K5V.png]] |
 
-# Planet 1 - Chaine Cluster (7) ![[green10.png]]
+# Planet 1 - Chaine Cluster (7) ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Phillips ![[gasg10.png]]
+# Planet 2 - Phillips ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Rongomatane (medium)
-- ![[rock15.png]] Paikea (medium)
-- ![[rock13.png]] Hina (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rongomatane (medium)
+- ![[rock15.png\|rock15.png]] Paikea (medium)
+- ![[rock13.png\|rock13.png]] Hina (medium)
 
 
-# Planet 3 - South Clinton ![[iceg13.png]]
+# Planet 3 - South Clinton ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,15 +66,15 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Horta A (large)
-- ![[rock2.png]] Horta B (large)
-- ![[rock13.png]] Horta C (medium)
-- ![[oddmoon3.png]] Horta D (medium)
-- ![[rock16.png]] Horta E (medium)
-- ![[oddmoon1.png]] Horta F (medium)
+- ![[rock1.png\|rock1.png]] Horta A (large)
+- ![[rock2.png\|rock2.png]] Horta B (large)
+- ![[rock13.png\|rock13.png]] Horta C (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Horta D (medium)
+- ![[rock16.png\|rock16.png]] Horta E (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Horta F (medium)
 
 
-# Planet 4 - Murakami's Belt 1 ![[asteroid3.png]]
+# Planet 4 - Murakami's Belt 1 ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Instow ![[gasg20.png]]
+# Planet 5 - Instow ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Illapa (large)
+- [[rock13.png\|rock13.png]] Illapa (large)
 
-# Planet 6 - Abdul-Ra'uf ![[gasg27.png]]
+# Planet 6 - Abdul-Ra'uf ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Murakami's Belt 2 ![[asteroid1.png]]
+# Planet 7 - Murakami's Belt 2 ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -137,7 +132,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Dannatt's Land ![[gasg18.png]]
+# Planet 8 - Dannatt's Land ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,7 +149,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Adams ![[gasg19.png]]
+# Planet 9 - Adams ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,9 +164,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Mauszycki (medium)
+- [[rock13.png\|rock13.png]] Mauszycki (medium)
 
-# Planet 10 - Kievit's World ![[gasg34.png]]
+# Planet 10 - Kievit's World ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -188,7 +183,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Melle ![[gasg23.png]]
+# Planet 11 - Melle ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,14 +198,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Burhan A (large)
-- ![[rock5.png]] Burhan B (large)
-- ![[rock6.png]] Burhan C (large)
-- ![[rock16.png]] Burhan D (large)
-- ![[rock4.png]] Burhan E (large)
+- ![[rock2.png\|rock2.png]] Burhan A (large)
+- ![[rock5.png\|rock5.png]] Burhan B (large)
+- ![[rock6.png\|rock6.png]] Burhan C (large)
+- ![[rock16.png\|rock16.png]] Burhan D (large)
+- ![[rock4.png\|rock4.png]] Burhan E (large)
 
 
-# Planet 12 - Poter ![[gasg30.png]]
+# Planet 12 - Poter ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,14 +220,14 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Rakshasas 1 (large)
-- ![[rock4.png]] Rakshasas 2 (medium)
-- ![[rock8.png]] Rakshasas 3 (medium)
-- ![[rock17.png]] Rakshasas 4 (medium)
-- ![[rock2.png]] Rakshasas 5 (medium)
+- ![[rock16.png\|rock16.png]] Rakshasas 1 (large)
+- ![[rock4.png\|rock4.png]] Rakshasas 2 (medium)
+- ![[rock8.png\|rock8.png]] Rakshasas 3 (medium)
+- ![[rock17.png\|rock17.png]] Rakshasas 4 (medium)
+- ![[rock2.png\|rock2.png]] Rakshasas 5 (medium)
 
 
-# Planet 13 - Indian River Shores ![[iceg11.png]]
+# Planet 13 - Indian River Shores ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

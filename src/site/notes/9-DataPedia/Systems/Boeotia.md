@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Boeotia
-xcood: "160.821"
-ycood: "-136.233"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/boeotia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Boeotia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 160.821 |
+> | Y coord| -136.233 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Jari ![[iceg10.png]]
+# Planet 1 - Jari ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Boeotia ![[green32.png]]
+# Planet 2 - Boeotia ![[green32.png\|green32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Aiaru ![[frozen11.png]]
+# Planet 3 - Aiaru ![[frozen11.png\|frozen11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Wahini Hai ![[rock3.png]]
+# Planet 4 - Wahini Hai ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Lethe ![[gasg2.png]]
+# Planet 5 - Lethe ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,9 +100,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] CPZ-1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] CPZ-1 (medium)
 
-# Planet 6 - Rokola ![[gasg35.png]]
+# Planet 6 - Rokola ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,15 +117,15 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Kárystos (large)
-- ![[rock14.png]] Paramythiá (large)
-- ![[rock16.png]] Dimos Volos (large)
-- ![[rock15.png]] Alíartos (medium)
-- ![[oddmoon2.png]] Irákleia (medium)
-- ![[oddmoon3.png]] Rigatos (medium)
+- ![[rock10.png\|rock10.png]] Kárystos (large)
+- ![[rock14.png\|rock14.png]] Paramythiá (large)
+- ![[rock16.png\|rock16.png]] Dimos Volos (large)
+- ![[rock15.png\|rock15.png]] Alíartos (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Irákleia (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rigatos (medium)
 
 
-# Planet 7 - McDaniel ![[gasg23.png]]
+# Planet 7 - McDaniel ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,7 +142,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Diwa Zib ![[iceg1.png]]
+# Planet 8 - Diwa Zib ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ceiba
-xcood: "720.2"
-ycood: "266.605"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ceiba/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ceiba
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 720.2 |
+> | Y coord| 266.605 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - San Juan ![[greenhouse16.png]]
+# Planet 1 - San Juan ![[greenhouse16.png\|greenhouse16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ceiba ![[green38.png]]
+# Planet 2 - Ceiba ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Barco de Juntas ![[gasg12.png]]
+# Planet 3 - Barco de Juntas ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -69,11 +64,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Dawaki 1 (medium)
-- ![[oddmoon3.png]] Dawaki 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dawaki 1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Dawaki 2 (medium)
 
 
-# Planet 4 - Ilama ![[gasg26.png]]
+# Planet 4 - Ilama ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

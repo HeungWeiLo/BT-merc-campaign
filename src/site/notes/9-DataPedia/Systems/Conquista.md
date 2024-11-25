@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Conquista
-xcood: "-9.579"
-ycood: "-307.101"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/conquista/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Conquista
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -9.579 |
+> | Y coord| -307.101 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Conquista ![[green57.png]]
+# Planet 1 - Conquista ![[green57.png\|green57.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Susanoo No Mikoto ![[iceg3.png]]
+# Planet 2 - Susanoo No Mikoto ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ortíz ![[gasg28.png]]
+# Planet 3 - Ortíz ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,11 +63,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] CB-1 (medium)
-- ![[oddmoon3.png]] CB-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] CB-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] CB-2 (medium)
 
 
-# Planet 4 - Ruíz ![[gasg29.png]]
+# Planet 4 - Ruíz ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,18 +82,18 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Maranoa (large)
-- ![[rock11.png]] Rúbio (large)
-- ![[rock6.png]] Rojas (large)
-- ![[rock12.png]] Ebrahimi (large)
-- ![[rock16.png]] Pacheco (large)
-- ![[oddmoon2.png]] Palmeiro (medium)
-- ![[rock15.png]] Delgado (medium)
-- ![[oddmoon1.png]] Caballero (medium)
-- ![[oddmoon3.png]] Arthur (medium)
+- ![[rock2.png\|rock2.png]] Maranoa (large)
+- ![[rock11.png\|rock11.png]] Rúbio (large)
+- ![[rock6.png\|rock6.png]] Rojas (large)
+- ![[rock12.png\|rock12.png]] Ebrahimi (large)
+- ![[rock16.png\|rock16.png]] Pacheco (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Palmeiro (medium)
+- ![[rock15.png\|rock15.png]] Delgado (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Caballero (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Arthur (medium)
 
 
-# Planet 5 - Hickin ![[gasg33.png]]
+# Planet 5 - Hickin ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -113,8 +108,8 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Soto I (medium)
-- ![[oddmoon2.png]] Soto II (medium)
-- ![[oddmoon1.png]] Soto III (medium)
+- ![[rock4.png\|rock4.png]] Soto I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Soto II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Soto III (medium)
 
 

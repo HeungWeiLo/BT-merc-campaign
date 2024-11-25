@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caph
-xcood: "12.917"
-ycood: "-0.564"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caph/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caph
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | 12.917 |
+> | Y coord| -0.564 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Ulster ![[barren24.png]]
+# Planet 1 - Ulster ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Brandt's End ![[barren9.png]]
+# Planet 2 - Brandt's End ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -49,9 +44,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Jötunheimr (large)
+- [[rock16.png\|rock16.png]] Jötunheimr (large)
 
-# Planet 3 - Caph ![[green56.png]]
+# Planet 3 - Caph ![[green56.png\|green56.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,9 +71,9 @@ After the fall of the Star League, Caph became a bitter battle ground between th
 
 3135 - Settlers first came to Caph during the early exodus from Terra, and found a world of primitive, tropical forests, fertile lands, and great mineral wealth potential. The only problem was the planet‘s deadly local wildlife, dominated by creatures very similar to the long-vanished dinosaurs of Terra. Efforts to overcome the indigenous species and spare entire settlements from destruction by giant, rampaging lizards are largely credited for the development of early BattleMech design theory. Once the threat was contained, during the age of the Terran Hegemony and the Star League, Caph became a center for advanced learning and chemical research, home to some of the Star League era‘s largest chemical and pharmaceutical corporations, as well as the Caph Institute of Technology. Unfortunately, when Stefan Amaris usurped the Camerons and took over the Hegemony, Caph suffered from the liberal use of nuclear and biological weapons that destroyed most of the large settlements and ultimately caused the virtual extinction of the Caph dinosaurs. The planet was gradually recovering by the 3030s, with some small cities managing to survive on the rim of the smaller, northern continent of Brunnel, including the present-day capital city of Aswan. New Derry, the planet‘s second-largest city, is located eighty kilometers east of Aswan, and is home to the planet‘s largest active spaceport. Additional trading centers on Brunnel include Rehope, Cimmeron, and New Zevon, all separated from each other by vast expanses of baked-hard ground and barren rock, dotted by the ruins of Star League-era cities. Of Caph‘s remaining two continents, Caph Prime and Steam, only Steam can support life, but the discovery of surviving dinosaurs in the thick jungles there has transformed the continent into a large biological preserve. Nicknamed “The Cretaceous Zone” by the Caph locals, Steam‘s human population consists only of a few small outposts and research centers funded by the Caph government to maintain and study the native inhabitants.
 
-- [[rock17.png]] Caph’s Stone (medium)
+- [[rock17.png\|rock17.png]] Caph’s Stone (medium)
 
-# Planet 4 - Upton Pyne ![[rock14.png]]
+# Planet 4 - Upton Pyne ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -96,7 +91,7 @@ After the fall of the Star League, Caph became a bitter battle ground between th
 
 
 
-# Planet 5 - Papasogli ![[rock16.png]]
+# Planet 5 - Papasogli ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -113,7 +108,7 @@ After the fall of the Star League, Caph became a bitter battle ground between th
 
 
 
-# Planet 6 - Tuteja ![[rock3.png]]
+# Planet 6 - Tuteja ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

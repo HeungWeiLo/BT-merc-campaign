@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Botany Bay
-xcood: "-177.828"
-ycood: "483.083"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/botany-bay/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Botany Bay
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | -177.828 |
+> | Y coord| 483.083 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - Horsford ![[rock12.png]]
+# Planet 1 - Horsford ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Crook's Delight ![[greenhouse14.png]]
+# Planet 2 - Crook's Delight ![[greenhouse14.png\|greenhouse14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Botany Bay ![[green43.png]]
+# Planet 3 - Botany Bay ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Parks ![[gasg35.png]]
+# Planet 4 - Parks ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Savory's Square ![[gasg23.png]]
+# Planet 5 - Savory's Square ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -103,11 +98,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Monte Córdova (large)
-- ![[rock7.png]] Perth (large)
+- ![[rock9.png\|rock9.png]] Monte Córdova (large)
+- ![[rock7.png\|rock7.png]] Perth (large)
 
 
-# Planet 6 - Butters ![[gasg14.png]]
+# Planet 6 - Butters ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,11 +117,11 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Gula 1 (large)
-- ![[rock2.png]] Gula 2 (large)
+- ![[rock4.png\|rock4.png]] Gula 1 (large)
+- ![[rock2.png\|rock2.png]] Gula 2 (large)
 
 
-# Planet 7 - Gratwick's Square ![[gasg28.png]]
+# Planet 7 - Gratwick's Square ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Severn Stoke Belt ![[asteroid2.png]]
+# Planet 8 - Severn Stoke Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -155,7 +150,7 @@ dg-publish: true
 
 
 
-# Planet 9 - François's World ![[gasg2.png]]
+# Planet 9 - François's World ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

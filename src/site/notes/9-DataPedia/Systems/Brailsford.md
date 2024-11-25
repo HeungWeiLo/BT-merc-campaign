@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brailsford
-xcood: "327.49"
-ycood: "385.138"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brailsford/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brailsford
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | 327.49 |
+> | Y coord| 385.138 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Brailsford ![[green6.png]]
+# Planet 1 - Brailsford ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Loder ![[iceg13.png]]
+# Planet 2 - Loder ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,13 +46,13 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Madresfield 1 (large)
-- ![[rock9.png]] Madresfield 2 (medium)
-- ![[oddmoon1.png]] Madresfield 3 (medium)
-- ![[oddmoon2.png]] Madresfield 4 (medium)
+- ![[rock15.png\|rock15.png]] Madresfield 1 (large)
+- ![[rock9.png\|rock9.png]] Madresfield 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Madresfield 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Madresfield 4 (medium)
 
 
-# Planet 3 - Heimdallr ![[gasg30.png]]
+# Planet 3 - Heimdallr ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -72,13 +67,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Morrigan (large)
-- ![[rock4.png]] Gangleri (large)
-- ![[rock2.png]] Airmid (large)
-- ![[oddmoon2.png]] Brigid (medium)
+- ![[rock17.png\|rock17.png]] Morrigan (large)
+- ![[rock4.png\|rock4.png]] Gangleri (large)
+- ![[rock2.png\|rock2.png]] Airmid (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Brigid (medium)
 
 
-# Planet 4 - Asgård ![[iceg14.png]]
+# Planet 4 - Asgård ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -93,9 +88,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Hampshire (large)
+- [[rock5.png\|rock5.png]] Hampshire (large)
 
-# Planet 5 - Fjorgyn ![[gasg15.png]]
+# Planet 5 - Fjorgyn ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,9 +105,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Jord (large)
+- [[rock9.png\|rock9.png]] Jord (large)
 
-# Planet 6 - Hrist ![[gasg13.png]]
+# Planet 6 - Hrist ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,12 +122,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Jones (large)
-- ![[rock14.png]] Jepleting (large)
-- ![[rock12.png]] Taylor (medium)
+- ![[rock5.png\|rock5.png]] Jones (large)
+- ![[rock14.png\|rock14.png]] Jepleting (large)
+- ![[rock12.png\|rock12.png]] Taylor (medium)
 
 
-# Planet 7 - Dowell's Belt ![[asteroid3.png]]
+# Planet 7 - Dowell's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Baldur ![[gasg8.png]]
+# Planet 8 - Baldur ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,14 +154,14 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Balder 1 (large)
-- ![[rock17.png]] Balder 2 (medium)
-- ![[rock9.png]] Balder 3 (medium)
-- ![[rock2.png]] Balder 4 (medium)
-- ![[rock10.png]] Balder 5 (medium)
+- ![[rock7.png\|rock7.png]] Balder 1 (large)
+- ![[rock17.png\|rock17.png]] Balder 2 (medium)
+- ![[rock9.png\|rock9.png]] Balder 3 (medium)
+- ![[rock2.png\|rock2.png]] Balder 4 (medium)
+- ![[rock10.png\|rock10.png]] Balder 5 (medium)
 
 
-# Planet 9 - Njoror ![[gasg32.png]]
+# Planet 9 - Njoror ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,9 +176,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Ridley (medium)
+- [[rock3.png\|rock3.png]] Ridley (medium)
 
-# Planet 10 - Valtam ![[gasg18.png]]
+# Planet 10 - Valtam ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -198,5 +193,5 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Milton Damerel (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Milton Damerel (medium)
 

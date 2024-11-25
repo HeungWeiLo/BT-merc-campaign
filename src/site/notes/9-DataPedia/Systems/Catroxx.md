@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Catroxx
-xcood: "-90.857"
-ycood: "-36.364"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/catroxx/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Catroxx
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | -90.857 |
+> | Y coord| -36.364 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Ilythyia Leucothea ![[gasg22.png]]
+# Planet 1 - Ilythyia Leucothea ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Catroxx ![[green23.png]]
+# Planet 2 - Catroxx ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Iuppiter ![[frozen58.png]]
+# Planet 3 - Iuppiter ![[frozen58.png\|frozen58.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Invidia A (medium)
-- ![[rock12.png]] Invidia B (medium)
+- ![[rock9.png\|rock9.png]] Invidia A (medium)
+- ![[rock12.png\|rock12.png]] Invidia B (medium)
 
 
-# Planet 4 - Jupiter's Harvest ![[gasg24.png]]
+# Planet 4 - Jupiter's Harvest ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Fabulinus ![[gasg34.png]]
+# Planet 5 - Fabulinus ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,5 +102,5 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Chandra (large)
+- [[rock15.png\|rock15.png]] Chandra (large)
 

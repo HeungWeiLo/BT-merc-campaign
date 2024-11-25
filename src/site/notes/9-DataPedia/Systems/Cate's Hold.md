@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cate's Hold
-xcood: "-69.555"
-ycood: "-471.669"
-spectralType: M2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cate-s-hold/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cate's Hold
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M2V.png]] |
+> | X coord | -69.555 |
+> | Y coord| -471.669 |
+> | Spectral Type | M2V ![[M2V.png\|M2V.png]] |
 
-# Planet 1 - Cate's Hold ![[green17.png]]
+# Planet 1 - Cate's Hold ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Muhanned ![[gasg1.png]]
+# Planet 2 - Muhanned ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Æsgard Belt ![[asteroid3.png]]
+# Planet 3 - Æsgard Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Blatherwick ![[gasg8.png]]
+# Planet 4 - Blatherwick ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,9 +75,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Yozgat (medium)
+- [[rock1.png\|rock1.png]] Yozgat (medium)
 
-# Planet 5 - Shawcross ![[iceg18.png]]
+# Planet 5 - Shawcross ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Scott's Stand ![[gasg14.png]]
+# Planet 6 - Scott's Stand ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -114,8 +109,8 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Herne I (large)
-- ![[rock10.png]] Herne II (large)
-- ![[rock2.png]] Herne III (medium)
+- ![[rock6.png\|rock6.png]] Herne I (large)
+- ![[rock10.png\|rock10.png]] Herne II (large)
+- ![[rock2.png\|rock2.png]] Herne III (medium)
 
 

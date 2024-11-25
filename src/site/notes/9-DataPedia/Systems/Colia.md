@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colia
-xcood: "357.494"
-ycood: "66.905"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | 357.494 |
+> | Y coord| 66.905 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Colia ![[green13.png]]
+# Planet 1 - Colia ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Albunea (medium)
-- ![[rock2.png]] D-1 (medium)
-- ![[rock16.png]] Saturnus (medium)
+- ![[rock12.png\|rock12.png]] Albunea (medium)
+- ![[rock2.png\|rock2.png]] D-1 (medium)
+- ![[rock16.png\|rock16.png]] Saturnus (medium)
 
 
-# Planet 2 - PI2-2 ![[rock6.png]]
+# Planet 2 - PI2-2 ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - PI2-3 ![[gasg3.png]]
+# Planet 3 - PI2-3 ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Pallas Athena (medium)
-- ![[rock9.png]] Caeneus (medium)
+- ![[rock5.png\|rock5.png]] Pallas Athena (medium)
+- ![[rock9.png\|rock9.png]] Caeneus (medium)
 
 
-# Planet 4 - PI2-4 ![[gasg6.png]]
+# Planet 4 - PI2-4 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,12 +85,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Gaza I (medium)
-- ![[rock3.png]] Gaza II (medium)
-- ![[rock5.png]] Gaza III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Gaza I (medium)
+- ![[rock3.png\|rock3.png]] Gaza II (medium)
+- ![[rock5.png\|rock5.png]] Gaza III (medium)
 
 
-# Planet 5 - Anchieta's Belt ![[asteroid3.png]]
+# Planet 5 - Anchieta's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - PI2-5 ![[gasg29.png]]
+# Planet 6 - PI2-5 ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - PI2-6 ![[gasg27.png]]
+# Planet 7 - PI2-6 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,18 +134,18 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Dunga (giant)
-- ![[rock10.png]] RV1 (giant)
-- ![[rock1.png]] RV2 (large)
-- ![[rock14.png]] Lecomte (large)
-- ![[rock4.png]] RV3 (large)
-- ![[oddmoon3.png]] Pscoa (medium)
-- ![[oddmoon1.png]] Pollock (medium)
-- ![[oddmoon2.png]] RV4 (medium)
-- ![[rock3.png]] RV5 (medium)
+- ![[rock13.png\|rock13.png]] Dunga (giant)
+- ![[rock10.png\|rock10.png]] RV1 (giant)
+- ![[rock1.png\|rock1.png]] RV2 (large)
+- ![[rock14.png\|rock14.png]] Lecomte (large)
+- ![[rock4.png\|rock4.png]] RV3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Pscoa (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Pollock (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] RV4 (medium)
+- ![[rock3.png\|rock3.png]] RV5 (medium)
 
 
-# Planet 8 - PI2-7 ![[gasg22.png]]
+# Planet 8 - PI2-7 ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -167,7 +162,7 @@ dg-publish: true
 
 
 
-# Planet 9 - PI2-8 ![[gasg15.png]]
+# Planet 9 - PI2-8 ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,9 +177,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Q1 (medium)
+- [[rock17.png\|rock17.png]] Q1 (medium)
 
-# Planet 10 - PI2-9 ![[gasg12.png]]
+# Planet 10 - PI2-9 ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

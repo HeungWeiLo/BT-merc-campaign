@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bogrib
-xcood: "-139.179"
-ycood: "-305.873"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bogrib/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bogrib
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | -139.179 |
+> | Y coord| -305.873 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Barattin ![[iceg11.png]]
+# Planet 1 - Barattin ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Tiwaz (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Tiwaz (medium)
 
-# Planet 2 - Oesterreicher ![[greenhouse14.png]]
+# Planet 2 - Oesterreicher ![[greenhouse14.png\|greenhouse14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Bogrib ![[green30.png]]
+# Planet 3 - Bogrib ![[green30.png\|green30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Pandora (large)
+- [[rock2.png\|rock2.png]] Pandora (large)
 
-# Planet 4 - Martin's End ![[gasg25.png]]
+# Planet 4 - Martin's End ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cedar Belt ![[asteroid1.png]]
+# Planet 5 - Cedar Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Sangal ![[gasg2.png]]
+# Planet 6 - Sangal ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,7 +110,7 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Gama Konsensei (medium)
-- ![[oddmoon3.png]] Otohime (medium)
+- ![[rock4.png\|rock4.png]] Gama Konsensei (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Otohime (medium)
 
 

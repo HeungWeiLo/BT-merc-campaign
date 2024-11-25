@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cogdell
-xcood: "521.902"
-ycood: "-141.512"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cogdell/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cogdell
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | 521.902 |
+> | Y coord| -141.512 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Clayton ![[rock3.png]]
+# Planet 1 - Clayton ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Murray's Wind ![[iceg3.png]]
+# Planet 2 - Murray's Wind ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Natero Kop ![[iceg9.png]]
+# Planet 3 - Natero Kop ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -64,11 +59,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Shoko O I (medium)
-- ![[rock11.png]] Shoko O II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Shoko O I (medium)
+- ![[rock11.png\|rock11.png]] Shoko O II (medium)
 
 
-# Planet 4 - Cogdell ![[green10.png]]
+# Planet 4 - Cogdell ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ Cogdell was originally ‘settled’ when a group of convicts from the Periphery
 
 
 
-# Planet 5 - Alla ![[frozen32.png]]
+# Planet 5 - Alla ![[frozen32.png\|frozen32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,7 +104,7 @@ Cogdell was originally ‘settled’ when a group of convicts from the Periphery
 
 
 
-# Planet 6 - Montgomery's Planet ![[gasg37.png]]
+# Planet 6 - Montgomery's Planet ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,12 +119,12 @@ Cogdell was originally ‘settled’ when a group of convicts from the Periphery
 
 
 
-- ![[rock11.png]] 1L1 (large)
-- ![[oddmoon1.png]] 1L2 (medium)
-- ![[oddmoon2.png]] 1L3 (medium)
+- ![[rock11.png\|rock11.png]] 1L1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 1L2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 1L3 (medium)
 
 
-# Planet 7 - Bender ![[gasg35.png]]
+# Planet 7 - Bender ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,14 +139,14 @@ Cogdell was originally ‘settled’ when a group of convicts from the Periphery
 
 
 
-- ![[rock17.png]] Sedna (large)
-- ![[rock9.png]] Nipinoukhe (large)
-- ![[rock4.png]] Dzalarhons (medium)
-- ![[oddmoon2.png]] Nankil'slas (medium)
-- ![[rock12.png]] Apoyan Tachi (medium)
+- ![[rock17.png\|rock17.png]] Sedna (large)
+- ![[rock9.png\|rock9.png]] Nipinoukhe (large)
+- ![[rock4.png\|rock4.png]] Dzalarhons (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Nankil'slas (medium)
+- ![[rock12.png\|rock12.png]] Apoyan Tachi (medium)
 
 
-# Planet 8 - Skewes's Nest ![[iceg15.png]]
+# Planet 8 - Skewes's Nest ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -168,7 +163,7 @@ Cogdell was originally ‘settled’ when a group of convicts from the Periphery
 
 
 
-# Planet 9 - Ananse ![[gasg32.png]]
+# Planet 9 - Ananse ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

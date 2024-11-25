@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chupadero
-xcood: "227.989"
-ycood: "379.415"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chupadero/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chupadero
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 227.989 |
+> | Y coord| 379.415 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - El Vigía ![[barren7.png]]
+# Planet 1 - El Vigía ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Baralt ![[gasg9.png]]
+# Planet 2 - Baralt ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] De La Cruz Alpha (large)
-- ![[oddmoon1.png]] De La Cruz Beta (medium)
+- ![[rock11.png\|rock11.png]] De La Cruz Alpha (large)
+- ![[oddmoon1.png\|oddmoon1.png]] De La Cruz Beta (medium)
 
 
-# Planet 3 - Mariara ![[greenhouse32.png]]
+# Planet 3 - Mariara ![[greenhouse32.png\|greenhouse32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Chupadero ![[green39.png]]
+# Planet 4 - Chupadero ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,12 +84,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Raiju I (medium)
-- ![[rock13.png]] Raiju II (medium)
-- ![[rock16.png]] Raiju III (medium)
+- ![[rock3.png\|rock3.png]] Raiju I (medium)
+- ![[rock13.png\|rock13.png]] Raiju II (medium)
+- ![[rock16.png\|rock16.png]] Raiju III (medium)
 
 
-# Planet 5 - Parroquia Barrancas ![[gasg20.png]]
+# Planet 5 - Parroquia Barrancas ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Galván ![[frozen24.png]]
+# Planet 6 - Galván ![[frozen24.png\|frozen24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -131,7 +126,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Sabana de Mendoza ![[gasg37.png]]
+# Planet 7 - Sabana de Mendoza ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,12 +141,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] L81 (large)
-- ![[rock1.png]] L82 (large)
-- ![[rock4.png]] L83 (large)
+- ![[rock5.png\|rock5.png]] L81 (large)
+- ![[rock1.png\|rock1.png]] L82 (large)
+- ![[rock4.png\|rock4.png]] L83 (large)
 
 
-# Planet 8 - García ![[gasg3.png]]
+# Planet 8 - García ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,12 +161,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Trejo (large)
-- ![[oddmoon1.png]] Calaf (medium)
-- ![[oddmoon2.png]] Fernández (medium)
+- ![[rock4.png\|rock4.png]] Trejo (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Calaf (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fernández (medium)
 
 
-# Planet 9 - Bejuma ![[gasg4.png]]
+# Planet 9 - Bejuma ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,5 +181,5 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Empanda (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Empanda (medium)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colleen
-xcood: "-146.566"
-ycood: "1837.816"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colleen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colleen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | -146.566 |
+> | Y coord| 1837.816 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Adkins's Stand ![[iceg17.png]]
+# Planet 1 - Adkins's Stand ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lahti's Harvest ![[rock5.png]]
+# Planet 2 - Lahti's Harvest ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Colleen ![[green8.png]]
+# Planet 3 - Colleen ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,9 +67,9 @@ Haven is the 2nd planet in the system (out of 6) and is relatively temperate pla
 
 Honor is the 4th planet in the system and is best described as an arctic planet with an equitorial high of 18 degrees centigrade.
 
-- [[oddmoon1.png]] Unnamed (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Unnamed (medium)
 
-# Planet 4 - Awitelin Tsta Belt ![[asteroid1.png]]
+# Planet 4 - Awitelin Tsta Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -86,7 +81,7 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-# Planet 5 - Jenssen's Madness ![[gasg4.png]]
+# Planet 5 - Jenssen's Madness ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -101,11 +96,11 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-- ![[rock8.png]] Biggs (large)
-- ![[rock1.png]] Peeksville (large)
+- ![[rock8.png\|rock8.png]] Biggs (large)
+- ![[rock1.png\|rock1.png]] Peeksville (large)
 
 
-# Planet 6 - Sebelano's Retreat ![[gasg5.png]]
+# Planet 6 - Sebelano's Retreat ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,14 +115,14 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-- ![[rock8.png]] Breen (large)
-- ![[rock2.png]] Fountain Run (large)
-- ![[rock17.png]] Ball (large)
-- ![[rock3.png]] Meredith (large)
-- ![[rock13.png]] Alamogordo (large)
+- ![[rock8.png\|rock8.png]] Breen (large)
+- ![[rock2.png\|rock2.png]] Fountain Run (large)
+- ![[rock17.png\|rock17.png]] Ball (large)
+- ![[rock3.png\|rock3.png]] Meredith (large)
+- ![[rock13.png\|rock13.png]] Alamogordo (large)
 
 
-# Planet 7 - Hammond's Den ![[gasg14.png]]
+# Planet 7 - Hammond's Den ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -144,7 +139,7 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-# Planet 8 - Wilkerson's Land ![[gasg27.png]]
+# Planet 8 - Wilkerson's Land ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,11 +154,11 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-- ![[rock9.png]] Weems I (large)
-- ![[rock11.png]] Weems II (large)
+- ![[rock9.png\|rock9.png]] Weems I (large)
+- ![[rock11.png\|rock11.png]] Weems II (large)
 
 
-# Planet 9 - Winston ![[gasg9.png]]
+# Planet 9 - Winston ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,10 +173,10 @@ Honor is the 4th planet in the system and is best described as an arctic planet 
 
 
 
-- ![[rock1.png]] 5P-1 (giant)
-- ![[rock9.png]] 5P-2 (giant)
-- ![[oddmoon1.png]] 5P-3 (medium)
-- ![[rock7.png]] 5P-4 (medium)
-- ![[oddmoon2.png]] 5P-5 (medium)
+- ![[rock1.png\|rock1.png]] 5P-1 (giant)
+- ![[rock9.png\|rock9.png]] 5P-2 (giant)
+- ![[oddmoon1.png\|oddmoon1.png]] 5P-3 (medium)
+- ![[rock7.png\|rock7.png]] 5P-4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 5P-5 (medium)
 
 

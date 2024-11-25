@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bountiful Harvest
-xcood: "-137.281"
-ycood: "261.032"
-spectralType: F2IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bountiful-harvest/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bountiful Harvest
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2IV.png]] |
+> | X coord | -137.281 |
+> | Y coord| 261.032 |
+> | Spectral Type | F2IV ![[F2IV.png\|F2IV.png]] |
 
-# Planet 1 - Boxholm ![[barren24.png]]
+# Planet 1 - Boxholm ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sangli ![[greenhouse17.png]]
+# Planet 2 - Sangli ![[greenhouse17.png\|greenhouse17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Plattsmouth ![[rock13.png]]
+# Planet 3 - Plattsmouth ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bountiful Harvest ![[wet1.png]]
+# Planet 4 - Bountiful Harvest ![[wet1.png\|wet1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,9 +82,9 @@ dg-publish: true
 
 Bountiful Harvest is one of the most productive agricultural worlds in the entire Inner Sphere. The planet is slightly larger than Terra and possesses large tracts of fertile land perfect for growing produce and raising livestock as well as large oceans teeming with a large variety of plants and animals. With ample water, fertile land and a comfortable temperate climate it is little surprise that Bountiful Harvest lives up to its name. Bountiful Harvest is a major exporter of all types of food to surrounding systems.
 
-- [[rock7.png]] Scarecrow (medium)
+- [[rock7.png\|rock7.png]] Scarecrow (medium)
 
-# Planet 5 - Bogue ![[rock10.png]]
+# Planet 5 - Bogue ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-# Planet 6 - Bowie ![[iceg3.png]]
+# Planet 6 - Bowie ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -121,14 +116,14 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-- ![[rock2.png]] I1 (large)
-- ![[rock10.png]] I2 (medium)
-- ![[rock16.png]] I3 (medium)
-- ![[oddmoon2.png]] I4 (medium)
-- ![[rock8.png]] I5 (medium)
+- ![[rock2.png\|rock2.png]] I1 (large)
+- ![[rock10.png\|rock10.png]] I2 (medium)
+- ![[rock16.png\|rock16.png]] I3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] I4 (medium)
+- ![[rock8.png\|rock8.png]] I5 (medium)
 
 
-# Planet 7 - Shahr-e Bābak ![[gasg35.png]]
+# Planet 7 - Shahr-e Bābak ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,12 +138,12 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-- ![[rock7.png]] Elwell (large)
-- ![[rock17.png]] Fisher (large)
-- ![[rock4.png]] Oakden (large)
+- ![[rock7.png\|rock7.png]] Elwell (large)
+- ![[rock17.png\|rock17.png]] Fisher (large)
+- ![[rock4.png\|rock4.png]] Oakden (large)
 
 
-# Planet 8 - Corry ![[gasg36.png]]
+# Planet 8 - Corry ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,13 +158,13 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-- ![[rock9.png]] R1 (large)
-- ![[rock6.png]] R2 (medium)
-- ![[rock7.png]] R3 (medium)
-- ![[rock11.png]] R4 (medium)
+- ![[rock9.png\|rock9.png]] R1 (large)
+- ![[rock6.png\|rock6.png]] R2 (medium)
+- ![[rock7.png\|rock7.png]] R3 (medium)
+- ![[rock11.png\|rock11.png]] R4 (medium)
 
 
-# Planet 9 - Tsohanoai Belt ![[asteroid2.png]]
+# Planet 9 - Tsohanoai Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -181,7 +176,7 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-# Planet 10 - Maryville ![[gasg27.png]]
+# Planet 10 - Maryville ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,9 +191,9 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-- [[oddmoon2.png]] KDC-1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] KDC-1 (medium)
 
-# Planet 11 - Kibiti ![[iceg9.png]]
+# Planet 11 - Kibiti ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -213,5 +208,5 @@ Bountiful Harvest is one of the most productive agricultural worlds in the entir
 
 
 
-- [[rock10.png]] MQ1 (large)
+- [[rock10.png\|rock10.png]] MQ1 (large)
 

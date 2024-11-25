@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bremond
-xcood: "388.248"
-ycood: "58.63"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bremond/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bremond
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 388.248 |
+> | Y coord| 58.63 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Byggvir ![[rock5.png]]
+# Planet 1 - Byggvir ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hel ![[barren15.png]]
+# Planet 2 - Hel ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Rogers (medium)
-- ![[oddmoon2.png]] Fisk (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Rogers (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fisk (medium)
 
 
-# Planet 3 - Niu Heimar ![[rock2.png]]
+# Planet 3 - Niu Heimar ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bremond ![[green45.png]]
+# Planet 4 - Bremond ![[green45.png\|green45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,9 +83,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Oculate Being (medium)
+- [[rock16.png\|rock16.png]] Oculate Being (medium)
 
-# Planet 5 - Álfheimr ![[rock6.png]]
+# Planet 5 - Álfheimr ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Odin ![[gasg38.png]]
+# Planet 6 - Odin ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Calva Belt ![[asteroid3.png]]
+# Planet 7 - Calva Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -136,7 +131,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Niflhel's Harvest ![[gasg6.png]]
+# Planet 8 - Niflhel's Harvest ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,12 +146,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Fontus I (medium)
-- ![[oddmoon3.png]] Fontus II (medium)
-- ![[oddmoon1.png]] Fontus III (medium)
+- ![[rock6.png\|rock6.png]] Fontus I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Fontus II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Fontus III (medium)
 
 
-# Planet 9 - Týr's Harvest ![[gasg30.png]]
+# Planet 9 - Týr's Harvest ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,11 +166,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Cailliach (medium)
-- ![[rock7.png]] Dana (medium)
+- ![[rock15.png\|rock15.png]] Cailliach (medium)
+- ![[rock7.png\|rock7.png]] Dana (medium)
 
 
-# Planet 10 - Rainbow Bridge ![[gasg23.png]]
+# Planet 10 - Rainbow Bridge ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,14 +185,14 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] 441-1 (large)
-- ![[rock13.png]] 441-2 (large)
-- ![[rock3.png]] 441-3 (large)
-- ![[rock9.png]] 441-4 (large)
-- ![[oddmoon2.png]] 441-5 (medium)
+- ![[rock15.png\|rock15.png]] 441-1 (large)
+- ![[rock13.png\|rock13.png]] 441-2 (large)
+- ![[rock3.png\|rock3.png]] 441-3 (large)
+- ![[rock9.png\|rock9.png]] 441-4 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 441-5 (medium)
 
 
-# Planet 11 - Baldr ![[gasg31.png]]
+# Planet 11 - Baldr ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -212,9 +207,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] S15-1 (large)
+- [[rock15.png\|rock15.png]] S15-1 (large)
 
-# Planet 12 - Rig ![[gasg28.png]]
+# Planet 12 - Rig ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -229,11 +224,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] YV6-1 (large)
-- ![[oddmoon2.png]] YV6-2 (medium)
+- ![[rock6.png\|rock6.png]] YV6-1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] YV6-2 (medium)
 
 
-# Planet 13 - Mimir ![[iceg19.png]]
+# Planet 13 - Mimir ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -250,7 +245,7 @@ dg-publish: true
 
 
 
-# Planet 14 - Fenrir ![[gasg2.png]]
+# Planet 14 - Fenrir ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -265,7 +260,7 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Jackson 1 (large)
-- ![[rock2.png]] Jackson 2 (large)
+- ![[rock15.png\|rock15.png]] Jackson 1 (large)
+- ![[rock2.png\|rock2.png]] Jackson 2 (large)
 
 

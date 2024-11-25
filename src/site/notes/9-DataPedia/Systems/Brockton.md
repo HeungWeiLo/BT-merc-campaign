@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brockton
-xcood: "531.977"
-ycood: "-119.184"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brockton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brockton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | 531.977 |
+> | Y coord| -119.184 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Guan Gong ![[barren17.png]]
+# Planet 1 - Guan Gong ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Nirav A (medium)
-- ![[oddmoon2.png]] Nirav B (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nirav A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Nirav B (medium)
 
 
-# Planet 2 - Lu Wu Guan ![[barren11.png]]
+# Planet 2 - Lu Wu Guan ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Bian Cheng Wang ![[rock10.png]]
+# Planet 3 - Bian Cheng Wang ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] H8Y.1 (medium)
+- [[rock15.png\|rock15.png]] H8Y.1 (medium)
 
-# Planet 4 - Brockton ![[green23.png]]
+# Planet 4 - Brockton ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Qi Lin ![[rock11.png]]
+# Planet 5 - Qi Lin ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Springfield ![[gasg29.png]]
+# Planet 6 - Springfield ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,19 +118,19 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] James (giant)
-- ![[rock3.png]] Mathieu (giant)
-- ![[rock7.png]] Perkūnas (large)
-- ![[rock16.png]] Christopher (large)
-- ![[rock6.png]] Stone (large)
-- ![[rock8.png]] McCoy (large)
-- ![[oddmoon1.png]] O (medium)
-- ![[oddmoon3.png]] Simmons (medium)
-- ![[rock1.png]] Meidein (medium)
-- ![[rock14.png]] Meyer (medium)
+- ![[rock15.png\|rock15.png]] James (giant)
+- ![[rock3.png\|rock3.png]] Mathieu (giant)
+- ![[rock7.png\|rock7.png]] Perkūnas (large)
+- ![[rock16.png\|rock16.png]] Christopher (large)
+- ![[rock6.png\|rock6.png]] Stone (large)
+- ![[rock8.png\|rock8.png]] McCoy (large)
+- ![[oddmoon1.png\|oddmoon1.png]] O (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Simmons (medium)
+- ![[rock1.png\|rock1.png]] Meidein (medium)
+- ![[rock14.png\|rock14.png]] Meyer (medium)
 
 
-# Planet 7 - Kuan Yu ![[gasg34.png]]
+# Planet 7 - Kuan Yu ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,13 +145,13 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Hart (medium)
-- ![[rock2.png]] Reed (medium)
-- ![[oddmoon3.png]] Land (medium)
-- ![[rock11.png]] Moss (medium)
+- ![[rock4.png\|rock4.png]] Hart (medium)
+- ![[rock2.png\|rock2.png]] Reed (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Land (medium)
+- ![[rock11.png\|rock11.png]] Moss (medium)
 
 
-# Planet 8 - Yu Ch'iang's Dawn ![[gasg6.png]]
+# Planet 8 - Yu Ch'iang's Dawn ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -173,7 +168,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Auxesia ![[gasg10.png]]
+# Planet 9 - Auxesia ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,7 +185,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Domania Belt ![[asteroid2.png]]
+# Planet 10 - Domania Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

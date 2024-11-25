@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Casere
-xcood: "77.8"
-ycood: "343.743"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/casere/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Casere
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | 77.8 |
+> | Y coord| 343.743 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Decoria ![[rock12.png]]
+# Planet 1 - Decoria ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Scena - Schenna ![[barren11.png]]
+# Planet 2 - Scena - Schenna ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Lake Landing ![[rock7.png]]
+# Planet 3 - Lake Landing ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Casere ![[green12.png]]
+# Planet 4 - Casere ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Necessitas ![[iceg2.png]]
+# Planet 5 - Necessitas ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -103,12 +98,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Remus Alpha (medium)
-- ![[rock13.png]] Remus Beta (medium)
-- ![[oddmoon1.png]] Remus Gamma (medium)
+- ![[rock1.png\|rock1.png]] Remus Alpha (medium)
+- ![[rock13.png\|rock13.png]] Remus Beta (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Remus Gamma (medium)
 
 
-# Planet 6 - Oggiona-Santo Stefano ![[gasg32.png]]
+# Planet 6 - Oggiona-Santo Stefano ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,8 +118,8 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Karora I (large)
-- ![[rock7.png]] Karora II (large)
-- ![[rock3.png]] Karora III (large)
+- ![[rock5.png\|rock5.png]] Karora I (large)
+- ![[rock7.png\|rock7.png]] Karora II (large)
+- ![[rock3.png\|rock3.png]] Karora III (large)
 
 

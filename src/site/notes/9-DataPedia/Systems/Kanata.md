@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kanata
-xcood: "-96.154"
-ycood: "-307.865"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kanata/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kanata
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | -96.154 |
+> | Y coord| -307.865 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Kanata ![[green42.png]]
+# Planet 1 - Kanata ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,12 +32,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Ramírez's Belt ![[asteroid1.png]]
+# Planet 2 - Ramírez's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -57,7 +52,7 @@ dg-publish: true
 
 
 
-# Planet 3 - El Beni ![[gasg5.png]]
+# Planet 3 - El Beni ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -75,9 +70,9 @@ dg-publish: true
 3
 5
 
-- [[rock14.png]] Dagda (large)
+- [[rock14.png\|rock14.png]] Dagda (large)
 
-# Planet 4 - Zapata's Belt ![[asteroid3.png]]
+# Planet 4 - Zapata's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Madriguera de Elsmore ![[gasg3.png]]
+# Planet 5 - Madriguera de Elsmore ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,13 +105,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Colo Colo Belt ![[asteroid2.png]]
+# Planet 6 - Colo Colo Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -131,7 +126,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Beltrán's Belt ![[asteroid1.png]]
+# Planet 7 - Beltrán's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Tarata ![[gasg23.png]]
+# Planet 8 - Tarata ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -164,7 +159,7 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

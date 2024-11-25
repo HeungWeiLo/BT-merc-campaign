@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bordon
-xcood: "-63.082"
-ycood: "-33.391"
-spectralType: K0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bordon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bordon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K0V.png]] |
+> | X coord | -63.082 |
+> | Y coord| -33.391 |
+> | Spectral Type | K0V ![[K0V.png\|K0V.png]] |
 
-# Planet 1 - Vázquez ![[gasg20.png]]
+# Planet 1 - Vázquez ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Caldas de Reis (giant)
+- [[rock12.png\|rock12.png]] Caldas de Reis (giant)
 
-# Planet 2 - Martínez's Meridian ![[green47.png]]
+# Planet 2 - Martínez's Meridian ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Bordon ![[green52.png]]
+# Planet 3 - Bordon ![[green52.png\|green52.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Messer's Belt ![[asteroid2.png]]
+# Planet 4 - Messer's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -86,7 +81,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Sánchez ![[gasg25.png]]
+# Planet 5 - Sánchez ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -101,13 +96,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Camacho I (large)
-- ![[rock13.png]] Camacho II (medium)
-- ![[oddmoon2.png]] Camacho III (medium)
-- ![[oddmoon3.png]] Camacho IV (medium)
+- ![[rock1.png\|rock1.png]] Camacho I (large)
+- ![[rock13.png\|rock13.png]] Camacho II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Camacho III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Camacho IV (medium)
 
 
-# Planet 6 - Reed ![[iceg11.png]]
+# Planet 6 - Reed ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -122,11 +117,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Sainte-Apolline-de-Patton 1 (large)
-- ![[rock8.png]] Sainte-Apolline-de-Patton 2 (large)
+- ![[rock11.png\|rock11.png]] Sainte-Apolline-de-Patton 1 (large)
+- ![[rock8.png\|rock8.png]] Sainte-Apolline-de-Patton 2 (large)
 
 
-# Planet 7 - Pirelli ![[gasg10.png]]
+# Planet 7 - Pirelli ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,13 +136,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] P1 (large)
-- ![[rock16.png]] P2 (medium)
-- ![[rock17.png]] P3 (medium)
-- ![[rock5.png]] P4 (medium)
+- ![[rock8.png\|rock8.png]] P1 (large)
+- ![[rock16.png\|rock16.png]] P2 (medium)
+- ![[rock17.png\|rock17.png]] P3 (medium)
+- ![[rock5.png\|rock5.png]] P4 (medium)
 
 
-# Planet 8 - Mfaki's Delight ![[gasg15.png]]
+# Planet 8 - Mfaki's Delight ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -162,5 +157,5 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Vázquez (medium)
+- [[rock5.png\|rock5.png]] Vázquez (medium)
 

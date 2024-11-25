@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Castrovia
-xcood: "13.692"
-ycood: "-252.594"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/castrovia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Castrovia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 13.692 |
+> | Y coord| -252.594 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Powlesland's Patch ![[iceg8.png]]
+# Planet 1 - Powlesland's Patch ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,13 +25,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Apollo A (medium)
-- ![[oddmoon1.png]] Apollo B (medium)
-- ![[oddmoon2.png]] Apollo C (medium)
-- ![[rock4.png]] Apollo D (medium)
+- ![[rock8.png\|rock8.png]] Apollo A (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Apollo B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Apollo C (medium)
+- ![[rock4.png\|rock4.png]] Apollo D (medium)
 
 
-# Planet 2 - Crabtree ![[greenhouse13.png]]
+# Planet 2 - Crabtree ![[greenhouse13.png\|greenhouse13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Hahne ![[iceg15.png]]
+# Planet 3 - Hahne ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Castrovia ![[green40.png]]
+# Planet 4 - Castrovia ![[green40.png\|green40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Kane ![[barren13.png]]
+# Planet 5 - Kane ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Roche ![[frozen37.png]]
+# Planet 6 - Roche ![[frozen37.png\|frozen37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -128,12 +123,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Indra 1 (medium)
-- ![[oddmoon1.png]] Indra 2 (medium)
-- ![[rock11.png]] Indra 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Indra 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Indra 2 (medium)
+- ![[rock11.png\|rock11.png]] Indra 3 (medium)
 
 
-# Planet 7 - Fortini ![[gasg14.png]]
+# Planet 7 - Fortini ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -148,9 +143,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Pérez (medium)
+- [[rock11.png\|rock11.png]] Pérez (medium)
 
-# Planet 8 - Sahu ![[iceg16.png]]
+# Planet 8 - Sahu ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

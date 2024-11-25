@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carsphairn
-xcood: "-96.168"
-ycood: "38.985"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carsphairn/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carsphairn
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | -96.168 |
+> | Y coord| 38.985 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Gilbert's Patch ![[iceg9.png]]
+# Planet 1 - Gilbert's Patch ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Etheridge (medium)
-- ![[rock5.png]] Dreekmann (medium)
+- ![[rock17.png\|rock17.png]] Etheridge (medium)
+- ![[rock5.png\|rock5.png]] Dreekmann (medium)
 
 
-# Planet 2 - Widdicombe ![[iceg12.png]]
+# Planet 2 - Widdicombe ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,12 +44,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Od Alpha (large)
-- ![[rock7.png]] Od Beta (large)
-- ![[rock5.png]] Od Gamma (medium)
+- ![[rock10.png\|rock10.png]] Od Alpha (large)
+- ![[rock7.png\|rock7.png]] Od Beta (large)
+- ![[rock5.png\|rock5.png]] Od Gamma (medium)
 
 
-# Planet 3 - Carsphairn ![[wet5.png]]
+# Planet 3 - Carsphairn ![[wet5.png\|wet5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,12 +72,12 @@ Located securely inside the Federation of Skye, Carsphairn was largely overlooke
 
 During the Jihad, Carsphairn was raided several times by Word of Blake forces as it was an easy stop for foodstuffs to sustain their longer campaigns. This strategy forced the stationing of a permanent garrison of a mix of Lyran, Combine, and Clan Wolf warriors in the latter half of the war. Since becoming a member-world of the Republic of the Sphere, many of these garrison troops became part of Prefecture VIII militia remain on Carsphairn.
 
-- ![[rock5.png]] Ammon (medium)
-- ![[rock8.png]] Jael (large)
-- ![[rock17.png]] Zayit (large)
+- ![[rock5.png\|rock5.png]] Ammon (medium)
+- ![[rock8.png\|rock8.png]] Jael (large)
+- ![[rock17.png\|rock17.png]] Zayit (large)
 
 
-# Planet 4 - Holtom's Delight ![[rock16.png]]
+# Planet 4 - Holtom's Delight ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -99,7 +94,7 @@ During the Jihad, Carsphairn was raided several times by Word of Blake forces as
 
 
 
-# Planet 5 - Winder ![[gasg6.png]]
+# Planet 5 - Winder ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -114,13 +109,13 @@ During the Jihad, Carsphairn was raided several times by Word of Blake forces as
 
 
 
-- ![[rock1.png]] Cluett (large)
-- ![[rock10.png]] Tregellas (large)
-- ![[rock11.png]] Wonham (large)
-- ![[oddmoon2.png]] Blankley (medium)
+- ![[rock1.png\|rock1.png]] Cluett (large)
+- ![[rock10.png\|rock10.png]] Tregellas (large)
+- ![[rock11.png\|rock11.png]] Wonham (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Blankley (medium)
 
 
-# Planet 6 - Vak Belt ![[asteroid3.png]]
+# Planet 6 - Vak Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -132,7 +127,7 @@ During the Jihad, Carsphairn was raided several times by Word of Blake forces as
 
 
 
-# Planet 7 - Jupiter ![[frozen22.png]]
+# Planet 7 - Jupiter ![[frozen22.png\|frozen22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -150,8 +145,8 @@ During the Jihad, Carsphairn was raided several times by Word of Blake forces as
 
 
 
-- ![[oddmoon2.png]] Netheravon I (medium)
-- ![[oddmoon1.png]] Netheravon II (medium)
-- ![[oddmoon3.png]] Netheravon III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Netheravon I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Netheravon II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Netheravon III (medium)
 
 

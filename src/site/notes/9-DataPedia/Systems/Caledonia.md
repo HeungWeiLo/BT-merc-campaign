@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caledonia
-xcood: "-121.025"
-ycood: "37.179"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caledonia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caledonia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | -121.025 |
+> | Y coord| 37.179 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Caledonia ![[green10.png]]
+# Planet 1 - Caledonia ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Alpan ![[iceg4.png]]
+# Planet 2 - Alpan ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Fufluns ![[gasg10.png]]
+# Planet 3 - Fufluns ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Milesius (large)
+- [[rock12.png\|rock12.png]] Milesius (large)
 
-# Planet 4 - Watterson Park ![[gasg3.png]]
+# Planet 4 - Watterson Park ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Lasae ![[gasg2.png]]
+# Planet 5 - Lasae ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Nephthys ![[gasg5.png]]
+# Planet 6 - Nephthys ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,9 +114,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Graii (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Graii (medium)
 
-# Planet 7 - Menrva ![[gasg28.png]]
+# Planet 7 - Menrva ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -136,9 +131,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] KP-1 (medium)
+- [[rock2.png\|rock2.png]] KP-1 (medium)
 
-# Planet 8 - Laime Belt ![[asteroid3.png]]
+# Planet 8 - Laime Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -150,7 +145,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Menerva ![[gasg23.png]]
+# Planet 9 - Menerva ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,13 +160,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Rhea Silvia 1 (medium)
-- ![[rock15.png]] Rhea Silvia 2 (medium)
-- ![[oddmoon2.png]] Rhea Silvia 3 (medium)
-- ![[oddmoon3.png]] Rhea Silvia 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Rhea Silvia 1 (medium)
+- ![[rock15.png\|rock15.png]] Rhea Silvia 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rhea Silvia 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rhea Silvia 4 (medium)
 
 
-# Planet 10 - Chalchas ![[gasg15.png]]
+# Planet 10 - Chalchas ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,9 +181,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] U1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] U1 (medium)
 
-# Planet 11 - Port Culsans ![[gasg16.png]]
+# Planet 11 - Port Culsans ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -205,7 +200,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Faflon ![[iceg13.png]]
+# Planet 12 - Faflon ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -220,12 +215,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Churchwell Alpha (large)
-- ![[rock5.png]] Churchwell Beta (large)
-- ![[rock7.png]] Churchwell Gamma (large)
+- ![[rock16.png\|rock16.png]] Churchwell Alpha (large)
+- ![[rock5.png\|rock5.png]] Churchwell Beta (large)
+- ![[rock7.png\|rock7.png]] Churchwell Gamma (large)
 
 
-# Planet 13 - Medina ![[gasg38.png]]
+# Planet 13 - Medina ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

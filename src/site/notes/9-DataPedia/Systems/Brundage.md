@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brundage
-xcood: "403.502"
-ycood: "49.323"
-spectralType: G4III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brundage/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brundage
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4III.png]] |
+> | X coord | 403.502 |
+> | Y coord| 49.323 |
+> | Spectral Type | G4III ![[G4III.png\|G4III.png]] |
 
-# Planet 1 - Jenkins's Wheel ![[rock8.png]]
+# Planet 1 - Jenkins's Wheel ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Pluto ![[greenhouse16.png]]
+# Planet 2 - Pluto ![[greenhouse16.png\|greenhouse16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Guinechén ![[barren5.png]]
+# Planet 3 - Guinechén ![[barren5.png\|barren5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Brundage ![[green1.png]]
+# Planet 4 - Brundage ![[green1.png\|green1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ Brundage is a lightly populated planet with scarce water supplies. The planet’
 
 
 
-# Planet 5 - Perkana Belt ![[asteroid2.png]]
+# Planet 5 - Perkana Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

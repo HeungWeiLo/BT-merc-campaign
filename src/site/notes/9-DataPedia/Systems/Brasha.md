@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brasha
-xcood: "436.566"
-ycood: "194.866"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brasha/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brasha
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | 436.566 |
+> | Y coord| 194.866 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - Orisa ![[barren15.png]]
+# Planet 1 - Orisa ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Caeneus ![[gasg25.png]]
+# Planet 2 - Caeneus ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,13 +43,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] C0K1 (large)
-- ![[rock2.png]] C0K2 (large)
-- ![[oddmoon2.png]] C0K3 (medium)
-- ![[rock15.png]] C0K4 (medium)
+- ![[rock17.png\|rock17.png]] C0K1 (large)
+- ![[rock2.png\|rock2.png]] C0K2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] C0K3 (medium)
+- ![[rock15.png\|rock15.png]] C0K4 (medium)
 
 
-# Planet 3 - Tsui //goab ![[rock5.png]]
+# Planet 3 - Tsui //goab ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Brasha ![[green23.png]]
+# Planet 4 - Brasha ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,11 +87,11 @@ Brasha is an arid world covered in vast deserts and craggy mountains. Population
 
 Brasha is home to the unique and elite Qum’ran Guard, which are comprised of mounted infantry that ride six foot tall lizards called tariqim. The tariqim is a powerful predator and can easily reach speeds that can only be matched by light ‘Mechs and hovercraft.
 
-- ![[rock11.png]] Iturea (large)
-- ![[rock2.png]] Djerba (medium)
+- ![[rock11.png\|rock11.png]] Iturea (large)
+- ![[rock2.png\|rock2.png]] Djerba (medium)
 
 
-# Planet 5 - Waaqa ![[rock5.png]]
+# Planet 5 - Waaqa ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -113,7 +108,7 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-# Planet 6 - Heitsi Eibib ![[gasg19.png]]
+# Planet 6 - Heitsi Eibib ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,11 +123,11 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-- ![[rock13.png]] Raven A (large)
-- ![[rock6.png]] Raven B (medium)
+- ![[rock13.png\|rock13.png]] Raven A (large)
+- ![[rock6.png\|rock6.png]] Raven B (medium)
 
 
-# Planet 7 - Abuk ![[gasg4.png]]
+# Planet 7 - Abuk ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -149,7 +144,7 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-# Planet 8 - Orishas ![[iceg12.png]]
+# Planet 8 - Orishas ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -164,13 +159,13 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-- ![[rock10.png]] P1 (large)
-- ![[rock16.png]] P2 (large)
-- ![[oddmoon1.png]] P3 (medium)
-- ![[oddmoon2.png]] P4 (medium)
+- ![[rock10.png\|rock10.png]] P1 (large)
+- ![[rock16.png\|rock16.png]] P2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] P3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] P4 (medium)
 
 
-# Planet 9 - Aje Shaluga's Revenge ![[iceg13.png]]
+# Planet 9 - Aje Shaluga's Revenge ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -187,7 +182,7 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-# Planet 10 - Mbongo ![[gasg30.png]]
+# Planet 10 - Mbongo ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -202,9 +197,9 @@ Brasha is home to the unique and elite Qum’ran Guard, which are comprised of m
 
 
 
-- ![[rock12.png]] Daniels (large)
-- ![[rock6.png]] Parker (medium)
-- ![[oddmoon2.png]] Axomamma (medium)
-- ![[oddmoon3.png]] Clarion (medium)
+- ![[rock12.png\|rock12.png]] Daniels (large)
+- ![[rock6.png\|rock6.png]] Parker (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Axomamma (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Clarion (medium)
 
 

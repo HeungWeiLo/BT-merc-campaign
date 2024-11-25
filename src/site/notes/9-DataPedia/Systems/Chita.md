@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chita
-xcood: "-489.077"
-ycood: "290.188"
-spectralType: K0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chita/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chita
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K0V.png]] |
+> | X coord | -489.077 |
+> | Y coord| 290.188 |
+> | Spectral Type | K0V ![[K0V.png\|K0V.png]] |
 
-# Planet 1 - IZ-1 ![[gasg9.png]]
+# Planet 1 - IZ-1 ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Tchernobog (giant)
+- [[rock3.png\|rock3.png]] Tchernobog (giant)
 
-# Planet 2 - Chita ![[green23.png]]
+# Planet 2 - Chita ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Aysyt Alpha (medium)
-- ![[oddmoon2.png]] Aysyt Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Aysyt Alpha (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Aysyt Beta (medium)
 
 
-# Planet 3 - IZ-3 ![[greenhouse36.png]]
+# Planet 3 - IZ-3 ![[greenhouse36.png\|greenhouse36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - IZ-4 ![[rock4.png]]
+# Planet 4 - IZ-4 ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -88,9 +83,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] N9-1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] N9-1 (medium)
 
-# Planet 5 - IZ-5 ![[gasg7.png]]
+# Planet 5 - IZ-5 ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - IZ-6 ![[gasg15.png]]
+# Planet 6 - IZ-6 ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,11 +117,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] QX1 (large)
-- ![[rock7.png]] QX2 (large)
+- ![[rock14.png\|rock14.png]] QX1 (large)
+- ![[rock7.png\|rock7.png]] QX2 (large)
 
 
-# Planet 7 - IZ-7 ![[gasg27.png]]
+# Planet 7 - IZ-7 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,13 +136,13 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Mimi (giant)
-- ![[rock15.png]] Enileev (large)
-- ![[rock7.png]] Mataev (large)
-- ![[rock4.png]] Nurundere (medium)
+- ![[rock3.png\|rock3.png]] Mimi (giant)
+- ![[rock15.png\|rock15.png]] Enileev (large)
+- ![[rock7.png\|rock7.png]] Mataev (large)
+- ![[rock4.png\|rock4.png]] Nurundere (medium)
 
 
-# Planet 8 - K-1 Belt ![[asteroid1.png]]
+# Planet 8 - K-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -159,7 +154,7 @@ dg-publish: true
 
 
 
-# Planet 9 - IZ-8 ![[gasg20.png]]
+# Planet 9 - IZ-8 ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -174,9 +169,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] MJD1 (medium)
+- [[rock14.png\|rock14.png]] MJD1 (medium)
 
-# Planet 10 - IZ-9 ![[gasg11.png]]
+# Planet 10 - IZ-9 ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -191,9 +186,9 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Adigamov (large)
-- ![[rock4.png]] Preobrazhenskoye (medium)
-- ![[oddmoon3.png]] Khanty-Mansiyskiy (medium)
-- ![[oddmoon1.png]] Velikiy Novgorod (medium)
+- ![[rock14.png\|rock14.png]] Adigamov (large)
+- ![[rock4.png\|rock4.png]] Preobrazhenskoye (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Khanty-Mansiyskiy (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Velikiy Novgorod (medium)
 
 

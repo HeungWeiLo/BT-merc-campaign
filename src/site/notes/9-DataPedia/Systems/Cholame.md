@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cholame
-xcood: "202.397"
-ycood: "-31.328"
-spectralType: F2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cholame/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cholame
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2V.png]] |
+> | X coord | 202.397 |
+> | Y coord| -31.328 |
+> | Spectral Type | F2V ![[F2V.png\|F2V.png]] |
 
-# Planet 1 - Smith's World ![[rock12.png]]
+# Planet 1 - Smith's World ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Frey ![[barren8.png]]
+# Planet 2 - Frey ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Williams ![[rock11.png]]
+# Planet 3 - Williams ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cholame ![[green45.png]]
+# Planet 4 - Cholame ![[green45.png\|green45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Johns ![[rock10.png]]
+# Planet 5 - Johns ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Bender ![[gasg33.png]]
+# Planet 6 - Bender ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-# Planet 7 - EX-1 Belt ![[asteroid3.png]]
+# Planet 7 - EX-1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -135,7 +130,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Burnstown ![[gasg21.png]]
+# Planet 8 - Burnstown ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,11 +145,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Africus (medium)
-- ![[oddmoon2.png]] Hayes (medium)
+- ![[rock15.png\|rock15.png]] Africus (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hayes (medium)
 
 
-# Planet 9 - Moore ![[gasg5.png]]
+# Planet 9 - Moore ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,12 +164,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Satan A (large)
-- ![[rock11.png]] Satan B (large)
-- ![[rock5.png]] Satan C (medium)
+- ![[rock12.png\|rock12.png]] Satan A (large)
+- ![[rock11.png\|rock11.png]] Satan B (large)
+- ![[rock5.png\|rock5.png]] Satan C (medium)
 
 
-# Planet 10 - Prey Chhor ![[gasg7.png]]
+# Planet 10 - Prey Chhor ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,15 +184,15 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] 9C1 (giant)
-- ![[rock8.png]] 9C2 (large)
-- ![[rock10.png]] 9C3 (large)
-- ![[rock7.png]] 9C4 (large)
-- ![[rock9.png]] 9C5 (medium)
-- ![[oddmoon1.png]] 9C6 (medium)
+- ![[rock14.png\|rock14.png]] 9C1 (giant)
+- ![[rock8.png\|rock8.png]] 9C2 (large)
+- ![[rock10.png\|rock10.png]] 9C3 (large)
+- ![[rock7.png\|rock7.png]] 9C4 (large)
+- ![[rock9.png\|rock9.png]] 9C5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 9C6 (medium)
 
 
-# Planet 11 - Severson ![[gasg12.png]]
+# Planet 11 - Severson ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -212,12 +207,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Ahura Mazda (large)
-- ![[rock16.png]] McKinney (medium)
-- ![[oddmoon1.png]] Jesus Christ (medium)
+- ![[rock10.png\|rock10.png]] Ahura Mazda (large)
+- ![[rock16.png\|rock16.png]] McKinney (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Jesus Christ (medium)
 
 
-# Planet 12 - Estes Port ![[gasg11.png]]
+# Planet 12 - Estes Port ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,7 +229,7 @@ dg-publish: true
 
 
 
-# Planet 13 - Golby ![[gasg2.png]]
+# Planet 13 - Golby ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -249,11 +244,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Wilderswil I (medium)
-- ![[rock5.png]] Wilderswil II (medium)
+- ![[rock11.png\|rock11.png]] Wilderswil I (medium)
+- ![[rock5.png\|rock5.png]] Wilderswil II (medium)
 
 
-# Planet 14 - Thompson's Rift ![[iceg7.png]]
+# Planet 14 - Thompson's Rift ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -268,8 +263,8 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] YZ4-1 (large)
-- ![[rock5.png]] YZ4-2 (large)
-- ![[rock9.png]] YZ4-3 (large)
+- ![[rock16.png\|rock16.png]] YZ4-1 (large)
+- ![[rock5.png\|rock5.png]] YZ4-2 (large)
+- ![[rock9.png\|rock9.png]] YZ4-3 (large)
 
 

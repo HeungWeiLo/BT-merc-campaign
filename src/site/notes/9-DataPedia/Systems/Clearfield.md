@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Clearfield
-xcood: "263.651"
-ycood: "327.489"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/clearfield/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Clearfield
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | 263.651 |
+> | Y coord| 327.489 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Clearfield ![[green43.png]]
+# Planet 1 - Clearfield ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chrichton ![[rock2.png]]
+# Planet 2 - Chrichton ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Sherman ![[barren12.png]]
+# Planet 3 - Sherman ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Shafto (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Shafto (medium)
 
-# Planet 4 - Luhtanen's Belt ![[asteroid2.png]]
+# Planet 4 - Luhtanen's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Hudson's Dawn ![[gasg36.png]]
+# Planet 5 - Hudson's Dawn ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -98,9 +93,9 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Valkeakoski (large)
+- [[rock6.png\|rock6.png]] Valkeakoski (large)
 
-# Planet 6 - Haward's Dawn ![[gasg22.png]]
+# Planet 6 - Haward's Dawn ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,12 +110,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] 9Q1 (large)
-- ![[rock8.png]] 9Q2 (large)
-- ![[oddmoon1.png]] 9Q3 (medium)
+- ![[rock10.png\|rock10.png]] 9Q1 (large)
+- ![[rock8.png\|rock8.png]] 9Q2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 9Q3 (medium)
 
 
-# Planet 7 - Lyons ![[iceg4.png]]
+# Planet 7 - Lyons ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -135,13 +130,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Huracan 1 (medium)
-- ![[rock5.png]] Huracan 2 (medium)
-- ![[oddmoon3.png]] Huracan 3 (medium)
-- ![[rock2.png]] Huracan 4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Huracan 1 (medium)
+- ![[rock5.png\|rock5.png]] Huracan 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Huracan 3 (medium)
+- ![[rock2.png\|rock2.png]] Huracan 4 (medium)
 
 
-# Planet 8 - Booker's Belt ![[asteroid3.png]]
+# Planet 8 - Booker's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -153,7 +148,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Walker ![[gasg12.png]]
+# Planet 9 - Walker ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,12 +163,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Lewis (large)
-- ![[rock7.png]] Ellis (large)
-- ![[oddmoon3.png]] Deimus (medium)
+- ![[rock4.png\|rock4.png]] Lewis (large)
+- ![[rock7.png\|rock7.png]] Ellis (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Deimus (medium)
 
 
-# Planet 10 - Nemesis ![[gasg30.png]]
+# Planet 10 - Nemesis ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,8 +183,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Tykhe (medium)
-- ![[rock5.png]] Echidna (medium)
-- ![[rock11.png]] Augean Stables (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tykhe (medium)
+- ![[rock5.png\|rock5.png]] Echidna (medium)
+- ![[rock11.png\|rock11.png]] Augean Stables (medium)
 
 

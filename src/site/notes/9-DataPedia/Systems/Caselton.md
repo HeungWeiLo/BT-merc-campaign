@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caselton
-xcood: "115.467"
-ycood: "-32.666"
-spectralType: K2IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caselton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caselton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2IV.png]] |
+> | X coord | 115.467 |
+> | Y coord| -32.666 |
+> | Spectral Type | K2IV ![[K2IV.png\|K2IV.png]] |
 
-# Planet 1 - Coosa ![[rock4.png]]
+# Planet 1 - Coosa ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Caselton ![[green14.png]]
+# Planet 2 - Caselton ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ Except for a brief period of Capellan occupation at the height of the First Succ
 
 These fortifications served Caselton well in the Blakist Holy War, stopping repeated assaults by Blakist mercenaries. However, during the Golden Age of Peace, The Republic of the Sphere dismantled many of Caselton‘s defenses.The two continents are Embrasure and Merlon; the capital of Battlement is located on Embrasure.
 
-- [[oddmoon1.png]] None (Asteroid Belt) (medium)
+- [[oddmoon1.png\|oddmoon1.png]] None (Asteroid Belt) (medium)
 
-# Planet 3 - Holmes Beach ![[barren3.png]]
+# Planet 3 - Holmes Beach ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-# Planet 4 - Emanuel ![[badwater42.png]]
+# Planet 4 - Emanuel ![[badwater42.png\|badwater42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -95,7 +90,7 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-# Planet 5 - Bangor ![[gasg33.png]]
+# Planet 5 - Bangor ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,15 +105,15 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock10.png]] Kamchatka (large)
-- ![[rock12.png]] Cerigo (large)
-- ![[oddmoon3.png]] Nuliajuk (medium)
-- ![[rock9.png]] Kecamatan Tegallalang (medium)
-- ![[oddmoon1.png]] Tuohua (medium)
-- ![[oddmoon2.png]] Tschernobog (medium)
+- ![[rock10.png\|rock10.png]] Kamchatka (large)
+- ![[rock12.png\|rock12.png]] Cerigo (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Nuliajuk (medium)
+- ![[rock9.png\|rock9.png]] Kecamatan Tegallalang (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tuohua (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tschernobog (medium)
 
 
-# Planet 6 - Cochise ![[gasg8.png]]
+# Planet 6 - Cochise ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -135,7 +130,7 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-# Planet 7 - Elkhart Lake ![[gasg25.png]]
+# Planet 7 - Elkhart Lake ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,14 +145,14 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock17.png]] Hell A (giant)
-- ![[rock8.png]] Hell B (large)
-- ![[oddmoon3.png]] Hell C (medium)
-- ![[rock12.png]] Hell D (medium)
-- ![[oddmoon2.png]] Hell E (medium)
+- ![[rock17.png\|rock17.png]] Hell A (giant)
+- ![[rock8.png\|rock8.png]] Hell B (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Hell C (medium)
+- ![[rock12.png\|rock12.png]] Hell D (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hell E (medium)
 
 
-# Planet 8 - Hopkins ![[gasg38.png]]
+# Planet 8 - Hopkins ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -172,9 +167,9 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- [[oddmoon3.png]] Fenrir (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Fenrir (medium)
 
-# Planet 9 - Saint Johns ![[gasg35.png]]
+# Planet 9 - Saint Johns ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,14 +184,14 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock9.png]] Vickers I (large)
-- ![[rock16.png]] Vickers II (large)
-- ![[rock2.png]] Vickers III (large)
-- ![[rock13.png]] Vickers IV (medium)
-- ![[rock7.png]] Vickers V (medium)
+- ![[rock9.png\|rock9.png]] Vickers I (large)
+- ![[rock16.png\|rock16.png]] Vickers II (large)
+- ![[rock2.png\|rock2.png]] Vickers III (large)
+- ![[rock13.png\|rock13.png]] Vickers IV (medium)
+- ![[rock7.png\|rock7.png]] Vickers V (medium)
 
 
-# Planet 10 - New Tiztoutine ![[gasg28.png]]
+# Planet 10 - New Tiztoutine ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,15 +206,15 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock12.png]] Teton (large)
-- ![[rock3.png]] Gooseneck (large)
-- ![[rock4.png]] Muscle Ridge Islands (medium)
-- ![[rock2.png]] North Harmony (medium)
-- ![[oddmoon3.png]] Braddock Hills (medium)
-- ![[oddmoon2.png]] Old Bridge (medium)
+- ![[rock12.png\|rock12.png]] Teton (large)
+- ![[rock3.png\|rock3.png]] Gooseneck (large)
+- ![[rock4.png\|rock4.png]] Muscle Ridge Islands (medium)
+- ![[rock2.png\|rock2.png]] North Harmony (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Braddock Hills (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Old Bridge (medium)
 
 
-# Planet 11 - Tulare ![[gasg9.png]]
+# Planet 11 - Tulare ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,11 +229,11 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock12.png]] Aiomum Kondi I (medium)
-- ![[oddmoon1.png]] Aiomum Kondi II (medium)
+- ![[rock12.png\|rock12.png]] Aiomum Kondi I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Aiomum Kondi II (medium)
 
 
-# Planet 12 - Silverton ![[gasg13.png]]
+# Planet 12 - Silverton ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -253,10 +248,10 @@ These fortifications served Caselton well in the Blakist Holy War, stopping repe
 
 
 
-- ![[rock13.png]] E1 (large)
-- ![[rock14.png]] E2 (large)
-- ![[oddmoon2.png]] E3 (medium)
-- ![[oddmoon3.png]] E4 (medium)
-- ![[oddmoon1.png]] E5 (medium)
+- ![[rock13.png\|rock13.png]] E1 (large)
+- ![[rock14.png\|rock14.png]] E2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] E3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] E4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] E5 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coloma
-xcood: "283.383"
-ycood: "-87.36"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coloma/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coloma
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | 283.383 |
+> | Y coord| -87.36 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Coloma ![[green26.png]]
+# Planet 1 - Coloma ![[green26.png\|green26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Bishamon (medium)
-- ![[oddmoon3.png]] Shichifukujin (medium)
-- ![[oddmoon1.png]] Kobo Daishi (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bishamon (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Shichifukujin (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kobo Daishi (medium)
 
 
-# Planet 2 - Zorya Polunochnaya Belt ![[asteroid1.png]]
+# Planet 2 - Zorya Polunochnaya Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Playa ![[gasg6.png]]
+# Planet 3 - Playa ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -66,14 +61,14 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] P1 (large)
-- ![[rock17.png]] P2 (large)
-- ![[rock1.png]] P3 (large)
-- ![[rock13.png]] P4 (medium)
-- ![[oddmoon3.png]] P5 (medium)
+- ![[rock9.png\|rock9.png]] P1 (large)
+- ![[rock17.png\|rock17.png]] P2 (large)
+- ![[rock1.png\|rock1.png]] P3 (large)
+- ![[rock13.png\|rock13.png]] P4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] P5 (medium)
 
 
-# Planet 4 - Corralillo ![[gasg14.png]]
+# Planet 4 - Corralillo ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cauto Cristo ![[gasg7.png]]
+# Planet 5 - Cauto Cristo ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,14 +100,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Agrotara Alpha (giant)
-- ![[rock2.png]] Agrotara Beta (giant)
-- ![[rock12.png]] Agrotara Gamma (large)
-- ![[rock14.png]] Agrotara Delta (medium)
-- ![[oddmoon3.png]] Agrotara Epsilon (medium)
+- ![[rock5.png\|rock5.png]] Agrotara Alpha (giant)
+- ![[rock2.png\|rock2.png]] Agrotara Beta (giant)
+- ![[rock12.png\|rock12.png]] Agrotara Gamma (large)
+- ![[rock14.png\|rock14.png]] Agrotara Delta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Agrotara Epsilon (medium)
 
 
-# Planet 6 - Romano's Delight ![[gasg32.png]]
+# Planet 6 - Romano's Delight ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,11 +122,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] L2-1 (large)
-- ![[rock9.png]] L2-2 (large)
+- ![[rock16.png\|rock16.png]] L2-1 (large)
+- ![[rock9.png\|rock9.png]] L2-2 (large)
 
 
-# Planet 7 - Sibanicu ![[gasg26.png]]
+# Planet 7 - Sibanicu ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,15 +141,15 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Vak (giant)
-- ![[rock14.png]] Modi (large)
-- ![[rock1.png]] Hild (large)
-- ![[rock15.png]] Heimdall (medium)
-- ![[oddmoon3.png]] Freyja (medium)
-- ![[oddmoon2.png]] Jola (medium)
+- ![[rock2.png\|rock2.png]] Vak (giant)
+- ![[rock14.png\|rock14.png]] Modi (large)
+- ![[rock1.png\|rock1.png]] Hild (large)
+- ![[rock15.png\|rock15.png]] Heimdall (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Freyja (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Jola (medium)
 
 
-# Planet 8 - Rodríguez ![[gasg21.png]]
+# Planet 8 - Rodríguez ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,12 +164,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Villegas (giant)
-- ![[rock3.png]] Aguilera (large)
-- ![[rock11.png]] Peña (large)
-- ![[rock9.png]] Rodríguez (large)
-- ![[rock6.png]] Mozyrin (large)
-- ![[oddmoon3.png]] Villa (medium)
-- ![[rock8.png]] Roodenburg (medium)
+- ![[rock5.png\|rock5.png]] Villegas (giant)
+- ![[rock3.png\|rock3.png]] Aguilera (large)
+- ![[rock11.png\|rock11.png]] Peña (large)
+- ![[rock9.png\|rock9.png]] Rodríguez (large)
+- ![[rock6.png\|rock6.png]] Mozyrin (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Villa (medium)
+- ![[rock8.png\|rock8.png]] Roodenburg (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carmacks
-xcood: "183.783"
-ycood: "-236.833"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carmacks/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carmacks
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | 183.783 |
+> | Y coord| -236.833 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Darnell's Planet ![[rock6.png]]
+# Planet 1 - Darnell's Planet ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Calver ![[barren23.png]]
+# Planet 2 - Calver ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Murcott's Retreat ![[frozen52.png]]
+# Planet 3 - Murcott's Retreat ![[frozen52.png\|frozen52.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Prettyman (medium)
+- [[rock14.png\|rock14.png]] Prettyman (medium)
 
-# Planet 4 - Carmacks ![[green24.png]]
+# Planet 4 - Carmacks ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-# Planet 5 - Barraclough ![[frozen19.png]]
+# Planet 5 - Barraclough ![[frozen19.png\|frozen19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -112,7 +107,7 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-# Planet 6 - Kuklincao ![[gasg23.png]]
+# Planet 6 - Kuklincao ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,14 +122,14 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-- ![[rock13.png]] U1 (large)
-- ![[oddmoon1.png]] U2 (medium)
-- ![[oddmoon3.png]] U3 (medium)
-- ![[rock1.png]] U4 (medium)
-- ![[rock2.png]] U5 (medium)
+- ![[rock13.png\|rock13.png]] U1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] U2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] U3 (medium)
+- ![[rock1.png\|rock1.png]] U4 (medium)
+- ![[rock2.png\|rock2.png]] U5 (medium)
 
 
-# Planet 7 - Jenkins ![[gasg31.png]]
+# Planet 7 - Jenkins ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -149,12 +144,12 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-- ![[rock1.png]] Sept-Îles I (large)
-- ![[rock12.png]] Sept-Îles II (large)
-- ![[rock10.png]] Sept-Îles III (medium)
+- ![[rock1.png\|rock1.png]] Sept-Îles I (large)
+- ![[rock12.png\|rock12.png]] Sept-Îles II (large)
+- ![[rock10.png\|rock10.png]] Sept-Îles III (medium)
 
 
-# Planet 8 - Cossey's Gulf ![[gasg20.png]]
+# Planet 8 - Cossey's Gulf ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,12 +164,12 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-- ![[rock10.png]] Apollon (medium)
-- ![[rock9.png]] Hretha (medium)
-- ![[rock7.png]] Zu (medium)
+- ![[rock10.png\|rock10.png]] Apollon (medium)
+- ![[rock9.png\|rock9.png]] Hretha (medium)
+- ![[rock7.png\|rock7.png]] Zu (medium)
 
 
-# Planet 9 - Leivers's World ![[gasg33.png]]
+# Planet 9 - Leivers's World ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -191,7 +186,7 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-# Planet 10 - Perrin ![[gasg30.png]]
+# Planet 10 - Perrin ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -206,5 +201,5 @@ Carmacks is a young, cool-temperate planet located in the Federated Suns. The pl
 
 
 
-- [[oddmoon3.png]] Galtey (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Galtey (medium)
 

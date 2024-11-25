@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cerberus
-xcood: "475.838"
-ycood: "190.466"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cerberus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cerberus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | 475.838 |
+> | Y coord| 190.466 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Cerberus ![[green1.png]]
+# Planet 1 - Cerberus ![[green1.png\|green1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Aton Ra ![[rock8.png]]
+# Planet 2 - Aton Ra ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Anubis ![[gasg12.png]]
+# Planet 3 - Anubis ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Burch (large)
-- ![[rock2.png]] Trowbridge (large)
-- ![[rock4.png]] Miclea (medium)
+- ![[rock5.png\|rock5.png]] Burch (large)
+- ![[rock2.png\|rock2.png]] Trowbridge (large)
+- ![[rock4.png\|rock4.png]] Miclea (medium)
 
 
-# Planet 4 - Shipway's Nest ![[gasg28.png]]
+# Planet 4 - Shipway's Nest ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,11 +83,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] I1 (large)
-- ![[rock6.png]] I2 (large)
+- ![[rock16.png\|rock16.png]] I1 (large)
+- ![[rock6.png\|rock6.png]] I2 (large)
 
 
-# Planet 5 - Setesh ![[gasg30.png]]
+# Planet 5 - Setesh ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,9 +102,9 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] AL1 (large)
-- ![[rock7.png]] AL2 (medium)
-- ![[oddmoon1.png]] AL3 (medium)
-- ![[oddmoon2.png]] AL4 (medium)
+- ![[rock9.png\|rock9.png]] AL1 (large)
+- ![[rock7.png\|rock7.png]] AL2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] AL3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] AL4 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colchester
-xcood: "305.27"
-ycood: "-13.488"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colchester/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colchester
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | 305.27 |
+> | Y coord| -13.488 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Hillman ![[iceg7.png]]
+# Planet 1 - Hillman ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Rogers (large)
+- [[rock3.png\|rock3.png]] Rogers (large)
 
-# Planet 2 - Chestnuthill ![[barren8.png]]
+# Planet 2 - Chestnuthill ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Pagosa Springs ![[rock9.png]]
+# Planet 3 - Pagosa Springs ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Colchester ![[green47.png]]
+# Planet 4 - Colchester ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Whitaker's Belt ![[asteroid1.png]]
+# Planet 5 - Whitaker's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Salina ![[gasg19.png]]
+# Planet 6 - Salina ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,9 +110,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] A08-1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] A08-1 (medium)
 
-# Planet 7 - Arandas ![[frozen25.png]]
+# Planet 7 - Arandas ![[frozen25.png\|frozen25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -135,11 +130,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] SQ1 (large)
-- ![[oddmoon2.png]] SQ2 (medium)
+- ![[rock11.png\|rock11.png]] SQ1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] SQ2 (medium)
 
 
-# Planet 8 - Big Lake ![[iceg14.png]]
+# Planet 8 - Big Lake ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -156,7 +151,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Sacé ![[gasg35.png]]
+# Planet 9 - Sacé ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,11 +166,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] R0-1 (medium)
-- ![[rock5.png]] R0-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] R0-1 (medium)
+- ![[rock5.png\|rock5.png]] R0-2 (medium)
 
 
-# Planet 10 - Harbo Sabuwa ![[iceg19.png]]
+# Planet 10 - Harbo Sabuwa ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -190,8 +185,8 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Faerber 1 (large)
-- ![[rock10.png]] Faerber 2 (large)
-- ![[oddmoon1.png]] Faerber 3 (medium)
+- ![[rock7.png\|rock7.png]] Faerber 1 (large)
+- ![[rock10.png\|rock10.png]] Faerber 2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Faerber 3 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Castile
-xcood: "-657.867"
-ycood: "1108.36"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/castile/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Castile
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -657.867 |
+> | Y coord| 1108.36 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - KGX-1 ![[rock11.png]]
+# Planet 1 - KGX-1 ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - KGX-2 ![[iceg14.png]]
+# Planet 2 - KGX-2 ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -47,9 +42,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Wall (giant)
+- [[rock8.png\|rock8.png]] Wall (giant)
 
-# Planet 3 - KGX-3 ![[gasg17.png]]
+# Planet 3 - KGX-3 ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -64,9 +59,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] KS3-1 (large)
+- [[rock12.png\|rock12.png]] KS3-1 (large)
 
-# Planet 4 - Castile ![[green55.png]]
+# Planet 4 - Castile ![[green55.png\|green55.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ Royals Refit and Repair Station
 
 
 
-# Planet 5 - KGX-5 ![[gasg2.png]]
+# Planet 5 - KGX-5 ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -106,12 +101,12 @@ Royals Refit and Repair Station
 
 
 
-- ![[rock5.png]] Oberbüren (medium)
-- ![[oddmoon3.png]] Saint John (medium)
-- ![[oddmoon1.png]] Pactolus (medium)
+- ![[rock5.png\|rock5.png]] Oberbüren (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Saint John (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Pactolus (medium)
 
 
-# Planet 6 - KGX-6 ![[rock7.png]]
+# Planet 6 - KGX-6 ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -129,7 +124,7 @@ Royals Refit and Repair Station
 
 
 
-# Planet 7 - Moore's Belt ![[asteroid2.png]]
+# Planet 7 - Moore's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -141,7 +136,7 @@ Royals Refit and Repair Station
 
 
 
-# Planet 8 - KGX-7 ![[gasg16.png]]
+# Planet 8 - KGX-7 ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

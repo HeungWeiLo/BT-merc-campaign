@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chilung
-xcood: "-123.603"
-ycood: "-247.142"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chilung/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chilung
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | -123.603 |
+> | Y coord| -247.142 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Nanshan Qu ![[rock8.png]]
+# Planet 1 - Nanshan Qu ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chilung ![[green38.png]]
+# Planet 2 - Chilung ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - King ![[iceg7.png]]
+# Planet 3 - King ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yang's Point ![[gasg15.png]]
+# Planet 4 - Yang's Point ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,18 +80,18 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Ki Lin (giant)
-- ![[rock17.png]] Yongfu Xian (giant)
-- ![[rock7.png]] Ssu Ling (large)
-- ![[rock6.png]] Xiaoshahe (large)
-- ![[rock9.png]] Wanzhou (large)
-- ![[rock11.png]] Tsai (large)
-- ![[oddmoon1.png]] Daguan (medium)
-- ![[rock3.png]] 3JQ-1 (medium)
-- ![[rock10.png]] Kuan Ti (medium)
+- ![[rock5.png\|rock5.png]] Ki Lin (giant)
+- ![[rock17.png\|rock17.png]] Yongfu Xian (giant)
+- ![[rock7.png\|rock7.png]] Ssu Ling (large)
+- ![[rock6.png\|rock6.png]] Xiaoshahe (large)
+- ![[rock9.png\|rock9.png]] Wanzhou (large)
+- ![[rock11.png\|rock11.png]] Tsai (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Daguan (medium)
+- ![[rock3.png\|rock3.png]] 3JQ-1 (medium)
+- ![[rock10.png\|rock10.png]] Kuan Ti (medium)
 
 
-# Planet 5 - Ypsilantis ![[gasg4.png]]
+# Planet 5 - Ypsilantis ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -111,12 +106,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Zi Gu I (medium)
-- ![[oddmoon1.png]] Zi Gu II (medium)
-- ![[rock11.png]] Zi Gu III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Zi Gu I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Zi Gu II (medium)
+- ![[rock11.png\|rock11.png]] Zi Gu III (medium)
 
 
-# Planet 6 - Zhu Port ![[gasg33.png]]
+# Planet 6 - Zhu Port ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,15 +126,15 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Tien (giant)
-- ![[rock11.png]] Zhào (giant)
-- ![[rock1.png]] Shango (large)
-- ![[rock6.png]] Mathews (large)
-- ![[rock14.png]] Wuni (large)
-- ![[rock17.png]] Orisala (large)
+- ![[rock4.png\|rock4.png]] Tien (giant)
+- ![[rock11.png\|rock11.png]] Zhào (giant)
+- ![[rock1.png\|rock1.png]] Shango (large)
+- ![[rock6.png\|rock6.png]] Mathews (large)
+- ![[rock14.png\|rock14.png]] Wuni (large)
+- ![[rock17.png\|rock17.png]] Orisala (large)
 
 
-# Planet 7 - Wang ![[gasg37.png]]
+# Planet 7 - Wang ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,8 +149,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Beyla Alpha (medium)
-- ![[rock15.png]] Beyla Beta (medium)
-- ![[rock11.png]] Beyla Gamma (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Beyla Alpha (medium)
+- ![[rock15.png\|rock15.png]] Beyla Beta (medium)
+- ![[rock11.png\|rock11.png]] Beyla Gamma (medium)
 
 

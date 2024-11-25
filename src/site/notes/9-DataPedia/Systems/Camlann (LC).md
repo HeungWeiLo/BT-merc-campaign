@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Camlann (LC)
-xcood: "0.521"
-ycood: "165.62"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/camlann-lc/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Camlann (LC)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 0.521 |
+> | Y coord| 165.62 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Tschernobog's Wind ![[barren23.png]]
+# Planet 1 - Tschernobog's Wind ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kutcha ![[iceg11.png]]
+# Planet 2 - Kutcha ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Whiro (large)
-- ![[rock1.png]] Kamarong (large)
+- ![[rock10.png\|rock10.png]] Whiro (large)
+- ![[rock1.png\|rock1.png]] Kamarong (large)
 
 
-# Planet 3 - Camlann (LC) ![[green38.png]]
+# Planet 3 - Camlann (LC) ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Alkonost's Wind ![[frozen60.png]]
+# Planet 4 - Alkonost's Wind ![[frozen60.png\|frozen60.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Svarog ![[rock12.png]]
+# Planet 5 - Svarog ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Baba Yaga ![[iceg3.png]]
+# Planet 6 - Baba Yaga ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Koschei Bessmertnyi ![[frozen1.png]]
+# Planet 7 - Koschei Bessmertnyi ![[frozen1.png\|frozen1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -147,7 +142,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Zorya ![[gasg23.png]]
+# Planet 8 - Zorya ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,12 +157,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Spreewaldhei (medium)
-- ![[rock5.png]] Y0-1 (medium)
-- ![[rock16.png]] Y0-2 (medium)
+- ![[rock3.png\|rock3.png]] Spreewaldhei (medium)
+- ![[rock5.png\|rock5.png]] Y0-1 (medium)
+- ![[rock16.png\|rock16.png]] Y0-2 (medium)
 
 
-# Planet 9 - Chernobog ![[gasg30.png]]
+# Planet 9 - Chernobog ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -182,7 +177,7 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Edwards A (medium)
-- ![[oddmoon1.png]] Edwards B (medium)
+- ![[rock2.png\|rock2.png]] Edwards A (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Edwards B (medium)
 
 

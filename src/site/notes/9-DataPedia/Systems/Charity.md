@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Charity
-xcood: "315.099"
-ycood: "263.937"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/charity/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Charity
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 315.099 |
+> | Y coord| 263.937 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - New Amsterdam ![[greenhouse28.png]]
+# Planet 1 - New Amsterdam ![[greenhouse28.png\|greenhouse28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - New Vreed-en-Hoop ![[rock9.png]]
+# Planet 2 - New Vreed-en-Hoop ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Potaro-Siparuni ![[gasg32.png]]
+# Planet 3 - Potaro-Siparuni ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -65,11 +60,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] S:t Ol (large)
-- ![[rock12.png]] Ceucy (large)
+- ![[rock6.png\|rock6.png]] S:t Ol (large)
+- ![[rock12.png\|rock12.png]] Ceucy (large)
 
 
-# Planet 4 - Charity ![[green23.png]]
+# Planet 4 - Charity ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Linden Belt ![[asteroid1.png]]
+# Planet 5 - Linden Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -102,7 +97,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Cuyuni-Mazaruni ![[gasg14.png]]
+# Planet 6 - Cuyuni-Mazaruni ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -117,9 +112,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Barth (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Barth (medium)
 
-# Planet 7 - East Berbice-Corentyne ![[gasg33.png]]
+# Planet 7 - East Berbice-Corentyne ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,12 +129,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] N1 (large)
-- ![[rock7.png]] N2 (large)
-- ![[rock3.png]] N3 (large)
+- ![[rock10.png\|rock10.png]] N1 (large)
+- ![[rock7.png\|rock7.png]] N2 (large)
+- ![[rock3.png\|rock3.png]] N3 (large)
 
 
-# Planet 8 - Berschweiler bei Kirn ![[gasg7.png]]
+# Planet 8 - Berschweiler bei Kirn ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,18 +149,18 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Y1 (giant)
-- ![[rock14.png]] Y2 (giant)
-- ![[rock10.png]] Y3 (large)
-- ![[rock4.png]] Y4 (large)
-- ![[rock15.png]] Y5 (large)
-- ![[oddmoon3.png]] Y6 (medium)
-- ![[rock8.png]] Y7 (medium)
-- ![[oddmoon2.png]] Y8 (medium)
-- ![[oddmoon1.png]] Y9 (medium)
+- ![[rock7.png\|rock7.png]] Y1 (giant)
+- ![[rock14.png\|rock14.png]] Y2 (giant)
+- ![[rock10.png\|rock10.png]] Y3 (large)
+- ![[rock4.png\|rock4.png]] Y4 (large)
+- ![[rock15.png\|rock15.png]] Y5 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Y6 (medium)
+- ![[rock8.png\|rock8.png]] Y7 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Y8 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Y9 (medium)
 
 
-# Planet 9 - New Bartica ![[gasg10.png]]
+# Planet 9 - New Bartica ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,8 +175,8 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Lamming (medium)
-- ![[rock12.png]] Jarman (medium)
-- ![[oddmoon2.png]] Demerara-Mahaica (medium)
+- ![[rock14.png\|rock14.png]] Lamming (medium)
+- ![[rock12.png\|rock12.png]] Jarman (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Demerara-Mahaica (medium)
 
 

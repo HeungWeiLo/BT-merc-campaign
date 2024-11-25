@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cap Rouge
-xcood: "-123.612"
-ycood: "-307.697"
-spectralType: A9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cap-rouge/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cap Rouge
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[A9V.png]] |
+> | X coord | -123.612 |
+> | Y coord| -307.697 |
+> | Spectral Type | A9V ![[A9V.png\|A9V.png]] |
 
-# Planet 1 - Bigot's Hole ![[barren12.png]]
+# Planet 1 - Bigot's Hole ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] La Houssière (medium)
+- [[rock5.png\|rock5.png]] La Houssière (medium)
 
-# Planet 2 - Wagner ![[gasg12.png]]
+# Planet 2 - Wagner ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] CT2-1 (medium)
-- ![[oddmoon2.png]] CT2-2 (medium)
-- ![[rock10.png]] CT2-3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] CT2-1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] CT2-2 (medium)
+- ![[rock10.png\|rock10.png]] CT2-3 (medium)
 
 
-# Planet 3 - Duhamel's Wheel ![[rock5.png]]
+# Planet 3 - Duhamel's Wheel ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Nilani ![[barren13.png]]
+# Planet 4 - Nilani ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -86,12 +81,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Optimus Maximus Alpha (medium)
-- ![[oddmoon2.png]] Optimus Maximus Beta (medium)
-- ![[oddmoon3.png]] Optimus Maximus Gamma (medium)
+- ![[rock15.png\|rock15.png]] Optimus Maximus Alpha (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Optimus Maximus Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Optimus Maximus Gamma (medium)
 
 
-# Planet 5 - Cap Rouge ![[green3.png]]
+# Planet 5 - Cap Rouge ![[green3.png\|green3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -110,9 +105,9 @@ dg-publish: true
 
 It is hard to imagine why the planet of Cap Rouge was originally settled, the planet has a harsh arid climate, that makes agriculture difficult and the planet does not have large enough deposits of natural resources to normally attract settlers. The planet supports modest industry, though the most notable feature on planet is the Hero Training Institute, a for-profit BattleMech and Aerospace training institute located outside the planetary capital of Saint Roch on the Sillery continent. The Hero Institute makes use of the vast stretches of empty badlands outside of Saint Roch to conduct training exercises.
 
-- [[rock11.png]] Stadacona (medium)
+- [[rock11.png\|rock11.png]] Stadacona (medium)
 
-# Planet 6 - Rollet's World ![[iceg18.png]]
+# Planet 6 - Rollet's World ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -127,11 +122,11 @@ It is hard to imagine why the planet of Cap Rouge was originally settled, the pl
 
 
 
-- ![[oddmoon1.png]] Periboriwa (medium)
-- ![[rock3.png]] Guinechén (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Periboriwa (medium)
+- ![[rock3.png\|rock3.png]] Guinechén (medium)
 
 
-# Planet 7 - Le Carré's Planet ![[gasg13.png]]
+# Planet 7 - Le Carré's Planet ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,11 +141,11 @@ It is hard to imagine why the planet of Cap Rouge was originally settled, the pl
 
 
 
-- ![[rock2.png]] Peres I (medium)
-- ![[rock8.png]] Peres II (medium)
+- ![[rock2.png\|rock2.png]] Peres I (medium)
+- ![[rock8.png\|rock8.png]] Peres II (medium)
 
 
-# Planet 8 - Soler's Planet ![[gasg21.png]]
+# Planet 8 - Soler's Planet ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,7 +160,7 @@ It is hard to imagine why the planet of Cap Rouge was originally settled, the pl
 
 
 
-- ![[rock15.png]] Lafont 1 (large)
-- ![[rock17.png]] Lafont 2 (large)
+- ![[rock15.png\|rock15.png]] Lafont 1 (large)
+- ![[rock17.png\|rock17.png]] Lafont 2 (large)
 
 

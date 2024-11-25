@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chinmen Tao
-xcood: "341.208"
-ycood: "215.537"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chinmen-tao/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chinmen Tao
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | 341.208 |
+> | Y coord| 215.537 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Chinmen Tao ![[green41.png]]
+# Planet 1 - Chinmen Tao ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Iyapa Belt ![[asteroid1.png]]
+# Planet 2 - Iyapa Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ji ![[gasg5.png]]
+# Planet 3 - Ji ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,12 +58,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Geng I (large)
-- ![[rock16.png]] Geng II (large)
-- ![[rock10.png]] Geng III (large)
+- ![[rock6.png\|rock6.png]] Geng I (large)
+- ![[rock16.png\|rock16.png]] Geng II (large)
+- ![[rock10.png\|rock10.png]] Geng III (large)
 
 
-# Planet 4 - Wu ![[gasg28.png]]
+# Planet 4 - Wu ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -83,13 +78,13 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Xiangtu Xiang 1 (medium)
-- ![[oddmoon1.png]] Xiangtu Xiang 2 (medium)
-- ![[oddmoon3.png]] Xiangtu Xiang 3 (medium)
-- ![[oddmoon2.png]] Xiangtu Xiang 4 (medium)
+- ![[rock5.png\|rock5.png]] Xiangtu Xiang 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Xiangtu Xiang 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Xiangtu Xiang 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Xiangtu Xiang 4 (medium)
 
 
-# Planet 5 - Kon Belt ![[asteroid2.png]]
+# Planet 5 - Kon Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Mo ![[gasg14.png]]
+# Planet 6 - Mo ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,9 +111,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Lo Prado (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Lo Prado (medium)
 
-# Planet 7 - Nickless's Redoubt ![[gasg35.png]]
+# Planet 7 - Nickless's Redoubt ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -133,9 +128,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Hanxian (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Hanxian (medium)
 
-# Planet 8 - Kuan Kung ![[gasg1.png]]
+# Planet 8 - Kuan Kung ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,13 +145,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Shou Hsing (large)
-- ![[rock6.png]] Kuei Hsien (large)
-- ![[rock15.png]] T'a Shan Wang (medium)
-- ![[rock10.png]] Ho Hsien Ku (medium)
+- ![[rock7.png\|rock7.png]] Shou Hsing (large)
+- ![[rock6.png\|rock6.png]] Kuei Hsien (large)
+- ![[rock15.png\|rock15.png]] T'a Shan Wang (medium)
+- ![[rock10.png\|rock10.png]] Ho Hsien Ku (medium)
 
 
-# Planet 9 - Karif's Gulf ![[gasg2.png]]
+# Planet 9 - Karif's Gulf ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -173,7 +168,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Holte's Choice ![[gasg15.png]]
+# Planet 10 - Holte's Choice ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,11 +183,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] N1 (large)
-- ![[rock6.png]] N2 (large)
-- ![[rock16.png]] N3 (large)
-- ![[rock5.png]] N4 (large)
-- ![[oddmoon2.png]] N5 (medium)
-- ![[rock2.png]] N6 (medium)
+- ![[rock10.png\|rock10.png]] N1 (large)
+- ![[rock6.png\|rock6.png]] N2 (large)
+- ![[rock16.png\|rock16.png]] N3 (large)
+- ![[rock5.png\|rock5.png]] N4 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] N5 (medium)
+- ![[rock2.png\|rock2.png]] N6 (medium)
 
 

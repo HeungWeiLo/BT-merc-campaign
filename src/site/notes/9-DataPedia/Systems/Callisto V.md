@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Callisto V
-xcood: "-156.589"
-ycood: "123.798"
-spectralType: B9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/callisto-v/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Callisto V
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[B9V.png]] |
+> | X coord | -156.589 |
+> | Y coord| 123.798 |
+> | Spectral Type | B9V ![[B9V.png\|B9V.png]] |
 
-# Planet 1 - Callisto I ![[barren9.png]]
+# Planet 1 - Callisto I ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Callisto II ![[iceg11.png]]
+# Planet 2 - Callisto II ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Callisto III ![[rock1.png]]
+# Planet 3 - Callisto III ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Callisto IV ![[iceg4.png]]
+# Planet 4 - Callisto IV ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Callisto V ![[green39.png]]
+# Planet 5 - Callisto V ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,9 +98,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] PJ1 (large)
+- [[rock14.png\|rock14.png]] PJ1 (large)
 
-# Planet 6 - Callisto VI ![[rock9.png]]
+# Planet 6 - Callisto VI ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Callisto VII ![[barren14.png]]
+# Planet 7 - Callisto VII ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Callisto VIII ![[gasg18.png]]
+# Planet 8 - Callisto VIII ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,12 +151,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Tolo A (medium)
-- ![[oddmoon2.png]] Tolo B (medium)
-- ![[rock2.png]] Tolo C (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tolo A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tolo B (medium)
+- ![[rock2.png\|rock2.png]] Tolo C (medium)
 
 
-# Planet 9 - Callisto IX ![[gasg28.png]]
+# Planet 9 - Callisto IX ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -176,12 +171,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Barbieri (medium)
-- ![[oddmoon3.png]] Nikkola (medium)
-- ![[oddmoon2.png]] Canonicca (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Barbieri (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nikkola (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Canonicca (medium)
 
 
-# Planet 10 - Callisto X ![[gasg21.png]]
+# Planet 10 - Callisto X ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,9 +191,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Optimus Maximus (medium)
+- [[rock8.png\|rock8.png]] Optimus Maximus (medium)
 
-# Planet 11 - Callisto XI ![[gasg37.png]]
+# Planet 11 - Callisto XI ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,8 +208,8 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Sordelli (large)
-- ![[rock4.png]] Strovegni (medium)
-- ![[oddmoon3.png]] Isis (medium)
+- ![[rock17.png\|rock17.png]] Sordelli (large)
+- ![[rock4.png\|rock4.png]] Strovegni (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Isis (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chaffee (DP)
-xcood: "275.835"
-ycood: "-1758.012"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chaffee-dp/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chaffee (DP)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 275.835 |
+> | Y coord| -1758.012 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Amarynthia ![[iceg19.png]]
+# Planet 1 - Amarynthia ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Gravel Hill A (large)
-- ![[rock13.png]] Gravel Hill B (large)
+- ![[rock15.png\|rock15.png]] Gravel Hill A (large)
+- ![[rock13.png\|rock13.png]] Gravel Hill B (large)
 
 
-# Planet 2 - Dighton ![[rock16.png]]
+# Planet 2 - Dighton ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chaffee (DP) ![[green8.png]]
+# Planet 3 - Chaffee (DP) ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,9 +65,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Bunker Hill (large)
+- [[rock11.png\|rock11.png]] Bunker Hill (large)
 
-# Planet 4 - Pittsburgh Belt ![[asteroid1.png]]
+# Planet 4 - Pittsburgh Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Sigel ![[gasg15.png]]
+# Planet 5 - Sigel ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -99,12 +94,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Qeb I (large)
-- ![[rock10.png]] Qeb II (large)
-- ![[rock1.png]] Qeb III (large)
+- ![[rock14.png\|rock14.png]] Qeb I (large)
+- ![[rock10.png\|rock10.png]] Qeb II (large)
+- ![[rock1.png\|rock1.png]] Qeb III (large)
 
 
-# Planet 6 - Lake Providence ![[gasg11.png]]
+# Planet 6 - Lake Providence ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,12 +114,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Holland (large)
-- ![[rock2.png]] Manning (large)
-- ![[rock9.png]] Horn (large)
+- ![[rock5.png\|rock5.png]] Holland (large)
+- ![[rock2.png\|rock2.png]] Manning (large)
+- ![[rock9.png\|rock9.png]] Horn (large)
 
 
-# Planet 7 - Lower Natimao-an ![[gasg38.png]]
+# Planet 7 - Lower Natimao-an ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,16 +134,16 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Chernobog (large)
-- ![[rock15.png]] Chernabog (large)
-- ![[rock13.png]] Kamchatka (large)
-- ![[rock2.png]] Christensen (large)
-- ![[rock14.png]] Jung (large)
-- ![[oddmoon1.png]] Volos (medium)
-- ![[oddmoon3.png]] Wise (medium)
+- ![[rock12.png\|rock12.png]] Chernobog (large)
+- ![[rock15.png\|rock15.png]] Chernabog (large)
+- ![[rock13.png\|rock13.png]] Kamchatka (large)
+- ![[rock2.png\|rock2.png]] Christensen (large)
+- ![[rock14.png\|rock14.png]] Jung (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Volos (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Wise (medium)
 
 
-# Planet 8 - Antelope Lake ![[gasg33.png]]
+# Planet 8 - Antelope Lake ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,9 +158,9 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Gregg (giant)
-- ![[oddmoon2.png]] Richards (medium)
-- ![[rock8.png]] Johnson (medium)
-- ![[rock13.png]] Workman (medium)
+- ![[rock12.png\|rock12.png]] Gregg (giant)
+- ![[oddmoon2.png\|oddmoon2.png]] Richards (medium)
+- ![[rock8.png\|rock8.png]] Johnson (medium)
+- ![[rock13.png\|rock13.png]] Workman (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cameron (LC)
-xcood: "-172.97"
-ycood: "167.203"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cameron-lc/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cameron (LC)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | -172.97 |
+> | Y coord| 167.203 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Cameron (LC) ![[green44.png]]
+# Planet 1 - Cameron (LC) ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Rakshasas (medium)
-- ![[rock3.png]] Vajrapani (medium)
-- ![[rock6.png]] Bhima (medium)
+- ![[rock15.png\|rock15.png]] Rakshasas (medium)
+- ![[rock3.png\|rock3.png]] Vajrapani (medium)
+- ![[rock6.png\|rock6.png]] Bhima (medium)
 
 
-# Planet 2 - Rosario del Tala ![[gasg22.png]]
+# Planet 2 - Rosario del Tala ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -54,15 +49,15 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Van Leeuwen I (large)
-- ![[rock5.png]] Van Leeuwen II (large)
-- ![[rock14.png]] Van Leeuwen III (large)
-- ![[rock6.png]] Van Leeuwen IV (medium)
-- ![[rock11.png]] Van Leeuwen V (medium)
-- ![[rock2.png]] Van Leeuwen VI (medium)
+- ![[rock9.png\|rock9.png]] Van Leeuwen I (large)
+- ![[rock5.png\|rock5.png]] Van Leeuwen II (large)
+- ![[rock14.png\|rock14.png]] Van Leeuwen III (large)
+- ![[rock6.png\|rock6.png]] Van Leeuwen IV (medium)
+- ![[rock11.png\|rock11.png]] Van Leeuwen V (medium)
+- ![[rock2.png\|rock2.png]] Van Leeuwen VI (medium)
 
 
-# Planet 3 - Azul ![[gasg25.png]]
+# Planet 3 - Azul ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Nike Belt ![[asteroid1.png]]
+# Planet 4 - Nike Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Presidencia Roque Sáenz Peña Nueva ![[gasg10.png]]
+# Planet 5 - Presidencia Roque Sáenz Peña Nueva ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,14 +101,14 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Leikanger I (large)
-- ![[rock11.png]] Leikanger II (large)
-- ![[rock4.png]] Leikanger III (large)
-- ![[rock13.png]] Leikanger IV (large)
-- ![[rock5.png]] Leikanger V (medium)
+- ![[rock3.png\|rock3.png]] Leikanger I (large)
+- ![[rock11.png\|rock11.png]] Leikanger II (large)
+- ![[rock4.png\|rock4.png]] Leikanger III (large)
+- ![[rock13.png\|rock13.png]] Leikanger IV (large)
+- ![[rock5.png\|rock5.png]] Leikanger V (medium)
 
 
-# Planet 6 - Partido de Capitán Sarmiento ![[gasg16.png]]
+# Planet 6 - Partido de Capitán Sarmiento ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

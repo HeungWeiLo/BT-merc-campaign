@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ceará
-xcood: "-221.311"
-ycood: "-322.913"
-spectralType: K0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ceara/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ceará
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K0V.png]] |
+> | X coord | -221.311 |
+> | Y coord| -322.913 |
+> | Spectral Type | K0V ![[K0V.png\|K0V.png]] |
 
-# Planet 1 - Ceará ![[green10.png]]
+# Planet 1 - Ceará ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Bramo (medium)
-- ![[oddmoon2.png]] Caridade (medium)
-- ![[rock10.png]] Banham (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Bramo (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Caridade (medium)
+- ![[rock10.png\|rock10.png]] Banham (medium)
 
 
-# Planet 2 - Belém de Maria ![[badwater34.png]]
+# Planet 2 - Belém de Maria ![[badwater34.png\|badwater34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,7 +53,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Itapetinga ![[gasg13.png]]
+# Planet 3 - Itapetinga ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Aracaju ![[iceg16.png]]
+# Planet 4 - Aracaju ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Nova Urupês ![[iceg13.png]]
+# Planet 5 - Nova Urupês ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -107,11 +102,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] G1 (giant)
-- ![[rock17.png]] G2 (giant)
+- ![[rock8.png\|rock8.png]] G1 (giant)
+- ![[rock17.png\|rock17.png]] G2 (giant)
 
 
-# Planet 6 - São Bonifácio ![[gasg37.png]]
+# Planet 6 - São Bonifácio ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Eunápolis Belt ![[asteroid1.png]]
+# Planet 7 - Eunápolis Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -140,7 +135,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Jaicós ![[gasg4.png]]
+# Planet 8 - Jaicós ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -157,7 +152,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Curral de Cima ![[gasg31.png]]
+# Planet 9 - Curral de Cima ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -172,5 +167,5 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Bei (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Bei (medium)
 

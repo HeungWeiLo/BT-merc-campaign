@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bougie
-xcood: "-505.773"
-ycood: "215.463"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bougie/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bougie
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | -505.773 |
+> | Y coord| 215.463 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - VE-1 ![[greenhouse34.png]]
+# Planet 1 - VE-1 ![[greenhouse34.png\|greenhouse34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - VE-2 ![[gasg22.png]]
+# Planet 2 - VE-2 ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Wilaya de Tipaza (medium)
-- ![[oddmoon1.png]] Souk Ahras (medium)
-- ![[rock8.png]] Hirzenhain (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Wilaya de Tipaza (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Souk Ahras (medium)
+- ![[rock8.png\|rock8.png]] Hirzenhain (medium)
 
 
-# Planet 3 - VE-3 ![[barren15.png]]
+# Planet 3 - VE-3 ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bougie ![[green9.png]]
+# Planet 4 - Bougie ![[green9.png\|green9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - VE-5 ![[iceg17.png]]
+# Planet 5 - VE-5 ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -107,12 +102,12 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Nabih (large)
-- ![[rock15.png]] Safwan (medium)
-- ![[oddmoon2.png]] Jalil (medium)
+- ![[rock9.png\|rock9.png]] Nabih (large)
+- ![[rock15.png\|rock15.png]] Safwan (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Jalil (medium)
 
 
-# Planet 6 - Médéa Belt ![[asteroid3.png]]
+# Planet 6 - Médéa Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - VE-6 ![[gasg34.png]]
+# Planet 7 - VE-6 ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,15 +134,15 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Ganesh (large)
-- ![[rock4.png]] Vishnu (large)
-- ![[rock8.png]] Meru (large)
-- ![[rock16.png]] Indrani (large)
-- ![[rock7.png]] Lopter (large)
-- ![[oddmoon2.png]] Balarama (medium)
+- ![[rock10.png\|rock10.png]] Ganesh (large)
+- ![[rock4.png\|rock4.png]] Vishnu (large)
+- ![[rock8.png\|rock8.png]] Meru (large)
+- ![[rock16.png\|rock16.png]] Indrani (large)
+- ![[rock7.png\|rock7.png]] Lopter (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Balarama (medium)
 
 
-# Planet 8 - VE-7 ![[gasg26.png]]
+# Planet 8 - VE-7 ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,9 +157,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Tablets of Destiny (large)
+- [[rock5.png\|rock5.png]] Tablets of Destiny (large)
 
-# Planet 9 - VE-8 ![[gasg13.png]]
+# Planet 9 - VE-8 ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,15 +174,15 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Ga A (large)
-- ![[rock4.png]] Ga B (large)
-- ![[rock14.png]] Ga C (large)
-- ![[rock9.png]] Ga D (medium)
-- ![[rock8.png]] Ga E (medium)
-- ![[rock16.png]] Ga F (medium)
+- ![[rock15.png\|rock15.png]] Ga A (large)
+- ![[rock4.png\|rock4.png]] Ga B (large)
+- ![[rock14.png\|rock14.png]] Ga C (large)
+- ![[rock9.png\|rock9.png]] Ga D (medium)
+- ![[rock8.png\|rock8.png]] Ga E (medium)
+- ![[rock16.png\|rock16.png]] Ga F (medium)
 
 
-# Planet 10 - VE-9 ![[gasg38.png]]
+# Planet 10 - VE-9 ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -202,5 +197,5 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Zakariyya (medium)
+- [[rock9.png\|rock9.png]] Zakariyya (medium)
 

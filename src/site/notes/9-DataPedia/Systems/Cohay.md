@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cohay
-xcood: "610.039"
-ycood: "11.331"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cohay/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cohay
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 610.039 |
+> | Y coord| 11.331 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Cohay ![[dry11.png]]
+# Planet 1 - Cohay ![[dry11.png\|dry11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - FZN-2 ![[rock9.png]]
+# Planet 2 - FZN-2 ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - FZN-3 ![[gasg34.png]]
+# Planet 3 - FZN-3 ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Brock Alpha (large)
-- ![[rock12.png]] Brock Beta (large)
-- ![[rock8.png]] Brock Gamma (medium)
+- ![[rock2.png\|rock2.png]] Brock Alpha (large)
+- ![[rock12.png\|rock12.png]] Brock Beta (large)
+- ![[rock8.png\|rock8.png]] Brock Gamma (medium)
 
 
-# Planet 4 - FZN-4 ![[gasg3.png]]
+# Planet 4 - FZN-4 ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] 3ID1 (giant)
-- ![[rock14.png]] 3ID2 (giant)
-- ![[rock5.png]] 3ID3 (large)
+- ![[rock2.png\|rock2.png]] 3ID1 (giant)
+- ![[rock14.png\|rock14.png]] 3ID2 (giant)
+- ![[rock5.png\|rock5.png]] 3ID3 (large)
 
 
-# Planet 5 - FZN-5 ![[gasg29.png]]
+# Planet 5 - FZN-5 ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,9 +103,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] ZN1 (medium)
+- [[rock3.png\|rock3.png]] ZN1 (medium)
 
-# Planet 6 - Radigast Belt A ![[asteroid2.png]]
+# Planet 6 - Radigast Belt A ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - FZN-6 ![[gasg16.png]]
+# Planet 7 - FZN-6 ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Radigast Belt B ![[asteroid1.png]]
+# Planet 8 - Radigast Belt B ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

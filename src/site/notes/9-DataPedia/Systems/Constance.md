@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Constance
-xcood: "100.031"
-ycood: "429.051"
-spectralType: F2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/constance/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Constance
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2V.png]] |
+> | X coord | 100.031 |
+> | Y coord| 429.051 |
+> | Spectral Type | F2V ![[F2V.png\|F2V.png]] |
 
-# Planet 1 - Palmela ![[barren2.png]]
+# Planet 1 - Palmela ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lousado ![[gasg14.png]]
+# Planet 2 - Lousado ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Svarizic (medium)
-- ![[rock12.png]] Kutkha (medium)
+- ![[rock3.png\|rock3.png]] Svarizic (medium)
+- ![[rock12.png\|rock12.png]] Kutkha (medium)
 
 
-# Planet 3 - Seixas ![[gasg19.png]]
+# Planet 3 - Seixas ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Constance ![[green31.png]]
+# Planet 4 - Constance ![[green31.png\|green31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Billingham ![[gasg11.png]]
+# Planet 5 - Billingham ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,17 +100,17 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Pääpiru (giant)
-- ![[rock3.png]] Yambe Akka (giant)
-- ![[rock16.png]] Thermes (large)
-- ![[rock7.png]] Peko (large)
-- ![[rock13.png]] Kalevala (large)
-- ![[rock17.png]] Kuu (large)
-- ![[rock11.png]] Ajatar (medium)
-- ![[oddmoon2.png]] Pekko (medium)
+- ![[rock9.png\|rock9.png]] Pääpiru (giant)
+- ![[rock3.png\|rock3.png]] Yambe Akka (giant)
+- ![[rock16.png\|rock16.png]] Thermes (large)
+- ![[rock7.png\|rock7.png]] Peko (large)
+- ![[rock13.png\|rock13.png]] Kalevala (large)
+- ![[rock17.png\|rock17.png]] Kuu (large)
+- ![[rock11.png\|rock11.png]] Ajatar (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Pekko (medium)
 
 
-# Planet 6 - Vila Boim ![[gasg33.png]]
+# Planet 6 - Vila Boim ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -132,7 +127,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Silgueiros ![[gasg22.png]]
+# Planet 7 - Silgueiros ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,13 +142,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] 16-1 (large)
-- ![[rock16.png]] 16-2 (large)
-- ![[rock15.png]] 16-3 (large)
-- ![[rock10.png]] 16-4 (large)
+- ![[rock17.png\|rock17.png]] 16-1 (large)
+- ![[rock16.png\|rock16.png]] 16-2 (large)
+- ![[rock15.png\|rock15.png]] 16-3 (large)
+- ![[rock10.png\|rock10.png]] 16-4 (large)
 
 
-# Planet 8 - Almalaguês ![[gasg31.png]]
+# Planet 8 - Almalaguês ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,14 +163,14 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] GHY1 (large)
-- ![[rock14.png]] GHY2 (large)
-- ![[rock11.png]] GHY3 (large)
-- ![[rock3.png]] GHY4 (large)
-- ![[rock10.png]] GHY5 (large)
+- ![[rock8.png\|rock8.png]] GHY1 (large)
+- ![[rock14.png\|rock14.png]] GHY2 (large)
+- ![[rock11.png\|rock11.png]] GHY3 (large)
+- ![[rock3.png\|rock3.png]] GHY4 (large)
+- ![[rock10.png\|rock10.png]] GHY5 (large)
 
 
-# Planet 9 - Íasmos Belt ![[asteroid3.png]]
+# Planet 9 - Íasmos Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ceuta
-xcood: "-538.748"
-ycood: "199.654"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ceuta/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ceuta
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | -538.748 |
+> | Y coord| 199.654 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Ceuta ![[green26.png]]
+# Planet 1 - Ceuta ![[green26.png\|green26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Agres ![[iceg7.png]]
+# Planet 2 - Agres ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Gujarāt ![[iceg4.png]]
+# Planet 3 - Gujarāt ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -68,11 +63,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Odinn (giant)
-- ![[rock16.png]] Njörðr (large)
+- ![[rock2.png\|rock2.png]] Odinn (giant)
+- ![[rock16.png\|rock16.png]] Njörðr (large)
 
 
-# Planet 4 - Mombuey ![[gasg4.png]]
+# Planet 4 - Mombuey ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,14 +82,14 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Bañuelos Alpha (large)
-- ![[rock15.png]] Bañuelos Beta (large)
-- ![[rock14.png]] Bañuelos Gamma (medium)
-- ![[oddmoon1.png]] Bañuelos Delta (medium)
-- ![[rock9.png]] Bañuelos Epsilon (medium)
+- ![[rock11.png\|rock11.png]] Bañuelos Alpha (large)
+- ![[rock15.png\|rock15.png]] Bañuelos Beta (large)
+- ![[rock14.png\|rock14.png]] Bañuelos Gamma (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Bañuelos Delta (medium)
+- ![[rock9.png\|rock9.png]] Bañuelos Epsilon (medium)
 
 
-# Planet 5 - Africus Belt ![[asteroid2.png]]
+# Planet 5 - Africus Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Figueruela de Arriba ![[gasg34.png]]
+# Planet 6 - Figueruela de Arriba ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,12 +116,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Cifuentes I (medium)
-- ![[rock9.png]] Cifuentes II (medium)
-- ![[oddmoon3.png]] Cifuentes III (medium)
+- ![[rock8.png\|rock8.png]] Cifuentes I (medium)
+- ![[rock9.png\|rock9.png]] Cifuentes II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cifuentes III (medium)
 
 
-# Planet 7 - Þonar ![[gasg8.png]]
+# Planet 7 - Þonar ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Montseny ![[gasg38.png]]
+# Planet 8 - Montseny ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,13 +153,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Majadahonda 1 (large)
-- ![[rock8.png]] Majadahonda 2 (large)
-- ![[rock16.png]] Majadahonda 3 (large)
-- ![[rock13.png]] Majadahonda 4 (large)
+- ![[rock10.png\|rock10.png]] Majadahonda 1 (large)
+- ![[rock8.png\|rock8.png]] Majadahonda 2 (large)
+- ![[rock16.png\|rock16.png]] Majadahonda 3 (large)
+- ![[rock13.png\|rock13.png]] Majadahonda 4 (large)
 
 
-# Planet 9 - Descanso de Sánchez ![[gasg7.png]]
+# Planet 9 - Descanso de Sánchez ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,12 +174,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] W1 (medium)
-- ![[rock4.png]] W2 (medium)
-- ![[rock17.png]] W3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] W1 (medium)
+- ![[rock4.png\|rock4.png]] W2 (medium)
+- ![[rock17.png\|rock17.png]] W3 (medium)
 
 
-# Planet 10 - Cubas de la Sagra ![[gasg6.png]]
+# Planet 10 - Cubas de la Sagra ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -199,9 +194,9 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Futen 1 (large)
-- ![[oddmoon2.png]] Futen 2 (medium)
-- ![[rock5.png]] Futen 3 (medium)
-- ![[rock8.png]] Futen 4 (medium)
+- ![[rock2.png\|rock2.png]] Futen 1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Futen 2 (medium)
+- ![[rock5.png\|rock5.png]] Futen 3 (medium)
+- ![[rock8.png\|rock8.png]] Futen 4 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Conakry
-xcood: "-316.194"
-ycood: "-131.667"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/conakry/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Conakry
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -316.194 |
+> | Y coord| -131.667 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Kakossa ![[gasg21.png]]
+# Planet 1 - Kakossa ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Conakry ![[green17.png]]
+# Planet 2 - Conakry ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Māra 1 (medium)
-- ![[rock16.png]] Māra 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Māra 1 (medium)
+- ![[rock16.png\|rock16.png]] Māra 2 (medium)
 
 
-# Planet 3 - Al Kharj ![[greenhouse10.png]]
+# Planet 3 - Al Kharj ![[greenhouse10.png\|greenhouse10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Vassérédou ![[iceg12.png]]
+# Planet 4 - Vassérédou ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Siguiri-Centre ![[gasg31.png]]
+# Planet 5 - Siguiri-Centre ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,12 +102,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Atlas (large)
-- ![[rock7.png]] Pegasos (large)
-- ![[rock6.png]] Erotes (medium)
+- ![[rock15.png\|rock15.png]] Atlas (large)
+- ![[rock7.png\|rock7.png]] Pegasos (large)
+- ![[rock6.png\|rock6.png]] Erotes (medium)
 
 
-# Planet 6 - Matoto Sub-Prefecture ![[gasg36.png]]
+# Planet 6 - Matoto Sub-Prefecture ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,15 +122,15 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] B-1 (giant)
-- ![[rock17.png]] B-2 (giant)
-- ![[rock5.png]] B-3 (large)
-- ![[rock1.png]] B-4 (large)
-- ![[rock14.png]] B-5 (large)
-- ![[rock6.png]] B-6 (medium)
+- ![[rock7.png\|rock7.png]] B-1 (giant)
+- ![[rock17.png\|rock17.png]] B-2 (giant)
+- ![[rock5.png\|rock5.png]] B-3 (large)
+- ![[rock1.png\|rock1.png]] B-4 (large)
+- ![[rock14.png\|rock14.png]] B-5 (large)
+- ![[rock6.png\|rock6.png]] B-6 (medium)
 
 
-# Planet 7 - Neshoba ![[gasg14.png]]
+# Planet 7 - Neshoba ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,9 +145,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Yemowo (large)
+- [[rock2.png\|rock2.png]] Yemowo (large)
 
-# Planet 8 - Erreur de Garcia ![[gasg25.png]]
+# Planet 8 - Erreur de Garcia ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

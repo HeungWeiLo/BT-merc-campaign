@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cassias
-xcood: "317.678"
-ycood: "79.828"
-spectralType: M5Ia
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cassias/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cassias
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5Ia.png]] |
+> | X coord | 317.678 |
+> | Y coord| 79.828 |
+> | Spectral Type | M5Ia ![[M5Ia.png\|M5Ia.png]] |
 
-# Planet 1 - Cassias ![[green10.png]]
+# Planet 1 - Cassias ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,13 +31,13 @@ Cassias is a tropical world with a moderate population. The planet sits on the b
 
 Agriculture is an important industry on Cassias, though it rarely produces foodstuffs, the primary exports are rubber, textiles and timber. The planet also has a thriving metal and natural gas industry. However, the primary importance of Cassias to the Federated Suns has always been the planet’s location on the border with the Combine, as a result the AFFS have always maintained a presence on Cassias.
 
-- ![[oddmoon1.png]] Ramah (medium)
-- ![[oddmoon2.png]] Bambang (medium)
-- ![[rock8.png]] Budiono (large)
-- ![[rock5.png]] Kinjuri (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ramah (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bambang (medium)
+- ![[rock8.png\|rock8.png]] Budiono (large)
+- ![[rock5.png\|rock5.png]] Kinjuri (medium)
 
 
-# Planet 2 - Herlev ![[rock11.png]]
+# Planet 2 - Herlev ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-# Planet 3 - Khūr ![[frozen21.png]]
+# Planet 3 - Khūr ![[frozen21.png\|frozen21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,12 +72,12 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-- ![[oddmoon2.png]] Hygeia (medium)
-- ![[rock16.png]] Phema (medium)
-- ![[rock7.png]] Dionysos (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hygeia (medium)
+- ![[rock16.png\|rock16.png]] Phema (medium)
+- ![[rock7.png\|rock7.png]] Dionysos (medium)
 
 
-# Planet 4 - Chao ![[rock2.png]]
+# Planet 4 - Chao ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -99,7 +94,7 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-# Planet 5 - Marin ![[gasg4.png]]
+# Planet 5 - Marin ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,7 +111,7 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-# Planet 6 - Badr al Din ![[iceg13.png]]
+# Planet 6 - Badr al Din ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -133,7 +128,7 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-# Planet 7 - Patrick's Wind ![[gasg36.png]]
+# Planet 7 - Patrick's Wind ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -148,12 +143,12 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-- ![[rock8.png]] Eriu 1 (medium)
-- ![[oddmoon1.png]] Eriu 2 (medium)
-- ![[oddmoon3.png]] Eriu 3 (medium)
+- ![[rock8.png\|rock8.png]] Eriu 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Eriu 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Eriu 3 (medium)
 
 
-# Planet 8 - Gapcheon-myeon ![[gasg34.png]]
+# Planet 8 - Gapcheon-myeon ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,15 +163,15 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-- ![[rock7.png]] DiCenta (large)
-- ![[rock5.png]] Woods (large)
-- ![[rock10.png]] Miré (large)
-- ![[oddmoon2.png]] Readman (medium)
-- ![[rock11.png]] Parker (medium)
-- ![[oddmoon1.png]] Orisanla (medium)
+- ![[rock7.png\|rock7.png]] DiCenta (large)
+- ![[rock5.png\|rock5.png]] Woods (large)
+- ![[rock10.png\|rock10.png]] Miré (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Readman (medium)
+- ![[rock11.png\|rock11.png]] Parker (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Orisanla (medium)
 
 
-# Planet 9 - Hayagawa's Ship ![[gasg24.png]]
+# Planet 9 - Hayagawa's Ship ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -191,8 +186,8 @@ Agriculture is an important industry on Cassias, though it rarely produces foods
 
 
 
-- ![[rock1.png]] Chernabog 1 (large)
-- ![[rock15.png]] Chernabog 2 (large)
-- ![[rock17.png]] Chernabog 3 (medium)
+- ![[rock1.png\|rock1.png]] Chernabog 1 (large)
+- ![[rock15.png\|rock15.png]] Chernabog 2 (large)
+- ![[rock17.png\|rock17.png]] Chernabog 3 (medium)
 
 

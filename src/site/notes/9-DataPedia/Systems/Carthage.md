@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carthage
-xcood: "199.053"
-ycood: "-464.191"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carthage/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carthage
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 199.053 |
+> | Y coord| -464.191 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Susano ![[rock5.png]]
+# Planet 1 - Susano ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Carthage ![[green39.png]]
+# Planet 2 - Carthage ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Fire Fade ![[rock12.png]]
+# Planet 3 - Fire Fade ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yamasachihiko ![[gasg22.png]]
+# Planet 4 - Yamasachihiko ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,11 +80,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Coal A (medium)
-- ![[rock12.png]] Coal B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Coal A (medium)
+- ![[rock12.png\|rock12.png]] Coal B (medium)
 
 
-# Planet 5 - Sukunabikona ![[gasg18.png]]
+# Planet 5 - Sukunabikona ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,16 +99,16 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] 4 (large)
-- ![[rock1.png]] 4 (large)
-- ![[rock13.png]] 4 (large)
-- ![[oddmoon1.png]] 4 (medium)
-- ![[rock16.png]] 4 (medium)
-- ![[rock8.png]] 4 (medium)
-- ![[rock14.png]] 4 (medium)
+- ![[rock10.png\|rock10.png]] 4 (large)
+- ![[rock1.png\|rock1.png]] 4 (large)
+- ![[rock13.png\|rock13.png]] 4 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 4 (medium)
+- ![[rock16.png\|rock16.png]] 4 (medium)
+- ![[rock8.png\|rock8.png]] 4 (medium)
+- ![[rock14.png\|rock14.png]] 4 (medium)
 
 
-# Planet 6 - Susano O ![[iceg5.png]]
+# Planet 6 - Susano O ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -128,13 +123,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] López (medium)
-- ![[oddmoon3.png]] Auxesia (medium)
-- ![[rock8.png]] Lowery (medium)
-- ![[oddmoon1.png]] Himeros (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] López (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Auxesia (medium)
+- ![[rock8.png\|rock8.png]] Lowery (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Himeros (medium)
 
 
-# Planet 7 - Coeus Belt ![[asteroid3.png]]
+# Planet 7 - Coeus Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Miroku Bosatsu ![[gasg38.png]]
+# Planet 8 - Miroku Bosatsu ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,11 +156,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Murray (medium)
-- ![[rock11.png]] Taylor (medium)
+- ![[rock6.png\|rock6.png]] Murray (medium)
+- ![[rock11.png\|rock11.png]] Taylor (medium)
 
 
-# Planet 9 - Ebisu ![[gasg13.png]]
+# Planet 9 - Ebisu ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,16 +175,16 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Tartaros (large)
-- ![[rock11.png]] Cronos (large)
-- ![[rock2.png]] Jordan (large)
-- ![[rock14.png]] Ekhidna (medium)
-- ![[oddmoon3.png]] Blevins (medium)
-- ![[rock8.png]] Ares (medium)
-- ![[oddmoon1.png]] Ceneus (medium)
+- ![[rock16.png\|rock16.png]] Tartaros (large)
+- ![[rock11.png\|rock11.png]] Cronos (large)
+- ![[rock2.png\|rock2.png]] Jordan (large)
+- ![[rock14.png\|rock14.png]] Ekhidna (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Blevins (medium)
+- ![[rock8.png\|rock8.png]] Ares (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ceneus (medium)
 
 
-# Planet 10 - Sukuna Biko ![[gasg12.png]]
+# Planet 10 - Sukuna Biko ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -204,16 +199,16 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Adams (large)
-- ![[rock6.png]] Ladd (large)
-- ![[rock16.png]] Foster (large)
-- ![[oddmoon2.png]] Dagdha (medium)
-- ![[oddmoon3.png]] Merlin (medium)
-- ![[oddmoon1.png]] Nuada Argatlam (medium)
-- ![[oddmoon2.png]] Morrigna (medium)
+- ![[rock3.png\|rock3.png]] Adams (large)
+- ![[rock6.png\|rock6.png]] Ladd (large)
+- ![[rock16.png\|rock16.png]] Foster (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Dagdha (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Merlin (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nuada Argatlam (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Morrigna (medium)
 
 
-# Planet 11 - Erotes ![[gasg30.png]]
+# Planet 11 - Erotes ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -228,8 +223,8 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Suzuki (medium)
-- ![[rock16.png]] Davis (medium)
-- ![[oddmoon1.png]] Thompson (medium)
+- ![[rock13.png\|rock13.png]] Suzuki (medium)
+- ![[rock16.png\|rock16.png]] Davis (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Thompson (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Braunton
-xcood: "129.24"
-ycood: "237.243"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/braunton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Braunton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | 129.24 |
+> | Y coord| 237.243 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Ullingswick ![[gasg23.png]]
+# Planet 1 - Ullingswick ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Ilyap'a 1 (medium)
-- ![[oddmoon3.png]] Ilyap'a 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ilyap'a 1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ilyap'a 2 (medium)
 
 
-# Planet 2 - Rewe ![[barren22.png]]
+# Planet 2 - Rewe ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Alfrick ![[rock9.png]]
+# Planet 3 - Alfrick ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Braunton ![[green12.png]]
+# Planet 4 - Braunton ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Old West Rainton ![[rock8.png]]
+# Planet 5 - Old West Rainton ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Caroline ![[rock14.png]]
+# Planet 6 - Caroline ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Bangor is-y-Coed ![[rock16.png]]
+# Planet 7 - Bangor is-y-Coed ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Heanor and Loscoe ![[gasg29.png]]
+# Planet 8 - Heanor and Loscoe ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

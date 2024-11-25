@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chara (Pacifica)
-xcood: "-29.214"
-ycood: "6.414"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chara-pacifica/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chara (Pacifica)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -29.214 |
+> | Y coord| 6.414 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Chernabog ![[iceg16.png]]
+# Planet 1 - Chernabog ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Villa Crespo (large)
-- ![[rock1.png]] Corrientes (large)
+- ![[rock11.png\|rock11.png]] Villa Crespo (large)
+- ![[rock1.png\|rock1.png]] Corrientes (large)
 
 
-# Planet 2 - Quikil ![[rock13.png]]
+# Planet 2 - Quikil ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,12 +45,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] LKT-1 (medium)
-- ![[rock7.png]] LKT-2 (medium)
-- ![[oddmoon3.png]] LKT-3 (medium)
+- ![[rock8.png\|rock8.png]] LKT-1 (medium)
+- ![[rock7.png\|rock7.png]] LKT-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] LKT-3 (medium)
 
 
-# Planet 3 - Chara (Pacifica) ![[wet13.png]]
+# Planet 3 - Chara (Pacifica) ![[wet13.png\|wet13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,7 +73,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-# Planet 4 - Divja Davokje ![[rock7.png]]
+# Planet 4 - Divja Davokje ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -95,7 +90,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-# Planet 5 - Gallegos's Mistake ![[gasg13.png]]
+# Planet 5 - Gallegos's Mistake ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -112,7 +107,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-# Planet 6 - Baba Yaga ![[gasg18.png]]
+# Planet 6 - Baba Yaga ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,13 +122,13 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-- ![[rock9.png]] Horden I (large)
-- ![[rock1.png]] Horden II (large)
-- ![[rock8.png]] Horden III (large)
-- ![[oddmoon3.png]] Horden IV (medium)
+- ![[rock9.png\|rock9.png]] Horden I (large)
+- ![[rock1.png\|rock1.png]] Horden II (large)
+- ![[rock8.png\|rock8.png]] Horden III (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Horden IV (medium)
 
 
-# Planet 7 - Varpulis ![[gasg28.png]]
+# Planet 7 - Varpulis ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,7 +145,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-# Planet 8 - Tchernobog ![[gasg15.png]]
+# Planet 8 - Tchernobog ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -167,7 +162,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-# Planet 9 - Czernobog ![[gasg7.png]]
+# Planet 9 - Czernobog ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,14 +177,14 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-- ![[rock4.png]] P-1 (large)
-- ![[oddmoon3.png]] P-2 (medium)
-- ![[rock16.png]] P-3 (medium)
-- ![[rock15.png]] P-4 (medium)
-- ![[oddmoon1.png]] P-5 (medium)
+- ![[rock4.png\|rock4.png]] P-1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] P-2 (medium)
+- ![[rock16.png\|rock16.png]] P-3 (medium)
+- ![[rock15.png\|rock15.png]] P-4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] P-5 (medium)
 
 
-# Planet 10 - Rugievit ![[gasg33.png]]
+# Planet 10 - Rugievit ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -204,11 +199,11 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-- ![[rock3.png]] Svendsen 1 (medium)
-- ![[oddmoon3.png]] Svendsen 2 (medium)
+- ![[rock3.png\|rock3.png]] Svendsen 1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Svendsen 2 (medium)
 
 
-# Planet 11 - Fortaleza de Bogatyri ![[gasg24.png]]
+# Planet 11 - Fortaleza de Bogatyri ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,7 +218,7 @@ During the Succession Wars, the exports from Starpad to agriculturally poorer ne
 
 
 
-- ![[rock1.png]] Quetzalcoatl (large)
-- ![[rock11.png]] Batman (large)
+- ![[rock1.png\|rock1.png]] Quetzalcoatl (large)
+- ![[rock11.png\|rock11.png]] Batman (large)
 
 

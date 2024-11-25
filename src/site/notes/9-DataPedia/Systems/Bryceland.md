@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bryceland
-xcood: "406.606"
-ycood: "97.919"
-spectralType: M6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bryceland/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bryceland
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M6V.png]] |
+> | X coord | 406.606 |
+> | Y coord| 97.919 |
+> | Spectral Type | M6V ![[M6V.png\|M6V.png]] |
 
-# Planet 1 - Bryceland ![[green24.png]]
+# Planet 1 - Bryceland ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Jackson's Folly ![[iceg8.png]]
+# Planet 2 - Jackson's Folly ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,13 +46,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Clídna (large)
-- ![[rock16.png]] Cuchulainn (large)
-- ![[rock5.png]] A1 (large)
-- ![[oddmoon3.png]] A2 (medium)
+- ![[rock13.png\|rock13.png]] Clídna (large)
+- ![[rock16.png\|rock16.png]] Cuchulainn (large)
+- ![[rock5.png\|rock5.png]] A1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] A2 (medium)
 
 
-# Planet 3 - New Taylor Mill ![[gasg37.png]]
+# Planet 3 - New Taylor Mill ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -72,12 +67,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Fillmore (large)
-- ![[oddmoon1.png]] Fannin (medium)
-- ![[oddmoon3.png]] Hialeah Gardens (medium)
+- ![[rock7.png\|rock7.png]] Fillmore (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Fannin (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hialeah Gardens (medium)
 
 
-# Planet 4 - Marjoriebanks ![[gasg11.png]]
+# Planet 4 - Marjoriebanks ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -92,9 +87,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Steele (giant)
+- [[rock16.png\|rock16.png]] Steele (giant)
 
-# Planet 5 - Hayes's Delight ![[gasg3.png]]
+# Planet 5 - Hayes's Delight ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Garner I (medium)
-- ![[rock3.png]] Garner II (medium)
+- ![[rock10.png\|rock10.png]] Garner I (medium)
+- ![[rock3.png\|rock3.png]] Garner II (medium)
 
 

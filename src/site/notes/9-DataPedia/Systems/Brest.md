@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brest
-xcood: "30.759"
-ycood: "-303.5"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brest/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brest
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | 30.759 |
+> | Y coord| -303.5 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Brest ![[green38.png]]
+# Planet 1 - Brest ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - K1 Belt ![[asteroid1.png]]
+# Planet 2 - K1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Brunhilt ![[gasg25.png]]
+# Planet 3 - Brunhilt ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,13 +58,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] COL.1 (large)
-- ![[rock15.png]] COL.2 (large)
-- ![[rock3.png]] COL.3 (large)
-- ![[rock9.png]] COL.4 (medium)
+- ![[rock10.png\|rock10.png]] COL.1 (large)
+- ![[rock15.png\|rock15.png]] COL.2 (large)
+- ![[rock3.png\|rock3.png]] COL.3 (large)
+- ![[rock9.png\|rock9.png]] COL.4 (medium)
 
 
-# Planet 4 - Loder's Plains ![[gasg11.png]]
+# Planet 4 - Loder's Plains ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -84,14 +79,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Ojgibesov 1 (large)
-- ![[rock10.png]] Ojgibesov 2 (large)
-- ![[rock17.png]] Ojgibesov 3 (medium)
-- ![[rock2.png]] Ojgibesov 4 (medium)
-- ![[rock9.png]] Ojgibesov 5 (medium)
+- ![[rock14.png\|rock14.png]] Ojgibesov 1 (large)
+- ![[rock10.png\|rock10.png]] Ojgibesov 2 (large)
+- ![[rock17.png\|rock17.png]] Ojgibesov 3 (medium)
+- ![[rock2.png\|rock2.png]] Ojgibesov 4 (medium)
+- ![[rock9.png\|rock9.png]] Ojgibesov 5 (medium)
 
 
-# Planet 5 - Alfheim ![[gasg22.png]]
+# Planet 5 - Alfheim ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,11 +101,11 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] SLY-1 (large)
-- ![[rock16.png]] SLY-2 (large)
+- ![[rock12.png\|rock12.png]] SLY-1 (large)
+- ![[rock16.png\|rock16.png]] SLY-2 (large)
 
 
-# Planet 6 - Geirskokul ![[frozen51.png]]
+# Planet 6 - Geirskokul ![[frozen51.png\|frozen51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -128,14 +123,14 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Valozhyn A (large)
-- ![[rock11.png]] Valozhyn B (large)
-- ![[oddmoon2.png]] Valozhyn C (medium)
-- ![[oddmoon3.png]] Valozhyn D (medium)
-- ![[rock14.png]] Valozhyn E (medium)
+- ![[rock15.png\|rock15.png]] Valozhyn A (large)
+- ![[rock11.png\|rock11.png]] Valozhyn B (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Valozhyn C (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Valozhyn D (medium)
+- ![[rock14.png\|rock14.png]] Valozhyn E (medium)
 
 
-# Planet 7 - Walkyries ![[gasg28.png]]
+# Planet 7 - Walkyries ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -152,7 +147,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Baldr ![[iceg17.png]]
+# Planet 8 - Baldr ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -167,12 +162,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Strickland (medium)
-- ![[rock17.png]] Badygin (medium)
-- ![[rock15.png]] Abe (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Strickland (medium)
+- ![[rock17.png\|rock17.png]] Badygin (medium)
+- ![[rock15.png\|rock15.png]] Abe (medium)
 
 
-# Planet 9 - K2 Belt ![[asteroid2.png]]
+# Planet 9 - K2 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

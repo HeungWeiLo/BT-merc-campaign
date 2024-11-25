@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Claxton
-xcood: "15.497"
-ycood: "-264.185"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/claxton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Claxton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | 15.497 |
+> | Y coord| -264.185 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Claxton ![[green44.png]]
+# Planet 1 - Claxton ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] G71 (medium)
-- ![[rock4.png]] G72 (medium)
-- ![[oddmoon1.png]] G73 (medium)
+- ![[rock2.png\|rock2.png]] G71 (medium)
+- ![[rock4.png\|rock4.png]] G72 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] G73 (medium)
 
 
-# Planet 2 - Inara's Redoubt ![[iceg1.png]]
+# Planet 2 - Inara's Redoubt ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -54,12 +49,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Y'shua 1 (large)
-- ![[oddmoon1.png]] Y'shua 2 (medium)
-- ![[oddmoon3.png]] Y'shua 3 (medium)
+- ![[rock13.png\|rock13.png]] Y'shua 1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Y'shua 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Y'shua 3 (medium)
 
 
-# Planet 3 - Beelzebub ![[gasg13.png]]
+# Planet 3 - Beelzebub ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -74,12 +69,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Allatu (large)
-- ![[rock4.png]] Beret Sheri (large)
-- ![[rock15.png]] Ishtar (large)
+- ![[rock2.png\|rock2.png]] Allatu (large)
+- ![[rock4.png\|rock4.png]] Beret Sheri (large)
+- ![[rock15.png\|rock15.png]] Ishtar (large)
 
 
-# Planet 4 - Ariniddu ![[gasg21.png]]
+# Planet 4 - Ariniddu ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -94,9 +89,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Gustafson (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Gustafson (medium)
 
-# Planet 5 - Musa's Folly ![[gasg28.png]]
+# Planet 5 - Musa's Folly ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -111,12 +106,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] YQ1 (medium)
-- ![[oddmoon3.png]] YQ2 (medium)
-- ![[rock12.png]] YQ3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] YQ1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] YQ2 (medium)
+- ![[rock12.png\|rock12.png]] YQ3 (medium)
 
 
-# Planet 6 - Hoover ![[gasg25.png]]
+# Planet 6 - Hoover ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -133,7 +128,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Clark's Belt Alpha ![[asteroid1.png]]
+# Planet 7 - Clark's Belt Alpha ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -145,7 +140,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Martin's Stand ![[frozen57.png]]
+# Planet 8 - Martin's Stand ![[frozen57.png\|frozen57.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -163,11 +158,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Eastford 1 (large)
-- ![[rock8.png]] Eastford 2 (medium)
+- ![[rock9.png\|rock9.png]] Eastford 1 (large)
+- ![[rock8.png\|rock8.png]] Eastford 2 (medium)
 
 
-# Planet 9 - Clark's Belt Beta ![[asteroid2.png]]
+# Planet 9 - Clark's Belt Beta ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Amshaspands ![[gasg4.png]]
+# Planet 10 - Amshaspands ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -194,7 +189,7 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] R1 (large)
-- ![[rock9.png]] R2 (large)
+- ![[rock5.png\|rock5.png]] R1 (large)
+- ![[rock9.png\|rock9.png]] R2 (large)
 
 

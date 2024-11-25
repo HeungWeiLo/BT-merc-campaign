@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bone-Norman
-xcood: "-185.36"
-ycood: "424.923"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bone-norman/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bone-Norman
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | -185.36 |
+> | Y coord| 424.923 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - North Middletown ![[iceg9.png]]
+# Planet 1 - North Middletown ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] MacFadden A (giant)
-- ![[rock12.png]] MacFadden B (giant)
+- ![[rock9.png\|rock9.png]] MacFadden A (giant)
+- ![[rock12.png\|rock12.png]] MacFadden B (giant)
 
 
-# Planet 2 - Bone-Norman ![[green22.png]]
+# Planet 2 - Bone-Norman ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ Bone-Norman is a desolate world on the fringes of the Inner Sphere.
 
 The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens range to the west. The mountains hold back the incredible tidal swells of the ocean, which can rise hundreds of meters. The eastern side of these mountains are buffeted by tremendously high winds that have created stark badlands with no vegetation. The interior of the continent is filled with wind-made networks of canyons, caverns, and haunting rock formations. Further east, the badlands give way to rolling plains of blue grass and thick forests dominated by ‘werewillows’. The trees are relatively short but have leafy, willow-like branches, that can be several times longer than the tree’s trunk and are usually billowing east-ward in the near constant howling winds. The trees also have high metal content and play havoc with modern sensors.
 
-- [[rock1.png]] Devil’s Pinch (medium)
+- [[rock1.png\|rock1.png]] Devil’s Pinch (medium)
 
-# Planet 3 - Jefferson Hills ![[iceg14.png]]
+# Planet 3 - Jefferson Hills ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -72,11 +67,11 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-- ![[rock7.png]] Buggs (large)
-- ![[rock16.png]] Henderson (large)
+- ![[rock7.png\|rock7.png]] Buggs (large)
+- ![[rock16.png\|rock16.png]] Henderson (large)
 
 
-# Planet 4 - Center Harbor ![[rock4.png]]
+# Planet 4 - Center Harbor ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -93,7 +88,7 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-# Planet 5 - Smith ![[rock4.png]]
+# Planet 5 - Smith ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-# Planet 6 - Yarilo ![[gasg37.png]]
+# Planet 6 - Yarilo ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -125,12 +120,12 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-- ![[rock7.png]] Canton 1 (large)
-- ![[rock3.png]] Canton 2 (large)
-- ![[rock6.png]] Canton 3 (medium)
+- ![[rock7.png\|rock7.png]] Canton 1 (large)
+- ![[rock3.png\|rock3.png]] Canton 2 (large)
+- ![[rock6.png\|rock6.png]] Canton 3 (medium)
 
 
-# Planet 7 - Clowers's Belt ![[asteroid1.png]]
+# Planet 7 - Clowers's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -142,7 +137,7 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-# Planet 8 - Wyckoff ![[gasg9.png]]
+# Planet 8 - Wyckoff ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -157,7 +152,7 @@ The large Hapsburg continent is dominated by sharp mountain peaks of the Ruckens
 
 
 
-- ![[oddmoon1.png]] 2R71 (medium)
-- ![[rock6.png]] 2R72 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 2R71 (medium)
+- ![[rock6.png\|rock6.png]] 2R72 (medium)
 
 

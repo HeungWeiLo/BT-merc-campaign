@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Brim
-xcood: "-24.525"
-ycood: "1768.565"
-spectralType: F9II
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/brim/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Brim
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9II.png]] |
+> | X coord | -24.525 |
+> | Y coord| 1768.565 |
+> | Spectral Type | F9II ![[F9II.png\|F9II.png]] |
 
-# Planet 1 - P1 ![[iceg8.png]]
+# Planet 1 - P1 ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Lucas (large)
-- ![[rock4.png]] Mountfield (large)
+- ![[rock16.png\|rock16.png]] Lucas (large)
+- ![[rock4.png\|rock4.png]] Mountfield (large)
 
 
-# Planet 2 - P2 ![[iceg2.png]]
+# Planet 2 - P2 ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,12 +44,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Campkin (large)
-- ![[rock8.png]] Craster (large)
-- ![[oddmoon3.png]] El Hadrioui (medium)
+- ![[rock13.png\|rock13.png]] Campkin (large)
+- ![[rock8.png\|rock8.png]] Craster (large)
+- ![[oddmoon3.png\|oddmoon3.png]] El Hadrioui (medium)
 
 
-# Planet 3 - P3 ![[rock17.png]]
+# Planet 3 - P3 ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Brim ![[green16.png]]
+# Planet 4 - Brim ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ No description available.
 
 
 
-# Planet 5 - P5 ![[greenhouse1.png]]
+# Planet 5 - P5 ![[greenhouse1.png\|greenhouse1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,12 +103,12 @@ No description available.
 
 
 
-- ![[rock4.png]] Acidalia (medium)
-- ![[rock17.png]] Enyalius (medium)
-- ![[rock12.png]] Hespera (medium)
+- ![[rock4.png\|rock4.png]] Acidalia (medium)
+- ![[rock17.png\|rock17.png]] Enyalius (medium)
+- ![[rock12.png\|rock12.png]] Hespera (medium)
 
 
-# Planet 6 - P6 ![[greenhouse35.png]]
+# Planet 6 - P6 ![[greenhouse35.png\|greenhouse35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -131,7 +126,7 @@ No description available.
 
 
 
-# Planet 7 - P7 ![[gasg17.png]]
+# Planet 7 - P7 ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,12 +141,12 @@ No description available.
 
 
 
-- ![[rock6.png]] RRM1 (large)
-- ![[rock12.png]] RRM2 (large)
-- ![[oddmoon2.png]] RRM3 (medium)
+- ![[rock6.png\|rock6.png]] RRM1 (large)
+- ![[rock12.png\|rock12.png]] RRM2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] RRM3 (medium)
 
 
-# Planet 8 - P8 ![[gasg10.png]]
+# Planet 8 - P8 ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,12 +161,12 @@ No description available.
 
 
 
-- ![[rock6.png]] Moyle I (medium)
-- ![[oddmoon3.png]] Moyle II (medium)
-- ![[rock14.png]] Moyle III (medium)
+- ![[rock6.png\|rock6.png]] Moyle I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Moyle II (medium)
+- ![[rock14.png\|rock14.png]] Moyle III (medium)
 
 
-# Planet 9 - P9 ![[gasg28.png]]
+# Planet 9 - P9 ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,9 +181,9 @@ No description available.
 
 
 
-- [[oddmoon1.png]] Chaytor (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Chaytor (medium)
 
-# Planet 10 - 40E-1 Belt ![[asteroid3.png]]
+# Planet 10 - 40E-1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

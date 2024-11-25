@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Jacobabad
-xcood: "407.865"
-ycood: "-283.421"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/jacobabad/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Jacobabad
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 407.865 |
+> | Y coord| -283.421 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Matiāri ![[rock1.png]]
+# Planet 1 - Matiāri ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lehri ![[greenhouse35.png]]
+# Planet 2 - Lehri ![[greenhouse35.png\|greenhouse35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Jacobabad ![[green5.png]]
+# Planet 3 - Jacobabad ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Umarkot ![[frozen4.png]]
+# Planet 4 - Umarkot ![[frozen4.png\|frozen4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,7 +98,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Layyah ![[gasg32.png]]
+# Planet 5 - Layyah ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,14 +116,14 @@ dg-publish: true
 5
 0
 
-- ![[rock6.png]] FS-1 (large)
-- ![[rock15.png]] FS-2 (large)
-- ![[rock7.png]] FS-3 (medium)
-- ![[rock17.png]] FS-4 (medium)
-- ![[rock14.png]] FS-5 (medium)
+- ![[rock6.png\|rock6.png]] FS-1 (large)
+- ![[rock15.png\|rock15.png]] FS-2 (large)
+- ![[rock7.png\|rock7.png]] FS-3 (medium)
+- ![[rock17.png\|rock17.png]] FS-4 (medium)
+- ![[rock14.png\|rock14.png]] FS-5 (medium)
 
 
-# Planet 6 - Sial's Choice ![[gasg18.png]]
+# Planet 6 - Sial's Choice ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,13 +141,13 @@ dg-publish: true
 4
 0
 
-- ![[oddmoon2.png]] L-1 (medium)
-- ![[rock7.png]] L-2 (medium)
-- ![[oddmoon3.png]] L-3 (medium)
-- ![[oddmoon1.png]] L-4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] L-1 (medium)
+- ![[rock7.png\|rock7.png]] L-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] L-3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] L-4 (medium)
 
 
-# Planet 7 - New Daggar Tehsil ![[gasg12.png]]
+# Planet 7 - New Daggar Tehsil ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,12 +165,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Tschernobog (medium)
-- ![[oddmoon3.png]] Koschei Bessmertnyi (medium)
-- ![[oddmoon2.png]] Dolya (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tschernobog (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Koschei Bessmertnyi (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dolya (medium)
 
 
-# Planet 8 - Zaganos's Tears ![[gasg15.png]]
+# Planet 8 - Zaganos's Tears ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -193,14 +188,14 @@ dg-publish: true
 5
 0
 
-- ![[rock14.png]] H.1 (large)
-- ![[rock10.png]] H.2 (large)
-- ![[oddmoon1.png]] H.3 (medium)
-- ![[oddmoon3.png]] H.4 (medium)
-- ![[oddmoon2.png]] H.5 (medium)
+- ![[rock14.png\|rock14.png]] H.1 (large)
+- ![[rock10.png\|rock10.png]] H.2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] H.3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] H.4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] H.5 (medium)
 
 
-# Planet 9 - Thonapa Belt ![[asteroid2.png]]
+# Planet 9 - Thonapa Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -215,7 +210,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Mictlantecuhtli ![[gasg33.png]]
+# Planet 10 - Mictlantecuhtli ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -235,7 +230,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Dera Ismāīl Khān Tribal Area ![[iceg11.png]]
+# Planet 11 - Dera Ismāīl Khān Tribal Area ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -255,7 +250,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Loralai ![[gasg30.png]]
+# Planet 12 - Loralai ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -273,9 +268,9 @@ dg-publish: true
 4
 0
 
-- ![[rock11.png]] Llwyd I (large)
-- ![[rock10.png]] Llwyd II (medium)
-- ![[oddmoon1.png]] Llwyd III (medium)
-- ![[oddmoon2.png]] Llwyd IV (medium)
+- ![[rock11.png\|rock11.png]] Llwyd I (large)
+- ![[rock10.png\|rock10.png]] Llwyd II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Llwyd III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Llwyd IV (medium)
 
 

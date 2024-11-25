@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Capella
-xcood: "38.133"
-ycood: "-172.157"
-spectralType: F6III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/capella/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Capella
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6III.png]] |
+> | X coord | 38.133 |
+> | Y coord| -172.157 |
+> | Spectral Type | F6III ![[F6III.png\|F6III.png]] |
 
-# Planet 1 - Stabell's World ![[gasg15.png]]
+# Planet 1 - Stabell's World ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Grauduse (medium)
-- ![[oddmoon1.png]] Laimas Māte (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Grauduse (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Laimas Māte (medium)
 
 
-# Planet 2 - Notabartola ![[rock5.png]]
+# Planet 2 - Notabartola ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Davis's Dawn ![[greenhouse41.png]]
+# Planet 3 - Davis's Dawn ![[greenhouse41.png\|greenhouse41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Arc-Rossiter ![[gasg29.png]]
+# Planet 4 - Arc-Rossiter ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -86,7 +81,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Sa ![[rock6.png]]
+# Planet 5 - Sa ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -101,9 +96,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Bahāwalpur (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Bahāwalpur (medium)
 
-# Planet 6 - Wiley's Stand ![[barren4.png]]
+# Planet 6 - Wiley's Stand ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Capella ![[green43.png]]
+# Planet 7 - Capella ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -149,5 +144,5 @@ Ceres Metals Industries
 Iona Light Shipyards
 Rashpur-Owens Incorporated
 
-- [[oddmoon3.png]] Nikos (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Nikos (medium)
 

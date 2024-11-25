@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chennai
-xcood: "10.046"
-ycood: "-374.191"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chennai/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chennai
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 10.046 |
+> | Y coord| -374.191 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Chennai ![[green28.png]]
+# Planet 1 - Chennai ![[green28.png\|green28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Shrawasti ![[iceg9.png]]
+# Planet 2 - Shrawasti ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,13 +46,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Grist (large)
-- ![[rock3.png]] Murthy (large)
-- ![[rock4.png]] Sabuk (large)
-- ![[oddmoon1.png]] QN-1 (medium)
+- ![[rock8.png\|rock8.png]] Grist (large)
+- ![[rock3.png\|rock3.png]] Murthy (large)
+- ![[rock4.png\|rock4.png]] Sabuk (large)
+- ![[oddmoon1.png\|oddmoon1.png]] QN-1 (medium)
 
 
-# Planet 3 - Naya Tiruchirappalli ![[iceg3.png]]
+# Planet 3 - Naya Tiruchirappalli ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -72,12 +67,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Punitha (medium)
-- ![[rock16.png]] Probal (medium)
-- ![[oddmoon1.png]] Malipeddi (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Punitha (medium)
+- ![[rock16.png\|rock16.png]] Probal (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Malipeddi (medium)
 
 
-# Planet 4 - Naya Altay ![[iceg1.png]]
+# Planet 4 - Naya Altay ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Pulkit ![[iceg4.png]]
+# Planet 5 - Pulkit ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -109,12 +104,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] C.1 (large)
-- ![[rock1.png]] C.2 (large)
-- ![[oddmoon2.png]] C.3 (medium)
+- ![[rock5.png\|rock5.png]] C.1 (large)
+- ![[rock1.png\|rock1.png]] C.2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] C.3 (medium)
 
 
-# Planet 6 - Harlingen ![[frozen25.png]]
+# Planet 6 - Harlingen ![[frozen25.png\|frozen25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -134,7 +129,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Panakeia ![[rock16.png]]
+# Planet 7 - Panakeia ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -151,7 +146,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Pedapudi's Rock ![[iceg13.png]]
+# Planet 8 - Pedapudi's Rock ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -168,7 +163,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Covas do Douro ![[gasg37.png]]
+# Planet 9 - Covas do Douro ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -183,12 +178,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Saturnus I (medium)
-- ![[oddmoon2.png]] Saturnus II (medium)
-- ![[rock14.png]] Saturnus III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Saturnus I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Saturnus II (medium)
+- ![[rock14.png\|rock14.png]] Saturnus III (medium)
 
 
-# Planet 10 - Tinsukia ![[gasg28.png]]
+# Planet 10 - Tinsukia ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,11 +198,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Angirasa 1 (large)
-- ![[rock16.png]] Angirasa 2 (large)
+- ![[rock17.png\|rock17.png]] Angirasa 1 (large)
+- ![[rock16.png\|rock16.png]] Angirasa 2 (large)
 
 
-# Planet 11 - Z21 Belt ![[asteroid2.png]]
+# Planet 11 - Z21 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -219,7 +214,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Poduri ![[gasg35.png]]
+# Planet 12 - Poduri ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,9 +229,9 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Bhupalpally (giant)
-- ![[rock17.png]] Majuli (large)
-- ![[rock7.png]] Delhi (large)
-- ![[rock11.png]] New Ringgold (large)
+- ![[rock16.png\|rock16.png]] Bhupalpally (giant)
+- ![[rock17.png\|rock17.png]] Majuli (large)
+- ![[rock7.png\|rock7.png]] Delhi (large)
+- ![[rock11.png\|rock11.png]] New Ringgold (large)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Buchlau
-xcood: "70.048"
-ycood: "-68.804"
-spectralType: F5II
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/buchlau/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Buchlau
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5II.png]] |
+> | X coord | 70.048 |
+> | Y coord| -68.804 |
+> | Spectral Type | F5II ![[F5II.png\|F5II.png]] |
 
-# Planet 1 - Odysseus ![[barren13.png]]
+# Planet 1 - Odysseus ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mubayyin ![[barren8.png]]
+# Planet 2 - Mubayyin ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Buchlau ![[green4.png]]
+# Planet 3 - Buchlau ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,12 +71,12 @@ As Buchlau was not strategically important, it was not target for attacks during
 
 During the Jihad, the planetary governor contacted the World of Blake forces and offered to surrender the world so that it would not suffer the same fate as had Algol and Algot. The offer was accepted. Following the Jihad, untouched Buchlau has become one of the primary food-producing worlds in Prefecture V of the Republic of the Sphere.
 
-- ![[rock4.png]] Berchtold (medium)
-- ![[oddmoon3.png]] Graf (medium)
-- ![[rock7.png]] Leopold (large)
+- ![[rock4.png\|rock4.png]] Berchtold (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Graf (medium)
+- ![[rock7.png\|rock7.png]] Leopold (large)
 
 
-# Planet 4 - Tartaros ![[rock13.png]]
+# Planet 4 - Tartaros ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -98,7 +93,7 @@ During the Jihad, the planetary governor contacted the World of Blake forces and
 
 
 
-# Planet 5 - Ilythia's End ![[rock4.png]]
+# Planet 5 - Ilythia's End ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -115,7 +110,7 @@ During the Jihad, the planetary governor contacted the World of Blake forces and
 
 
 
-# Planet 6 - Euryale ![[rock14.png]]
+# Planet 6 - Euryale ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

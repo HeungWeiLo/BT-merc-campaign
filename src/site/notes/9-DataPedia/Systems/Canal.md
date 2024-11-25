@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Canal
-xcood: "-377.634"
-ycood: "307.298"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/canal/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Canal
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | -377.634 |
+> | Y coord| 307.298 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Canal ![[green16.png]]
+# Planet 1 - Canal ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,11 +29,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Kerr 1 (medium)
-- ![[oddmoon1.png]] Kerr 2 (medium)
+- ![[rock2.png\|rock2.png]] Kerr 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kerr 2 (medium)
 
 
-# Planet 2 - Dyr El Kef ![[rock17.png]]
+# Planet 2 - Dyr El Kef ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -55,7 +50,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Jeradou ![[rock12.png]]
+# Planet 3 - Jeradou ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cite Jardin ![[gasg23.png]]
+# Planet 4 - Cite Jardin ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,9 +82,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Dobrova-Polhov Gradec (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Dobrova-Polhov Gradec (medium)
 
-# Planet 5 - New Sidi Abdelbasset ![[gasg28.png]]
+# Planet 5 - New Sidi Abdelbasset ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,13 +99,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] 9M-1 (large)
-- ![[rock16.png]] 9M-2 (large)
-- ![[rock13.png]] 9M-3 (medium)
-- ![[rock12.png]] 9M-4 (medium)
+- ![[rock1.png\|rock1.png]] 9M-1 (large)
+- ![[rock16.png\|rock16.png]] 9M-2 (large)
+- ![[rock13.png\|rock13.png]] 9M-3 (medium)
+- ![[rock12.png\|rock12.png]] 9M-4 (medium)
 
 
-# Planet 6 - Bin Khatib's Belt ![[asteroid3.png]]
+# Planet 6 - Bin Khatib's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Sidi Ammar ![[gasg7.png]]
+# Planet 7 - Sidi Ammar ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - El Machrouha ![[gasg38.png]]
+# Planet 8 - El Machrouha ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,13 +149,13 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] MER1 (medium)
-- ![[rock9.png]] MER2 (medium)
-- ![[rock17.png]] MER3 (medium)
-- ![[oddmoon2.png]] MER4 (medium)
+- ![[rock2.png\|rock2.png]] MER1 (medium)
+- ![[rock9.png\|rock9.png]] MER2 (medium)
+- ![[rock17.png\|rock17.png]] MER3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] MER4 (medium)
 
 
-# Planet 9 - Khaoui El Ghedir ![[gasg13.png]]
+# Planet 9 - Khaoui El Ghedir ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -177,7 +172,7 @@ dg-publish: true
 
 
 
-# Planet 10 - El Alam ![[gasg19.png]]
+# Planet 10 - El Alam ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -194,7 +189,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Rice's Belt ![[asteroid1.png]]
+# Planet 11 - Rice's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

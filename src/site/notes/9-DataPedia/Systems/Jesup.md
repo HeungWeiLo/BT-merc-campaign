@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Jesup
-xcood: "500.432"
-ycood: "-121.562"
-spectralType: M4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/jesup/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Jesup
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M4V.png]] |
+> | X coord | 500.432 |
+> | Y coord| -121.562 |
+> | Spectral Type | M4V ![[M4V.png\|M4V.png]] |
 
-# Planet 1 - Jesup ![[dry25.png]]
+# Planet 1 - Jesup ![[dry25.png\|dry25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Wilson ![[iceg18.png]]
+# Planet 2 - Wilson ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -57,13 +52,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Glooskap Belt 1 ![[asteroid1.png]]
+# Planet 3 - Glooskap Belt 1 ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -78,7 +73,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ailuros's Wind ![[gasg25.png]]
+# Planet 4 - Ailuros's Wind ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -96,12 +91,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Knum ![[gasg19.png]]
+# Planet 5 - Knum ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,13 +114,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Glooskap Belt 2 ![[asteroid2.png]]
+# Planet 6 - Glooskap Belt 2 ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -140,7 +135,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Madison ![[gasg9.png]]
+# Planet 7 - Madison ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

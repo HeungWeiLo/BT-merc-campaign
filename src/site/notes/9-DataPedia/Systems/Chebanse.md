@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chebanse
-xcood: "225.145"
-ycood: "-102.928"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chebanse/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chebanse
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 225.145 |
+> | Y coord| -102.928 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Mohave ![[barren14.png]]
+# Planet 1 - Mohave ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Patterson (medium)
-- ![[rock17.png]] Clarksdale (medium)
+- ![[rock9.png\|rock9.png]] Patterson (medium)
+- ![[rock17.png\|rock17.png]] Clarksdale (medium)
 
 
-# Planet 2 - Villarejo de Órbigo ![[iceg18.png]]
+# Planet 2 - Villarejo de Órbigo ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -50,9 +45,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Tiber (large)
+- [[rock12.png\|rock12.png]] Tiber (large)
 
-# Planet 3 - Chebanse ![[green10.png]]
+# Planet 3 - Chebanse ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Strongs Prairie ![[frozen62.png]]
+# Planet 4 - Strongs Prairie ![[frozen62.png\|frozen62.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,9 +86,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Horai (large)
+- [[rock5.png\|rock5.png]] Horai (large)
 
-# Planet 5 - Otoe ![[gasg34.png]]
+# Planet 5 - Otoe ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,11 +103,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Cretan Bull (large)
-- ![[rock13.png]] Haley (large)
+- ![[rock5.png\|rock5.png]] Cretan Bull (large)
+- ![[rock13.png\|rock13.png]] Haley (large)
 
 
-# Planet 6 - New Strathmoor Manor ![[gasg27.png]]
+# Planet 6 - New Strathmoor Manor ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

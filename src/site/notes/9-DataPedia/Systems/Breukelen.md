@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Breukelen
-xcood: "-88.149"
-ycood: "141.349"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/breukelen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Breukelen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | -88.149 |
+> | Y coord| 141.349 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Albrandswaard ![[greenhouse8.png]]
+# Planet 1 - Albrandswaard ![[greenhouse8.png\|greenhouse8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Harmony (large)
+- [[rock13.png\|rock13.png]] Harmony (large)
 
-# Planet 2 - Breukelen ![[green39.png]]
+# Planet 2 - Breukelen ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Heerenveen ![[rock14.png]]
+# Planet 3 - Heerenveen ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Drimmelen ![[gasg28.png]]
+# Planet 4 - Drimmelen ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,9 +81,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Nieuwegein (medium)
+- [[rock9.png\|rock9.png]] Nieuwegein (medium)
 
-# Planet 5 - Langedijk ![[gasg6.png]]
+# Planet 5 - Langedijk ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -103,15 +98,15 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Valaoritis (large)
-- ![[rock12.png]] Aimon Kondi (large)
-- ![[rock8.png]] Huitaca (large)
-- ![[rock5.png]] Ewijk (medium)
-- ![[rock3.png]] Guineche (medium)
-- ![[rock11.png]] Yingarna (medium)
+- ![[rock9.png\|rock9.png]] Valaoritis (large)
+- ![[rock12.png\|rock12.png]] Aimon Kondi (large)
+- ![[rock8.png\|rock8.png]] Huitaca (large)
+- ![[rock5.png\|rock5.png]] Ewijk (medium)
+- ![[rock3.png\|rock3.png]] Guineche (medium)
+- ![[rock11.png\|rock11.png]] Yingarna (medium)
 
 
-# Planet 6 - Lime Creek ![[iceg4.png]]
+# Planet 6 - Lime Creek ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -126,13 +121,13 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] QMB1 (large)
-- ![[rock17.png]] QMB2 (medium)
-- ![[rock14.png]] QMB3 (medium)
-- ![[rock2.png]] QMB4 (medium)
+- ![[rock4.png\|rock4.png]] QMB1 (large)
+- ![[rock17.png\|rock17.png]] QMB2 (medium)
+- ![[rock14.png\|rock14.png]] QMB3 (medium)
+- ![[rock2.png\|rock2.png]] QMB4 (medium)
 
 
-# Planet 7 - Noord-Brabant Belt ![[asteroid3.png]]
+# Planet 7 - Noord-Brabant Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Schneider's Mistake ![[gasg26.png]]
+# Planet 8 - Schneider's Mistake ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,7 +156,7 @@ dg-publish: true
 
 
 
-# Planet 9 - G1 ![[gasg27.png]]
+# Planet 9 - G1 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,7 +173,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Dantumadiel ![[gasg14.png]]
+# Planet 10 - Dantumadiel ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,7 +190,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Dallas ![[gasg33.png]]
+# Planet 11 - Dallas ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

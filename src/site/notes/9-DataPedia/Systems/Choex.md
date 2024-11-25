@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Choex
-xcood: "-454.406"
-ycood: "-44.649"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/choex/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Choex
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | -454.406 |
+> | Y coord| -44.649 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Mettler ![[greenhouse40.png]]
+# Planet 1 - Mettler ![[greenhouse40.png\|greenhouse40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Valkyrja (medium)
-- ![[oddmoon3.png]] Odinn (medium)
+- ![[rock2.png\|rock2.png]] Valkyrja (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Odinn (medium)
 
 
-# Planet 2 - Fillinger's Point ![[rock8.png]]
+# Planet 2 - Fillinger's Point ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Choex ![[green6.png]]
+# Planet 3 - Choex ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Schillinger's Nest ![[greenhouse15.png]]
+# Planet 4 - Schillinger's Nest ![[greenhouse15.png\|greenhouse15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |

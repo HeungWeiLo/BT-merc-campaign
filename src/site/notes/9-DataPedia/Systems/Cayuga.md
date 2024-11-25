@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cayuga
-xcood: "-280.178"
-ycood: "-513.855"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cayuga/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cayuga
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | -280.178 |
+> | Y coord| -513.855 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Dufty ![[rock1.png]]
+# Planet 1 - Dufty ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cameron ![[rock15.png]]
+# Planet 2 - Cameron ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Arc-White ![[barren16.png]]
+# Planet 3 - Arc-White ![[barren16.png\|barren16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cayuga ![[green7.png]]
+# Planet 4 - Cayuga ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,9 +82,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Bailey (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Bailey (medium)
 
-# Planet 5 - Grabowski ![[iceg15.png]]
+# Planet 5 - Grabowski ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -104,12 +99,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Djous Pater 1 (large)
-- ![[oddmoon3.png]] Djous Pater 2 (medium)
-- ![[rock2.png]] Djous Pater 3 (medium)
+- ![[rock7.png\|rock7.png]] Djous Pater 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Djous Pater 2 (medium)
+- ![[rock2.png\|rock2.png]] Djous Pater 3 (medium)
 
 
-# Planet 6 - Best's Hold ![[gasg30.png]]
+# Planet 6 - Best's Hold ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Rainbow Snake (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Rainbow Snake (medium)
 
-# Planet 7 - Phillips's World ![[gasg14.png]]
+# Planet 7 - Phillips's World ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Davis's Planet ![[gasg1.png]]
+# Planet 8 - Davis's Planet ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,7 +155,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Benton's World ![[gasg7.png]]
+# Planet 9 - Benton's World ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,13 +170,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Hamilton (medium)
-- ![[oddmoon1.png]] Moody (medium)
-- ![[oddmoon2.png]] Goodman (medium)
-- ![[rock2.png]] Brown (medium)
+- ![[rock10.png\|rock10.png]] Hamilton (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Moody (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Goodman (medium)
+- ![[rock2.png\|rock2.png]] Brown (medium)
 
 
-# Planet 10 - Richards's Ship ![[gasg4.png]]
+# Planet 10 - Richards's Ship ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -198,7 +193,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Ritchie ![[gasg2.png]]
+# Planet 11 - Ritchie ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,12 +208,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Siltala (large)
-- ![[rock16.png]] Kybele (large)
-- ![[rock5.png]] Autolykos (large)
+- ![[rock10.png\|rock10.png]] Siltala (large)
+- ![[rock16.png\|rock16.png]] Kybele (large)
+- ![[rock5.png\|rock5.png]] Autolykos (large)
 
 
-# Planet 12 - Long's Wind ![[iceg18.png]]
+# Planet 12 - Long's Wind ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -233,11 +228,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] B1 (medium)
-- ![[rock7.png]] B2 (medium)
+- ![[rock10.png\|rock10.png]] B1 (medium)
+- ![[rock7.png\|rock7.png]] B2 (medium)
 
 
-# Planet 13 - Arc-Ellis ![[gasg19.png]]
+# Planet 13 - Arc-Ellis ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

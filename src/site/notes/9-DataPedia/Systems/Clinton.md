@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Clinton
-xcood: "-165.923"
-ycood: "53.979"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/clinton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Clinton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | -165.923 |
+> | Y coord| 53.979 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Hamel ![[rock6.png]]
+# Planet 1 - Hamel ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Clinton ![[green12.png]]
+# Planet 2 - Clinton ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Oho Yama (medium)
-- ![[oddmoon3.png]] Nemterequeteba (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Oho Yama (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nemterequeteba (medium)
 
 
-# Planet 3 - Toms River ![[frozen38.png]]
+# Planet 3 - Toms River ![[frozen38.png\|frozen38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bynum ![[gasg38.png]]
+# Planet 4 - Bynum ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,9 +84,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Lopti (large)
+- [[rock3.png\|rock3.png]] Lopti (large)
 
-# Planet 5 - Sarpy ![[iceg19.png]]
+# Planet 5 - Sarpy ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -106,14 +101,14 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Elliott (large)
-- ![[oddmoon3.png]] Long (medium)
-- ![[rock11.png]] Williams (medium)
-- ![[oddmoon1.png]] Blair (medium)
-- ![[oddmoon2.png]] Washington (medium)
+- ![[rock8.png\|rock8.png]] Elliott (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Long (medium)
+- ![[rock11.png\|rock11.png]] Williams (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Blair (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Washington (medium)
 
 
-# Planet 6 - Davis ![[gasg9.png]]
+# Planet 6 - Davis ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -130,7 +125,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Parks's Planet ![[gasg8.png]]
+# Planet 7 - Parks's Planet ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,12 +140,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Isle (medium)
-- ![[rock13.png]] West Yankton (medium)
-- ![[oddmoon2.png]] Edinboro (medium)
+- ![[rock15.png\|rock15.png]] Isle (medium)
+- ![[rock13.png\|rock13.png]] West Yankton (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Edinboro (medium)
 
 
-# Planet 8 - Wolfe's Belt 1 ![[asteroid2.png]]
+# Planet 8 - Wolfe's Belt 1 ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -162,7 +157,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Park ![[gasg13.png]]
+# Planet 9 - Park ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Goldsberry ![[iceg16.png]]
+# Planet 10 - Goldsberry ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -194,9 +189,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Guguyni (large)
+- [[rock2.png\|rock2.png]] Guguyni (large)
 
-# Planet 11 - New Piscataquis ![[gasg4.png]]
+# Planet 11 - New Piscataquis ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,12 +206,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] 54-1 (medium)
-- ![[rock13.png]] 54-2 (medium)
-- ![[oddmoon2.png]] 54-3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 54-1 (medium)
+- ![[rock13.png\|rock13.png]] 54-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 54-3 (medium)
 
 
-# Planet 12 - Wolfe's Belt 2 ![[asteroid3.png]]
+# Planet 12 - Wolfe's Belt 2 ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

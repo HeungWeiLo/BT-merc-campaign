@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Claybrooke
-xcood: "-51.972"
-ycood: "-369.147"
-spectralType: F2IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/claybrooke/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Claybrooke
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2IV.png]] |
+> | X coord | -51.972 |
+> | Y coord| -369.147 |
+> | Spectral Type | F2IV ![[F2IV.png\|F2IV.png]] |
 
-# Planet 1 - Biscay ![[iceg4.png]]
+# Planet 1 - Biscay ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Samanelis I (giant)
-- ![[rock1.png]] Samanelis II (giant)
+- ![[rock2.png\|rock2.png]] Samanelis I (giant)
+- ![[rock1.png\|rock1.png]] Samanelis II (giant)
 
 
-# Planet 2 - Blackthorn ![[iceg19.png]]
+# Planet 2 - Blackthorn ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,12 +44,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Cigfa (large)
-- ![[rock13.png]] Epona (medium)
-- ![[oddmoon3.png]] Njorth (medium)
+- ![[rock3.png\|rock3.png]] Cigfa (large)
+- ![[rock13.png\|rock13.png]] Epona (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Njorth (medium)
 
 
-# Planet 3 - New Othery ![[greenhouse6.png]]
+# Planet 3 - New Othery ![[greenhouse6.png\|greenhouse6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Leicester ![[greenhouse1.png]]
+# Planet 4 - Leicester ![[greenhouse1.png\|greenhouse1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - High Bickington ![[rock10.png]]
+# Planet 5 - High Bickington ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Claybrooke ![[green47.png]]
+# Planet 6 - Claybrooke ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -126,11 +121,11 @@ dg-publish: true
 
 Claybrooke is a world rich in natural resources. With large deposits of raw ores and minerals on both moons and the planet itself, mining is a major industry on Claybrooke. However, the primary industry on planet remains agriculture thanks to the fertile soil and temperate climate.
 
-- ![[rock17.png]] Brana (medium)
-- ![[rock16.png]] Kurna (large)
+- ![[rock17.png\|rock17.png]] Brana (medium)
+- ![[rock16.png\|rock16.png]] Kurna (large)
 
 
-# Planet 7 - New Pretty Rock ![[gasg2.png]]
+# Planet 7 - New Pretty Rock ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -145,11 +140,11 @@ Claybrooke is a world rich in natural resources. With large deposits of raw ores
 
 
 
-- ![[oddmoon2.png]] S1 (medium)
-- ![[rock9.png]] S2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] S1 (medium)
+- ![[rock9.png\|rock9.png]] S2 (medium)
 
 
-# Planet 8 - Rimington ![[gasg14.png]]
+# Planet 8 - Rimington ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -164,14 +159,14 @@ Claybrooke is a world rich in natural resources. With large deposits of raw ores
 
 
 
-- ![[rock9.png]] QR6.1 (large)
-- ![[rock12.png]] QR6.2 (large)
-- ![[rock5.png]] QR6.3 (large)
-- ![[oddmoon1.png]] QR6.4 (medium)
-- ![[rock15.png]] QR6.5 (medium)
+- ![[rock9.png\|rock9.png]] QR6.1 (large)
+- ![[rock12.png\|rock12.png]] QR6.2 (large)
+- ![[rock5.png\|rock5.png]] QR6.3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] QR6.4 (medium)
+- ![[rock15.png\|rock15.png]] QR6.5 (medium)
 
 
-# Planet 9 - Marlesford ![[iceg13.png]]
+# Planet 9 - Marlesford ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -188,7 +183,7 @@ Claybrooke is a world rich in natural resources. With large deposits of raw ores
 
 
 
-# Planet 10 - Weiherhammer ![[iceg18.png]]
+# Planet 10 - Weiherhammer ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -203,7 +198,7 @@ Claybrooke is a world rich in natural resources. With large deposits of raw ores
 
 
 
-- ![[rock12.png]] Goodwill 1 (large)
-- ![[rock14.png]] Goodwill 2 (large)
+- ![[rock12.png\|rock12.png]] Goodwill 1 (large)
+- ![[rock14.png\|rock14.png]] Goodwill 2 (large)
 
 

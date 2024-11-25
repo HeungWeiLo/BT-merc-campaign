@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Campoleone
-xcood: "-299.83"
-ycood: "-291.844"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/campoleone/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Campoleone
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -299.83 |
+> | Y coord| -291.844 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Sterculius ![[rock16.png]]
+# Planet 1 - Sterculius ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Campoleone ![[green29.png]]
+# Planet 2 - Campoleone ![[green29.png\|green29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 Campoleone is a cold world on the edge of the Periphery border. The planet is lightly populated and acts primarily as a trade center supported by subsistence-level agriculture. The planet is dotted with villas of wealthy merchants and more than a few spacers choose to retire to Campoleone for its natural beauty. The planet has earned a reputation as the place to go for information on the deep Periphery as it is the primary trade hub for deep Periphery traders and the Free Worlds League. There is little industry on the planet and almost all goods come in from the tradeport.
 
-- [[rock1.png]] Lonely (medium)
+- [[rock1.png\|rock1.png]] Lonely (medium)
 
-# Planet 3 - Jupiter ![[dry21.png]]
+# Planet 3 - Jupiter ![[dry21.png\|dry21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ Campoleone is a cold world on the edge of the Periphery border. The planet is li
 
 
 
-# Planet 4 - Iupiter's Home ![[frozen7.png]]
+# Planet 4 - Iupiter's Home ![[frozen7.png\|frozen7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ Campoleone is a cold world on the edge of the Periphery border. The planet is li
 
 
 
-# Planet 5 - Parcae ![[gasg31.png]]
+# Planet 5 - Parcae ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,9 +104,9 @@ Campoleone is a cold world on the edge of the Periphery border. The planet is li
 
 
 
-- [[rock4.png]] Omholt (large)
+- [[rock4.png\|rock4.png]] Omholt (large)
 
-# Planet 6 - Disciplina ![[iceg5.png]]
+# Planet 6 - Disciplina ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -126,9 +121,9 @@ Campoleone is a cold world on the edge of the Periphery border. The planet is li
 
 
 
-- [[rock16.png]] R5-1 (large)
+- [[rock16.png\|rock16.png]] R5-1 (large)
 
-# Planet 7 - Vulcan ![[gasg23.png]]
+# Planet 7 - Vulcan ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ Campoleone is a cold world on the edge of the Periphery border. The planet is li
 
 
 
-- ![[rock9.png]] Libitina (large)
-- ![[rock11.png]] Virbius (large)
+- ![[rock9.png\|rock9.png]] Libitina (large)
+- ![[rock11.png\|rock11.png]] Virbius (large)
 
 

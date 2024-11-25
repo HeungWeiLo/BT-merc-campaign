@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caldrea
-xcood: "33.853"
-ycood: "193.307"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caldrea/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caldrea
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | 33.853 |
+> | Y coord| 193.307 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Caldrea ![[green7.png]]
+# Planet 1 - Caldrea ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Uckfield ![[rock11.png]]
+# Planet 2 - Uckfield ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Bethel ![[rock8.png]]
+# Planet 3 - Bethel ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Alfena ![[gasg20.png]]
+# Planet 4 - Alfena ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,13 +80,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] J01 (large)
-- ![[rock3.png]] J02 (large)
-- ![[oddmoon3.png]] J03 (medium)
-- ![[oddmoon2.png]] J04 (medium)
+- ![[rock7.png\|rock7.png]] J01 (large)
+- ![[rock3.png\|rock3.png]] J02 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] J03 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] J04 (medium)
 
 
-# Planet 5 - Annsville ![[gasg5.png]]
+# Planet 5 - Annsville ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,12 +101,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] RK41 (medium)
-- ![[oddmoon1.png]] RK42 (medium)
-- ![[rock10.png]] RK43 (medium)
+- ![[rock15.png\|rock15.png]] RK41 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] RK42 (medium)
+- ![[rock10.png\|rock10.png]] RK43 (medium)
 
 
-# Planet 6 - Kastner ![[gasg27.png]]
+# Planet 6 - Kastner ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,18 +121,18 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Crenshaw I (giant)
-- ![[rock17.png]] Crenshaw II (giant)
-- ![[rock8.png]] Crenshaw III (large)
-- ![[rock15.png]] Crenshaw IV (large)
-- ![[rock16.png]] Crenshaw V (large)
-- ![[rock5.png]] Crenshaw VI (large)
-- ![[oddmoon3.png]] Crenshaw VII (medium)
-- ![[rock11.png]] Crenshaw VIII (medium)
-- ![[rock1.png]] Crenshaw IX (medium)
+- ![[rock9.png\|rock9.png]] Crenshaw I (giant)
+- ![[rock17.png\|rock17.png]] Crenshaw II (giant)
+- ![[rock8.png\|rock8.png]] Crenshaw III (large)
+- ![[rock15.png\|rock15.png]] Crenshaw IV (large)
+- ![[rock16.png\|rock16.png]] Crenshaw V (large)
+- ![[rock5.png\|rock5.png]] Crenshaw VI (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Crenshaw VII (medium)
+- ![[rock11.png\|rock11.png]] Crenshaw VIII (medium)
+- ![[rock1.png\|rock1.png]] Crenshaw IX (medium)
 
 
-# Planet 7 - Kachimov's Land ![[gasg10.png]]
+# Planet 7 - Kachimov's Land ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -152,12 +147,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Bin Ferran A (large)
-- ![[rock14.png]] Bin Ferran B (large)
-- ![[rock12.png]] Bin Ferran C (large)
+- ![[rock6.png\|rock6.png]] Bin Ferran A (large)
+- ![[rock14.png\|rock14.png]] Bin Ferran B (large)
+- ![[rock12.png\|rock12.png]] Bin Ferran C (large)
 
 
-# Planet 8 - Figueroa ![[gasg1.png]]
+# Planet 8 - Figueroa ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Branzoll
-xcood: "207.085"
-ycood: "-175.168"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/branzoll/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Branzoll
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | 207.085 |
+> | Y coord| -175.168 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Borgo Val di Taro ![[greenhouse34.png]]
+# Planet 1 - Borgo Val di Taro ![[greenhouse34.png\|greenhouse34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Corato ![[greenhouse36.png]]
+# Planet 2 - Corato ![[greenhouse36.png\|greenhouse36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Branzoll ![[green48.png]]
+# Planet 3 - Branzoll ![[green48.png\|green48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Nova San Pietro di Caridà ![[iceg3.png]]
+# Planet 4 - Nova San Pietro di Caridà ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -87,12 +82,12 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] SEH1 (large)
-- ![[rock10.png]] SEH2 (large)
-- ![[oddmoon3.png]] SEH3 (medium)
+- ![[rock11.png\|rock11.png]] SEH1 (large)
+- ![[rock10.png\|rock10.png]] SEH2 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] SEH3 (medium)
 
 
-# Planet 5 - Surfside Beach ![[rock9.png]]
+# Planet 5 - Surfside Beach ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Nuova Battagram ![[gasg38.png]]
+# Planet 6 - Nuova Battagram ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,12 +119,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] DNC1 (large)
-- ![[rock8.png]] DNC2 (large)
-- ![[oddmoon1.png]] DNC3 (medium)
+- ![[rock6.png\|rock6.png]] DNC1 (large)
+- ![[rock8.png\|rock8.png]] DNC2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] DNC3 (medium)
 
 
-# Planet 7 - Gazoldo degli Ippoliti ![[iceg19.png]]
+# Planet 7 - Gazoldo degli Ippoliti ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -144,13 +139,13 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Alpanu (large)
-- ![[oddmoon3.png]] Aplu (medium)
-- ![[oddmoon2.png]] Menrva (medium)
-- ![[oddmoon1.png]] Ragnarøkr (medium)
+- ![[rock11.png\|rock11.png]] Alpanu (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Aplu (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Menrva (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ragnarøkr (medium)
 
 
-# Planet 8 - New Abu Chō ![[gasg6.png]]
+# Planet 8 - New Abu Chō ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,11 +160,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Rebun Chō (medium)
-- ![[rock17.png]] Garbagnate Monastero (medium)
+- ![[rock7.png\|rock7.png]] Rebun Chō (medium)
+- ![[rock17.png\|rock17.png]] Garbagnate Monastero (medium)
 
 
-# Planet 9 - Vigolo Vattaro ![[gasg14.png]]
+# Planet 9 - Vigolo Vattaro ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,7 +181,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Hippona Belt A ![[asteroid1.png]]
+# Planet 10 - Hippona Belt A ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -198,7 +193,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Hippona Belt B ![[asteroid2.png]]
+# Planet 11 - Hippona Belt B ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -210,7 +205,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Hotham ![[gasg5.png]]
+# Planet 12 - Hotham ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,7 +222,7 @@ dg-publish: true
 
 
 
-# Planet 13 - Manciano ![[iceg10.png]]
+# Planet 13 - Manciano ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -242,7 +237,7 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Bellagio I (large)
-- ![[oddmoon3.png]] Bellagio II (medium)
+- ![[rock6.png\|rock6.png]] Bellagio I (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Bellagio II (medium)
 
 

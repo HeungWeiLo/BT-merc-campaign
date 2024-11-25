@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chenier
-xcood: "580.569"
-ycood: "-41.409"
-spectralType: K5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chenier/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chenier
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K5V.png]] |
+> | X coord | 580.569 |
+> | Y coord| -41.409 |
+> | Spectral Type | K5V ![[K5V.png\|K5V.png]] |
 
-# Planet 1 - Chenier ![[green20.png]]
+# Planet 1 - Chenier ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Laborde's Nest ![[gasg9.png]]
+# Planet 2 - Laborde's Nest ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dubois's Mistake ![[rock1.png]]
+# Planet 3 - Dubois's Mistake ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Delarue Rouge ![[gasg13.png]]
+# Planet 4 - Delarue Rouge ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,15 +80,15 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] McIntosh (large)
-- ![[rock4.png]] Besnard (large)
-- ![[rock12.png]] Harpies (large)
-- ![[oddmoon1.png]] Eris (medium)
-- ![[oddmoon3.png]] Andromeda (medium)
-- ![[rock17.png]] Himeros (medium)
+- ![[rock15.png\|rock15.png]] McIntosh (large)
+- ![[rock4.png\|rock4.png]] Besnard (large)
+- ![[rock12.png\|rock12.png]] Harpies (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Eris (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Andromeda (medium)
+- ![[rock17.png\|rock17.png]] Himeros (medium)
 
 
-# Planet 5 - Leynhac ![[gasg14.png]]
+# Planet 5 - Leynhac ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Lambert's Planet ![[gasg15.png]]
+# Planet 6 - Lambert's Planet ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,16 +120,16 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] V1L-1 (large)
-- ![[rock7.png]] V1L-2 (large)
-- ![[rock2.png]] V1L-3 (large)
-- ![[oddmoon3.png]] V1L-4 (medium)
-- ![[oddmoon2.png]] V1L-5 (medium)
-- ![[rock1.png]] V1L-6 (medium)
-- ![[rock3.png]] V1L-7 (medium)
+- ![[rock10.png\|rock10.png]] V1L-1 (large)
+- ![[rock7.png\|rock7.png]] V1L-2 (large)
+- ![[rock2.png\|rock2.png]] V1L-3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] V1L-4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] V1L-5 (medium)
+- ![[rock1.png\|rock1.png]] V1L-6 (medium)
+- ![[rock3.png\|rock3.png]] V1L-7 (medium)
 
 
-# Planet 7 - Foulon's World ![[gasg25.png]]
+# Planet 7 - Foulon's World ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,7 +146,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Lefevre's Refuge ![[gasg6.png]]
+# Planet 8 - Lefevre's Refuge ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,12 +161,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Sanchez 1 (medium)
-- ![[oddmoon2.png]] Sanchez 2 (medium)
-- ![[oddmoon1.png]] Sanchez 3 (medium)
+- ![[rock13.png\|rock13.png]] Sanchez 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sanchez 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sanchez 3 (medium)
 
 
-# Planet 9 - Bellars's Hold ![[gasg34.png]]
+# Planet 9 - Bellars's Hold ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,15 +181,15 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Devaux (large)
-- ![[rock12.png]] Mytton (large)
-- ![[rock17.png]] Caillet (large)
-- ![[rock4.png]] Butler (large)
-- ![[oddmoon2.png]] Carvalho (medium)
-- ![[oddmoon3.png]] Bourbon (medium)
+- ![[rock14.png\|rock14.png]] Devaux (large)
+- ![[rock12.png\|rock12.png]] Mytton (large)
+- ![[rock17.png\|rock17.png]] Caillet (large)
+- ![[rock4.png\|rock4.png]] Butler (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Carvalho (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Bourbon (medium)
 
 
-# Planet 10 - Terminus de Doucet ![[iceg6.png]]
+# Planet 10 - Terminus de Doucet ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -211,7 +206,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Marcilly-en-Bassigny ![[gasg36.png]]
+# Planet 11 - Marcilly-en-Bassigny ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -228,7 +223,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Di Manes ![[gasg35.png]]
+# Planet 12 - Di Manes ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

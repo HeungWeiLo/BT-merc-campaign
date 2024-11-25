@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Izmir
-xcood: "-340.859"
-ycood: "-268.167"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/izmir/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Izmir
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | -340.859 |
+> | Y coord| -268.167 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Izmir ![[green5.png]]
+# Planet 1 - Izmir ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gölbaşı ![[badwater4.png]]
+# Planet 2 - Gölbaşı ![[badwater4.png\|badwater4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -62,7 +57,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Yeni Bitlis ![[gasg10.png]]
+# Planet 3 - Yeni Bitlis ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,13 +75,13 @@ dg-publish: true
 4
 0
 
-- ![[rock12.png]] Sancakli I (large)
-- ![[rock7.png]] Sancakli II (large)
-- ![[oddmoon1.png]] Sancakli III (medium)
-- ![[oddmoon2.png]] Sancakli IV (medium)
+- ![[rock12.png\|rock12.png]] Sancakli I (large)
+- ![[rock7.png\|rock7.png]] Sancakli II (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Sancakli III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sancakli IV (medium)
 
 
-# Planet 4 - Hayrat Bucağı ![[gasg17.png]]
+# Planet 4 - Hayrat Bucağı ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Gencek Bucağı ![[gasg28.png]]
+# Planet 5 - Gencek Bucağı ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,12 +119,12 @@ dg-publish: true
 3
 0
 
-- ![[rock16.png]] Butters (large)
-- ![[rock14.png]] Nuri (large)
-- ![[rock3.png]] Aybar (medium)
+- ![[rock16.png\|rock16.png]] Butters (large)
+- ![[rock14.png\|rock14.png]] Nuri (large)
+- ![[rock3.png\|rock3.png]] Aybar (medium)
 
 
-# Planet 6 - Kızılağaç ![[gasg38.png]]
+# Planet 6 - Kızılağaç ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -149,7 +144,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Sulakyurt ![[gasg19.png]]
+# Planet 7 - Sulakyurt ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,7 +164,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Tire ![[iceg7.png]]
+# Planet 8 - Tire ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -187,12 +182,12 @@ dg-publish: true
 3
 0
 
-- ![[rock2.png]] Invidia (large)
-- ![[rock5.png]] Venus (large)
-- ![[rock3.png]] Fabulinus (large)
+- ![[rock2.png\|rock2.png]] Invidia (large)
+- ![[rock5.png\|rock5.png]] Venus (large)
+- ![[rock3.png\|rock3.png]] Fabulinus (large)
 
 
-# Planet 9 - Q31 Belt ![[asteroid2.png]]
+# Planet 9 - Q31 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -207,7 +202,7 @@ dg-publish: true
 
 
 
-# Planet 10 - New El Llano ![[gasg9.png]]
+# Planet 10 - New El Llano ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,13 +220,13 @@ dg-publish: true
 4
 0
 
-- ![[rock17.png]] Opet 1 (giant)
-- ![[rock11.png]] Opet 2 (giant)
-- ![[rock7.png]] Opet 3 (large)
-- ![[rock4.png]] Opet 4 (large)
+- ![[rock17.png\|rock17.png]] Opet 1 (giant)
+- ![[rock11.png\|rock11.png]] Opet 2 (giant)
+- ![[rock7.png\|rock7.png]] Opet 3 (large)
+- ![[rock4.png\|rock4.png]] Opet 4 (large)
 
 
-# Planet 11 - Bandırma ![[gasg4.png]]
+# Planet 11 - Bandırma ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -249,7 +244,7 @@ dg-publish: true
 2
 0
 
-- ![[rock3.png]] Odin A (large)
-- ![[rock17.png]] Odin B (large)
+- ![[rock3.png\|rock3.png]] Odin A (large)
+- ![[rock17.png\|rock17.png]] Odin B (large)
 
 

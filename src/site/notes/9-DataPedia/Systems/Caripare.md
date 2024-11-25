@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caripare
-xcood: "146.814"
-ycood: "291.272"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caripare/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caripare
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | 146.814 |
+> | Y coord| 291.272 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Caripare ![[green56.png]]
+# Planet 1 - Caripare ![[green56.png\|green56.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kuan Yu ![[badwater35.png]]
+# Planet 2 - Kuan Yu ![[badwater35.png\|badwater35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Tzu Ku Shen ![[gasg14.png]]
+# Planet 3 - Tzu Ku Shen ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,14 +66,14 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Three Fates 1 (large)
-- ![[rock9.png]] Three Fates 2 (large)
-- ![[oddmoon2.png]] Three Fates 3 (medium)
-- ![[rock5.png]] Three Fates 4 (medium)
-- ![[oddmoon1.png]] Three Fates 5 (medium)
+- ![[rock6.png\|rock6.png]] Three Fates 1 (large)
+- ![[rock9.png\|rock9.png]] Three Fates 2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Three Fates 3 (medium)
+- ![[rock5.png\|rock5.png]] Three Fates 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Three Fates 5 (medium)
 
 
-# Planet 4 - San Hsing ![[gasg31.png]]
+# Planet 4 - San Hsing ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -93,9 +88,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] 0X.1 (large)
+- [[rock11.png\|rock11.png]] 0X.1 (large)
 
-# Planet 5 - Cajuri ![[iceg3.png]]
+# Planet 5 - Cajuri ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -110,11 +105,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Rombo A (medium)
-- ![[oddmoon2.png]] Rombo B (medium)
+- ![[rock3.png\|rock3.png]] Rombo A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rombo B (medium)
 
 
-# Planet 6 - Chi ![[gasg28.png]]
+# Planet 6 - Chi ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -131,7 +126,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Yorkana ![[gasg24.png]]
+# Planet 7 - Yorkana ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,12 +141,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Alvim I (medium)
-- ![[rock3.png]] Alvim II (medium)
-- ![[rock16.png]] Alvim III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Alvim I (medium)
+- ![[rock3.png\|rock3.png]] Alvim II (medium)
+- ![[rock16.png\|rock16.png]] Alvim III (medium)
 
 
-# Planet 8 - Caetanópolis ![[gasg9.png]]
+# Planet 8 - Caetanópolis ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -168,7 +163,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Zhao Xuantan Belt ![[asteroid2.png]]
+# Planet 9 - Zhao Xuantan Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -180,7 +175,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Chang Er ![[gasg6.png]]
+# Planet 10 - Chang Er ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,9 +190,9 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] QN71 (large)
-- ![[rock2.png]] QN72 (large)
-- ![[rock8.png]] QN73 (large)
-- ![[rock5.png]] QN74 (large)
+- ![[rock13.png\|rock13.png]] QN71 (large)
+- ![[rock2.png\|rock2.png]] QN72 (large)
+- ![[rock8.png\|rock8.png]] QN73 (large)
+- ![[rock5.png\|rock5.png]] QN74 (large)
 
 

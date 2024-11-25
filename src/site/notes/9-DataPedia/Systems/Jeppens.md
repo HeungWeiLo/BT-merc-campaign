@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Jeppens
-xcood: "589.909"
-ycood: "111.747"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/jeppens/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Jeppens
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 589.909 |
+> | Y coord| 111.747 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Bicknell ![[greenhouse4.png]]
+# Planet 1 - Bicknell ![[greenhouse4.png\|greenhouse4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 3
 2
 
-- [[oddmoon1.png]] R1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] R1 (medium)
 
-# Planet 2 - Barker ![[barren4.png]]
+# Planet 2 - Barker ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ dg-publish: true
 3
 4
 
-- [[oddmoon1.png]] Isis (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Isis (medium)
 
-# Planet 3 - Benoldi's Wheel ![[rock4.png]]
+# Planet 3 - Benoldi's Wheel ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Jeppens ![[green43.png]]
+# Planet 4 - Jeppens ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Motevassel's Harbour ![[iceg9.png]]
+# Planet 5 - Motevassel's Harbour ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Hicks ![[frozen2.png]]
+# Planet 6 - Hicks ![[frozen2.png\|frozen2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Cizek's Planet ![[gasg2.png]]
+# Planet 7 - Cizek's Planet ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -162,14 +157,14 @@ dg-publish: true
 5
 0
 
-- ![[rock6.png]] Rojas I (large)
-- ![[rock11.png]] Rojas II (large)
-- ![[rock9.png]] Rojas III (medium)
-- ![[rock5.png]] Rojas IV (medium)
-- ![[oddmoon2.png]] Rojas V (medium)
+- ![[rock6.png\|rock6.png]] Rojas I (large)
+- ![[rock11.png\|rock11.png]] Rojas II (large)
+- ![[rock9.png\|rock9.png]] Rojas III (medium)
+- ![[rock5.png\|rock5.png]] Rojas IV (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rojas V (medium)
 
 
-# Planet 8 - Brigit ![[gasg9.png]]
+# Planet 8 - Brigit ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,7 +184,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Harrington ![[iceg10.png]]
+# Planet 9 - Harrington ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -207,11 +202,11 @@ dg-publish: true
 2
 0
 
-- ![[rock17.png]] Kurubumany A (large)
-- ![[rock13.png]] Kurubumany B (large)
+- ![[rock17.png\|rock17.png]] Kurubumany A (large)
+- ![[rock13.png\|rock13.png]] Kurubumany B (large)
 
 
-# Planet 10 - Camelo's Delight ![[gasg18.png]]
+# Planet 10 - Camelo's Delight ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -229,7 +224,7 @@ dg-publish: true
 2
 0
 
-- ![[rock5.png]] N2-1 (large)
-- ![[rock15.png]] N2-2 (large)
+- ![[rock5.png\|rock5.png]] N2-1 (large)
+- ![[rock15.png\|rock15.png]] N2-2 (large)
 
 

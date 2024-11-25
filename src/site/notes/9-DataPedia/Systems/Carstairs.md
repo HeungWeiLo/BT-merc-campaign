@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carstairs
-xcood: "-77.04"
-ycood: "139.279"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carstairs/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carstairs
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | -77.04 |
+> | Y coord| 139.279 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - Tiamat's Rock ![[gasg12.png]]
+# Planet 1 - Tiamat's Rock ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,13 +25,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Thor (large)
-- ![[rock8.png]] Ásgarðr (large)
-- ![[rock13.png]] Nidavellir (medium)
-- ![[rock6.png]] Cadwallader (medium)
+- ![[rock9.png\|rock9.png]] Thor (large)
+- ![[rock8.png\|rock8.png]] Ásgarðr (large)
+- ![[rock13.png\|rock13.png]] Nidavellir (medium)
+- ![[rock6.png\|rock6.png]] Cadwallader (medium)
 
 
-# Planet 2 - Carstairs ![[green25.png]]
+# Planet 2 - Carstairs ![[green25.png\|green25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] XB1.1 (large)
+- [[rock13.png\|rock13.png]] XB1.1 (large)
 
-# Planet 3 - Abgal ![[rock11.png]]
+# Planet 3 - Abgal ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Asshur ![[gasg32.png]]
+# Planet 4 - Asshur ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,12 +84,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Ferrreira 1 (large)
-- ![[oddmoon3.png]] Ferrreira 2 (medium)
-- ![[oddmoon2.png]] Ferrreira 3 (medium)
+- ![[rock6.png\|rock6.png]] Ferrreira 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Ferrreira 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ferrreira 3 (medium)
 
 
-# Planet 5 - Romulus ![[gasg24.png]]
+# Planet 5 - Romulus ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,16 +104,16 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] 97-1 (giant)
-- ![[rock14.png]] 97-2 (giant)
-- ![[rock15.png]] 97-3 (large)
-- ![[rock17.png]] 97-4 (large)
-- ![[rock2.png]] 97-5 (medium)
-- ![[rock13.png]] 97-6 (medium)
-- ![[rock7.png]] 97-7 (medium)
+- ![[rock5.png\|rock5.png]] 97-1 (giant)
+- ![[rock14.png\|rock14.png]] 97-2 (giant)
+- ![[rock15.png\|rock15.png]] 97-3 (large)
+- ![[rock17.png\|rock17.png]] 97-4 (large)
+- ![[rock2.png\|rock2.png]] 97-5 (medium)
+- ![[rock13.png\|rock13.png]] 97-6 (medium)
+- ![[rock7.png\|rock7.png]] 97-7 (medium)
 
 
-# Planet 6 - Gilgamesh's End ![[gasg38.png]]
+# Planet 6 - Gilgamesh's End ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -135,7 +130,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Enkil ![[gasg28.png]]
+# Planet 7 - Enkil ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,9 +145,9 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Fort Saskatchewan 1 (giant)
-- ![[rock17.png]] Fort Saskatchewan 2 (giant)
-- ![[oddmoon1.png]] Fort Saskatchewan 3 (medium)
-- ![[rock12.png]] Fort Saskatchewan 4 (medium)
+- ![[rock3.png\|rock3.png]] Fort Saskatchewan 1 (giant)
+- ![[rock17.png\|rock17.png]] Fort Saskatchewan 2 (giant)
+- ![[oddmoon1.png\|oddmoon1.png]] Fort Saskatchewan 3 (medium)
+- ![[rock12.png\|rock12.png]] Fort Saskatchewan 4 (medium)
 
 

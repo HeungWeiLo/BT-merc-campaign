@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ingersoll
-xcood: "-5.179"
-ycood: "-172.21"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ingersoll/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ingersoll
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -5.179 |
+> | Y coord| -172.21 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - La Macaza ![[greenhouse31.png]]
+# Planet 1 - La Macaza ![[greenhouse31.png\|greenhouse31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 3
 5
 
-- [[rock1.png]] Xango (large)
+- [[rock1.png\|rock1.png]] Xango (large)
 
-# Planet 2 - Nova Hébertville-Station ![[iceg6.png]]
+# Planet 2 - Nova Hébertville-Station ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Beckwith ![[frozen25.png]]
+# Planet 3 - Beckwith ![[frozen25.png\|frozen25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Madawaska ![[iceg19.png]]
+# Planet 4 - Madawaska ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ingersoll ![[green2.png]]
+# Planet 5 - Ingersoll ![[green2.png\|green2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -123,11 +118,11 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 2
 0
 
-- ![[rock9.png]] Talley (medium)
-- ![[oddmoon3.png]] Rand (medium)
+- ![[rock9.png\|rock9.png]] Talley (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rand (medium)
 
 
-# Planet 6 - HA71 Belt ![[asteroid3.png]]
+# Planet 6 - HA71 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -142,7 +137,7 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 
 
 
-# Planet 7 - Saint-Lazare-de-Bellechasse ![[gasg31.png]]
+# Planet 7 - Saint-Lazare-de-Bellechasse ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,7 +157,7 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 
 
 
-# Planet 8 - Toronto ![[gasg23.png]]
+# Planet 8 - Toronto ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,13 +175,13 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 4
 0
 
-- ![[rock6.png]] Resotka I (large)
-- ![[rock1.png]] Resotka II (large)
-- ![[oddmoon3.png]] Resotka III (medium)
-- ![[oddmoon2.png]] Resotka IV (medium)
+- ![[rock6.png\|rock6.png]] Resotka I (large)
+- ![[rock1.png\|rock1.png]] Resotka II (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Resotka III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Resotka IV (medium)
 
 
-# Planet 9 - Anjou ![[gasg15.png]]
+# Planet 9 - Anjou ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -206,7 +201,7 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 
 
 
-# Planet 10 - Saint-Boniface ![[gasg27.png]]
+# Planet 10 - Saint-Boniface ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -224,8 +219,8 @@ Ingersoll is one of many planets home to a Duchy RTC training facility for infan
 3
 0
 
-- ![[rock6.png]] Morrigu 1 (giant)
-- ![[oddmoon3.png]] Morrigu 2 (medium)
-- ![[rock11.png]] Morrigu 3 (medium)
+- ![[rock6.png\|rock6.png]] Morrigu 1 (giant)
+- ![[oddmoon3.png\|oddmoon3.png]] Morrigu 2 (medium)
+- ![[rock11.png\|rock11.png]] Morrigu 3 (medium)
 
 

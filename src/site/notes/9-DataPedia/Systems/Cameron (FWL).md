@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cameron (FWL)
-xcood: "-157.697"
-ycood: "-196.793"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cameron-fwl/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cameron (FWL)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | -157.697 |
+> | Y coord| -196.793 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Payne's Rock ![[rock2.png]]
+# Planet 1 - Payne's Rock ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Taylor's Grove ![[iceg9.png]]
+# Planet 2 - Taylor's Grove ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -47,11 +42,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Humphrey Alpha (large)
-- ![[rock15.png]] Humphrey Beta (medium)
+- ![[rock3.png\|rock3.png]] Humphrey Alpha (large)
+- ![[rock15.png\|rock15.png]] Humphrey Beta (medium)
 
 
-# Planet 3 - Cameron (FWL) ![[green47.png]]
+# Planet 3 - Cameron (FWL) ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yamasachinohiko ![[iceg6.png]]
+# Planet 4 - Yamasachinohiko ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Djous Pater's Flats ![[iceg19.png]]
+# Planet 5 - Djous Pater's Flats ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -104,9 +99,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] 6GN-1 (large)
+- [[rock14.png\|rock14.png]] 6GN-1 (large)
 
-# Planet 6 - Heike Gani's Garden ![[gasg21.png]]
+# Planet 6 - Heike Gani's Garden ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,11 +116,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Kali (large)
-- ![[oddmoon1.png]] Jurupari (medium)
+- ![[rock11.png\|rock11.png]] Kali (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Jurupari (medium)
 
 
-# Planet 7 - Bishamonten ![[gasg9.png]]
+# Planet 7 - Bishamonten ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,11 +135,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] QZU-1 (medium)
-- ![[oddmoon3.png]] QZU-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] QZU-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] QZU-2 (medium)
 
 
-# Planet 8 - Williams's Revenge ![[gasg17.png]]
+# Planet 8 - Williams's Revenge ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -159,12 +154,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] UGT-1 (medium)
-- ![[rock7.png]] UGT-2 (medium)
-- ![[oddmoon2.png]] UGT-3 (medium)
+- ![[rock8.png\|rock8.png]] UGT-1 (medium)
+- ![[rock7.png\|rock7.png]] UGT-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] UGT-3 (medium)
 
 
-# Planet 9 - Susano ![[iceg4.png]]
+# Planet 9 - Susano ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -179,9 +174,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Prudence (giant)
+- [[rock11.png\|rock11.png]] Prudence (giant)
 
-# Planet 10 - Burris's Planet ![[gasg37.png]]
+# Planet 10 - Burris's Planet ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,7 +191,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Blye I (medium)
-- ![[rock2.png]] Blye II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Blye I (medium)
+- ![[rock2.png\|rock2.png]] Blye II (medium)
 
 

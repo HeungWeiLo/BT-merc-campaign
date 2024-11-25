@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carnac
-xcood: "233.807"
-ycood: "-24.011"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carnac/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carnac
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | 233.807 |
+> | Y coord| -24.011 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Lamarque-Rustaing ![[iceg17.png]]
+# Planet 1 - Lamarque-Rustaing ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hamilton ![[iceg8.png]]
+# Planet 2 - Hamilton ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Saint-Germain-en-Laye ![[gasg36.png]]
+# Planet 3 - Saint-Germain-en-Laye ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -64,9 +59,9 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Jupiter (medium)
+- [[rock6.png\|rock6.png]] Jupiter (medium)
 
-# Planet 4 - Carnac ![[green23.png]]
+# Planet 4 - Carnac ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -85,11 +80,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Villiers-en-Lieu 1 (medium)
-- ![[oddmoon2.png]] Villiers-en-Lieu 2 (medium)
+- ![[rock13.png\|rock13.png]] Villiers-en-Lieu 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Villiers-en-Lieu 2 (medium)
 
 
-# Planet 5 - Lamanère ![[rock7.png]]
+# Planet 5 - Lamanère ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Ruíz ![[gasg34.png]]
+# Planet 6 - Ruíz ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,9 +116,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Bhutas (large)
+- [[rock14.png\|rock14.png]] Bhutas (large)
 
-# Planet 7 - Cazaux-Layrisse ![[gasg35.png]]
+# Planet 7 - Cazaux-Layrisse ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -138,5 +133,5 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Schweitzer (giant)
+- [[rock6.png\|rock6.png]] Schweitzer (giant)
 

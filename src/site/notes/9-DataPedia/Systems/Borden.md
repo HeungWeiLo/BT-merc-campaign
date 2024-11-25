@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Borden
-xcood: "51.427"
-ycood: "-370.734"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/borden/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Borden
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | 51.427 |
+> | Y coord| -370.734 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Borden ![[green17.png]]
+# Planet 1 - Borden ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Belmont ![[iceg11.png]]
+# Planet 2 - Belmont ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Creve Coeur (large)
-- ![[rock17.png]] Ada (medium)
-- ![[oddmoon1.png]] Babi (medium)
+- ![[rock16.png\|rock16.png]] Creve Coeur (large)
+- ![[rock17.png\|rock17.png]] Ada (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Babi (medium)
 
 
-# Planet 3 - Monon ![[gasg14.png]]
+# Planet 3 - Monon ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,13 +66,13 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Akslen (large)
-- ![[rock3.png]] Kingu (large)
-- ![[rock9.png]] Humbaba (large)
-- ![[rock2.png]] Abzu (large)
+- ![[rock15.png\|rock15.png]] Akslen (large)
+- ![[rock3.png\|rock3.png]] Kingu (large)
+- ![[rock9.png\|rock9.png]] Humbaba (large)
+- ![[rock2.png\|rock2.png]] Abzu (large)
 
 
-# Planet 4 - Hamel ![[gasg32.png]]
+# Planet 4 - Hamel ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Saint-Jean-de-Marsacq ![[gasg15.png]]
+# Planet 5 - Saint-Jean-de-Marsacq ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

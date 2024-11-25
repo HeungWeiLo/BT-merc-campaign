@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chhaprauli
-xcood: "-346.127"
-ycood: "219.417"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chhaprauli/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chhaprauli
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | -346.127 |
+> | Y coord| 219.417 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Katni ![[barren9.png]]
+# Planet 1 - Katni ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Indrani (medium)
-- ![[oddmoon3.png]] Kakde (medium)
-- ![[rock10.png]] Gula (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Indrani (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kakde (medium)
+- ![[rock10.png\|rock10.png]] Gula (medium)
 
 
-# Planet 2 - Port Blair ![[rock13.png]]
+# Planet 2 - Port Blair ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chhaprauli ![[wet21.png]]
+# Planet 3 - Chhaprauli ![[wet21.png\|wet21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kandilli ![[barren2.png]]
+# Planet 4 - Kandilli ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ujjaval ![[rock14.png]]
+# Planet 5 - Ujjaval ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Dharani ![[rock10.png]]
+# Planet 6 - Dharani ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Rudrani ![[gasg36.png]]
+# Planet 7 - Rudrani ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Angiras ![[gasg33.png]]
+# Planet 8 - Angiras ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,11 +153,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Zlota Baba (large)
-- ![[rock16.png]] Tschernobog (medium)
+- ![[rock13.png\|rock13.png]] Zlota Baba (large)
+- ![[rock16.png\|rock16.png]] Tschernobog (medium)
 
 
-# Planet 9 - Malappuram ![[gasg28.png]]
+# Planet 9 - Malappuram ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Bihār ![[gasg31.png]]
+# Planet 10 - Bihār ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,7 +191,7 @@ dg-publish: true
 
 
 
-# Planet 11 - New Gandhinagar ![[gasg14.png]]
+# Planet 11 - New Gandhinagar ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,13 +206,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] AF1 (large)
-- ![[rock4.png]] AF2 (large)
-- ![[oddmoon1.png]] AF3 (medium)
-- ![[oddmoon3.png]] AF4 (medium)
+- ![[rock14.png\|rock14.png]] AF1 (large)
+- ![[rock4.png\|rock4.png]] AF2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] AF3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] AF4 (medium)
 
 
-# Planet 12 - Kamadhenu ![[gasg19.png]]
+# Planet 12 - Kamadhenu ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -232,8 +227,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Sahar (medium)
-- ![[oddmoon1.png]] Sati (medium)
-- ![[oddmoon3.png]] Bernardi (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sahar (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sati (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Bernardi (medium)
 
 

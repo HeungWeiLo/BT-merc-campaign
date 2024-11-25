@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chota
-xcood: "186.624"
-ycood: "-21.95"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chota/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chota
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | 186.624 |
+> | Y coord| -21.95 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Espelid ![[barren14.png]]
+# Planet 1 - Espelid ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Benavides ![[rock15.png]]
+# Planet 2 - Benavides ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chota ![[wet6.png]]
+# Planet 3 - Chota ![[wet6.png\|wet6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -69,13 +64,13 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Turner I (large)
-- ![[oddmoon2.png]] Turner II (medium)
-- ![[oddmoon1.png]] Turner III (medium)
-- ![[oddmoon3.png]] Turner IV (medium)
+- ![[rock15.png\|rock15.png]] Turner I (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Turner II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Turner III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Turner IV (medium)
 
 
-# Planet 4 - DJ1 Belt ![[asteroid1.png]]
+# Planet 4 - DJ1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Rosales's Planet ![[gasg14.png]]
+# Planet 5 - Rosales's Planet ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -102,13 +97,13 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Humbaba (large)
-- ![[rock9.png]] Ansar (large)
-- ![[rock15.png]] Vargas (medium)
-- ![[oddmoon1.png]] Lugo (medium)
+- ![[rock16.png\|rock16.png]] Humbaba (large)
+- ![[rock9.png\|rock9.png]] Ansar (large)
+- ![[rock15.png\|rock15.png]] Vargas (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lugo (medium)
 
 
-# Planet 6 - Sandoval Alta ![[iceg19.png]]
+# Planet 6 - Sandoval Alta ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -123,11 +118,11 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] González I (large)
-- ![[rock14.png]] González II (large)
+- ![[rock4.png\|rock4.png]] González I (large)
+- ![[rock14.png\|rock14.png]] González II (large)
 
 
-# Planet 7 - Mendoza ![[gasg4.png]]
+# Planet 7 - Mendoza ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,13 +137,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Y4-1 (large)
-- ![[rock13.png]] Y4-2 (medium)
-- ![[rock5.png]] Y4-3 (medium)
-- ![[rock1.png]] Y4-4 (medium)
+- ![[rock10.png\|rock10.png]] Y4-1 (large)
+- ![[rock13.png\|rock13.png]] Y4-2 (medium)
+- ![[rock5.png\|rock5.png]] Y4-3 (medium)
+- ![[rock1.png\|rock1.png]] Y4-4 (medium)
 
 
-# Planet 8 - Böhmer ![[gasg6.png]]
+# Planet 8 - Böhmer ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

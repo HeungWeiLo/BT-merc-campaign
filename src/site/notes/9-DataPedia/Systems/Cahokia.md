@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cahokia
-xcood: "288.727"
-ycood: "-72.946"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cahokia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cahokia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | 288.727 |
+> | Y coord| -72.946 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - VM2-1 ![[rock16.png]]
+# Planet 1 - VM2-1 ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - VM2-2 ![[greenhouse13.png]]
+# Planet 2 - VM2-2 ![[greenhouse13.png\|greenhouse13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -48,9 +43,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Asvins (large)
+- [[rock5.png\|rock5.png]] Asvins (large)
 
-# Planet 3 - VM2-3 ![[rock13.png]]
+# Planet 3 - VM2-3 ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cahokia ![[green4.png]]
+# Planet 4 - Cahokia ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -86,9 +81,9 @@ dg-publish: true
 
 Cahokia was settled, despite its tainted atmosphere, to take advantage of the abundance of easily mined raw materials. The bad atmosphere severely limits agriculture and requires all farming to take place in inclosures, which forces Cahokia to rely on imported food to feed its population. The mineral wealth of the planet has attracted heavy industry and manufacturing, including Achernar BattleMechs.
 
-- [[rock6.png]] Sequoia (medium)
+- [[rock6.png\|rock6.png]] Sequoia (medium)
 
-# Planet 5 - VM2-5 ![[iceg7.png]]
+# Planet 5 - VM2-5 ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -103,14 +98,14 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-- ![[rock12.png]] Angita 1 (large)
-- ![[rock6.png]] Angita 2 (large)
-- ![[oddmoon2.png]] Angita 3 (medium)
-- ![[rock9.png]] Angita 4 (medium)
-- ![[rock15.png]] Angita 5 (medium)
+- ![[rock12.png\|rock12.png]] Angita 1 (large)
+- ![[rock6.png\|rock6.png]] Angita 2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Angita 3 (medium)
+- ![[rock9.png\|rock9.png]] Angita 4 (medium)
+- ![[rock15.png\|rock15.png]] Angita 5 (medium)
 
 
-# Planet 6 - VM2-6 ![[rock14.png]]
+# Planet 6 - VM2-6 ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -127,7 +122,7 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-# Planet 7 - VM2-7 ![[gasg10.png]]
+# Planet 7 - VM2-7 ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,7 +139,7 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-# Planet 8 - VM2-8 ![[iceg11.png]]
+# Planet 8 - VM2-8 ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -161,7 +156,7 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-# Planet 9 - Guguyni Belt ![[asteroid3.png]]
+# Planet 9 - Guguyni Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -173,7 +168,7 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-# Planet 10 - VM2-9 ![[gasg22.png]]
+# Planet 10 - VM2-9 ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,14 +183,14 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-- ![[rock10.png]] DH1 (large)
-- ![[rock6.png]] DH2 (large)
-- ![[rock7.png]] DH3 (large)
-- ![[rock5.png]] DH4 (large)
-- ![[rock2.png]] DH5 (medium)
+- ![[rock10.png\|rock10.png]] DH1 (large)
+- ![[rock6.png\|rock6.png]] DH2 (large)
+- ![[rock7.png\|rock7.png]] DH3 (large)
+- ![[rock5.png\|rock5.png]] DH4 (large)
+- ![[rock2.png\|rock2.png]] DH5 (medium)
 
 
-# Planet 11 - VM2-10 ![[gasg6.png]]
+# Planet 11 - VM2-10 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -210,13 +205,13 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-- ![[rock5.png]] Wenatchee 1 (large)
-- ![[oddmoon3.png]] Wenatchee 2 (medium)
-- ![[oddmoon1.png]] Wenatchee 3 (medium)
-- ![[rock11.png]] Wenatchee 4 (medium)
+- ![[rock5.png\|rock5.png]] Wenatchee 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Wenatchee 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Wenatchee 3 (medium)
+- ![[rock11.png\|rock11.png]] Wenatchee 4 (medium)
 
 
-# Planet 12 - VM2-11 ![[gasg1.png]]
+# Planet 12 - VM2-11 ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -231,8 +226,8 @@ Cahokia was settled, despite its tainted atmosphere, to take advantage of the ab
 
 
 
-- ![[rock2.png]] WJ-1 (large)
-- ![[oddmoon3.png]] WJ-2 (medium)
-- ![[oddmoon2.png]] WJ-3 (medium)
+- ![[rock2.png\|rock2.png]] WJ-1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] WJ-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] WJ-3 (medium)
 
 

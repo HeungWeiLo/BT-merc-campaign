@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Borgan's Rift
-xcood: "-105.063"
-ycood: "-412.086"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/borgan-s-rift/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Borgan's Rift
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | -105.063 |
+> | Y coord| -412.086 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - New Albion ![[greenhouse3.png]]
+# Planet 1 - New Albion ![[greenhouse3.png\|greenhouse3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Aya (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Aya (medium)
 
-# Planet 2 - Borgan's Rift ![[green50.png]]
+# Planet 2 - Borgan's Rift ![[green50.png\|green50.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-# Planet 3 - Ishøj ![[gasg3.png]]
+# Planet 3 - Ishøj ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -71,7 +66,7 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-# Planet 4 - Deanshanger ![[barren20.png]]
+# Planet 4 - Deanshanger ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,12 +82,12 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-- ![[rock5.png]] Birkeland (medium)
-- ![[oddmoon2.png]] Fujimoto (medium)
-- ![[oddmoon3.png]] Kümlin (medium)
+- ![[rock5.png\|rock5.png]] Birkeland (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fujimoto (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kümlin (medium)
 
 
-# Planet 5 - Barney ![[gasg26.png]]
+# Planet 5 - Barney ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -109,7 +104,7 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-# Planet 6 - Drumheller ![[rock4.png]]
+# Planet 6 - Drumheller ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -124,9 +119,9 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-- [[oddmoon3.png]] Chheda (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Chheda (medium)
 
-# Planet 7 - Morrisey ![[iceg9.png]]
+# Planet 7 - Morrisey ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -143,7 +138,7 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-# Planet 8 - Magni Belt ![[asteroid2.png]]
+# Planet 8 - Magni Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -155,7 +150,7 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-# Planet 9 - Roche-d'Agoux ![[gasg18.png]]
+# Planet 9 - Roche-d'Agoux ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,10 +165,10 @@ Borgan’s Rift is another of many worlds in the Periphery free-falling back int
 
 
 
-- ![[rock11.png]] Kishita I (large)
-- ![[oddmoon1.png]] Kishita II (medium)
-- ![[oddmoon3.png]] Kishita III (medium)
-- ![[oddmoon2.png]] Kishita IV (medium)
-- ![[rock7.png]] Kishita V (medium)
+- ![[rock11.png\|rock11.png]] Kishita I (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Kishita II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kishita III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kishita IV (medium)
+- ![[rock7.png\|rock7.png]] Kishita V (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kern
-xcood: "126.171"
-ycood: "-384.043"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kern/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kern
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 126.171 |
+> | Y coord| -384.043 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Hockenhall's Patch ![[barren17.png]]
+# Planet 1 - Hockenhall's Patch ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hall's World ![[barren10.png]]
+# Planet 2 - Hall's World ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -57,7 +52,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Houlbrook's World ![[barren8.png]]
+# Planet 3 - Houlbrook's World ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,7 +73,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kern ![[green54.png]]
+# Planet 4 - Kern ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,9 +95,9 @@ dg-publish: true
 3
 19
 
-- [[oddmoon3.png]] Huallallo Caruincho (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Huallallo Caruincho (medium)
 
-# Planet 5 - Inkster Belt A ![[asteroid3.png]]
+# Planet 5 - Inkster Belt A ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -117,7 +112,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Jackson ![[gasg19.png]]
+# Planet 6 - Jackson ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,7 +132,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Cole's Harvest ![[gasg33.png]]
+# Planet 7 - Cole's Harvest ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -157,7 +152,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Alexander's Field ![[gasg2.png]]
+# Planet 8 - Alexander's Field ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,7 +172,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Jones ![[gasg9.png]]
+# Planet 9 - Jones ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -197,7 +192,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Inkster Belt B ![[asteroid1.png]]
+# Planet 10 - Inkster Belt B ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -212,7 +207,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Cooper ![[gasg4.png]]
+# Planet 11 - Cooper ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

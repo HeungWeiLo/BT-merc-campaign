@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chahar
-xcood: "-198.534"
-ycood: "340.642"
-spectralType: G0IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chahar/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chahar
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0IV.png]] |
+> | X coord | -198.534 |
+> | Y coord| 340.642 |
+> | Spectral Type | G0IV ![[G0IV.png\|G0IV.png]] |
 
-# Planet 1 - Zhu Rong ![[barren18.png]]
+# Planet 1 - Zhu Rong ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] A1 (medium)
-- ![[oddmoon3.png]] A2 (medium)
-- ![[oddmoon2.png]] A3 (medium)
+- ![[rock3.png\|rock3.png]] A1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] A2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] A3 (medium)
 
 
-# Planet 2 - Chahar ![[green42.png]]
+# Planet 2 - Chahar ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 3 - Zhang Sheng ![[barren23.png]]
+# Planet 3 - Zhang Sheng ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,7 +72,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 4 - Fung Hwang ![[barren22.png]]
+# Planet 4 - Fung Hwang ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -95,7 +90,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 5 - Monkey ![[rock5.png]]
+# Planet 5 - Monkey ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -113,7 +108,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 6 - Si-ma ![[gasg5.png]]
+# Planet 6 - Si-ma ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -130,7 +125,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 7 - Sun Hou Tze's Mistake ![[gasg15.png]]
+# Planet 7 - Sun Hou Tze's Mistake ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,9 +140,9 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-- [[rock8.png]] Morofuna (giant)
+- [[rock8.png\|rock8.png]] Morofuna (giant)
 
-# Planet 8 - Yu's Meridian ![[gasg10.png]]
+# Planet 8 - Yu's Meridian ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -164,7 +159,7 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-# Planet 9 - Yun ![[gasg23.png]]
+# Planet 9 - Yun ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,9 +174,9 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-- [[rock11.png]] Nan (large)
+- [[rock11.png\|rock11.png]] Nan (large)
 
-# Planet 10 - Hsuan Wen Hua ![[gasg2.png]]
+# Planet 10 - Hsuan Wen Hua ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,8 +191,8 @@ The capital city of Chahar is Benares, which is considered sacred to Lyran Hindu
 
 
 
-- ![[rock7.png]] Pluto 1 (large)
-- ![[rock10.png]] Pluto 2 (large)
-- ![[rock6.png]] Pluto 3 (large)
+- ![[rock7.png\|rock7.png]] Pluto 1 (large)
+- ![[rock10.png\|rock10.png]] Pluto 2 (large)
+- ![[rock6.png\|rock6.png]] Pluto 3 (large)
 
 

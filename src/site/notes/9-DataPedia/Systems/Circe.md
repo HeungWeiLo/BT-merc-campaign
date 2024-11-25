@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Circe
-xcood: "-122.574"
-ycood: "1614.831"
-spectralType: G2Ia
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/circe/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Circe
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2Ia.png]] |
+> | X coord | -122.574 |
+> | Y coord| 1614.831 |
+> | Spectral Type | G2Ia ![[G2Ia.png\|G2Ia.png]] |
 
-# Planet 1 - Circe ![[green17.png]]
+# Planet 1 - Circe ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,11 +29,11 @@ dg-publish: true
 
 Circe’s orbit follows a 700 year cycle that takes it from one extreme in the system’s life zone (the zone in which liquid water can exist) to the other. In the 29th century the planet was a desert wasteland, whereas by the 32nd century it is expected to be covered by glaciers and sheet ice. Early settlers found that while the air was free of serious contaminants, the soil contained a variety of toxins.
 
-- ![[rock6.png]] Aega (giant)
-- ![[rock11.png]] Telegonus (medium)
+- ![[rock6.png\|rock6.png]] Aega (giant)
+- ![[rock11.png\|rock11.png]] Telegonus (medium)
 
 
-# Planet 2 - Ware ![[barren11.png]]
+# Planet 2 - Ware ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 3 - Walker's Planet ![[greenhouse35.png]]
+# Planet 3 - Walker's Planet ![[greenhouse35.png\|greenhouse35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 4 - Pulaha ![[rock16.png]]
+# Planet 4 - Pulaha ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -91,7 +86,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 5 - Turner's Choice ![[rock9.png]]
+# Planet 5 - Turner's Choice ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -108,7 +103,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 6 - Oglethorpe's Patch ![[rock16.png]]
+# Planet 6 - Oglethorpe's Patch ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -125,7 +120,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 7 - Lowe ![[rock12.png]]
+# Planet 7 - Lowe ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -142,7 +137,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 8 - Ammavaru ![[gasg3.png]]
+# Planet 8 - Ammavaru ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,7 +154,7 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-# Planet 9 - Patrick ![[gasg20.png]]
+# Planet 9 - Patrick ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -174,9 +169,9 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-- [[rock7.png]] Williams (giant)
+- [[rock7.png\|rock7.png]] Williams (giant)
 
-# Planet 10 - Baker ![[iceg18.png]]
+# Planet 10 - Baker ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -191,12 +186,12 @@ Circe’s orbit follows a 700 year cycle that takes it from one extreme in the s
 
 
 
-- ![[oddmoon3.png]] U-1 (medium)
-- ![[rock16.png]] U-2 (medium)
-- ![[rock2.png]] U-3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] U-1 (medium)
+- ![[rock16.png\|rock16.png]] U-2 (medium)
+- ![[rock2.png\|rock2.png]] U-3 (medium)
 
 
-# Planet 11 - Mount Kisco Belt ![[asteroid2.png]]
+# Planet 11 - Mount Kisco Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

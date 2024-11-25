@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caria
-xcood: "157.768"
-ycood: "-125.011"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caria/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caria
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | 157.768 |
+> | Y coord| -125.011 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Caria ![[green19.png]]
+# Planet 1 - Caria ![[green19.png\|green19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] A0K1 (medium)
+- [[rock5.png\|rock5.png]] A0K1 (medium)
 
-# Planet 2 - Batista ![[rock6.png]]
+# Planet 2 - Batista ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Arronches ![[iceg13.png]]
+# Planet 3 - Arronches ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Kutaiba (medium)
-- ![[rock16.png]] Padim (medium)
-- ![[rock3.png]] Cary (medium)
+- ![[rock6.png\|rock6.png]] Kutaiba (medium)
+- ![[rock16.png\|rock16.png]] Padim (medium)
+- ![[rock3.png\|rock3.png]] Cary (medium)
 
 
-# Planet 4 - Genísio ![[gasg6.png]]
+# Planet 4 - Genísio ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Veritas 1 (large)
-- ![[oddmoon1.png]] Veritas 2 (medium)
-- ![[oddmoon3.png]] Veritas 3 (medium)
+- ![[rock2.png\|rock2.png]] Veritas 1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Veritas 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Veritas 3 (medium)
 
 
-# Planet 5 - Gaio-Rosário ![[gasg25.png]]
+# Planet 5 - Gaio-Rosário ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,13 +103,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Sterculius (giant)
-- ![[rock1.png]] Fates (medium)
-- ![[oddmoon3.png]] Anna Perenna (medium)
-- ![[rock6.png]] Jupiter (medium)
+- ![[rock9.png\|rock9.png]] Sterculius (giant)
+- ![[rock1.png\|rock1.png]] Fates (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Anna Perenna (medium)
+- ![[rock6.png\|rock6.png]] Jupiter (medium)
 
 
-# Planet 6 - Ventura's Wind ![[gasg3.png]]
+# Planet 6 - Ventura's Wind ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,13 +124,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Olufon A (large)
-- ![[rock8.png]] Olufon B (large)
-- ![[oddmoon3.png]] Olufon C (medium)
-- ![[oddmoon2.png]] Olufon D (medium)
+- ![[rock1.png\|rock1.png]] Olufon A (large)
+- ![[rock8.png\|rock8.png]] Olufon B (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Olufon C (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Olufon D (medium)
 
 
-# Planet 7 - Saint Serralheiro ![[gasg8.png]]
+# Planet 7 - Saint Serralheiro ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,12 +145,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Tschernobog (medium)
-- ![[rock10.png]] Mikula (medium)
-- ![[rock15.png]] Volkh (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tschernobog (medium)
+- ![[rock10.png\|rock10.png]] Mikula (medium)
+- ![[rock15.png\|rock15.png]] Volkh (medium)
 
 
-# Planet 8 - Boa Ventura ![[gasg35.png]]
+# Planet 8 - Boa Ventura ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,13 +165,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] 1SN1 (medium)
-- ![[rock2.png]] 1SN2 (medium)
-- ![[oddmoon2.png]] 1SN3 (medium)
-- ![[oddmoon1.png]] 1SN4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 1SN1 (medium)
+- ![[rock2.png\|rock2.png]] 1SN2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 1SN3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 1SN4 (medium)
 
 
-# Planet 9 - Ameno's Belt ![[asteroid1.png]]
+# Planet 9 - Ameno's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

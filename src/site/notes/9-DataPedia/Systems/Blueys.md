@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Blueys
-xcood: "601.61"
-ycood: "296.35"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/blueys/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Blueys
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | 601.61 |
+> | Y coord| 296.35 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - FM1 ![[iceg11.png]]
+# Planet 1 - FM1 ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Blueys ![[green40.png]]
+# Planet 2 - Blueys ![[green40.png\|green40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] U1 (large)
+- [[rock3.png\|rock3.png]] U1 (large)
 
-# Planet 3 - FM3 ![[gasg31.png]]
+# Planet 3 - FM3 ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,15 +63,15 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Midgley 1 (large)
-- ![[rock13.png]] Midgley 2 (large)
-- ![[oddmoon1.png]] Midgley 3 (medium)
-- ![[oddmoon2.png]] Midgley 4 (medium)
-- ![[oddmoon3.png]] Midgley 5 (medium)
-- ![[oddmoon1.png]] Midgley 6 (medium)
+- ![[rock8.png\|rock8.png]] Midgley 1 (large)
+- ![[rock13.png\|rock13.png]] Midgley 2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Midgley 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Midgley 4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Midgley 5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Midgley 6 (medium)
 
 
-# Planet 4 - FM4 ![[gasg33.png]]
+# Planet 4 - FM4 ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -91,14 +86,14 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Ramas (large)
-- ![[rock8.png]] Budgeford (large)
-- ![[rock11.png]] Ferrand (large)
-- ![[oddmoon2.png]] Roma (medium)
-- ![[oddmoon3.png]] Solomon Rapids (medium)
+- ![[rock10.png\|rock10.png]] Ramas (large)
+- ![[rock8.png\|rock8.png]] Budgeford (large)
+- ![[rock11.png\|rock11.png]] Ferrand (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Roma (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Solomon Rapids (medium)
 
 
-# Planet 5 - FM5 ![[iceg8.png]]
+# Planet 5 - FM5 ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -115,7 +110,7 @@ dg-publish: true
 
 
 
-# Planet 6 - FM6 ![[gasg6.png]]
+# Planet 6 - FM6 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -132,7 +127,7 @@ dg-publish: true
 
 
 
-# Planet 7 - FM7 ![[gasg13.png]]
+# Planet 7 - FM7 ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

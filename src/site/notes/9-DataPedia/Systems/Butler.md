@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Butler
-xcood: "-126.179"
-ycood: "375.283"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/butler/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Butler
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | -126.179 |
+> | Y coord| 375.283 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - House Creek ![[gasg14.png]]
+# Planet 1 - House Creek ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sand Ridge ![[iceg5.png]]
+# Planet 2 - Sand Ridge ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -47,9 +42,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Valtam (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Valtam (medium)
 
-# Planet 3 - Butler ![[green22.png]]
+# Planet 3 - Butler ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 Butler is a comfortable, warm-temperate planet that for most of its history was part of the Lyran Commonwealth. Butler avoided the worst of the Succession Wars primarily due to its lack of importance. Butler contains modest raw materials and agricultural concerns that are enough to make the planet self sufficient and these raw materials feed the on planet industry, which is well established despite remaining fairly basic with limited output. After the planet was captured by Clan Jade Falcon during Operation Revival, the Falcons spent resources upgrading the factories on planet to support the Butler Shipyards, which they built in 3060.
 
-- [[rock13.png]] Valet (medium)
+- [[rock13.png\|rock13.png]] Valet (medium)
 
-# Planet 4 - Mineral Wells ![[gasg15.png]]
+# Planet 4 - Mineral Wells ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -87,7 +82,7 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-# Planet 5 - Nashville ![[gasg8.png]]
+# Planet 5 - Nashville ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -102,11 +97,11 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-- ![[rock12.png]] F1 (giant)
-- ![[rock10.png]] F2 (giant)
+- ![[rock12.png\|rock12.png]] F1 (giant)
+- ![[rock10.png\|rock10.png]] F2 (giant)
 
 
-# Planet 6 - Upper Saddle River ![[gasg5.png]]
+# Planet 6 - Upper Saddle River ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,7 +118,7 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-# Planet 7 - Gates ![[gasg23.png]]
+# Planet 7 - Gates ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,14 +133,14 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-- ![[rock13.png]] W1 (large)
-- ![[rock11.png]] W2 (large)
-- ![[rock6.png]] W3 (large)
-- ![[rock12.png]] W4 (medium)
-- ![[oddmoon3.png]] W5 (medium)
+- ![[rock13.png\|rock13.png]] W1 (large)
+- ![[rock11.png\|rock11.png]] W2 (large)
+- ![[rock6.png\|rock6.png]] W3 (large)
+- ![[rock12.png\|rock12.png]] W4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] W5 (medium)
 
 
-# Planet 8 - S Coteaux ![[gasg33.png]]
+# Planet 8 - S Coteaux ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,11 +155,11 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-- ![[rock7.png]] Payne (large)
-- ![[rock3.png]] Borbokis (large)
+- ![[rock7.png\|rock7.png]] Payne (large)
+- ![[rock3.png\|rock3.png]] Borbokis (large)
 
 
-# Planet 9 - Lord's Belt ![[asteroid1.png]]
+# Planet 9 - Lord's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -176,7 +171,7 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-# Planet 10 - Old Nelsonville ![[gasg13.png]]
+# Planet 10 - Old Nelsonville ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -191,8 +186,8 @@ Butler is a comfortable, warm-temperate planet that for most of its history was 
 
 
 
-- ![[rock4.png]] F1 (medium)
-- ![[rock17.png]] F2 (medium)
-- ![[oddmoon3.png]] F3 (medium)
+- ![[rock4.png\|rock4.png]] F1 (medium)
+- ![[rock17.png\|rock17.png]] F2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] F3 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carlisle
-xcood: "-304.983"
-ycood: "88.88"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carlisle/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carlisle
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | -304.983 |
+> | Y coord| 88.88 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Gyes ![[barren21.png]]
+# Planet 1 - Gyes ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hesperis ![[iceg16.png]]
+# Planet 2 - Hesperis ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,13 +43,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Ostara (medium)
-- ![[rock7.png]] Wodan (medium)
-- ![[oddmoon3.png]] Tiwal (medium)
-- ![[oddmoon2.png]] Thunor (medium)
+- ![[rock10.png\|rock10.png]] Ostara (medium)
+- ![[rock7.png\|rock7.png]] Wodan (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Tiwal (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Thunor (medium)
 
 
-# Planet 3 - Carlisle ![[green31.png]]
+# Planet 3 - Carlisle ![[green31.png\|green31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,9 +70,9 @@ Carlisle is a highly industrialized terrestrial planet inside the Alarion provin
 
 The majority of the population is located on the continent of Worrsetgard, which also contains the capital city of New  Prague. Carlisle was originally settled by German and Slovak colonists.
 
-- [[rock16.png]] Dyson (giant)
+- [[rock16.png\|rock16.png]] Dyson (giant)
 
-# Planet 4 - Pluto ![[rock4.png]]
+# Planet 4 - Pluto ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -94,7 +89,7 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-# Planet 5 - Phoibe ![[rock4.png]]
+# Planet 5 - Phoibe ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -111,7 +106,7 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-# Planet 6 - Hermes ![[gasg2.png]]
+# Planet 6 - Hermes ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -128,7 +123,7 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-# Planet 7 - Callisto's Plains ![[gasg27.png]]
+# Planet 7 - Callisto's Plains ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,11 +138,11 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-- ![[rock10.png]] Nesbit (giant)
-- ![[rock6.png]] East Boone (large)
+- ![[rock10.png\|rock10.png]] Nesbit (giant)
+- ![[rock6.png\|rock6.png]] East Boone (large)
 
 
-# Planet 8 - Kilkenny ![[iceg1.png]]
+# Planet 8 - Kilkenny ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -162,13 +157,13 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-- ![[rock5.png]] C-1 (large)
-- ![[oddmoon3.png]] C-2 (medium)
-- ![[oddmoon2.png]] C-3 (medium)
-- ![[rock13.png]] C-4 (medium)
+- ![[rock5.png\|rock5.png]] C-1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] C-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] C-3 (medium)
+- ![[rock13.png\|rock13.png]] C-4 (medium)
 
 
-# Planet 9 - Ishtar Belt ![[asteroid2.png]]
+# Planet 9 - Ishtar Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -180,7 +175,7 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-# Planet 10 - Nymphs ![[gasg6.png]]
+# Planet 10 - Nymphs ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,7 +190,7 @@ The majority of the population is located on the continent of Worrsetgard, which
 
 
 
-- ![[oddmoon2.png]] Electra (medium)
-- ![[rock11.png]] Khaos (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Electra (medium)
+- ![[rock11.png\|rock11.png]] Khaos (medium)
 
 

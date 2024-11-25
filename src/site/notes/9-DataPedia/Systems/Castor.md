@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Castor
-xcood: "-40.43"
-ycood: "-16.683"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/castor/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Castor
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | -40.43 |
+> | Y coord| -16.683 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Castor ![[green48.png]]
+# Planet 1 - Castor ![[green48.png\|green48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - McCoy's Belt ![[asteroid1.png]]
+# Planet 2 - McCoy's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Powell ![[gasg25.png]]
+# Planet 3 - Powell ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,14 +58,14 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Williams 1 (large)
-- ![[rock17.png]] Williams 2 (large)
-- ![[rock1.png]] Williams 3 (medium)
-- ![[rock7.png]] Williams 4 (medium)
-- ![[oddmoon1.png]] Williams 5 (medium)
+- ![[rock3.png\|rock3.png]] Williams 1 (large)
+- ![[rock17.png\|rock17.png]] Williams 2 (large)
+- ![[rock1.png\|rock1.png]] Williams 3 (medium)
+- ![[rock7.png\|rock7.png]] Williams 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Williams 5 (medium)
 
 
-# Planet 4 - Gallagher ![[gasg3.png]]
+# Planet 4 - Gallagher ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,14 +80,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Anatiwa 1 (large)
-- ![[oddmoon3.png]] Anatiwa 2 (medium)
-- ![[rock4.png]] Anatiwa 3 (medium)
-- ![[rock1.png]] Anatiwa 4 (medium)
-- ![[rock15.png]] Anatiwa 5 (medium)
+- ![[rock14.png\|rock14.png]] Anatiwa 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Anatiwa 2 (medium)
+- ![[rock4.png\|rock4.png]] Anatiwa 3 (medium)
+- ![[rock1.png\|rock1.png]] Anatiwa 4 (medium)
+- ![[rock15.png\|rock15.png]] Anatiwa 5 (medium)
 
 
-# Planet 5 - Sharples ![[gasg26.png]]
+# Planet 5 - Sharples ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,11 +102,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Dana (large)
-- ![[rock10.png]] Merlin (large)
+- ![[rock2.png\|rock2.png]] Dana (large)
+- ![[rock10.png\|rock10.png]] Merlin (large)
 
 
-# Planet 6 - Marinelarena's Hole ![[gasg19.png]]
+# Planet 6 - Marinelarena's Hole ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Chárvez ![[gasg24.png]]
+# Planet 7 - Chárvez ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,9 +138,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Chamblee (large)
+- [[rock17.png\|rock17.png]] Chamblee (large)
 
-# Planet 8 - Brown's Folly ![[gasg10.png]]
+# Planet 8 - Brown's Folly ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

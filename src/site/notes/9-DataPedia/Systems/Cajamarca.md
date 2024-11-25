@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cajamarca
-xcood: "-243.235"
-ycood: "-162.892"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cajamarca/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cajamarca
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | -243.235 |
+> | Y coord| -162.892 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Tapay ![[barren18.png]]
+# Planet 1 - Tapay ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cajamarca ![[green16.png]]
+# Planet 2 - Cajamarca ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,11 +47,11 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Rhea Silvia (medium)
-- ![[rock7.png]] Dies Pater (medium)
+- ![[rock4.png\|rock4.png]] Rhea Silvia (medium)
+- ![[rock7.png\|rock7.png]] Dies Pater (medium)
 
 
-# Planet 3 - Port Hernández ![[rock2.png]]
+# Planet 3 - Port Hernández ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yemaya ![[gasg3.png]]
+# Planet 4 - Yemaya ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Reyes ![[gasg34.png]]
+# Planet 5 - Reyes ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,14 +100,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Rodríguez 1 (large)
-- ![[rock10.png]] Rodríguez 2 (large)
-- ![[rock16.png]] Rodríguez 3 (large)
-- ![[rock13.png]] Rodríguez 4 (large)
-- ![[rock7.png]] Rodríguez 5 (medium)
+- ![[rock2.png\|rock2.png]] Rodríguez 1 (large)
+- ![[rock10.png\|rock10.png]] Rodríguez 2 (large)
+- ![[rock16.png\|rock16.png]] Rodríguez 3 (large)
+- ![[rock13.png\|rock13.png]] Rodríguez 4 (large)
+- ![[rock7.png\|rock7.png]] Rodríguez 5 (medium)
 
 
-# Planet 6 - Orixa ![[gasg9.png]]
+# Planet 6 - Orixa ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,9 +122,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Gutiérrez (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Gutiérrez (medium)
 
-# Planet 7 - Santiago De Chilcas ![[gasg23.png]]
+# Planet 7 - Santiago De Chilcas ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,9 +139,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Sraosa (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Sraosa (medium)
 
-# Planet 8 - Villarreal ![[iceg6.png]]
+# Planet 8 - Villarreal ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -161,9 +156,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Hurtado (medium)
+- [[rock17.png\|rock17.png]] Hurtado (medium)
 
-# Planet 9 - Nomós Irakleíou ![[gasg17.png]]
+# Planet 9 - Nomós Irakleíou ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,15 +173,15 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Feinblatt (giant)
-- ![[rock8.png]] Ramírez (giant)
-- ![[rock15.png]] Yoshida (large)
-- ![[rock2.png]] Pépez (large)
-- ![[rock12.png]] Rodríguez (medium)
-- ![[oddmoon3.png]] Zou (medium)
+- ![[rock1.png\|rock1.png]] Feinblatt (giant)
+- ![[rock8.png\|rock8.png]] Ramírez (giant)
+- ![[rock15.png\|rock15.png]] Yoshida (large)
+- ![[rock2.png\|rock2.png]] Pépez (large)
+- ![[rock12.png\|rock12.png]] Rodríguez (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Zou (medium)
 
 
-# Planet 10 - González ![[gasg38.png]]
+# Planet 10 - González ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -201,8 +196,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] RHK-1 (medium)
-- ![[oddmoon1.png]] RHK-2 (medium)
-- ![[rock3.png]] RHK-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] RHK-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] RHK-2 (medium)
+- ![[rock3.png\|rock3.png]] RHK-3 (medium)
 
 

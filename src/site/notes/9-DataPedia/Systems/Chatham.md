@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chatham
-xcood: "180.94"
-ycood: "250.168"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chatham/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chatham
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 180.94 |
+> | Y coord| 250.168 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Windemere ![[gasg32.png]]
+# Planet 1 - Windemere ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gettysburg ![[rock14.png]]
+# Planet 2 - Gettysburg ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chatham ![[green21.png]]
+# Planet 3 - Chatham ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,11 +63,11 @@ dg-publish: true
 
 The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon landing the taint of centuries of pollution combined with the planets native bacteria have created a taint to the atmosphere. Even with the tainted atmosphere the planet maintains a modest agricultural output. Chatham is a high-tech world moderately industrialized with hood industrial output. Due to the planets mostly self-sufficient resources its long been the home to the companies Tomori Trans Industrial, Wakazashi Enterprises, and Stellar Trek.
 
-- ![[rock16.png]] Barnstable (large)
-- ![[oddmoon1.png]] Medway (medium)
+- ![[rock16.png\|rock16.png]] Barnstable (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Medway (medium)
 
 
-# Planet 4 - Benbrook ![[iceg16.png]]
+# Planet 4 - Benbrook ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -87,11 +82,11 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-- ![[rock11.png]] EMS-1 (large)
-- ![[rock10.png]] EMS-2 (large)
+- ![[rock11.png\|rock11.png]] EMS-1 (large)
+- ![[rock10.png\|rock10.png]] EMS-2 (large)
 
 
-# Planet 5 - Robertson's Belt ![[asteroid1.png]]
+# Planet 5 - Robertson's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -103,7 +98,7 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-# Planet 6 - New Guardia Sanframon ![[gasg18.png]]
+# Planet 6 - New Guardia Sanframon ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -118,11 +113,11 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-- ![[rock17.png]] Saint-Cosme (large)
-- ![[rock1.png]] Hall (large)
+- ![[rock17.png\|rock17.png]] Saint-Cosme (large)
+- ![[rock1.png\|rock1.png]] Hall (large)
 
 
-# Planet 7 - Matthews's Harvest ![[gasg14.png]]
+# Planet 7 - Matthews's Harvest ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,9 +132,9 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-- [[rock14.png]] Warfield (giant)
+- [[rock14.png\|rock14.png]] Warfield (giant)
 
-# Planet 8 - West Heron Lake ![[iceg9.png]]
+# Planet 8 - West Heron Lake ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -156,7 +151,7 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-# Planet 9 - Geddes ![[iceg5.png]]
+# Planet 9 - Geddes ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -171,11 +166,11 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-- ![[rock7.png]] Ika Zuchi No Kami (large)
-- ![[rock2.png]] Susano Wu (large)
+- ![[rock7.png\|rock7.png]] Ika Zuchi No Kami (large)
+- ![[rock2.png\|rock2.png]] Susano Wu (large)
 
 
-# Planet 10 - North Annville ![[gasg20.png]]
+# Planet 10 - North Annville ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,9 +185,9 @@ The planet Chatham is a scenic world when seen from orbit. Unfortunately, upon l
 
 
 
-- ![[rock4.png]] Amathaon A (medium)
-- ![[rock15.png]] Amathaon B (medium)
-- ![[oddmoon1.png]] Amathaon C (medium)
-- ![[oddmoon3.png]] Amathaon D (medium)
+- ![[rock4.png\|rock4.png]] Amathaon A (medium)
+- ![[rock15.png\|rock15.png]] Amathaon B (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Amathaon C (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Amathaon D (medium)
 
 

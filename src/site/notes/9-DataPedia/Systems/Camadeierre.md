@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Camadeierre
-xcood: "217.73"
-ycood: "-401.501"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/camadeierre/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Camadeierre
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | 217.73 |
+> | Y coord| -401.501 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Wellston ![[barren16.png]]
+# Planet 1 - Wellston ![[barren16.png\|barren16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Itzgrund ![[barren9.png]]
+# Planet 2 - Itzgrund ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dimos Almyros ![[dry1.png]]
+# Planet 3 - Dimos Almyros ![[dry1.png\|dry1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Camadeierre ![[green9.png]]
+# Planet 4 - Camadeierre ![[green9.png\|green9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Soum ![[iceg5.png]]
+# Planet 5 - Soum ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -108,9 +103,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Sears (giant)
+- [[rock1.png\|rock1.png]] Sears (giant)
 
-# Planet 6 - Livera ![[iceg1.png]]
+# Planet 6 - Livera ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -125,12 +120,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] CT1 (large)
-- ![[rock12.png]] CT2 (large)
-- ![[rock4.png]] CT3 (large)
+- ![[rock14.png\|rock14.png]] CT1 (large)
+- ![[rock12.png\|rock12.png]] CT2 (large)
+- ![[rock4.png\|rock4.png]] CT3 (large)
 
 
-# Planet 7 - Dahme ![[gasg20.png]]
+# Planet 7 - Dahme ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,15 +140,15 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Hyperion (giant)
-- ![[rock5.png]] Oceanids (large)
-- ![[rock15.png]] Hyppolyte (large)
-- ![[rock16.png]] Theia (large)
-- ![[rock9.png]] Aellopos (large)
-- ![[rock3.png]] Kato (large)
+- ![[rock6.png\|rock6.png]] Hyperion (giant)
+- ![[rock5.png\|rock5.png]] Oceanids (large)
+- ![[rock15.png\|rock15.png]] Hyppolyte (large)
+- ![[rock16.png\|rock16.png]] Theia (large)
+- ![[rock9.png\|rock9.png]] Aellopos (large)
+- ![[rock3.png\|rock3.png]] Kato (large)
 
 
-# Planet 8 - Perkunas ![[gasg13.png]]
+# Planet 8 - Perkunas ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,11 +163,11 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Bodhisattva (giant)
-- ![[rock10.png]] Nirrita (medium)
+- ![[rock4.png\|rock4.png]] Bodhisattva (giant)
+- ![[rock10.png\|rock10.png]] Nirrita (medium)
 
 
-# Planet 9 - La Boumba-Ngoko ![[iceg16.png]]
+# Planet 9 - La Boumba-Ngoko ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -187,12 +182,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] 3C-1 (giant)
-- ![[rock2.png]] 3C-2 (giant)
-- ![[rock8.png]] 3C-3 (large)
+- ![[rock5.png\|rock5.png]] 3C-1 (giant)
+- ![[rock2.png\|rock2.png]] 3C-2 (giant)
+- ![[rock8.png\|rock8.png]] 3C-3 (large)
 
 
-# Planet 10 - Shahrestān-e Delfān ![[gasg23.png]]
+# Planet 10 - Shahrestān-e Delfān ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -207,12 +202,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Kapfenberg A (large)
-- ![[rock14.png]] Kapfenberg B (large)
-- ![[rock2.png]] Kapfenberg C (large)
+- ![[rock15.png\|rock15.png]] Kapfenberg A (large)
+- ![[rock14.png\|rock14.png]] Kapfenberg B (large)
+- ![[rock2.png\|rock2.png]] Kapfenberg C (large)
 
 
-# Planet 11 - Stewart ![[gasg18.png]]
+# Planet 11 - Stewart ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,5 +222,5 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Sahasadecha (large)
+- [[rock14.png\|rock14.png]] Sahasadecha (large)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cebalrai
-xcood: "-8.289"
-ycood: "119.379"
-spectralType: K2III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cebalrai/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cebalrai
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2III.png]] |
+> | X coord | -8.289 |
+> | Y coord| 119.379 |
+> | Spectral Type | K2III ![[K2III.png\|K2III.png]] |
 
-# Planet 1 - Huitaca ![[barren17.png]]
+# Planet 1 - Huitaca ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kururumany ![[greenhouse30.png]]
+# Planet 2 - Kururumany ![[greenhouse30.png\|greenhouse30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cebalrai ![[green39.png]]
+# Planet 3 - Cebalrai ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,9 +71,9 @@ As of the 32nd century, a monument to the Bears stands in the center of Kamrin t
 
 Cebalrai‘s capital city, New Wade, is located on the north polar continent of Sarrina, and is also home to the planet‘s single major spaceport. Lennori, the planet‘s other northern continent, is only habitable into its middle latitudes, as temperatures and other solar radiation hazards closer to the equatorial zones have rendered the southern reaches and the nearby equatorial continent of Hellesdon barren desert wastes.
 
-- [[rock15.png]] Yonas (large)
+- [[rock15.png\|rock15.png]] Yonas (large)
 
-# Planet 4 - Ellison's Belt I ![[asteroid1.png]]
+# Planet 4 - Ellison's Belt I ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -90,7 +85,7 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-# Planet 5 - Marerewana ![[gasg18.png]]
+# Planet 5 - Marerewana ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,11 +100,11 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-- ![[rock3.png]] Nodens (large)
-- ![[oddmoon1.png]] Anu (medium)
+- ![[rock3.png\|rock3.png]] Nodens (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Anu (medium)
 
 
-# Planet 6 - Huecuve ![[gasg28.png]]
+# Planet 6 - Huecuve ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,14 +119,14 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-- ![[rock3.png]] Taonouit (large)
-- ![[rock16.png]] Tane Mahuta (large)
-- ![[rock12.png]] Hina Ika (large)
-- ![[rock10.png]] Gogo (medium)
-- ![[rock17.png]] Loau (medium)
+- ![[rock3.png\|rock3.png]] Taonouit (large)
+- ![[rock16.png\|rock16.png]] Tane Mahuta (large)
+- ![[rock12.png\|rock12.png]] Hina Ika (large)
+- ![[rock10.png\|rock10.png]] Gogo (medium)
+- ![[rock17.png\|rock17.png]] Loau (medium)
 
 
-# Planet 7 - Huallallo ![[gasg10.png]]
+# Planet 7 - Huallallo ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,12 +141,12 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-- ![[oddmoon3.png]] Washington I (medium)
-- ![[rock2.png]] Washington II (medium)
-- ![[oddmoon1.png]] Washington III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Washington I (medium)
+- ![[rock2.png\|rock2.png]] Washington II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Washington III (medium)
 
 
-# Planet 8 - Ellison's Belt II ![[asteroid3.png]]
+# Planet 8 - Ellison's Belt II ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -163,7 +158,7 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-# Planet 9 - Ceucy ![[gasg24.png]]
+# Planet 9 - Ceucy ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,5 +173,5 @@ Cebalrai‘s capital city, New Wade, is located on the north polar continent of 
 
 
 
-- [[rock17.png]] Díaz (medium)
+- [[rock17.png\|rock17.png]] Díaz (medium)
 

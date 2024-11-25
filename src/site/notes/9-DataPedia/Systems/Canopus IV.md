@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Canopus IV
-xcood: "-147.166"
-ycood: "-394.997"
-spectralType: F5IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/canopus-iv/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Canopus IV
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5IV.png]] |
+> | X coord | -147.166 |
+> | Y coord| -394.997 |
+> | Spectral Type | F5IV ![[F5IV.png\|F5IV.png]] |
 
-# Planet 1 - Canopus I ![[iceg4.png]]
+# Planet 1 - Canopus I ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,13 +25,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Nevill (medium)
-- ![[rock2.png]] Oliver (medium)
-- ![[rock13.png]] Sanxter (medium)
-- ![[oddmoon2.png]] Decker (medium)
+- ![[rock8.png\|rock8.png]] Nevill (medium)
+- ![[rock2.png\|rock2.png]] Oliver (medium)
+- ![[rock13.png\|rock13.png]] Sanxter (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Decker (medium)
 
 
-# Planet 2 - Canopus II ![[rock14.png]]
+# Planet 2 - Canopus II ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Canopus III ![[gasg35.png]]
+# Planet 3 - Canopus III ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Canopus IV ![[green22.png]]
+# Planet 4 - Canopus IV ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -97,11 +92,11 @@ Manufacturing centers:
 Canopus Industries Alpha
 Majestic Metals and Manufacturing
 
-- ![[oddmoon2.png]] Cybele (medium)
-- ![[rock11.png]] Inanna (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cybele (medium)
+- ![[rock11.png\|rock11.png]] Inanna (medium)
 
 
-# Planet 5 - Canopus V ![[iceg8.png]]
+# Planet 5 - Canopus V ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -116,13 +111,13 @@ Majestic Metals and Manufacturing
 
 
 
-- ![[rock10.png]] Janus (large)
-- ![[rock12.png]] Iupiter (large)
-- ![[rock17.png]] Apocatequil (medium)
-- ![[rock4.png]] Jove (medium)
+- ![[rock10.png\|rock10.png]] Janus (large)
+- ![[rock12.png\|rock12.png]] Iupiter (large)
+- ![[rock17.png\|rock17.png]] Apocatequil (medium)
+- ![[rock4.png\|rock4.png]] Jove (medium)
 
 
-# Planet 6 - Canopus VI ![[gasg5.png]]
+# Planet 6 - Canopus VI ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,7 +134,7 @@ Majestic Metals and Manufacturing
 
 
 
-# Planet 7 - Canopus VII ![[gasg36.png]]
+# Planet 7 - Canopus VII ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -156,7 +151,7 @@ Majestic Metals and Manufacturing
 
 
 
-# Planet 8 - Canopus VIII ![[gasg1.png]]
+# Planet 8 - Canopus VIII ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,12 +166,12 @@ Majestic Metals and Manufacturing
 
 
 
-- ![[rock10.png]] WS1 (medium)
-- ![[oddmoon3.png]] WS2 (medium)
-- ![[oddmoon1.png]] WS3 (medium)
+- ![[rock10.png\|rock10.png]] WS1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] WS2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] WS3 (medium)
 
 
-# Planet 9 - Canopus IX ![[iceg12.png]]
+# Planet 9 - Canopus IX ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -191,12 +186,12 @@ Majestic Metals and Manufacturing
 
 
 
-- ![[rock2.png]] Ammon Ra (large)
-- ![[rock7.png]] Min (large)
-- ![[rock12.png]] K-1 (large)
+- ![[rock2.png\|rock2.png]] Ammon Ra (large)
+- ![[rock7.png\|rock7.png]] Min (large)
+- ![[rock12.png\|rock12.png]] K-1 (large)
 
 
-# Planet 10 - Canopus X ![[gasg16.png]]
+# Planet 10 - Canopus X ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,7 +206,7 @@ Majestic Metals and Manufacturing
 
 
 
-- ![[rock12.png]] X-1 (medium)
-- ![[oddmoon3.png]] X-2 (medium)
+- ![[rock12.png\|rock12.png]] X-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] X-2 (medium)
 
 

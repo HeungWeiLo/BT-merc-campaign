@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Buckminster
-xcood: "17.582"
-ycood: "154.653"
-spectralType: A9III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/buckminster/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Buckminster
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[A9III.png]] |
+> | X coord | 17.582 |
+> | Y coord| 154.653 |
+> | Spectral Type | A9III ![[A9III.png\|A9III.png]] |
 
-# Planet 1 - J1 ![[iceg14.png]]
+# Planet 1 - J1 ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,12 +25,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Whittle-le-Woods (giant)
-- ![[rock13.png]] Ferndale (large)
-- ![[rock3.png]] Sif (large)
+- ![[rock8.png\|rock8.png]] Whittle-le-Woods (giant)
+- ![[rock13.png\|rock13.png]] Ferndale (large)
+- ![[rock3.png\|rock3.png]] Sif (large)
 
 
-# Planet 2 - J2 ![[rock17.png]]
+# Planet 2 - J2 ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - J3 ![[greenhouse35.png]]
+# Planet 3 - J3 ![[greenhouse35.png\|greenhouse35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Lewis (medium)
+- [[rock16.png\|rock16.png]] Lewis (medium)
 
-# Planet 4 - J4 ![[barren13.png]]
+# Planet 4 - J4 ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - J5 ![[frozen62.png]]
+# Planet 5 - J5 ![[frozen62.png\|frozen62.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -106,12 +101,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Mildura Shire (medium)
-- ![[oddmoon3.png]] Bishopdale (medium)
-- ![[oddmoon2.png]] Loftus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mildura Shire (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Bishopdale (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Loftus (medium)
 
 
-# Planet 6 - Buckminster ![[green43.png]]
+# Planet 6 - Buckminster ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -130,9 +125,9 @@ dg-publish: true
 
 Buckminster is an agricultural world that is considered one the Draconis Combines' top producers of foodstuffs. The world is also a highly advanced and has moderate industry, mostly to support the planets agriculture. In 3005 the world became a prefecture capital. Prior to that the world enjoyed a good trading relationship with the Lyran world of Port Moseby. However, after becoming a capital Buckminster become a major command center for the region and the long-time home planet of the Second Sword of Light.  The increased presence of military forces on the world, and the exercises and training runs that they require, have begun to dramatically reduced the productivity of the farmland. This is starting to have an adverse impact on the planets economy. All of these changes to the world since 3005 have resulted in the creation of several covert and overt anti-Kurita groups.
 
-- [[rock11.png]] Geodesia (medium)
+- [[rock11.png\|rock11.png]] Geodesia (medium)
 
-# Planet 7 - J7 ![[gasg3.png]]
+# Planet 7 - J7 ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -149,7 +144,7 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-# Planet 8 - J8 ![[gasg32.png]]
+# Planet 8 - J8 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -164,12 +159,12 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-- ![[rock7.png]] Godden (giant)
-- ![[rock1.png]] Downes (large)
-- ![[rock5.png]] Quigley (large)
+- ![[rock7.png\|rock7.png]] Godden (giant)
+- ![[rock1.png\|rock1.png]] Downes (large)
+- ![[rock5.png\|rock5.png]] Quigley (large)
 
 
-# Planet 9 - J9 ![[gasg13.png]]
+# Planet 9 - J9 ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -184,11 +179,11 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-- ![[rock3.png]] Belinos (large)
-- ![[rock17.png]] Burrough (large)
+- ![[rock3.png\|rock3.png]] Belinos (large)
+- ![[rock17.png\|rock17.png]] Burrough (large)
 
 
-# Planet 10 - J10 ![[gasg21.png]]
+# Planet 10 - J10 ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,16 +198,16 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-- ![[rock15.png]] P-1 (large)
-- ![[rock17.png]] P-2 (large)
-- ![[rock8.png]] P-3 (large)
-- ![[rock9.png]] P-4 (large)
-- ![[rock14.png]] P-5 (large)
-- ![[rock10.png]] P-6 (medium)
-- ![[rock12.png]] P-7 (medium)
+- ![[rock15.png\|rock15.png]] P-1 (large)
+- ![[rock17.png\|rock17.png]] P-2 (large)
+- ![[rock8.png\|rock8.png]] P-3 (large)
+- ![[rock9.png\|rock9.png]] P-4 (large)
+- ![[rock14.png\|rock14.png]] P-5 (large)
+- ![[rock10.png\|rock10.png]] P-6 (medium)
+- ![[rock12.png\|rock12.png]] P-7 (medium)
 
 
-# Planet 11 - J11 ![[gasg2.png]]
+# Planet 11 - J11 ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,13 +222,13 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-- ![[rock15.png]] Hignell (medium)
-- ![[rock16.png]] Alker (medium)
-- ![[rock1.png]] Witheridge (medium)
-- ![[oddmoon3.png]] Duffy (medium)
+- ![[rock15.png\|rock15.png]] Hignell (medium)
+- ![[rock16.png\|rock16.png]] Alker (medium)
+- ![[rock1.png\|rock1.png]] Witheridge (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Duffy (medium)
 
 
-# Planet 12 - Newton Mulgrave Belt ![[asteroid3.png]]
+# Planet 12 - Newton Mulgrave Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -245,7 +240,7 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-# Planet 13 - J12 ![[iceg18.png]]
+# Planet 13 - J12 ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -260,9 +255,9 @@ Buckminster is an agricultural world that is considered one the Draconis Combine
 
 
 
-- ![[rock4.png]] Erebus 1 (large)
-- ![[rock14.png]] Erebus 2 (large)
-- ![[rock6.png]] Erebus 3 (medium)
-- ![[rock7.png]] Erebus 4 (medium)
+- ![[rock4.png\|rock4.png]] Erebus 1 (large)
+- ![[rock14.png\|rock14.png]] Erebus 2 (large)
+- ![[rock6.png\|rock6.png]] Erebus 3 (medium)
+- ![[rock7.png\|rock7.png]] Erebus 4 (medium)
 
 

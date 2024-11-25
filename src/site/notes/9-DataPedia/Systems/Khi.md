@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Khi
-xcood: "134.044"
-ycood: "-205.925"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/khi/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Khi
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | 134.044 |
+> | Y coord| -205.925 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Dera Allahyar ![[barren9.png]]
+# Planet 1 - Dera Allahyar ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Oued Guellat ![[gasg23.png]]
+# Planet 2 - Oued Guellat ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Khi ![[green6.png]]
+# Planet 3 - Khi ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Jam ![[iceg11.png]]
+# Planet 4 - Jam ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Gibbs ![[gasg27.png]]
+# Planet 5 - Gibbs ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,7 +115,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Hunza-Nagar ![[gasg18.png]]
+# Planet 6 - Hunza-Nagar ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,9 +133,9 @@ dg-publish: true
 3
 4
 
-- [[rock6.png]] 2V11 (large)
+- [[rock6.png\|rock6.png]] 2V11 (large)
 
-# Planet 7 - Hakro ![[iceg18.png]]
+# Planet 7 - Hakro ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -160,7 +155,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Chatha ![[gasg2.png]]
+# Planet 8 - Chatha ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,7 +175,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Bin Kadir's Planet ![[iceg14.png]]
+# Planet 9 - Bin Kadir's Planet ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -200,7 +195,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Kalat ![[gasg3.png]]
+# Planet 10 - Kalat ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -220,7 +215,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Khānewāl ![[gasg28.png]]
+# Planet 11 - Khānewāl ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -240,7 +235,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Pishin ![[gasg22.png]]
+# Planet 12 - Pishin ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

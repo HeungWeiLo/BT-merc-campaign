@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colchis
-xcood: "458.018"
-ycood: "-498.371"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colchis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colchis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | 458.018 |
+> | Y coord| -498.371 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Colchis ![[green46.png]]
+# Planet 1 - Colchis ![[green46.png\|green46.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Fowler ![[rock6.png]]
+# Planet 2 - Fowler ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Knapp's Plains ![[gasg16.png]]
+# Planet 3 - Knapp's Plains ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,13 +63,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Z1 (large)
-- ![[rock13.png]] Z2 (large)
-- ![[rock7.png]] Z3 (large)
-- ![[rock2.png]] Z4 (large)
+- ![[rock9.png\|rock9.png]] Z1 (large)
+- ![[rock13.png\|rock13.png]] Z2 (large)
+- ![[rock7.png\|rock7.png]] Z3 (large)
+- ![[rock2.png\|rock2.png]] Z4 (large)
 
 
-# Planet 4 - Symes's Flats ![[gasg27.png]]
+# Planet 4 - Symes's Flats ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Goðheimar ![[gasg28.png]]
+# Planet 5 - Goðheimar ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,12 +101,12 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] N-1 (medium)
-- ![[rock13.png]] N-2 (medium)
-- ![[oddmoon1.png]] N-3 (medium)
+- ![[rock11.png\|rock11.png]] N-1 (medium)
+- ![[rock13.png\|rock13.png]] N-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] N-3 (medium)
 
 
-# Planet 6 - Westoby ![[iceg19.png]]
+# Planet 6 - Westoby ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

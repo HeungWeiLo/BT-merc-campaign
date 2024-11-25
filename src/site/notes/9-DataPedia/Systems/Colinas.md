@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colinas
-xcood: "-157.399"
-ycood: "107.998"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colinas/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colinas
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -157.399 |
+> | Y coord| 107.998 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - San Carlos ![[greenhouse38.png]]
+# Planet 1 - San Carlos ![[greenhouse38.png\|greenhouse38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cipreses ![[rock8.png]]
+# Planet 2 - Cipreses ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Colinas ![[green5.png]]
+# Planet 3 - Colinas ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Fernández (large)
+- [[rock6.png\|rock6.png]] Fernández (large)
 
-# Planet 4 - Montes de Oro ![[gasg12.png]]
+# Planet 4 - Montes de Oro ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Todmorden ![[frozen19.png]]
+# Planet 5 - Todmorden ![[frozen19.png\|frozen19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Sabana Redonda ![[gasg9.png]]
+# Planet 6 - Sabana Redonda ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Nanna (large)
-- ![[rock3.png]] Tiamat (large)
+- ![[rock15.png\|rock15.png]] Nanna (large)
+- ![[rock3.png\|rock3.png]] Tiamat (large)
 
 

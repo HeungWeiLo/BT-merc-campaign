@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cerillos
-xcood: "-369.902"
-ycood: "-81.213"
-spectralType: G0III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cerillos/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cerillos
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0III.png]] |
+> | X coord | -369.902 |
+> | Y coord| -81.213 |
+> | Spectral Type | G0III ![[G0III.png\|G0III.png]] |
 
-# Planet 1 - El Loa ![[greenhouse5.png]]
+# Planet 1 - El Loa ![[greenhouse5.png\|greenhouse5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Maipo ![[gasg26.png]]
+# Planet 2 - Maipo ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cerillos ![[green30.png]]
+# Planet 3 - Cerillos ![[green30.png\|green30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,9 +66,9 @@ Cerillos is a dry and dusty world on the edge of the Free Worlds League. The pla
 
 Like the other Trinity worlds, Cerillos' primary industry is farming. Both agriculture and ranching are common on Cerillos, however the lack of wealth on the Trinity worlds makes military service both a likely and respected choice for the natives of the Trinity worlds.
 
-- [[rock2.png]] Blanca (large)
+- [[rock2.png\|rock2.png]] Blanca (large)
 
-# Planet 4 - Sedan ![[greenhouse18.png]]
+# Planet 4 - Sedan ![[greenhouse18.png\|greenhouse18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-# Planet 5 - Curanilahue ![[gasg4.png]]
+# Planet 5 - Curanilahue ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -106,12 +101,12 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[rock10.png]] Rusalky (large)
-- ![[rock17.png]] Peron (large)
-- ![[rock16.png]] Piorun (medium)
+- ![[rock10.png\|rock10.png]] Rusalky (large)
+- ![[rock17.png\|rock17.png]] Peron (large)
+- ![[rock16.png\|rock16.png]] Piorun (medium)
 
 
-# Planet 6 - San Javier ![[gasg16.png]]
+# Planet 6 - San Javier ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,11 +121,11 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[oddmoon3.png]] V1 (medium)
-- ![[rock8.png]] V2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] V1 (medium)
+- ![[rock8.png\|rock8.png]] V2 (medium)
 
 
-# Planet 7 - Collipulli ![[gasg14.png]]
+# Planet 7 - Collipulli ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,11 +140,11 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[rock14.png]] V1 (medium)
-- ![[oddmoon3.png]] V2 (medium)
+- ![[rock14.png\|rock14.png]] V1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] V2 (medium)
 
 
-# Planet 8 - Limarí ![[gasg28.png]]
+# Planet 8 - Limarí ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -164,12 +159,12 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[oddmoon3.png]] Peña (medium)
-- ![[oddmoon1.png]] López (medium)
-- ![[oddmoon2.png]] Høydahl (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Peña (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] López (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Høydahl (medium)
 
 
-# Planet 9 - Humbaba Belt ![[asteroid1.png]]
+# Planet 9 - Humbaba Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -181,7 +176,7 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-# Planet 10 - Porvenir ![[gasg15.png]]
+# Planet 10 - Porvenir ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,12 +191,12 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[rock7.png]] McKean (large)
-- ![[rock13.png]] Lonquimay (medium)
-- ![[rock3.png]] Pitrufquen (medium)
+- ![[rock7.png\|rock7.png]] McKean (large)
+- ![[rock13.png\|rock13.png]] Lonquimay (medium)
+- ![[rock3.png\|rock3.png]] Pitrufquen (medium)
 
 
-# Planet 11 - New Molina ![[gasg13.png]]
+# Planet 11 - New Molina ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -216,13 +211,13 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[rock13.png]] Jutas A (large)
-- ![[rock4.png]] Jutas B (large)
-- ![[rock2.png]] Jutas C (large)
-- ![[rock5.png]] Jutas D (large)
+- ![[rock13.png\|rock13.png]] Jutas A (large)
+- ![[rock4.png\|rock4.png]] Jutas B (large)
+- ![[rock2.png\|rock2.png]] Jutas C (large)
+- ![[rock5.png\|rock5.png]] Jutas D (large)
 
 
-# Planet 12 - Vallenar ![[gasg10.png]]
+# Planet 12 - Vallenar ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -237,12 +232,12 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 13 - Nueva Cisnes ![[gasg32.png]]
+# Planet 13 - Nueva Cisnes ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -257,16 +252,16 @@ Like the other Trinity worlds, Cerillos' primary industry is farming. Both agric
 
 
 
-- ![[rock8.png]] Manco Capac 1 (large)
-- ![[rock12.png]] Manco Capac 2 (large)
-- ![[rock11.png]] Manco Capac 3 (large)
-- ![[oddmoon1.png]] Manco Capac 4 (medium)
-- ![[rock15.png]] Manco Capac 5 (medium)
-- ![[rock14.png]] Manco Capac 6 (medium)
-- ![[oddmoon2.png]] Manco Capac 7 (medium)
+- ![[rock8.png\|rock8.png]] Manco Capac 1 (large)
+- ![[rock12.png\|rock12.png]] Manco Capac 2 (large)
+- ![[rock11.png\|rock11.png]] Manco Capac 3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Manco Capac 4 (medium)
+- ![[rock15.png\|rock15.png]] Manco Capac 5 (medium)
+- ![[rock14.png\|rock14.png]] Manco Capac 6 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Manco Capac 7 (medium)
 
 
-# Planet 14 - San Rafael ![[gasg23.png]]
+# Planet 14 - San Rafael ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

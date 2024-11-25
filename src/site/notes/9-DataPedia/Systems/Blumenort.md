@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Blumenort
-xcood: "-208.842"
-ycood: "296.446"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/blumenort/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Blumenort
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -208.842 |
+> | Y coord| 296.446 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Benandonner ![[gasg14.png]]
+# Planet 1 - Benandonner ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Finn Maccoul ![[greenhouse34.png]]
+# Planet 2 - Finn Maccoul ![[greenhouse34.png\|greenhouse34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Blumenort ![[green44.png]]
+# Planet 3 - Blumenort ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Beliticaurus ![[frozen34.png]]
+# Planet 4 - Beliticaurus ![[frozen34.png\|frozen34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Medb ![[frozen38.png]]
+# Planet 5 - Medb ![[frozen38.png\|frozen38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Morrigan's Rock ![[gasg6.png]]
+# Planet 6 - Morrigan's Rock ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Ana's Patch ![[iceg12.png]]
+# Planet 7 - Ana's Patch ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -143,12 +138,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Gelder I (medium)
-- ![[oddmoon3.png]] Gelder II (medium)
-- ![[rock15.png]] Gelder III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Gelder I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Gelder II (medium)
+- ![[rock15.png\|rock15.png]] Gelder III (medium)
 
 
-# Planet 8 - Monroe's Belt ![[asteroid2.png]]
+# Planet 8 - Monroe's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -160,7 +155,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Anu ![[gasg29.png]]
+# Planet 9 - Anu ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carbonis
-xcood: "-47.58"
-ycood: "-175.575"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carbonis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carbonis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | -47.58 |
+> | Y coord| -175.575 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Chávez's Rock ![[iceg5.png]]
+# Planet 1 - Chávez's Rock ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Lozoya (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Lozoya (medium)
 
-# Planet 2 - Carbonis ![[green23.png]]
+# Planet 2 - Carbonis ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-# Planet 3 - San Ildefonso ![[rock5.png]]
+# Planet 3 - San Ildefonso ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-# Planet 4 - Mayer's Run ![[rock16.png]]
+# Planet 4 - Mayer's Run ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -87,7 +82,7 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-# Planet 5 - Péta ![[frozen45.png]]
+# Planet 5 - Péta ![[frozen45.png\|frozen45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -107,7 +102,7 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-# Planet 6 - Arganda del Rey ![[gasg24.png]]
+# Planet 6 - Arganda del Rey ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,11 +117,11 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-- ![[oddmoon3.png]] Emperador (medium)
-- ![[oddmoon2.png]] JG1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Emperador (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] JG1 (medium)
 
 
-# Planet 7 - Peña's Ship ![[gasg10.png]]
+# Planet 7 - Peña's Ship ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,11 +136,11 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-- ![[rock4.png]] Tordera I (large)
-- ![[rock16.png]] Tordera II (large)
+- ![[rock4.png\|rock4.png]] Tordera I (large)
+- ![[rock16.png\|rock16.png]] Tordera II (large)
 
 
-# Planet 8 - Frahill's World ![[gasg19.png]]
+# Planet 8 - Frahill's World ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,7 +155,7 @@ Carbonis is a hut, tropical planet with modest natural resources and sufficient 
 
 
 
-- ![[rock11.png]] JV6-1 (large)
-- ![[rock8.png]] JV6-2 (large)
+- ![[rock11.png\|rock11.png]] JV6-1 (large)
+- ![[rock8.png\|rock8.png]] JV6-2 (large)
 
 

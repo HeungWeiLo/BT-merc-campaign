@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Colfax
-xcood: "-232.927"
-ycood: "-49.158"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/colfax/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Colfax
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | -232.927 |
+> | Y coord| -49.158 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Gurney ![[rock1.png]]
+# Planet 1 - Gurney ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hermelinghen ![[barren6.png]]
+# Planet 2 - Hermelinghen ![[barren6.png\|barren6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - New Newburyport ![[barren10.png]]
+# Planet 3 - New Newburyport ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -66,13 +61,13 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Bean Nighe 1 (large)
-- ![[oddmoon3.png]] Bean Nighe 2 (medium)
-- ![[oddmoon1.png]] Bean Nighe 3 (medium)
-- ![[rock3.png]] Bean Nighe 4 (medium)
+- ![[rock2.png\|rock2.png]] Bean Nighe 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Bean Nighe 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Bean Nighe 3 (medium)
+- ![[rock3.png\|rock3.png]] Bean Nighe 4 (medium)
 
 
-# Planet 4 - Colfax ![[green25.png]]
+# Planet 4 - Colfax ![[green25.png\|green25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ch'eng Huang Belt ![[asteroid3.png]]
+# Planet 5 - Ch'eng Huang Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Apple Valley ![[gasg2.png]]
+# Planet 6 - Apple Valley ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Talkington ![[iceg3.png]]
+# Planet 7 - Talkington ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -137,11 +132,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Hale (large)
-- ![[rock2.png]] Powell (large)
+- ![[rock15.png\|rock15.png]] Hale (large)
+- ![[rock2.png\|rock2.png]] Powell (large)
 
 
-# Planet 8 - La Crescent ![[gasg12.png]]
+# Planet 8 - La Crescent ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,11 +151,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Sara I (medium)
-- ![[rock4.png]] Sara II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sara I (medium)
+- ![[rock4.png\|rock4.png]] Sara II (medium)
 
 
-# Planet 9 - Saint Landry ![[gasg19.png]]
+# Planet 9 - Saint Landry ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,11 +170,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] MN1 (medium)
-- ![[rock12.png]] MN2 (medium)
+- ![[rock10.png\|rock10.png]] MN1 (medium)
+- ![[rock12.png\|rock12.png]] MN2 (medium)
 
 
-# Planet 10 - Blakeley ![[gasg24.png]]
+# Planet 10 - Blakeley ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -194,9 +189,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Dagdha (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Dagdha (medium)
 
-# Planet 11 - Williams's Belt ![[asteroid1.png]]
+# Planet 11 - Williams's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -208,7 +203,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Hurstbourne ![[gasg20.png]]
+# Planet 12 - Hurstbourne ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,11 +218,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Passaic A (medium)
-- ![[rock12.png]] Passaic B (medium)
+- ![[rock6.png\|rock6.png]] Passaic A (medium)
+- ![[rock12.png\|rock12.png]] Passaic B (medium)
 
 
-# Planet 13 - New Kenefick ![[gasg25.png]]
+# Planet 13 - New Kenefick ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -242,11 +237,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Sumeru (large)
-- ![[rock4.png]] Harihara (large)
+- ![[rock11.png\|rock11.png]] Sumeru (large)
+- ![[rock4.png\|rock4.png]] Harihara (large)
 
 
-# Planet 14 - Grifton ![[gasg36.png]]
+# Planet 14 - Grifton ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -261,5 +256,5 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Xin (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Xin (medium)
 

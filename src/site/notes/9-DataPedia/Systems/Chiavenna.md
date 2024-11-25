@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chiavenna
-xcood: "-380.518"
-ycood: "88.355"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chiavenna/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chiavenna
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | -380.518 |
+> | Y coord| 88.355 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Chiavenna ![[green6.png]]
+# Planet 1 - Chiavenna ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - D-1 ![[greenhouse41.png]]
+# Planet 2 - D-1 ![[greenhouse41.png\|greenhouse41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Belisama (large)
+- [[rock3.png\|rock3.png]] Belisama (large)
 
-# Planet 3 - Interlenghi ![[gasg1.png]]
+# Planet 3 - Interlenghi ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -69,11 +64,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] MA-1 (medium)
-- ![[rock1.png]] MA-2 (medium)
+- ![[rock17.png\|rock17.png]] MA-1 (medium)
+- ![[rock1.png\|rock1.png]] MA-2 (medium)
 
 
-# Planet 4 - Valkyries Belt ![[asteroid1.png]]
+# Planet 4 - Valkyries Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -85,7 +80,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Valdisotto ![[gasg24.png]]
+# Planet 5 - Valdisotto ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -100,14 +95,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Pilumnus A (large)
-- ![[rock8.png]] Pilumnus B (large)
-- ![[oddmoon3.png]] Pilumnus C (medium)
-- ![[rock14.png]] Pilumnus D (medium)
-- ![[oddmoon2.png]] Pilumnus E (medium)
+- ![[rock2.png\|rock2.png]] Pilumnus A (large)
+- ![[rock8.png\|rock8.png]] Pilumnus B (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Pilumnus C (medium)
+- ![[rock14.png\|rock14.png]] Pilumnus D (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Pilumnus E (medium)
 
 
-# Planet 6 - Gloria di Nieto ![[gasg8.png]]
+# Planet 6 - Gloria di Nieto ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

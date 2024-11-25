@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Candiear
-xcood: "-203.78"
-ycood: "-419.341"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/candiear/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Candiear
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | -203.78 |
+> | Y coord| -419.341 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Candiear ![[green4.png]]
+# Planet 1 - Candiear ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Timbo ![[iceg18.png]]
+# Planet 2 - Timbo ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Daniels A (medium)
-- ![[rock11.png]] Daniels B (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Daniels A (medium)
+- ![[rock11.png\|rock11.png]] Daniels B (medium)
 
 
-# Planet 3 - East Lansdowne ![[greenhouse5.png]]
+# Planet 3 - East Lansdowne ![[greenhouse5.png\|greenhouse5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yahweh ![[rock9.png]]
+# Planet 4 - Yahweh ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Lục Sơn ![[iceg9.png]]
+# Planet 5 - Lục Sơn ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Dodge ![[gasg24.png]]
+# Planet 6 - Dodge ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] PSY-1 (medium)
+- [[rock12.png\|rock12.png]] PSY-1 (medium)
 
-# Planet 7 - Nova Springvale ![[gasg14.png]]
+# Planet 7 - Nova Springvale ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,9 +136,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Williams (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Williams (medium)
 
-# Planet 8 - Mama Oullo Belt ![[asteroid1.png]]
+# Planet 8 - Mama Oullo Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

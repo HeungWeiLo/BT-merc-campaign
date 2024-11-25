@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cerulean
-xcood: "412.809"
-ycood: "-80.698"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cerulean/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cerulean
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 412.809 |
+> | Y coord| -80.698 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Port Richey ![[barren5.png]]
+# Planet 1 - Port Richey ![[barren5.png\|barren5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cerulean ![[green19.png]]
+# Planet 2 - Cerulean ![[green19.png\|green19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Torrance (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Torrance (medium)
 
-# Planet 3 - Poulan ![[rock5.png]]
+# Planet 3 - Poulan ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,9 +65,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Hahn (medium)
+- [[rock17.png\|rock17.png]] Hahn (medium)
 
-# Planet 4 - Cadott ![[barren10.png]]
+# Planet 4 - Cadott ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - New Pinel ![[gasg27.png]]
+# Planet 5 - New Pinel ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - KOF-1 Belt ![[asteroid1.png]]
+# Planet 6 - KOF-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -119,7 +114,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Fate ![[gasg17.png]]
+# Planet 7 - Fate ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,9 +129,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Ēostre (medium)
+- [[rock17.png\|rock17.png]] Ēostre (medium)
 
-# Planet 8 - Kirbyville ![[iceg7.png]]
+# Planet 8 - Kirbyville ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -151,12 +146,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] 2S81 (large)
-- ![[rock3.png]] 2S82 (large)
-- ![[rock4.png]] 2S83 (medium)
+- ![[rock8.png\|rock8.png]] 2S81 (large)
+- ![[rock3.png\|rock3.png]] 2S82 (large)
+- ![[rock4.png\|rock4.png]] 2S83 (medium)
 
 
-# Planet 9 - Champaign ![[gasg18.png]]
+# Planet 9 - Champaign ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,11 +166,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Ilmatar Alpha (large)
-- ![[rock16.png]] Ilmatar Beta (large)
+- ![[rock5.png\|rock5.png]] Ilmatar Alpha (large)
+- ![[rock16.png\|rock16.png]] Ilmatar Beta (large)
 
 
-# Planet 10 - Old Bridge ![[iceg5.png]]
+# Planet 10 - Old Bridge ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -190,13 +185,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Huber I (giant)
-- ![[rock11.png]] Huber II (giant)
-- ![[rock8.png]] Huber III (large)
-- ![[rock3.png]] Huber IV (large)
+- ![[rock13.png\|rock13.png]] Huber I (giant)
+- ![[rock11.png\|rock11.png]] Huber II (giant)
+- ![[rock8.png\|rock8.png]] Huber III (large)
+- ![[rock3.png\|rock3.png]] Huber IV (large)
 
 
-# Planet 11 - Oude IJsselstreek ![[gasg12.png]]
+# Planet 11 - Oude IJsselstreek ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,12 +206,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Brunnhilde I (medium)
-- ![[rock11.png]] Brunnhilde II (medium)
-- ![[oddmoon2.png]] Brunnhilde III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Brunnhilde I (medium)
+- ![[rock11.png\|rock11.png]] Brunnhilde II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Brunnhilde III (medium)
 
 
-# Planet 12 - Bascom's Planet ![[gasg23.png]]
+# Planet 12 - Bascom's Planet ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -233,7 +228,7 @@ dg-publish: true
 
 
 
-# Planet 13 - San Andrés y Sauces ![[gasg15.png]]
+# Planet 13 - San Andrés y Sauces ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -248,13 +243,13 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Wilson (large)
-- ![[rock1.png]] Hopkins (large)
-- ![[rock12.png]] Miller (large)
-- ![[rock14.png]] Lopter (large)
-- ![[rock13.png]] Loki Laufeyjarson (large)
-- ![[rock17.png]] Ragnarok (medium)
-- ![[oddmoon3.png]] Baldur (medium)
-- ![[rock3.png]] Robinson (medium)
+- ![[rock16.png\|rock16.png]] Wilson (large)
+- ![[rock1.png\|rock1.png]] Hopkins (large)
+- ![[rock12.png\|rock12.png]] Miller (large)
+- ![[rock14.png\|rock14.png]] Lopter (large)
+- ![[rock13.png\|rock13.png]] Loki Laufeyjarson (large)
+- ![[rock17.png\|rock17.png]] Ragnarok (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Baldur (medium)
+- ![[rock3.png\|rock3.png]] Robinson (medium)
 
 

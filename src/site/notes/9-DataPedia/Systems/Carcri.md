@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Carcri
-xcood: "701.769"
-ycood: "-110.366"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/carcri/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Carcri
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | 701.769 |
+> | Y coord| -110.366 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Panick's Choice ![[barren22.png]]
+# Planet 1 - Panick's Choice ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Junsom's Planet ![[gasg11.png]]
+# Planet 2 - Junsom's Planet ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Simon 1 (medium)
-- ![[oddmoon1.png]] Simon 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Simon 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Simon 2 (medium)
 
 
-# Planet 3 - Carcri ![[green45.png]]
+# Planet 3 - Carcri ![[green45.png\|green45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Gallagher's Planet ![[gasg18.png]]
+# Planet 4 - Gallagher's Planet ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,11 +83,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Min (medium)
-- ![[oddmoon2.png]] Tehuti (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Min (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tehuti (medium)
 
 
-# Planet 5 - Rabah's Belt ![[asteroid3.png]]
+# Planet 5 - Rabah's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Fosses-la-Ville ![[gasg34.png]]
+# Planet 6 - Fosses-la-Ville ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -119,12 +114,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Vesta 1 (medium)
-- ![[oddmoon2.png]] Vesta 2 (medium)
-- ![[rock9.png]] Vesta 3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Vesta 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Vesta 2 (medium)
+- ![[rock9.png\|rock9.png]] Vesta 3 (medium)
 
 
-# Planet 7 - Neith ![[gasg35.png]]
+# Planet 7 - Neith ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Hopkins's Folly ![[gasg20.png]]
+# Planet 8 - Hopkins's Folly ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,11 +151,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] B-1 (large)
-- ![[rock9.png]] B-2 (large)
+- ![[rock5.png\|rock5.png]] B-1 (large)
+- ![[rock9.png\|rock9.png]] B-2 (large)
 
 
-# Planet 9 - Shai ![[gasg10.png]]
+# Planet 9 - Shai ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,13 +170,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] P1 (medium)
-- ![[rock16.png]] P2 (medium)
-- ![[rock13.png]] P3 (medium)
-- ![[rock4.png]] P4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] P1 (medium)
+- ![[rock16.png\|rock16.png]] P2 (medium)
+- ![[rock13.png\|rock13.png]] P3 (medium)
+- ![[rock4.png\|rock4.png]] P4 (medium)
 
 
-# Planet 10 - Armborst's Belt ![[asteroid2.png]]
+# Planet 10 - Armborst's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

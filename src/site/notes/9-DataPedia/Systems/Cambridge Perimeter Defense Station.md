@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cambridge Perimeter Defense Station
-xcood: "-300.827"
-ycood: "640.81"
-spectralType: M7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cambridge-perimeter-defense-station/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cambridge Perimeter Defense Station
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M7V.png]] |
+> | X coord | -300.827 |
+> | Y coord| 640.81 |
+> | Spectral Type | M7V ![[M7V.png\|M7V.png]] |
 
-# Planet 1 - Cambridge Perimeter Defense Station ![[gasg35.png]]
+# Planet 1 - Cambridge Perimeter Defense Station ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] BR-1 (medium)
-- ![[rock17.png]] BR-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] BR-1 (medium)
+- ![[rock17.png\|rock17.png]] BR-2 (medium)
 
 
-# Planet 2 - D5J2 ![[gasg17.png]]
+# Planet 2 - D5J2 ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - KSK1 Belt ![[asteroid3.png]]
+# Planet 3 - KSK1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -63,7 +58,7 @@ dg-publish: true
 
 
 
-# Planet 4 - D5J3 ![[iceg4.png]]
+# Planet 4 - D5J3 ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -78,12 +73,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] C3-1 (large)
-- ![[rock10.png]] C3-2 (large)
-- ![[rock6.png]] C3-3 (large)
+- ![[rock16.png\|rock16.png]] C3-1 (large)
+- ![[rock10.png\|rock10.png]] C3-2 (large)
+- ![[rock6.png\|rock6.png]] C3-3 (large)
 
 
-# Planet 5 - D5J4 ![[gasg26.png]]
+# Planet 5 - D5J4 ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - D5J5 ![[gasg23.png]]
+# Planet 6 - D5J5 ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -117,7 +112,7 @@ dg-publish: true
 
 
 
-# Planet 7 - D5J6 ![[gasg2.png]]
+# Planet 7 - D5J6 ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -132,12 +127,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] QA-1 (giant)
-- ![[rock2.png]] QA-2 (large)
-- ![[rock8.png]] QA-3 (large)
+- ![[rock13.png\|rock13.png]] QA-1 (giant)
+- ![[rock2.png\|rock2.png]] QA-2 (large)
+- ![[rock8.png\|rock8.png]] QA-3 (large)
 
 
-# Planet 8 - D5J7 ![[gasg5.png]]
+# Planet 8 - D5J7 ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -152,13 +147,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] 2S1 (medium)
-- ![[oddmoon3.png]] 2S2 (medium)
-- ![[oddmoon2.png]] 2S3 (medium)
-- ![[oddmoon1.png]] 2S4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 2S1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 2S2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 2S3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 2S4 (medium)
 
 
-# Planet 9 - D5J8 ![[gasg18.png]]
+# Planet 9 - D5J8 ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

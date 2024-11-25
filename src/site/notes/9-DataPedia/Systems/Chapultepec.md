@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chapultepec
-xcood: "-240.361"
-ycood: "343.486"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chapultepec/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chapultepec
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -240.361 |
+> | Y coord| 343.486 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - MZ-1 ![[greenhouse7.png]]
+# Planet 1 - MZ-1 ![[greenhouse7.png\|greenhouse7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - MZ-2 ![[rock1.png]]
+# Planet 2 - MZ-2 ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chapultepec ![[green12.png]]
+# Planet 3 - Chapultepec ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - MZ-4 ![[greenhouse26.png]]
+# Planet 4 - MZ-4 ![[greenhouse26.png\|greenhouse26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - MZ-5 ![[rock1.png]]
+# Planet 5 - MZ-5 ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - MZ-6 ![[iceg13.png]]
+# Planet 6 - MZ-6 ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - MZ-7 ![[rock6.png]]
+# Planet 7 - MZ-7 ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

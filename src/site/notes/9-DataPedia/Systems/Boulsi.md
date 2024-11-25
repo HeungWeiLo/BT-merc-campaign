@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Boulsi
-xcood: "778.124"
-ycood: "189.993"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/boulsi/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Boulsi
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 778.124 |
+> | Y coord| 189.993 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Anansi ![[rock6.png]]
+# Planet 1 - Anansi ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Boulsi ![[green56.png]]
+# Planet 2 - Boulsi ![[green56.png\|green56.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ochosi ![[iceg17.png]]
+# Planet 3 - Ochosi ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yemaya ![[frozen29.png]]
+# Planet 4 - Yemaya ![[frozen29.png\|frozen29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ragnarok ![[gasg21.png]]
+# Planet 5 - Ragnarok ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,9 +100,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Ormizd (large)
+- [[rock17.png\|rock17.png]] Ormizd (large)
 
-# Planet 6 - Olòrún ![[gasg2.png]]
+# Planet 6 - Olòrún ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Oshanla ![[gasg29.png]]
+# Planet 7 - Oshanla ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,12 +134,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Xanthus Alpha (medium)
-- ![[oddmoon1.png]] Xanthus Beta (medium)
-- ![[oddmoon3.png]] Xanthus Gamma (medium)
+- ![[rock3.png\|rock3.png]] Xanthus Alpha (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Xanthus Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Xanthus Gamma (medium)
 
 
-# Planet 8 - Olurun ![[iceg9.png]]
+# Planet 8 - Olurun ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -159,8 +154,8 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Orisha I (large)
-- ![[rock14.png]] Orisha II (large)
-- ![[rock11.png]] Orisha III (medium)
+- ![[rock15.png\|rock15.png]] Orisha I (large)
+- ![[rock14.png\|rock14.png]] Orisha II (large)
+- ![[rock11.png\|rock11.png]] Orisha III (medium)
 
 

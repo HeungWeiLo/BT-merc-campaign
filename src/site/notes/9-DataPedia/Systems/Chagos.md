@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chagos
-xcood: "-263.651"
-ycood: "-226.229"
-spectralType: F3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chagos/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chagos
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F3V.png]] |
+> | X coord | -263.651 |
+> | Y coord| -226.229 |
+> | Spectral Type | F3V ![[F3V.png\|F3V.png]] |
 
-# Planet 1 - Volos ![[greenhouse38.png]]
+# Planet 1 - Volos ![[greenhouse38.png\|greenhouse38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Czernobog ![[gasg22.png]]
+# Planet 2 - Czernobog ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] 4HZ1 (medium)
-- ![[oddmoon3.png]] 4HZ2 (medium)
+- ![[rock1.png\|rock1.png]] 4HZ1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 4HZ2 (medium)
 
 
-# Planet 3 - Alkonost ![[rock4.png]]
+# Planet 3 - Alkonost ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Chagos ![[green47.png]]
+# Planet 4 - Chagos ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Mikula Selianinovich ![[barren7.png]]
+# Planet 5 - Mikula Selianinovich ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Erilo ![[iceg8.png]]
+# Planet 6 - Erilo ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

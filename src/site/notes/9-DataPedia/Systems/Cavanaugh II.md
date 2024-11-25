@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cavanaugh II
-xcood: "-307.125"
-ycood: "-52.558"
-spectralType: M9II
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cavanaugh-ii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cavanaugh II
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M9II.png]] |
+> | X coord | -307.125 |
+> | Y coord| -52.558 |
+> | Spectral Type | M9II ![[M9II.png\|M9II.png]] |
 
-# Planet 1 - Cavanaugh I ![[greenhouse17.png]]
+# Planet 1 - Cavanaugh I ![[greenhouse17.png\|greenhouse17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cavanaugh II ![[iceg10.png]]
+# Planet 2 - Cavanaugh II ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -50,9 +45,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Shichi Fuku Jin (giant)
+- [[rock14.png\|rock14.png]] Shichi Fuku Jin (giant)
 
-# Planet 3 - Cavanaugh III ![[rock4.png]]
+# Planet 3 - Cavanaugh III ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Cavanaugh II ![[wet9.png]]
+# Planet 4 - Cavanaugh II ![[wet9.png\|wet9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,13 +85,13 @@ Cavanaugh II has a warm climate with fertile soil and as a result the planet is 
 
 Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
-- ![[rock9.png]] Cambriae (giant)
-- ![[rock15.png]] Gododin (large)
-- ![[rock13.png]] Nannius (large)
-- ![[rock1.png]] Tennyson (medium)
+- ![[rock9.png\|rock9.png]] Cambriae (giant)
+- ![[rock15.png\|rock15.png]] Gododin (large)
+- ![[rock13.png\|rock13.png]] Nannius (large)
+- ![[rock1.png\|rock1.png]] Tennyson (medium)
 
 
-# Planet 5 - Cavanaugh V ![[iceg3.png]]
+# Planet 5 - Cavanaugh V ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -111,13 +106,13 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock14.png]] O6Y-1 (large)
-- ![[rock5.png]] O6Y-2 (large)
-- ![[rock4.png]] O6Y-3 (large)
-- ![[rock17.png]] O6Y-4 (medium)
+- ![[rock14.png\|rock14.png]] O6Y-1 (large)
+- ![[rock5.png\|rock5.png]] O6Y-2 (large)
+- ![[rock4.png\|rock4.png]] O6Y-3 (large)
+- ![[rock17.png\|rock17.png]] O6Y-4 (medium)
 
 
-# Planet 6 - Cavanaugh VI ![[rock8.png]]
+# Planet 6 - Cavanaugh VI ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -135,7 +130,7 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-# Planet 7 - Cavanaugh VII ![[iceg8.png]]
+# Planet 7 - Cavanaugh VII ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -150,15 +145,15 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock7.png]] Burton A (large)
-- ![[rock1.png]] Burton B (large)
-- ![[rock5.png]] Burton C (large)
-- ![[oddmoon3.png]] Burton D (medium)
-- ![[rock16.png]] Burton E (medium)
-- ![[rock13.png]] Burton F (medium)
+- ![[rock7.png\|rock7.png]] Burton A (large)
+- ![[rock1.png\|rock1.png]] Burton B (large)
+- ![[rock5.png\|rock5.png]] Burton C (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Burton D (medium)
+- ![[rock16.png\|rock16.png]] Burton E (medium)
+- ![[rock13.png\|rock13.png]] Burton F (medium)
 
 
-# Planet 8 - Cavanaugh VIII ![[gasg27.png]]
+# Planet 8 - Cavanaugh VIII ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -173,11 +168,11 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock15.png]] Fuamnach 1 (large)
-- ![[rock11.png]] Fuamnach 2 (large)
+- ![[rock15.png\|rock15.png]] Fuamnach 1 (large)
+- ![[rock11.png\|rock11.png]] Fuamnach 2 (large)
 
 
-# Planet 9 - Cavanaugh IX ![[gasg13.png]]
+# Planet 9 - Cavanaugh IX ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -192,14 +187,14 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock9.png]] Tārakā (large)
-- ![[rock3.png]] Draupathi (large)
-- ![[rock11.png]] Goodman (large)
-- ![[rock16.png]] Surya (large)
-- ![[rock2.png]] Lakshmana (large)
+- ![[rock9.png\|rock9.png]] Tārakā (large)
+- ![[rock3.png\|rock3.png]] Draupathi (large)
+- ![[rock11.png\|rock11.png]] Goodman (large)
+- ![[rock16.png\|rock16.png]] Surya (large)
+- ![[rock2.png\|rock2.png]] Lakshmana (large)
 
 
-# Planet 10 - Cavanaugh X ![[gasg20.png]]
+# Planet 10 - Cavanaugh X ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -214,11 +209,11 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[oddmoon3.png]] Amrita (medium)
-- ![[oddmoon1.png]] Shiva (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Amrita (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Shiva (medium)
 
 
-# Planet 11 - Cavanaugh XI ![[gasg33.png]]
+# Planet 11 - Cavanaugh XI ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -233,12 +228,12 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock8.png]] Grangeio (medium)
-- ![[oddmoon3.png]] Canoa (medium)
-- ![[oddmoon1.png]] Steed (medium)
+- ![[rock8.png\|rock8.png]] Grangeio (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Canoa (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Steed (medium)
 
 
-# Planet 12 - Cavanaugh XII ![[gasg4.png]]
+# Planet 12 - Cavanaugh XII ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -253,11 +248,11 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock5.png]] Morel (large)
-- ![[rock6.png]] Dazhbog (large)
+- ![[rock5.png\|rock5.png]] Morel (large)
+- ![[rock6.png\|rock6.png]] Dazhbog (large)
 
 
-# Planet 13 - Cavanaugh XIII ![[gasg22.png]]
+# Planet 13 - Cavanaugh XIII ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -272,14 +267,14 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock1.png]] Hunhau 1 (large)
-- ![[rock17.png]] Hunhau 2 (large)
-- ![[rock3.png]] Hunhau 3 (medium)
-- ![[rock7.png]] Hunhau 4 (medium)
-- ![[oddmoon3.png]] Hunhau 5 (medium)
+- ![[rock1.png\|rock1.png]] Hunhau 1 (large)
+- ![[rock17.png\|rock17.png]] Hunhau 2 (large)
+- ![[rock3.png\|rock3.png]] Hunhau 3 (medium)
+- ![[rock7.png\|rock7.png]] Hunhau 4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hunhau 5 (medium)
 
 
-# Planet 14 - Cavanaugh XIV ![[gasg9.png]]
+# Planet 14 - Cavanaugh XIV ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -294,9 +289,9 @@ Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
 
 
 
-- ![[rock10.png]] Dunnellon I (giant)
-- ![[rock2.png]] Dunnellon II (medium)
-- ![[oddmoon1.png]] Dunnellon III (medium)
-- ![[oddmoon2.png]] Dunnellon IV (medium)
+- ![[rock10.png\|rock10.png]] Dunnellon I (giant)
+- ![[rock2.png\|rock2.png]] Dunnellon II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dunnellon III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dunnellon IV (medium)
 
 

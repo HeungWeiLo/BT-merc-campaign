@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bluford
-xcood: "447.44"
-ycood: "-80.182"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bluford/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bluford
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | 447.44 |
+> | Y coord| -80.182 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Huanca ![[rock1.png]]
+# Planet 1 - Huanca ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ataguchu ![[greenhouse4.png]]
+# Planet 2 - Ataguchu ![[greenhouse4.png\|greenhouse4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Bluford ![[green2.png]]
+# Planet 3 - Bluford ![[green2.png\|green2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Lake Charles ![[frozen10.png]]
+# Planet 4 - Lake Charles ![[frozen10.png\|frozen10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,9 +84,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Istar (large)
+- [[rock13.png\|rock13.png]] Istar (large)
 
-# Planet 5 - Waddington ![[gasg14.png]]
+# Planet 5 - Waddington ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,12 +101,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Coblan 1 (large)
-- ![[rock7.png]] Coblan 2 (large)
-- ![[rock17.png]] Coblan 3 (large)
+- ![[rock15.png\|rock15.png]] Coblan 1 (large)
+- ![[rock7.png\|rock7.png]] Coblan 2 (large)
+- ![[rock17.png\|rock17.png]] Coblan 3 (large)
 
 
-# Planet 6 - Aysén ![[gasg15.png]]
+# Planet 6 - Aysén ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,9 +121,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] 8J1 (large)
+- [[rock5.png\|rock5.png]] 8J1 (large)
 
-# Planet 7 - New Caesar Creek ![[iceg3.png]]
+# Planet 7 - New Caesar Creek ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -143,9 +138,9 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Carter I (medium)
-- ![[oddmoon3.png]] Carter II (medium)
-- ![[rock10.png]] Carter III (medium)
-- ![[oddmoon2.png]] Carter IV (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Carter I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Carter II (medium)
+- ![[rock10.png\|rock10.png]] Carter III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Carter IV (medium)
 
 

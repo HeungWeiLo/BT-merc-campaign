@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bossangoa
-xcood: "731.853"
-ycood: "277.423"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bossangoa/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bossangoa
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 731.853 |
+> | Y coord| 277.423 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Þonar ![[gasg34.png]]
+# Planet 1 - Þonar ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Ségard (medium)
-- ![[rock16.png]] Dickson (medium)
+- ![[rock9.png\|rock9.png]] Ségard (medium)
+- ![[rock16.png\|rock16.png]] Dickson (medium)
 
 
-# Planet 2 - Thunor ![[rock14.png]]
+# Planet 2 - Thunor ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Pertch's Home ![[gasg21.png]]
+# Planet 3 - Pertch's Home ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -66,11 +61,11 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] U1 (large)
-- ![[rock4.png]] U2 (large)
+- ![[rock1.png\|rock1.png]] U1 (large)
+- ![[rock4.png\|rock4.png]] U2 (large)
 
 
-# Planet 4 - Bossangoa ![[green25.png]]
+# Planet 4 - Bossangoa ![[green25.png\|green25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Eostre ![[frozen48.png]]
+# Planet 5 - Eostre ![[frozen48.png\|frozen48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,9 +104,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Lopti (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Lopti (medium)
 
-# Planet 6 - Rheda ![[rock5.png]]
+# Planet 6 - Rheda ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Ēostre ![[barren9.png]]
+# Planet 7 - Ēostre ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -144,9 +139,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Régnier (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Régnier (medium)
 
-# Planet 8 - Woden ![[gasg3.png]]
+# Planet 8 - Woden ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bothwell
-xcood: "482.576"
-ycood: "23.941"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bothwell/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bothwell
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 482.576 |
+> | Y coord| 23.941 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Ballarat North ![[iceg19.png]]
+# Planet 1 - Ballarat North ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Bothwell ![[green55.png]]
+# Planet 2 - Bothwell ![[green55.png\|green55.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] 8C1 (medium)
+- [[rock5.png\|rock5.png]] 8C1 (medium)
 
-# Planet 3 - Broderick's Belt ![[asteroid3.png]]
+# Planet 3 - Broderick's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Smith's Planet ![[gasg33.png]]
+# Planet 4 - Smith's Planet ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,14 +75,14 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Messiah (large)
-- ![[rock15.png]] Old Nick (large)
-- ![[rock12.png]] Nin Lil (medium)
-- ![[rock16.png]] Eddie (medium)
-- ![[rock5.png]] Ashtoreth (medium)
+- ![[rock4.png\|rock4.png]] Messiah (large)
+- ![[rock15.png\|rock15.png]] Old Nick (large)
+- ![[rock12.png\|rock12.png]] Nin Lil (medium)
+- ![[rock16.png\|rock16.png]] Eddie (medium)
+- ![[rock5.png\|rock5.png]] Ashtoreth (medium)
 
 
-# Planet 5 - Fields's Belt ![[asteroid1.png]]
+# Planet 5 - Fields's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Mottershead ![[gasg25.png]]
+# Planet 6 - Mottershead ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Colcheeper's Belt ![[asteroid2.png]]
+# Planet 7 - Colcheeper's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Meza's Mistake ![[gasg32.png]]
+# Planet 8 - Meza's Mistake ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,11 +138,11 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Kauko (medium)
-- ![[oddmoon3.png]] Marjatta (medium)
+- ![[rock11.png\|rock11.png]] Kauko (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Marjatta (medium)
 
 
-# Planet 9 - Holbrook's Stand ![[gasg24.png]]
+# Planet 9 - Holbrook's Stand ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,12 +157,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] PE-1 (large)
-- ![[rock7.png]] PE-2 (large)
-- ![[rock14.png]] PE-3 (large)
-- ![[oddmoon2.png]] PE-4 (medium)
-- ![[rock8.png]] PE-5 (medium)
-- ![[oddmoon1.png]] PE-6 (medium)
-- ![[rock4.png]] PE-7 (medium)
+- ![[rock17.png\|rock17.png]] PE-1 (large)
+- ![[rock7.png\|rock7.png]] PE-2 (large)
+- ![[rock14.png\|rock14.png]] PE-3 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] PE-4 (medium)
+- ![[rock8.png\|rock8.png]] PE-5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] PE-6 (medium)
+- ![[rock4.png\|rock4.png]] PE-7 (medium)
 
 

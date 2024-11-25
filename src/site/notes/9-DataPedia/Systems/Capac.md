@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Capac
-xcood: "310.184"
-ycood: "-56.394"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/capac/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Capac
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 310.184 |
+> | Y coord| -56.394 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - New Fox Lake ![[barren22.png]]
+# Planet 1 - New Fox Lake ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lasher's Nest ![[rock1.png]]
+# Planet 2 - Lasher's Nest ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Capac ![[green16.png]]
+# Planet 3 - Capac ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Médéa ![[rock5.png]]
+# Planet 4 - Médéa ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Smith's Square ![[rock13.png]]
+# Planet 5 - Smith's Square ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Kragnes ![[gasg21.png]]
+# Planet 6 - Kragnes ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Becker ![[gasg9.png]]
+# Planet 7 - Becker ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,9 +132,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] James (large)
+- [[rock14.png\|rock14.png]] James (large)
 
-# Planet 8 - B-1 Belt ![[asteroid1.png]]
+# Planet 8 - B-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

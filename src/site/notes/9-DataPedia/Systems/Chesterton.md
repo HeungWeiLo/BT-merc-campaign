@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chesterton
-xcood: "115.619"
-ycood: "-71.037"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chesterton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chesterton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 115.619 |
+> | Y coord| -71.037 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Lono ![[barren6.png]]
+# Planet 1 - Lono ![[barren6.png\|barren6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ala Muki ![[iceg13.png]]
+# Planet 2 - Ala Muki ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] K-1 (medium)
-- ![[rock17.png]] K-2 (medium)
-- ![[rock11.png]] K-3 (medium)
+- ![[rock14.png\|rock14.png]] K-1 (medium)
+- ![[rock17.png\|rock17.png]] K-2 (medium)
+- ![[rock11.png\|rock11.png]] K-3 (medium)
 
 
-# Planet 3 - Unihi Pili ![[badwater15.png]]
+# Planet 3 - Unihi Pili ![[badwater15.png\|badwater15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Haumietiketike ![[rock8.png]]
+# Planet 4 - Haumietiketike ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Chesterton ![[wet16.png]]
+# Planet 5 - Chesterton ![[wet16.png\|wet16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,14 +104,14 @@ dg-publish: true
 
 Chesterton is a cool-temperate planet with above average resources and a wide industrial base. Unfortunately this has caused problems for the planet due to the location on the Federated Suns’ border with the Capellan Confederation. Regular raids and invasions did significant damage to Chesterton’s population, infrastructure, and manufacturing during the Succession Wars. However, the planet was able to begin recovery after the 4th Succession War and by the late 3060s the planet was nearly restored to its former glory.
 
-- ![[oddmoon2.png]] Angela (medium)
-- ![[rock12.png]] Iannius (giant)
-- ![[rock9.png]] Moira (medium)
-- ![[rock2.png]] Nochus (medium)
-- ![[oddmoon3.png]] Willus (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Angela (medium)
+- ![[rock12.png\|rock12.png]] Iannius (giant)
+- ![[rock9.png\|rock9.png]] Moira (medium)
+- ![[rock2.png\|rock2.png]] Nochus (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Willus (medium)
 
 
-# Planet 6 - Melton's Ship ![[iceg18.png]]
+# Planet 6 - Melton's Ship ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -131,13 +126,13 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock2.png]] Torres Alpha (large)
-- ![[rock4.png]] Torres Beta (large)
-- ![[oddmoon1.png]] Torres Gamma (medium)
-- ![[rock6.png]] Torres Delta (medium)
+- ![[rock2.png\|rock2.png]] Torres Alpha (large)
+- ![[rock4.png\|rock4.png]] Torres Beta (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Torres Gamma (medium)
+- ![[rock6.png\|rock6.png]] Torres Delta (medium)
 
 
-# Planet 7 - Tu Matavenga's Frontier ![[gasg2.png]]
+# Planet 7 - Tu Matavenga's Frontier ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,7 +149,7 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-# Planet 8 - Hinetitama ![[gasg33.png]]
+# Planet 8 - Hinetitama ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,15 +164,15 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock11.png]] Thomas (large)
-- ![[rock13.png]] Johnson (large)
-- ![[rock6.png]] Adamanthea (large)
-- ![[rock10.png]] Arachne (large)
-- ![[rock17.png]] Sanders (large)
-- ![[rock16.png]] Astraeus (medium)
+- ![[rock11.png\|rock11.png]] Thomas (large)
+- ![[rock13.png\|rock13.png]] Johnson (large)
+- ![[rock6.png\|rock6.png]] Adamanthea (large)
+- ![[rock10.png\|rock10.png]] Arachne (large)
+- ![[rock17.png\|rock17.png]] Sanders (large)
+- ![[rock16.png\|rock16.png]] Astraeus (medium)
 
 
-# Planet 9 - Ramsey ![[gasg38.png]]
+# Planet 9 - Ramsey ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -192,11 +187,11 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock14.png]] Opet (large)
-- ![[rock13.png]] Banebdedet (large)
+- ![[rock14.png\|rock14.png]] Opet (large)
+- ![[rock13.png\|rock13.png]] Banebdedet (large)
 
 
-# Planet 10 - Bird Man ![[gasg4.png]]
+# Planet 10 - Bird Man ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,9 +206,9 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- [[rock10.png]] Watson (large)
+- [[rock10.png\|rock10.png]] Watson (large)
 
-# Planet 11 - Nishiyama's Gulf ![[gasg34.png]]
+# Planet 11 - Nishiyama's Gulf ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -228,12 +223,12 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock16.png]] Boma 1 (large)
-- ![[rock11.png]] Boma 2 (large)
-- ![[rock5.png]] Boma 3 (medium)
+- ![[rock16.png\|rock16.png]] Boma 1 (large)
+- ![[rock11.png\|rock11.png]] Boma 2 (large)
+- ![[rock5.png\|rock5.png]] Boma 3 (medium)
 
 
-# Planet 12 - Browning ![[gasg9.png]]
+# Planet 12 - Browning ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -248,12 +243,12 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock11.png]] Martin (medium)
-- ![[rock10.png]] Hill (medium)
-- ![[rock2.png]] O'Slattery (medium)
+- ![[rock11.png\|rock11.png]] Martin (medium)
+- ![[rock10.png\|rock10.png]] Hill (medium)
+- ![[rock2.png\|rock2.png]] O'Slattery (medium)
 
 
-# Planet 13 - Pele ![[iceg2.png]]
+# Planet 13 - Pele ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -268,14 +263,14 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[rock11.png]] Skili (giant)
-- ![[rock10.png]] Ahayuta (giant)
-- ![[rock6.png]] Maheo (large)
-- ![[rock14.png]] Nuliajuk (large)
-- ![[rock7.png]] Gendenwitha (large)
+- ![[rock11.png\|rock11.png]] Skili (giant)
+- ![[rock10.png\|rock10.png]] Ahayuta (giant)
+- ![[rock6.png\|rock6.png]] Maheo (large)
+- ![[rock14.png\|rock14.png]] Nuliajuk (large)
+- ![[rock7.png\|rock7.png]] Gendenwitha (large)
 
 
-# Planet 14 - Thomas's Dawn ![[gasg29.png]]
+# Planet 14 - Thomas's Dawn ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -290,9 +285,9 @@ Chesterton is a cool-temperate planet with above average resources and a wide in
 
 
 
-- ![[oddmoon3.png]] Rhea Silvia (medium)
-- ![[rock7.png]] Sterquilinus (medium)
-- ![[rock15.png]] Robigus (medium)
-- ![[oddmoon1.png]] Mars (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rhea Silvia (medium)
+- ![[rock7.png\|rock7.png]] Sterquilinus (medium)
+- ![[rock15.png\|rock15.png]] Robigus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mars (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Bryant
-xcood: "13.177"
-ycood: "-13.229"
-spectralType: F5IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/bryant/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Bryant
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5IV.png]] |
+> | X coord | 13.177 |
+> | Y coord| -13.229 |
+> | Spectral Type | F5IV ![[F5IV.png\|F5IV.png]] |
 
-# Planet 1 - Raiju ![[barren12.png]]
+# Planet 1 - Raiju ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] CN61 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] CN61 (medium)
 
-# Planet 2 - Hiko Hohodemi's End ![[greenhouse9.png]]
+# Planet 2 - Hiko Hohodemi's End ![[greenhouse9.png\|greenhouse9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Kosensei's Retreat ![[rock10.png]]
+# Planet 3 - Kosensei's Retreat ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bryant ![[green24.png]]
+# Planet 4 - Bryant ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,12 +82,12 @@ dg-publish: true
 
 A world of violent storms, first colonized in the twenty-second century by the Terran Hegemony to exploit its chemical and mechanical resources, fertile soils, and deep seas, Bryant‘s early colonists kept close to the polar regions, where the weather was calmer. In the days of the Star League, a series of storm inhibitors were used to negate much of the fury of severe weather systems by focusing solar radiation on the storms as they gathered over the planet‘s oceans. This innovation made possible the colonization of Bryant‘s lower latitudes, but during the Amaris crisis and the Succession Wars most of these storm inhibitors were destroyed. The populace was driven back to the calmer Polar Regions once more, leaving behind entire Star League-era cities, rumored to still contain the treasures of mankind‘s Golden Age, even today. The Capellan Confederation, which inherited Bryant after the League‘s fall, used it as a prison planet for a few decades before the Federated Suns took the world in the Fourth Succession War. During the Jihad, the Word of Blake used Bryant as a staging ground for strikes against nearby worlds, using some of the more marginal settlements on the edges of the stormy zones for their on-planet outposts. Today, Bryant‘s population remains confined to the polar continents of Altario in the north and Zephyrim in the south, which is also home to the planetary capital of Brein. The larger landmasses of Voltanasia and Tomainisia, which both cross the equatorial region of Bryant, are home now only to empty Star League-era cities, former Capellan maximum-security prisons, and the planet‘s hardier native flora and fauna.
 
-- ![[rock14.png]] Jarra (large)
-- ![[rock12.png]] Sennu (large)
-- ![[oddmoon2.png]] Summersdale (medium)
+- ![[rock14.png\|rock14.png]] Jarra (large)
+- ![[rock12.png\|rock12.png]] Sennu (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Summersdale (medium)
 
 
-# Planet 5 - Benzai ![[rock7.png]]
+# Planet 5 - Benzai ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -109,7 +104,7 @@ A world of violent storms, first colonized in the twenty-second century by the T
 
 
 
-# Planet 6 - Susano Wu ![[rock5.png]]
+# Planet 6 - Susano Wu ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ A world of violent storms, first colonized in the twenty-second century by the T
 
 
 
-# Planet 7 - Bishamon ![[rock15.png]]
+# Planet 7 - Bishamon ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -144,7 +139,7 @@ A world of violent storms, first colonized in the twenty-second century by the T
 
 
 
-# Planet 8 - Jimmu Teno ![[iceg10.png]]
+# Planet 8 - Jimmu Teno ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -159,12 +154,12 @@ A world of violent storms, first colonized in the twenty-second century by the T
 
 
 
-- ![[rock15.png]] J1 (medium)
-- ![[oddmoon2.png]] J2 (medium)
-- ![[rock13.png]] J3 (medium)
+- ![[rock15.png\|rock15.png]] J1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] J2 (medium)
+- ![[rock13.png\|rock13.png]] J3 (medium)
 
 
-# Planet 9 - In ![[gasg28.png]]
+# Planet 9 - In ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,13 +174,13 @@ A world of violent storms, first colonized in the twenty-second century by the T
 
 
 
-- ![[rock12.png]] 441 (giant)
-- ![[rock16.png]] 442 (giant)
-- ![[rock14.png]] 443 (large)
-- ![[rock4.png]] 444 (large)
-- ![[oddmoon2.png]] 445 (medium)
-- ![[rock1.png]] 446 (medium)
-- ![[oddmoon1.png]] 447 (medium)
-- ![[oddmoon3.png]] 448 (medium)
+- ![[rock12.png\|rock12.png]] 441 (giant)
+- ![[rock16.png\|rock16.png]] 442 (giant)
+- ![[rock14.png\|rock14.png]] 443 (large)
+- ![[rock4.png\|rock4.png]] 444 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 445 (medium)
+- ![[rock1.png\|rock1.png]] 446 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 447 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 448 (medium)
 
 

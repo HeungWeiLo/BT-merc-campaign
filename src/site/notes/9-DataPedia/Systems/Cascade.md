@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cascade
-xcood: "-223.115"
-ycood: "-47.613"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cascade/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cascade
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | -223.115 |
+> | Y coord| -47.613 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Cascade ![[green28.png]]
+# Planet 1 - Cascade ![[green28.png\|green28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Saracura (large)
+- [[rock12.png\|rock12.png]] Saracura (large)
 
-# Planet 2 - Jenkins ![[rock14.png]]
+# Planet 2 - Jenkins ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Scott ![[gasg25.png]]
+# Planet 3 - Scott ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,11 +63,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Williams (medium)
-- ![[rock3.png]] Bradford (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Williams (medium)
+- ![[rock3.png\|rock3.png]] Bradford (medium)
 
 
-# Planet 4 - Roberts ![[gasg14.png]]
+# Planet 4 - Roberts ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Irra Belt ![[asteroid1.png]]
+# Planet 5 - Irra Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Francis ![[gasg8.png]]
+# Planet 6 - Francis ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,15 +111,15 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Nicholson I (giant)
-- ![[rock14.png]] Nicholson II (large)
-- ![[rock4.png]] Nicholson III (large)
-- ![[rock10.png]] Nicholson IV (large)
-- ![[rock8.png]] Nicholson V (large)
-- ![[rock6.png]] Nicholson VI (large)
+- ![[rock11.png\|rock11.png]] Nicholson I (giant)
+- ![[rock14.png\|rock14.png]] Nicholson II (large)
+- ![[rock4.png\|rock4.png]] Nicholson III (large)
+- ![[rock10.png\|rock10.png]] Nicholson IV (large)
+- ![[rock8.png\|rock8.png]] Nicholson V (large)
+- ![[rock6.png\|rock6.png]] Nicholson VI (large)
 
 
-# Planet 7 - Walker's Madness ![[gasg7.png]]
+# Planet 7 - Walker's Madness ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,13 +134,13 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Bird Man (medium)
-- ![[rock4.png]] Koliada (medium)
-- ![[rock16.png]] Oro (medium)
-- ![[oddmoon2.png]] Tawhirimatea (medium)
+- ![[rock10.png\|rock10.png]] Bird Man (medium)
+- ![[rock4.png\|rock4.png]] Koliada (medium)
+- ![[rock16.png\|rock16.png]] Oro (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tawhirimatea (medium)
 
 
-# Planet 8 - Martin's Frontier ![[gasg26.png]]
+# Planet 8 - Martin's Frontier ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,12 +155,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] LD1 (medium)
-- ![[rock16.png]] LD2 (medium)
-- ![[rock15.png]] LD3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] LD1 (medium)
+- ![[rock16.png\|rock16.png]] LD2 (medium)
+- ![[rock15.png\|rock15.png]] LD3 (medium)
 
 
-# Planet 9 - White's Pride ![[gasg4.png]]
+# Planet 9 - White's Pride ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,13 +175,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Iptet (large)
-- ![[rock4.png]] Selkit (medium)
-- ![[oddmoon2.png]] Russell (medium)
-- ![[rock15.png]] Van der Gaag (medium)
+- ![[rock17.png\|rock17.png]] Iptet (large)
+- ![[rock4.png\|rock4.png]] Selkit (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Russell (medium)
+- ![[rock15.png\|rock15.png]] Van der Gaag (medium)
 
 
-# Planet 10 - Ereshkegal Belt ![[asteroid2.png]]
+# Planet 10 - Ereshkegal Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -198,7 +193,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Clarks Green ![[gasg1.png]]
+# Planet 11 - Clarks Green ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,9 +208,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Freya (large)
+- [[rock9.png\|rock9.png]] Freya (large)
 
-# Planet 12 - Dailey ![[gasg20.png]]
+# Planet 12 - Dailey ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -230,7 +225,7 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] I-1 (medium)
-- ![[oddmoon2.png]] I-2 (medium)
+- ![[rock11.png\|rock11.png]] I-1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] I-2 (medium)
 
 

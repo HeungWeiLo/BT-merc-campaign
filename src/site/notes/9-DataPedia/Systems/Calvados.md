@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Calvados
-xcood: "-459.055"
-ycood: "-6.629"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/calvados/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Calvados
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | -459.055 |
+> | Y coord| -6.629 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - Beaux ![[greenhouse3.png]]
+# Planet 1 - Beaux ![[greenhouse3.png\|greenhouse3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Breuville ![[rock1.png]]
+# Planet 2 - Breuville ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Calvados ![[green11.png]]
+# Planet 3 - Calvados ![[green11.png\|green11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bassano Bresciano ![[iceg17.png]]
+# Planet 4 - Bassano Bresciano ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -86,9 +81,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] Faustulus (large)
+- [[rock10.png\|rock10.png]] Faustulus (large)
 
-# Planet 5 - Bayard-sur-Marne ![[gasg2.png]]
+# Planet 5 - Bayard-sur-Marne ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -103,11 +98,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Ansa 1 (medium)
-- ![[rock16.png]] Ansa 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ansa 1 (medium)
+- ![[rock16.png\|rock16.png]] Ansa 2 (medium)
 
 
-# Planet 6 - Le Vieux-Cérier ![[rock3.png]]
+# Planet 6 - Le Vieux-Cérier ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Lieuron ![[gasg15.png]]
+# Planet 7 - Lieuron ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Oudeuil ![[barren8.png]]
+# Planet 8 - Oudeuil ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -159,7 +154,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Nommay ![[gasg25.png]]
+# Planet 9 - Nommay ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -174,12 +169,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Perrier (large)
-- ![[rock15.png]] Fournet (large)
-- ![[rock11.png]] Martin (medium)
+- ![[rock2.png\|rock2.png]] Perrier (large)
+- ![[rock15.png\|rock15.png]] Fournet (large)
+- ![[rock11.png\|rock11.png]] Martin (medium)
 
 
-# Planet 10 - New Motuca ![[gasg33.png]]
+# Planet 10 - New Motuca ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -194,13 +189,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] 1VL1 (large)
-- ![[rock5.png]] 1VL2 (large)
-- ![[rock4.png]] 1VL3 (large)
-- ![[rock6.png]] 1VL4 (large)
+- ![[rock17.png\|rock17.png]] 1VL1 (large)
+- ![[rock5.png\|rock5.png]] 1VL2 (large)
+- ![[rock4.png\|rock4.png]] 1VL3 (large)
+- ![[rock6.png\|rock6.png]] 1VL4 (large)
 
 
-# Planet 11 - Mackenzie ![[gasg1.png]]
+# Planet 11 - Mackenzie ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -215,12 +210,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Martinez I (medium)
-- ![[oddmoon3.png]] Martinez II (medium)
-- ![[oddmoon2.png]] Martinez III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Martinez I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Martinez II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Martinez III (medium)
 
 
-# Planet 12 - Nouveau Les Clefs ![[gasg6.png]]
+# Planet 12 - Nouveau Les Clefs ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -235,11 +230,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Bianchi A (medium)
-- ![[rock17.png]] Bianchi B (medium)
+- ![[rock7.png\|rock7.png]] Bianchi A (medium)
+- ![[rock17.png\|rock17.png]] Bianchi B (medium)
 
 
-# Planet 13 - Shrewsbury ![[gasg18.png]]
+# Planet 13 - Shrewsbury ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -254,14 +249,14 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] F-1 (giant)
-- ![[rock10.png]] F-2 (large)
-- ![[rock8.png]] F-3 (large)
-- ![[rock7.png]] F-4 (large)
-- ![[rock17.png]] F-5 (large)
+- ![[rock4.png\|rock4.png]] F-1 (giant)
+- ![[rock10.png\|rock10.png]] F-2 (large)
+- ![[rock8.png\|rock8.png]] F-3 (large)
+- ![[rock7.png\|rock7.png]] F-4 (large)
+- ![[rock17.png\|rock17.png]] F-5 (large)
 
 
-# Planet 14 - Messiah Belt ![[asteroid3.png]]
+# Planet 14 - Messiah Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

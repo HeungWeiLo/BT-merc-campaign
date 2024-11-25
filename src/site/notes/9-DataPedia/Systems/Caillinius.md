@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caillinius
-xcood: "-130.967"
-ycood: "540.409"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caillinius/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caillinius
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -130.967 |
+> | Y coord| 540.409 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Copacati's Frontier ![[greenhouse8.png]]
+# Planet 1 - Copacati's Frontier ![[greenhouse8.png\|greenhouse8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Davidson Alpha (medium)
-- ![[oddmoon3.png]] Davidson Beta (medium)
-- ![[rock10.png]] Davidson Gamma (medium)
+- ![[rock1.png\|rock1.png]] Davidson Alpha (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Davidson Beta (medium)
+- ![[rock10.png\|rock10.png]] Davidson Gamma (medium)
 
 
-# Planet 2 - Mama Pacha ![[barren21.png]]
+# Planet 2 - Mama Pacha ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Caillinius ![[green3.png]]
+# Planet 3 - Caillinius ![[green3.png\|green3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Horne's Plains ![[iceg6.png]]
+# Planet 4 - Horne's Plains ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -90,14 +85,14 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] YY1 (large)
-- ![[rock16.png]] YY2 (large)
-- ![[rock17.png]] YY3 (large)
-- ![[rock12.png]] YY4 (medium)
-- ![[oddmoon2.png]] YY5 (medium)
+- ![[rock6.png\|rock6.png]] YY1 (large)
+- ![[rock16.png\|rock16.png]] YY2 (large)
+- ![[rock17.png\|rock17.png]] YY3 (large)
+- ![[rock12.png\|rock12.png]] YY4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] YY5 (medium)
 
 
-# Planet 5 - Huaca ![[gasg31.png]]
+# Planet 5 - Huaca ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -112,15 +107,15 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] OY1 (large)
-- ![[rock4.png]] OY2 (large)
-- ![[rock10.png]] OY3 (large)
-- ![[oddmoon3.png]] OY4 (medium)
-- ![[rock3.png]] OY5 (medium)
-- ![[oddmoon1.png]] OY6 (medium)
+- ![[rock16.png\|rock16.png]] OY1 (large)
+- ![[rock4.png\|rock4.png]] OY2 (large)
+- ![[rock10.png\|rock10.png]] OY3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] OY4 (medium)
+- ![[rock3.png\|rock3.png]] OY5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] OY6 (medium)
 
 
-# Planet 6 - Delgado's Stand ![[gasg33.png]]
+# Planet 6 - Delgado's Stand ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -135,11 +130,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Cronos Alpha (medium)
-- ![[oddmoon3.png]] Cronos Beta (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cronos Alpha (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cronos Beta (medium)
 
 
-# Planet 7 - Apu Punchau ![[gasg5.png]]
+# Planet 7 - Apu Punchau ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,13 +149,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Vishvamitra I (large)
-- ![[oddmoon1.png]] Vishvamitra II (medium)
-- ![[rock13.png]] Vishvamitra III (medium)
-- ![[oddmoon3.png]] Vishvamitra IV (medium)
+- ![[rock8.png\|rock8.png]] Vishvamitra I (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Vishvamitra II (medium)
+- ![[rock13.png\|rock13.png]] Vishvamitra III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Vishvamitra IV (medium)
 
 
-# Planet 8 - Montilliez ![[gasg24.png]]
+# Planet 8 - Montilliez ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,12 +170,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Benney (large)
-- ![[rock15.png]] Harstad (large)
-- ![[oddmoon2.png]] Knowles (medium)
+- ![[rock2.png\|rock2.png]] Benney (large)
+- ![[rock15.png\|rock15.png]] Harstad (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Knowles (medium)
 
 
-# Planet 9 - Noguchi ![[gasg23.png]]
+# Planet 9 - Noguchi ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,13 +190,13 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Mainaky 1 (large)
-- ![[rock4.png]] Mainaky 2 (large)
-- ![[rock17.png]] Mainaky 3 (large)
-- ![[rock14.png]] Mainaky 4 (medium)
+- ![[rock12.png\|rock12.png]] Mainaky 1 (large)
+- ![[rock4.png\|rock4.png]] Mainaky 2 (large)
+- ![[rock17.png\|rock17.png]] Mainaky 3 (large)
+- ![[rock14.png\|rock14.png]] Mainaky 4 (medium)
 
 
-# Planet 10 - Garrett's World ![[gasg30.png]]
+# Planet 10 - Garrett's World ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -218,7 +213,7 @@ dg-publish: true
 
 
 
-# Planet 11 - UT1 ![[iceg3.png]]
+# Planet 11 - UT1 ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -233,8 +228,8 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Loau (large)
-- ![[rock17.png]] Kilyaki (large)
-- ![[rock8.png]] Ao Kanapanapa (large)
+- ![[rock6.png\|rock6.png]] Loau (large)
+- ![[rock17.png\|rock17.png]] Kilyaki (large)
+- ![[rock8.png\|rock8.png]] Ao Kanapanapa (large)
 
 

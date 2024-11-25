@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Caldarium
-xcood: "-444.773"
-ycood: "234.442"
-spectralType: F2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/caldarium/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Caldarium
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2V.png]] |
+> | X coord | -444.773 |
+> | Y coord| 234.442 |
+> | Spectral Type | F2V ![[F2V.png\|F2V.png]] |
 
-# Planet 1 - Nardone ![[greenhouse12.png]]
+# Planet 1 - Nardone ![[greenhouse12.png\|greenhouse12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ashley's Planet ![[barren10.png]]
+# Planet 2 - Ashley's Planet ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Price ![[rock1.png]]
+# Planet 3 - Price ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Caldarium ![[green18.png]]
+# Planet 4 - Caldarium ![[green18.png\|green18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Krystofial's Rift ![[frozen44.png]]
+# Planet 5 - Krystofial's Rift ![[frozen44.png\|frozen44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - James's Mistake ![[gasg34.png]]
+# Planet 6 - James's Mistake ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,7 +121,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Horne's Planet ![[iceg4.png]]
+# Planet 7 - Horne's Planet ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Rezov ![[gasg8.png]]
+# Planet 8 - Rezov ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,11 +153,11 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] La Reine (large)
-- ![[oddmoon1.png]] Laamu Atholhu (medium)
+- ![[rock1.png\|rock1.png]] La Reine (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Laamu Atholhu (medium)
 
 
-# Planet 9 - Ixchel ![[gasg16.png]]
+# Planet 9 - Ixchel ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,12 +172,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Mergozzo (large)
-- ![[rock6.png]] Aukra (large)
-- ![[rock9.png]] Urra (large)
+- ![[rock7.png\|rock7.png]] Mergozzo (large)
+- ![[rock6.png\|rock6.png]] Aukra (large)
+- ![[rock9.png\|rock9.png]] Urra (large)
 
 
-# Planet 10 - Beilin's Hold ![[iceg17.png]]
+# Planet 10 - Beilin's Hold ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -197,12 +192,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Bennion (medium)
-- ![[rock2.png]] Villamarin (medium)
-- ![[rock5.png]] Karakaev (medium)
+- ![[rock10.png\|rock10.png]] Bennion (medium)
+- ![[rock2.png\|rock2.png]] Villamarin (medium)
+- ![[rock5.png\|rock5.png]] Karakaev (medium)
 
 
-# Planet 11 - God S ![[gasg7.png]]
+# Planet 11 - God S ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -217,12 +212,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Raiju 1 (medium)
-- ![[oddmoon1.png]] Raiju 2 (medium)
-- ![[oddmoon2.png]] Raiju 3 (medium)
+- ![[rock6.png\|rock6.png]] Raiju 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Raiju 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Raiju 3 (medium)
 
 
-# Planet 12 - Whaley ![[gasg5.png]]
+# Planet 12 - Whaley ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -237,9 +232,9 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Parry Sound (large)
-- ![[oddmoon3.png]] Shullsburg (medium)
-- ![[oddmoon2.png]] Kiriba (medium)
-- ![[oddmoon1.png]] Friuli Venezia Giulia (medium)
+- ![[rock11.png\|rock11.png]] Parry Sound (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Shullsburg (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kiriba (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Friuli Venezia Giulia (medium)
 
 

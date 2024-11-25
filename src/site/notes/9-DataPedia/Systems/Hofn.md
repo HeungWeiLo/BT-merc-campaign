@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Hofn
-xcood: "600.099"
-ycood: "545.503"
-spectralType: G8III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/hofn/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Hofn
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8III.png]] |
+> | X coord | 600.099 |
+> | Y coord| 545.503 |
+> | Spectral Type | G8III ![[G8III.png\|G8III.png]] |
 
-# Planet 1 - Hermoth ![[gasg17.png]]
+# Planet 1 - Hermoth ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Haglund ![[iceg10.png]]
+# Planet 2 - Haglund ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,9 +48,9 @@ dg-publish: true
 3
 7
 
-- [[rock14.png]] Boqvist (medium)
+- [[rock14.png\|rock14.png]] Boqvist (medium)
 
-# Planet 3 - Holler's Gräns ![[gasg2.png]]
+# Planet 3 - Holler's Gräns ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -73,12 +68,12 @@ dg-publish: true
 3
 0
 
-- ![[rock10.png]] Seirenes 1 (large)
-- ![[rock6.png]] Seirenes 2 (medium)
-- ![[oddmoon2.png]] Seirenes 3 (medium)
+- ![[rock10.png\|rock10.png]] Seirenes 1 (large)
+- ![[rock6.png\|rock6.png]] Seirenes 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Seirenes 3 (medium)
 
 
-# Planet 4 - Hofn ![[wet13.png]]
+# Planet 4 - Hofn ![[wet13.png\|wet13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,12 +95,12 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 3
 0
 
-- ![[oddmoon3.png]] Myvatn (medium)
-- ![[oddmoon2.png]] Geyser (medium)
-- ![[rock1.png]] Jockulsarlon (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Myvatn (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Geyser (medium)
+- ![[rock1.png\|rock1.png]] Jockulsarlon (medium)
 
 
-# Planet 5 - Ragnorak ![[iceg13.png]]
+# Planet 5 - Ragnorak ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -123,13 +118,13 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 4
 0
 
-- ![[rock10.png]] Harmony 1 (large)
-- ![[rock7.png]] Harmony 2 (large)
-- ![[oddmoon2.png]] Harmony 3 (medium)
-- ![[rock15.png]] Harmony 4 (medium)
+- ![[rock10.png\|rock10.png]] Harmony 1 (large)
+- ![[rock7.png\|rock7.png]] Harmony 2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Harmony 3 (medium)
+- ![[rock15.png\|rock15.png]] Harmony 4 (medium)
 
 
-# Planet 6 - Killingworth ![[frozen49.png]]
+# Planet 6 - Killingworth ![[frozen49.png\|frozen49.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -152,7 +147,7 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 
 
 
-# Planet 7 - Ragnarøkr ![[rock12.png]]
+# Planet 7 - Ragnarøkr ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -172,7 +167,7 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 
 
 
-# Planet 8 - Eriksen ![[gasg3.png]]
+# Planet 8 - Eriksen ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,12 +185,12 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 3
 0
 
-- ![[rock9.png]] Brigid (giant)
-- ![[rock17.png]] Lugh (giant)
-- ![[rock6.png]] Graneros (large)
+- ![[rock9.png\|rock9.png]] Brigid (giant)
+- ![[rock17.png\|rock17.png]] Lugh (giant)
+- ![[rock6.png\|rock6.png]] Graneros (large)
 
 
-# Planet 9 - Åsgard ![[gasg14.png]]
+# Planet 9 - Åsgard ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,9 +208,9 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 3
 6
 
-- [[rock16.png]] Kleven (large)
+- [[rock16.png\|rock16.png]] Kleven (large)
 
-# Planet 10 - Skeiða- og Gnúpverjahreppur ![[gasg26.png]]
+# Planet 10 - Skeiða- og Gnúpverjahreppur ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -233,8 +228,8 @@ Hofn is the warmest JarnFolk world, however it also has the harshest weather. St
 3
 0
 
-- ![[oddmoon2.png]] Valtam 1 (medium)
-- ![[rock14.png]] Valtam 2 (medium)
-- ![[rock7.png]] Valtam 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Valtam 1 (medium)
+- ![[rock14.png\|rock14.png]] Valtam 2 (medium)
+- ![[rock7.png\|rock7.png]] Valtam 3 (medium)
 
 

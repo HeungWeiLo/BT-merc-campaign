@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Eustatius
-xcood: "458.045"
-ycood: "-198.575"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/eustatius/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Eustatius
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 458.045 |
+> | Y coord| -198.575 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Enkil ![[barren10.png]]
+# Planet 1 - Enkil ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Istar ![[barren4.png]]
+# Planet 2 - Istar ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -57,7 +52,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Innana ![[barren7.png]]
+# Planet 3 - Innana ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,7 +73,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Eustatius ![[green47.png]]
+# Planet 4 - Eustatius ![[green47.png\|green47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -102,7 +97,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Septu Belt ![[asteroid1.png]]
+# Planet 5 - Septu Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -117,7 +112,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Enki ![[gasg17.png]]
+# Planet 6 - Enki ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -135,13 +130,13 @@ dg-publish: true
 4
 0
 
-- ![[rock14.png]] 0H-1 (large)
-- ![[rock12.png]] 0H-2 (large)
-- ![[rock6.png]] 0H-3 (large)
-- ![[oddmoon2.png]] 0H-4 (medium)
+- ![[rock14.png\|rock14.png]] 0H-1 (large)
+- ![[rock12.png\|rock12.png]] 0H-2 (large)
+- ![[rock6.png\|rock6.png]] 0H-3 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 0H-4 (medium)
 
 
-# Planet 7 - Anshur ![[gasg3.png]]
+# Planet 7 - Anshur ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -159,11 +154,11 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon1.png]] Chenrezig (medium)
-- ![[rock6.png]] Begtse (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Chenrezig (medium)
+- ![[rock6.png\|rock6.png]] Begtse (medium)
 
 
-# Planet 8 - Kralendijk ![[gasg26.png]]
+# Planet 8 - Kralendijk ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,9 +176,9 @@ dg-publish: true
 3
 7
 
-- [[rock4.png]] Berchta (large)
+- [[rock4.png\|rock4.png]] Berchta (large)
 
-# Planet 9 - Jove ![[gasg13.png]]
+# Planet 9 - Jove ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -201,11 +196,11 @@ dg-publish: true
 2
 0
 
-- ![[rock14.png]] Wijkhuize (medium)
-- ![[oddmoon2.png]] Brozobohaty (medium)
+- ![[rock14.png\|rock14.png]] Wijkhuize (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Brozobohaty (medium)
 
 
-# Planet 10 - Lotan ![[gasg35.png]]
+# Planet 10 - Lotan ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,9 +218,9 @@ dg-publish: true
 4
 0
 
-- ![[rock14.png]] The Bottom I (large)
-- ![[rock4.png]] The Bottom II (medium)
-- ![[oddmoon1.png]] The Bottom III (medium)
-- ![[oddmoon2.png]] The Bottom IV (medium)
+- ![[rock14.png\|rock14.png]] The Bottom I (large)
+- ![[rock4.png\|rock4.png]] The Bottom II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] The Bottom III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] The Bottom IV (medium)
 
 

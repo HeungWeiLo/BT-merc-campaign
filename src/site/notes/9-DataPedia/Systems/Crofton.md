@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crofton
-xcood: "522.914"
-ycood: "-78.108"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crofton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crofton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | 522.914 |
+> | Y coord| -78.108 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Andrea ![[barren2.png]]
+# Planet 1 - Andrea ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chicomeccatl ![[gasg4.png]]
+# Planet 2 - Chicomeccatl ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Silsbee (large)
-- ![[rock11.png]] São Valentim do Sul (large)
-- ![[oddmoon3.png]] Prophets (medium)
+- ![[rock7.png\|rock7.png]] Silsbee (large)
+- ![[rock11.png\|rock11.png]] São Valentim do Sul (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Prophets (medium)
 
 
-# Planet 3 - Crofton ![[green20.png]]
+# Planet 3 - Crofton ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-# Planet 4 - Dana ![[rock10.png]]
+# Planet 4 - Dana ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -91,7 +86,7 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-# Planet 5 - Cipactli ![[gasg24.png]]
+# Planet 5 - Cipactli ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,11 +101,11 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-- ![[oddmoon3.png]] Kuan Yin I (medium)
-- ![[oddmoon2.png]] Kuan Yin II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kuan Yin I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kuan Yin II (medium)
 
 
-# Planet 6 - Moyer ![[gasg38.png]]
+# Planet 6 - Moyer ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -125,16 +120,16 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-- ![[rock5.png]] Veliuona I (giant)
-- ![[rock2.png]] Veliuona II (giant)
-- ![[rock14.png]] Veliuona III (large)
-- ![[rock12.png]] Veliuona IV (large)
-- ![[rock1.png]] Veliuona V (large)
-- ![[rock9.png]] Veliuona VI (large)
-- ![[rock10.png]] Veliuona VII (large)
+- ![[rock5.png\|rock5.png]] Veliuona I (giant)
+- ![[rock2.png\|rock2.png]] Veliuona II (giant)
+- ![[rock14.png\|rock14.png]] Veliuona III (large)
+- ![[rock12.png\|rock12.png]] Veliuona IV (large)
+- ![[rock1.png\|rock1.png]] Veliuona V (large)
+- ![[rock9.png\|rock9.png]] Veliuona VI (large)
+- ![[rock10.png\|rock10.png]] Veliuona VII (large)
 
 
-# Planet 7 - Huitzilopochtli's Wind ![[gasg32.png]]
+# Planet 7 - Huitzilopochtli's Wind ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,7 +146,7 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-# Planet 8 - Macuilxochitl ![[gasg17.png]]
+# Planet 8 - Macuilxochitl ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,13 +161,13 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-- ![[rock10.png]] ZX3.1 (large)
-- ![[rock17.png]] ZX3.2 (large)
-- ![[rock9.png]] ZX3.3 (large)
-- ![[rock16.png]] ZX3.4 (large)
+- ![[rock10.png\|rock10.png]] ZX3.1 (large)
+- ![[rock17.png\|rock17.png]] ZX3.2 (large)
+- ![[rock9.png\|rock9.png]] ZX3.3 (large)
+- ![[rock16.png\|rock16.png]] ZX3.4 (large)
 
 
-# Planet 9 - Nuhualpilli ![[gasg28.png]]
+# Planet 9 - Nuhualpilli ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,7 +184,7 @@ Crofton is a fairly advanced world for the Federated Suns and despite its low-pr
 
 
 
-# Planet 10 - Tawiskara's Square ![[gasg13.png]]
+# Planet 10 - Tawiskara's Square ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

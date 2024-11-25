@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Euschelus
-xcood: "280.794"
-ycood: "-389.434"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/euschelus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Euschelus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 280.794 |
+> | Y coord| -389.434 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Euschelus ![[green15.png]]
+# Planet 1 - Euschelus ![[green15.png\|green15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - López ![[greenhouse1.png]]
+# Planet 2 - López ![[greenhouse1.png\|greenhouse1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Jiménez's World ![[gasg29.png]]
+# Planet 3 - Jiménez's World ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -69,12 +64,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Franklin 1 (giant)
-- ![[rock5.png]] Franklin 2 (large)
-- ![[rock15.png]] Franklin 3 (large)
+- ![[rock17.png\|rock17.png]] Franklin 1 (giant)
+- ![[rock5.png\|rock5.png]] Franklin 2 (large)
+- ![[rock15.png\|rock15.png]] Franklin 3 (large)
 
 
-# Planet 4 - Lovatt's Mistake ![[gasg22.png]]
+# Planet 4 - Lovatt's Mistake ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Fossland's World ![[iceg2.png]]
+# Planet 5 - Fossland's World ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -106,12 +101,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Yuen Long (large)
-- ![[oddmoon2.png]] Rustburg (medium)
-- ![[rock16.png]] Trappeto (medium)
+- ![[rock5.png\|rock5.png]] Yuen Long (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Rustburg (medium)
+- ![[rock16.png\|rock16.png]] Trappeto (medium)
 
 
-# Planet 6 - Eckard's Retreat ![[gasg30.png]]
+# Planet 6 - Eckard's Retreat ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -126,9 +121,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] 1D-1 (large)
+- [[rock14.png\|rock14.png]] 1D-1 (large)
 
-# Planet 7 - Øye's Hole ![[gasg6.png]]
+# Planet 7 - Øye's Hole ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,13 +138,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Hesa (medium)
-- ![[oddmoon1.png]] Tefenet (medium)
-- ![[oddmoon2.png]] Kehperi (medium)
-- ![[oddmoon3.png]] Amon (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hesa (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tefenet (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kehperi (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Amon (medium)
 
 
-# Planet 8 - PK7-1 Belt ![[asteroid1.png]]
+# Planet 8 - PK7-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -161,7 +156,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Richardson's Plains ![[gasg14.png]]
+# Planet 9 - Richardson's Plains ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -176,12 +171,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Kartosuwiryo A (medium)
-- ![[oddmoon3.png]] Kartosuwiryo B (medium)
-- ![[rock15.png]] Kartosuwiryo C (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kartosuwiryo A (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kartosuwiryo B (medium)
+- ![[rock15.png\|rock15.png]] Kartosuwiryo C (medium)
 
 
-# Planet 10 - Méndez's Rest ![[gasg25.png]]
+# Planet 10 - Méndez's Rest ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,11 +191,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] H1 (large)
-- ![[rock11.png]] H2 (large)
-- ![[rock7.png]] H3 (large)
-- ![[rock16.png]] H4 (medium)
-- ![[oddmoon2.png]] H5 (medium)
-- ![[oddmoon1.png]] H6 (medium)
+- ![[rock6.png\|rock6.png]] H1 (large)
+- ![[rock11.png\|rock11.png]] H2 (large)
+- ![[rock7.png\|rock7.png]] H3 (large)
+- ![[rock16.png\|rock16.png]] H4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] H5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] H6 (medium)
 
 

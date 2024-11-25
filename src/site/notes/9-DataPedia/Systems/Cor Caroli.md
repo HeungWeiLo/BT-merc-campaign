@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cor Caroli
-xcood: "-62.301"
-ycood: "15.463"
-spectralType: A0VI
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cor-caroli/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cor Caroli
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[A0VI.png]] |
+> | X coord | -62.301 |
+> | Y coord| 15.463 |
+> | Spectral Type | A0VI ![[A0VI.png\|A0VI.png]] |
 
-# Planet 1 - Abere ![[rock17.png]]
+# Planet 1 - Abere ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cor Caroli ![[green5.png]]
+# Planet 2 - Cor Caroli ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,11 +53,11 @@ During the Succession Wars, Cor Caroli was raided several times by the Free Worl
 
 Corriolas, Cor Caroli's capital and largest city, is located on the northwestern continent of Ferrini. Caroli Mining Consortium, the largest of the planet's industrial mining corporations, is based in Maureen, the largest city on the southern continent of Nikallini. Cor Caroli‘s fourth landmass, the southern polar continent of Pluribi, is virtually uninhabited.
 
-- ![[rock6.png]] 6D1 (medium)
-- ![[rock14.png]] 6D2 (medium)
+- ![[rock6.png\|rock6.png]] 6D1 (medium)
+- ![[rock14.png\|rock14.png]] 6D2 (medium)
 
 
-# Planet 3 - Ku ![[barren12.png]]
+# Planet 3 - Ku ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-# Planet 4 - Moai ![[greenhouse38.png]]
+# Planet 4 - Moai ![[greenhouse38.png\|greenhouse38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -98,7 +93,7 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-# Planet 5 - Olifat ![[greenhouse8.png]]
+# Planet 5 - Olifat ![[greenhouse8.png\|greenhouse8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -116,7 +111,7 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-# Planet 6 - Kamapuaa ![[greenhouse40.png]]
+# Planet 6 - Kamapuaa ![[greenhouse40.png\|greenhouse40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -134,7 +129,7 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-# Planet 7 - Atea ![[iceg6.png]]
+# Planet 7 - Atea ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -149,12 +144,12 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-- ![[rock9.png]] X-1 (large)
-- ![[rock17.png]] X-2 (large)
-- ![[rock3.png]] X-3 (large)
+- ![[rock9.png\|rock9.png]] X-1 (large)
+- ![[rock17.png\|rock17.png]] X-2 (large)
+- ![[rock3.png\|rock3.png]] X-3 (large)
 
 
-# Planet 8 - Son of Man ![[gasg20.png]]
+# Planet 8 - Son of Man ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,5 +164,5 @@ Corriolas, Cor Caroli's capital and largest city, is located on the northwestern
 
 
 
-- [[rock13.png]] Niu Heimar (large)
+- [[rock13.png\|rock13.png]] Niu Heimar (large)
 

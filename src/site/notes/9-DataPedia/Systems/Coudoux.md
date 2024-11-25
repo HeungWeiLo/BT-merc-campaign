@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coudoux
-xcood: "180.696"
-ycood: "382.752"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coudoux/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coudoux
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 180.696 |
+> | Y coord| 382.752 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Egestes ![[gasg19.png]]
+# Planet 1 - Egestes ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] 761 (large)
-- ![[rock10.png]] 762 (medium)
+- ![[rock14.png\|rock14.png]] 761 (large)
+- ![[rock10.png\|rock10.png]] 762 (medium)
 
 
-# Planet 2 - Coudoux ![[green7.png]]
+# Planet 2 - Coudoux ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,9 +48,9 @@ dg-publish: true
 
 Coudoux is a comfortable temperate planet with abundant arable land and enough natural resources to support the moderate industrial concerns located on the planet. Located deep in the Draconis Combine, Coudoux has had a relatively quiet history and escaped the worst of the Succession Wars. Unfortunately, the planet was in the path of the Clans and Coudoux was conquered by Clan Smoke Jaguar during Operation Revival before being returned to the Draconis Combine after Operation Bulldog removed the Jaguars from the Inner Sphere. In the late 3070s the Nova Cats established Mualang Alpha on Coudoux, a factory capable of producing light ‘Mechs.
 
-- [[rock16.png]] Petit Coudoux (medium)
+- [[rock16.png\|rock16.png]] Petit Coudoux (medium)
 
-# Planet 3 - Discordia ![[dry4.png]]
+# Planet 3 - Discordia ![[dry4.png\|dry4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,7 +71,7 @@ Coudoux is a comfortable temperate planet with abundant arable land and enough n
 
 
 
-# Planet 4 - Jove ![[gasg35.png]]
+# Planet 4 - Jove ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -93,7 +88,7 @@ Coudoux is a comfortable temperate planet with abundant arable land and enough n
 
 
 
-# Planet 5 - Cape Volcanus ![[gasg11.png]]
+# Planet 5 - Cape Volcanus ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,12 +103,12 @@ Coudoux is a comfortable temperate planet with abundant arable land and enough n
 
 
 
-- ![[rock12.png]] Dies Pater 1 (large)
-- ![[rock4.png]] Dies Pater 2 (large)
-- ![[oddmoon2.png]] Dies Pater 3 (medium)
+- ![[rock12.png\|rock12.png]] Dies Pater 1 (large)
+- ![[rock4.png\|rock4.png]] Dies Pater 2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Dies Pater 3 (medium)
 
 
-# Planet 6 - Lefevre ![[iceg4.png]]
+# Planet 6 - Lefevre ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -128,9 +123,9 @@ Coudoux is a comfortable temperate planet with abundant arable land and enough n
 
 
 
-- [[rock2.png]] Deville (large)
+- [[rock2.png\|rock2.png]] Deville (large)
 
-# Planet 7 - Sterculius ![[gasg32.png]]
+# Planet 7 - Sterculius ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,8 +140,8 @@ Coudoux is a comfortable temperate planet with abundant arable land and enough n
 
 
 
-- ![[rock8.png]] Irusan A (large)
-- ![[rock9.png]] Irusan B (large)
-- ![[oddmoon3.png]] Irusan C (medium)
+- ![[rock8.png\|rock8.png]] Irusan A (large)
+- ![[rock9.png\|rock9.png]] Irusan B (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Irusan C (medium)
 
 

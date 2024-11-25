@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dalton
-xcood: "-115.774"
-ycood: "-229.895"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dalton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dalton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | -115.774 |
+> | Y coord| -229.895 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Robiga ![[greenhouse7.png]]
+# Planet 1 - Robiga ![[greenhouse7.png\|greenhouse7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Bell (large)
+- [[rock16.png\|rock16.png]] Bell (large)
 
-# Planet 2 - Sterculius ![[gasg22.png]]
+# Planet 2 - Sterculius ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,9 +43,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Robstown (medium)
+- [[rock3.png\|rock3.png]] Robstown (medium)
 
-# Planet 3 - Victory ![[rock2.png]]
+# Planet 3 - Victory ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Muḩāfaz̧at al Jīzah ![[rock10.png]]
+# Planet 4 - Muḩāfaz̧at al Jīzah ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Dalton ![[green2.png]]
+# Planet 5 - Dalton ![[green2.png\|green2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,12 +98,12 @@ dg-publish: true
 
 Early scans of Dalton in 2310 revealed the planet was extremely habitable, with a comfortable climate, breathable air, edible lifeforms, and plentiful arable land, it unfortunately was also very seismically active and as a result the planet was passed up for colonization for more than 200 years. Oddly the seismic activity was no longer present and there had not been a single recorded earthquake as of the 31st Century. Dalton is home to Garret Satcomm., which creates targeting and communication systems for military units.
 
-- ![[oddmoon3.png]] Graves (medium)
-- ![[oddmoon1.png]] Marshall (medium)
-- ![[rock16.png]] Trigg (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Graves (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Marshall (medium)
+- ![[rock16.png\|rock16.png]] Trigg (medium)
 
 
-# Planet 6 - Murfreesboro ![[rock5.png]]
+# Planet 6 - Murfreesboro ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -125,7 +120,7 @@ Early scans of Dalton in 2310 revealed the planet was extremely habitable, with 
 
 
 
-# Planet 7 - Honor ![[gasg32.png]]
+# Planet 7 - Honor ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,8 +135,8 @@ Early scans of Dalton in 2310 revealed the planet was extremely habitable, with 
 
 
 
-- ![[rock2.png]] P1 (large)
-- ![[rock8.png]] P2 (large)
-- ![[rock11.png]] P3 (medium)
+- ![[rock2.png\|rock2.png]] P1 (large)
+- ![[rock8.png\|rock8.png]] P2 (large)
+- ![[rock11.png\|rock11.png]] P3 (medium)
 
 

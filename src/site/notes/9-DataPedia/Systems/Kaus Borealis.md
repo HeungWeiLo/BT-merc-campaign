@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaus Borealis
-xcood: "11.373"
-ycood: "96.371"
-spectralType: K1IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaus-borealis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaus Borealis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1IV.png]] |
+> | X coord | 11.373 |
+> | Y coord| 96.371 |
+> | Spectral Type | K1IV ![[K1IV.png\|K1IV.png]] |
 
-# Planet 1 - Windischgraetz ![[barren15.png]]
+# Planet 1 - Windischgraetz ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Port Millman ![[barren8.png]]
+# Planet 2 - Port Millman ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ dg-publish: true
 3
 3
 
-- [[rock14.png]] Lug (medium)
+- [[rock14.png\|rock14.png]] Lug (medium)
 
-# Planet 3 - Adams ![[gasg27.png]]
+# Planet 3 - Adams ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kaus Borealis ![[green21.png]]
+# Planet 4 - Kaus Borealis ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,9 +98,9 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 3
 8
 
-- [[rock6.png]] Blufisch (large)
+- [[rock6.png\|rock6.png]] Blufisch (large)
 
-# Planet 5 - Potter ![[greenhouse41.png]]
+# Planet 5 - Potter ![[greenhouse41.png\|greenhouse41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -126,7 +121,7 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 
 
 
-# Planet 6 - Wendlinger ![[gasg17.png]]
+# Planet 6 - Wendlinger ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,11 +139,11 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Zankiev ![[gasg5.png]]
+# Planet 7 - Zankiev ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,7 +163,7 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 
 
 
-# Planet 8 - Istar ![[gasg20.png]]
+# Planet 8 - Istar ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,11 +181,11 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Hassani ![[gasg23.png]]
+# Planet 9 - Hassani ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,8 +203,8 @@ The capital of Kaus Borealis, Iamda, is located on the northern continent of All
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

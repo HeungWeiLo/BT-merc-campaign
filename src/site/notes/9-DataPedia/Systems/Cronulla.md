@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cronulla
-xcood: "-33.091"
-ycood: "-251.008"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cronulla/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cronulla
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | -33.091 |
+> | Y coord| -251.008 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Saint-Augustin-de-Woburn ![[gasg2.png]]
+# Planet 1 - Saint-Augustin-de-Woburn ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,12 +25,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Alcmene (medium)
-- ![[rock8.png]] Astraeus (medium)
-- ![[oddmoon1.png]] Athene (medium)
+- ![[rock16.png\|rock16.png]] Alcmene (medium)
+- ![[rock8.png\|rock8.png]] Astraeus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Athene (medium)
 
 
-# Planet 2 - Cronulla ![[green3.png]]
+# Planet 2 - Cronulla ![[green3.png\|green3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Llanpumsaint ![[rock16.png]]
+# Planet 3 - Llanpumsaint ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Puwa ![[rock2.png]]
+# Planet 4 - Puwa ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ārādān ![[rock15.png]]
+# Planet 5 - Ārādān ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

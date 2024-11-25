@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Daol
-xcood: "146.776"
-ycood: "-335.259"
-spectralType: M4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/daol/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Daol
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M4V.png]] |
+> | X coord | 146.776 |
+> | Y coord| -335.259 |
+> | Spectral Type | M4V ![[M4V.png\|M4V.png]] |
 
-# Planet 1 - Daol ![[green24.png]]
+# Planet 1 - Daol ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Abdul-Ghafur ![[rock8.png]]
+# Planet 2 - Abdul-Ghafur ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Saikawa ![[gasg31.png]]
+# Planet 3 - Saikawa ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,14 +63,14 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Hilal A (large)
-- ![[rock9.png]] Hilal B (large)
-- ![[rock6.png]] Hilal C (large)
-- ![[rock10.png]] Hilal D (large)
-- ![[rock15.png]] Hilal E (large)
+- ![[rock7.png\|rock7.png]] Hilal A (large)
+- ![[rock9.png\|rock9.png]] Hilal B (large)
+- ![[rock6.png\|rock6.png]] Hilal C (large)
+- ![[rock10.png\|rock10.png]] Hilal D (large)
+- ![[rock15.png\|rock15.png]] Hilal E (large)
 
 
-# Planet 4 - Dryads Belt Alpha ![[asteroid1.png]]
+# Planet 4 - Dryads Belt Alpha ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Dryads Belt Beta ![[asteroid3.png]]
+# Planet 5 - Dryads Belt Beta ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Fort Bin Saleh ![[gasg9.png]]
+# Planet 6 - Fort Bin Saleh ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -114,15 +109,15 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Bin Najib (giant)
-- ![[rock15.png]] Sukarno (large)
-- ![[rock4.png]] Bin Mamdouh (large)
-- ![[rock12.png]] Bahiyy al Din (large)
-- ![[rock5.png]] Ødegård (medium)
-- ![[rock16.png]] Tawfiq (medium)
+- ![[rock7.png\|rock7.png]] Bin Najib (giant)
+- ![[rock15.png\|rock15.png]] Sukarno (large)
+- ![[rock4.png\|rock4.png]] Bin Mamdouh (large)
+- ![[rock12.png\|rock12.png]] Bahiyy al Din (large)
+- ![[rock5.png\|rock5.png]] Ødegård (medium)
+- ![[rock16.png\|rock16.png]] Tawfiq (medium)
 
 
-# Planet 7 - Nootaikok ![[gasg6.png]]
+# Planet 7 - Nootaikok ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,15 +132,15 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Englewood Cliffs (giant)
-- ![[rock6.png]] Orisa (large)
-- ![[oddmoon2.png]] Heitsi (medium)
-- ![[rock17.png]] Olufon (medium)
-- ![[rock10.png]] Wilaya de Bouira (medium)
-- ![[rock5.png]] Obatala (medium)
+- ![[rock8.png\|rock8.png]] Englewood Cliffs (giant)
+- ![[rock6.png\|rock6.png]] Orisa (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Heitsi (medium)
+- ![[rock17.png\|rock17.png]] Olufon (medium)
+- ![[rock10.png\|rock10.png]] Wilaya de Bouira (medium)
+- ![[rock5.png\|rock5.png]] Obatala (medium)
 
 
-# Planet 8 - Bin Kadin ![[gasg37.png]]
+# Planet 8 - Bin Kadin ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,9 +155,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] Fath (large)
+- [[rock4.png\|rock4.png]] Fath (large)
 
-# Planet 9 - Bin Khairy's Rock ![[gasg36.png]]
+# Planet 9 - Bin Khairy's Rock ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,12 +172,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Muhtadi 1 (large)
-- ![[rock1.png]] Muhtadi 2 (large)
-- ![[rock9.png]] Muhtadi 3 (large)
+- ![[rock15.png\|rock15.png]] Muhtadi 1 (large)
+- ![[rock1.png\|rock1.png]] Muhtadi 2 (large)
+- ![[rock9.png\|rock9.png]] Muhtadi 3 (large)
 
 
-# Planet 10 - Abdullah's Retreat ![[gasg26.png]]
+# Planet 10 - Abdullah's Retreat ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -197,7 +192,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Hephaestus (medium)
-- ![[rock6.png]] Hecate (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hephaestus (medium)
+- ![[rock6.png\|rock6.png]] Hecate (medium)
 
 

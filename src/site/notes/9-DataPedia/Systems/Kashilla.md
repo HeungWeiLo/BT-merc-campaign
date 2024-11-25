@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kashilla
-xcood: "-1.551"
-ycood: "-201.153"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kashilla/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kashilla
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | -1.551 |
+> | Y coord| -201.153 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - New Hønefoss ![[barren12.png]]
+# Planet 1 - New Hønefoss ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Muroran ![[rock15.png]]
+# Planet 2 - Muroran ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Grad Drniš ![[frozen38.png]]
+# Planet 3 - Grad Drniš ![[frozen38.png\|frozen38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kashilla ![[green2.png]]
+# Planet 4 - Kashilla ![[green2.png\|green2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -101,9 +96,9 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 3
 5
 
-- [[rock5.png]] Libby (medium)
+- [[rock5.png\|rock5.png]] Libby (medium)
 
-# Planet 5 - Fournier ![[gasg3.png]]
+# Planet 5 - Fournier ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,16 +116,16 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Woitenkoff ![[gasg15.png]]
+# Planet 6 - Woitenkoff ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -148,13 +143,13 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Free ![[gasg26.png]]
+# Planet 7 - Free ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -172,9 +167,9 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 3
 3
 
-- [[rock3.png]] M21 (medium)
+- [[rock3.png\|rock3.png]] M21 (medium)
 
-# Planet 8 - Olofströms ![[gasg23.png]]
+# Planet 8 - Olofströms ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -192,11 +187,11 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Rostusa ![[gasg31.png]]
+# Planet 9 - Rostusa ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,7 +209,7 @@ Kashilla is an unremarkable planet, with only modest natural resources, sufficie
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dainmar Majoris
-xcood: "-62.198"
-ycood: "-484.197"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dainmar-majoris/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dainmar Majoris
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | -62.198 |
+> | Y coord| -484.197 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Haltia ![[gasg27.png]]
+# Planet 1 - Haltia ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,12 +25,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Kwidzyn Alpha (medium)
-- ![[oddmoon1.png]] Kwidzyn Beta (medium)
-- ![[oddmoon3.png]] Kwidzyn Gamma (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kwidzyn Alpha (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kwidzyn Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kwidzyn Gamma (medium)
 
 
-# Planet 2 - Yambe Akka ![[rock15.png]]
+# Planet 2 - Yambe Akka ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Hiisi ![[iceg17.png]]
+# Planet 3 - Hiisi ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Dainmar Majoris ![[green41.png]]
+# Planet 4 - Dainmar Majoris ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Jutas ![[gasg32.png]]
+# Planet 5 - Jutas ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,11 +100,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Dies Pater (medium)
-- ![[oddmoon3.png]] Pleasure (medium)
+- ![[rock10.png\|rock10.png]] Dies Pater (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Pleasure (medium)
 
 
-# Planet 6 - Sarakka ![[gasg35.png]]
+# Planet 6 - Sarakka ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Ogmius (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Ogmius (medium)
 
-# Planet 7 - Tellervo's Plains ![[iceg18.png]]
+# Planet 7 - Tellervo's Plains ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Maan Emo ![[gasg20.png]]
+# Planet 8 - Maan Emo ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,12 +153,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Roger 1 (medium)
-- ![[rock13.png]] Roger 2 (medium)
-- ![[oddmoon3.png]] Roger 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Roger 1 (medium)
+- ![[rock13.png\|rock13.png]] Roger 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Roger 3 (medium)
 
 
-# Planet 9 - Huecuvas Belt ![[asteroid3.png]]
+# Planet 9 - Huecuvas Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -175,7 +170,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Varima Te Takere's End ![[gasg23.png]]
+# Planet 10 - Varima Te Takere's End ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,13 +185,13 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Typhon (large)
-- ![[rock5.png]] Hesperis (large)
-- ![[rock4.png]] Gangleri (large)
-- ![[oddmoon1.png]] Argus (medium)
+- ![[rock17.png\|rock17.png]] Typhon (large)
+- ![[rock5.png\|rock5.png]] Hesperis (large)
+- ![[rock4.png\|rock4.png]] Gangleri (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Argus (medium)
 
 
-# Planet 11 - Pellervo ![[gasg34.png]]
+# Planet 11 - Pellervo ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -211,15 +206,15 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] K1 (large)
-- ![[rock3.png]] K2 (large)
-- ![[rock10.png]] K3 (large)
-- ![[oddmoon3.png]] K4 (medium)
-- ![[rock2.png]] K5 (medium)
-- ![[oddmoon2.png]] K6 (medium)
+- ![[rock16.png\|rock16.png]] K1 (large)
+- ![[rock3.png\|rock3.png]] K2 (large)
+- ![[rock10.png\|rock10.png]] K3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] K4 (medium)
+- ![[rock2.png\|rock2.png]] K5 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] K6 (medium)
 
 
-# Planet 12 - Akka ![[gasg36.png]]
+# Planet 12 - Akka ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,8 +229,8 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] 4H.1 (large)
-- ![[oddmoon2.png]] 4H.2 (medium)
-- ![[rock14.png]] 4H.3 (medium)
+- ![[rock16.png\|rock16.png]] 4H.1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 4H.2 (medium)
+- ![[rock14.png\|rock14.png]] 4H.3 (medium)
 
 

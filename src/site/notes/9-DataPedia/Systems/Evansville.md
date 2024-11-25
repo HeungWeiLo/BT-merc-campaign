@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Evansville
-xcood: "293.644"
-ycood: "-36.233"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/evansville/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Evansville
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | 293.644 |
+> | Y coord| -36.233 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Antinous ![[greenhouse32.png]]
+# Planet 1 - Antinous ![[greenhouse32.png\|greenhouse32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,11 +29,11 @@ dg-publish: true
 2
 0
 
-- ![[rock2.png]] Bowman (medium)
-- ![[oddmoon3.png]] UMU1 (medium)
+- ![[rock2.png\|rock2.png]] Bowman (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] UMU1 (medium)
 
 
-# Planet 2 - Evansville ![[green14.png]]
+# Planet 2 - Evansville ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -62,7 +57,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Epona Belt ![[asteroid2.png]]
+# Planet 3 - Epona Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Adeona ![[gasg21.png]]
+# Planet 4 - Adeona ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -95,12 +90,12 @@ dg-publish: true
 3
 0
 
-- ![[rock12.png]] Glenn (giant)
-- ![[rock13.png]] Archer (giant)
-- ![[rock17.png]] Calhoun (large)
+- ![[rock12.png\|rock12.png]] Glenn (giant)
+- ![[rock13.png\|rock13.png]] Archer (giant)
+- ![[rock17.png\|rock17.png]] Calhoun (large)
 
 
-# Planet 5 - Ntobo ![[gasg30.png]]
+# Planet 5 - Ntobo ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -118,13 +113,13 @@ dg-publish: true
 4
 0
 
-- ![[rock5.png]] Manannan Maclir 1 (large)
-- ![[rock2.png]] Manannan Maclir 2 (medium)
-- ![[oddmoon3.png]] Manannan Maclir 3 (medium)
-- ![[rock9.png]] Manannan Maclir 4 (medium)
+- ![[rock5.png\|rock5.png]] Manannan Maclir 1 (large)
+- ![[rock2.png\|rock2.png]] Manannan Maclir 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Manannan Maclir 3 (medium)
+- ![[rock9.png\|rock9.png]] Manannan Maclir 4 (medium)
 
 
-# Planet 6 - New New Buffalo ![[gasg2.png]]
+# Planet 6 - New New Buffalo ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Dies Pater ![[gasg20.png]]
+# Planet 7 - Dies Pater ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -162,7 +157,7 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon3.png]] Shields (medium)
-- ![[oddmoon1.png]] Nujema (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Shields (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nujema (medium)
 
 

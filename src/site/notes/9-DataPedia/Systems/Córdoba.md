@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Córdoba
-xcood: "-689.778"
-ycood: "1152.488"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cordoba/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Córdoba
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | -689.778 |
+> | Y coord| 1152.488 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Ereshkegal ![[gasg27.png]]
+# Planet 1 - Ereshkegal ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Córdoba ![[wet8.png]]
+# Planet 2 - Córdoba ![[wet8.png\|wet8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ No description available.
 
 
 
-# Planet 3 - Ah Hoya ![[rock6.png]]
+# Planet 3 - Ah Hoya ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ No description available.
 
 
 
-# Planet 4 - Ansar ![[gasg5.png]]
+# Planet 4 - Ansar ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,11 +80,11 @@ No description available.
 
 
 
-- ![[oddmoon2.png]] Y-1 (medium)
-- ![[oddmoon1.png]] Y-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Y-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Y-2 (medium)
 
 
-# Planet 5 - Anshar ![[gasg16.png]]
+# Planet 5 - Anshar ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,7 +101,7 @@ No description available.
 
 
 
-# Planet 6 - González ![[gasg23.png]]
+# Planet 6 - González ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,13 +116,13 @@ No description available.
 
 
 
-- ![[rock9.png]] Z-1 (large)
-- ![[rock7.png]] Z-2 (large)
-- ![[rock1.png]] Z-3 (large)
-- ![[oddmoon1.png]] Z-4 (medium)
+- ![[rock9.png\|rock9.png]] Z-1 (large)
+- ![[rock7.png\|rock7.png]] Z-2 (large)
+- ![[rock1.png\|rock1.png]] Z-3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Z-4 (medium)
 
 
-# Planet 7 - Descanso de Ellil ![[gasg22.png]]
+# Planet 7 - Descanso de Ellil ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,13 +137,13 @@ No description available.
 
 
 
-- ![[rock3.png]] 1N1 (large)
-- ![[rock7.png]] 1N2 (large)
-- ![[rock1.png]] 1N3 (large)
-- ![[rock4.png]] 1N4 (large)
+- ![[rock3.png\|rock3.png]] 1N1 (large)
+- ![[rock7.png\|rock7.png]] 1N2 (large)
+- ![[rock1.png\|rock1.png]] 1N3 (large)
+- ![[rock4.png\|rock4.png]] 1N4 (large)
 
 
-# Planet 8 - Anammelech ![[gasg14.png]]
+# Planet 8 - Anammelech ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,13 +158,13 @@ No description available.
 
 
 
-- ![[rock11.png]] WIS.1 (medium)
-- ![[rock1.png]] WIS.2 (medium)
-- ![[oddmoon1.png]] WIS.3 (medium)
-- ![[rock3.png]] WIS.4 (medium)
+- ![[rock11.png\|rock11.png]] WIS.1 (medium)
+- ![[rock1.png\|rock1.png]] WIS.2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] WIS.3 (medium)
+- ![[rock3.png\|rock3.png]] WIS.4 (medium)
 
 
-# Planet 9 - Tiamat ![[gasg30.png]]
+# Planet 9 - Tiamat ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -184,13 +179,13 @@ No description available.
 
 
 
-- ![[rock16.png]] Xilonen (large)
-- ![[rock14.png]] Tlahuizcalpantecutli (large)
-- ![[rock1.png]] Thridi (large)
-- ![[oddmoon1.png]] Cipactli (medium)
+- ![[rock16.png\|rock16.png]] Xilonen (large)
+- ![[rock14.png\|rock14.png]] Tlahuizcalpantecutli (large)
+- ![[rock1.png\|rock1.png]] Thridi (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Cipactli (medium)
 
 
-# Planet 10 - Frontera de Amurru ![[gasg11.png]]
+# Planet 10 - Frontera de Amurru ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -205,14 +200,14 @@ No description available.
 
 
 
-- ![[rock9.png]] Carmenta (large)
-- ![[rock12.png]] Mars (large)
-- ![[oddmoon2.png]] Kulimina (medium)
-- ![[oddmoon1.png]] Februus (medium)
-- ![[oddmoon3.png]] Mercury (medium)
+- ![[rock9.png\|rock9.png]] Carmenta (large)
+- ![[rock12.png\|rock12.png]] Mars (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Kulimina (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Februus (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Mercury (medium)
 
 
-# Planet 11 - Honey Belt ![[asteroid2.png]]
+# Planet 11 - Honey Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -224,7 +219,7 @@ No description available.
 
 
 
-# Planet 12 - Ishtar ![[gasg3.png]]
+# Planet 12 - Ishtar ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -239,14 +234,14 @@ No description available.
 
 
 
-- ![[rock4.png]] P31 (giant)
-- ![[rock10.png]] P32 (giant)
-- ![[rock8.png]] P33 (large)
-- ![[rock6.png]] P34 (large)
-- ![[rock15.png]] P35 (large)
+- ![[rock4.png\|rock4.png]] P31 (giant)
+- ![[rock10.png\|rock10.png]] P32 (giant)
+- ![[rock8.png\|rock8.png]] P33 (large)
+- ![[rock6.png\|rock6.png]] P34 (large)
+- ![[rock15.png\|rock15.png]] P35 (large)
 
 
-# Planet 13 - Erishkigal's Run ![[gasg29.png]]
+# Planet 13 - Erishkigal's Run ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -261,11 +256,11 @@ No description available.
 
 
 
-- ![[rock16.png]] Gonzáles 1 (medium)
-- ![[rock15.png]] Gonzáles 2 (medium)
+- ![[rock16.png\|rock16.png]] Gonzáles 1 (medium)
+- ![[rock15.png\|rock15.png]] Gonzáles 2 (medium)
 
 
-# Planet 14 - Iahamu ![[iceg9.png]]
+# Planet 14 - Iahamu ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -280,7 +275,7 @@ No description available.
 
 
 
-- ![[rock8.png]] R2E.1 (giant)
-- ![[rock5.png]] R2E.2 (giant)
+- ![[rock8.png\|rock8.png]] R2E.1 (giant)
+- ![[rock5.png\|rock5.png]] R2E.2 (giant)
 
 

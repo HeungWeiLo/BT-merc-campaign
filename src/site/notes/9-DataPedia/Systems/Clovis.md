@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Clovis
-xcood: "180.166"
-ycood: "3.056"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/clovis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Clovis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 180.166 |
+> | Y coord| 3.056 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Clovis ![[green30.png]]
+# Planet 1 - Clovis ![[green30.png\|green30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Daniel (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Daniel (medium)
 
-# Planet 2 - Alcides Belt ![[asteroid2.png]]
+# Planet 2 - Alcides Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Thomas's Harvest ![[gasg32.png]]
+# Planet 3 - Thomas's Harvest ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,9 +58,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Le Fresne-Camilly (large)
+- [[rock11.png\|rock11.png]] Le Fresne-Camilly (large)
 
-# Planet 4 - Fox ![[gasg12.png]]
+# Planet 4 - Fox ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,11 +75,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Old Nick (large)
-- ![[rock3.png]] Jesus (large)
+- ![[rock7.png\|rock7.png]] Old Nick (large)
+- ![[rock3.png\|rock3.png]] Jesus (large)
 
 
-# Planet 5 - Halkerston's Planet ![[gasg17.png]]
+# Planet 5 - Halkerston's Planet ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Kalypso ![[iceg10.png]]
+# Planet 6 - Kalypso ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Suntak (medium)
-- ![[oddmoon2.png]] Dunkirk (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Suntak (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dunkirk (medium)
 
 

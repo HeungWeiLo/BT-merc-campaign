@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cork
-xcood: "525.584"
-ycood: "66.453"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cork/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cork
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 525.584 |
+> | Y coord| 66.453 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - P6K1 ![[barren18.png]]
+# Planet 1 - P6K1 ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - P6K2 ![[rock4.png]]
+# Planet 2 - P6K2 ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - P6K3 ![[greenhouse13.png]]
+# Planet 3 - P6K3 ![[greenhouse13.png\|greenhouse13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -66,9 +61,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Huitaca Chibch (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Huitaca Chibch (medium)
 
-# Planet 4 - Cork ![[green36.png]]
+# Planet 4 - Cork ![[green36.png\|green36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - P6K5 ![[frozen43.png]]
+# Planet 5 - P6K5 ![[frozen43.png\|frozen43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - YLK-1 Belt ![[asteroid2.png]]
+# Planet 6 - YLK-1 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 7 - P6K6 ![[gasg15.png]]
+# Planet 7 - P6K6 ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,7 +133,7 @@ dg-publish: true
 
 
 
-# Planet 8 - P6K7 ![[gasg24.png]]
+# Planet 8 - P6K7 ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -153,17 +148,17 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Kennett 1 (giant)
-- ![[rock16.png]] Kennett 2 (large)
-- ![[rock17.png]] Kennett 3 (large)
-- ![[rock8.png]] Kennett 4 (large)
-- ![[rock6.png]] Kennett 5 (large)
-- ![[rock13.png]] Kennett 6 (large)
-- ![[rock10.png]] Kennett 7 (medium)
-- ![[oddmoon1.png]] Kennett 8 (medium)
+- ![[rock1.png\|rock1.png]] Kennett 1 (giant)
+- ![[rock16.png\|rock16.png]] Kennett 2 (large)
+- ![[rock17.png\|rock17.png]] Kennett 3 (large)
+- ![[rock8.png\|rock8.png]] Kennett 4 (large)
+- ![[rock6.png\|rock6.png]] Kennett 5 (large)
+- ![[rock13.png\|rock13.png]] Kennett 6 (large)
+- ![[rock10.png\|rock10.png]] Kennett 7 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kennett 8 (medium)
 
 
-# Planet 9 - P6K8 ![[gasg9.png]]
+# Planet 9 - P6K8 ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,5 +173,5 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Batara Kala (large)
+- [[rock17.png\|rock17.png]] Batara Kala (large)
 

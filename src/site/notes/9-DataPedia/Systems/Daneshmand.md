@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Daneshmand
-xcood: "-72.122"
-ycood: "-181.031"
-spectralType: M9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/daneshmand/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Daneshmand
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M9V.png]] |
+> | X coord | -72.122 |
+> | Y coord| -181.031 |
+> | Spectral Type | M9V ![[M9V.png\|M9V.png]] |
 
-# Planet 1 - Daneshmand ![[green33.png]]
+# Planet 1 - Daneshmand ![[green33.png\|green33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Campbell's World ![[frozen40.png]]
+# Planet 2 - Campbell's World ![[frozen40.png\|frozen40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Su ![[barren4.png]]
+# Planet 3 - Su ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ptah ![[gasg13.png]]
+# Planet 4 - Ptah ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,12 +84,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Jafari (large)
-- ![[rock2.png]] Ramezani (large)
-- ![[rock6.png]] Karimi (large)
+- ![[rock3.png\|rock3.png]] Jafari (large)
+- ![[rock2.png\|rock2.png]] Ramezani (large)
+- ![[rock6.png\|rock6.png]] Karimi (large)
 
 
-# Planet 5 - Asgari's Patch ![[gasg28.png]]
+# Planet 5 - Asgari's Patch ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,13 +104,13 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Delaney (large)
-- ![[rock6.png]] Vestrheim (large)
-- ![[rock12.png]] Eskandari (medium)
-- ![[oddmoon1.png]] Irani (medium)
+- ![[rock16.png\|rock16.png]] Delaney (large)
+- ![[rock6.png\|rock6.png]] Vestrheim (large)
+- ![[rock12.png\|rock12.png]] Eskandari (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Irani (medium)
 
 
-# Planet 6 - Epiphanes Belt ![[asteroid1.png]]
+# Planet 6 - Epiphanes Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Mehet Uret's Garden ![[iceg2.png]]
+# Planet 7 - Mehet Uret's Garden ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Noori ![[gasg17.png]]
+# Planet 8 - Noori ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,11 +154,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Kerman (large)
-- ![[rock12.png]] Bāgh-e Malek (large)
+- ![[rock14.png\|rock14.png]] Kerman (large)
+- ![[rock12.png\|rock12.png]] Bāgh-e Malek (large)
 
 
-# Planet 9 - Heret ![[iceg18.png]]
+# Planet 9 - Heret ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -178,5 +173,5 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Abdi (giant)
+- [[rock6.png\|rock6.png]] Abdi (giant)
 

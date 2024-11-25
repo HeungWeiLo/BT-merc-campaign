@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Evciler
-xcood: "-95.137"
-ycood: "356.673"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/evciler/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Evciler
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | -95.137 |
+> | Y coord| 356.673 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Evciler ![[green22.png]]
+# Planet 1 - Evciler ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Yenibaşak Belt Alpha ![[asteroid3.png]]
+# Planet 2 - Yenibaşak Belt Alpha ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - EM2 ![[gasg38.png]]
+# Planet 3 - EM2 ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -72,13 +67,13 @@ dg-publish: true
 4
 0
 
-- ![[rock4.png]] Ihsanoglu (large)
-- ![[rock15.png]] Everard (large)
-- ![[oddmoon3.png]] Rahim (medium)
-- ![[oddmoon1.png]] Rûmî (medium)
+- ![[rock4.png\|rock4.png]] Ihsanoglu (large)
+- ![[rock15.png\|rock15.png]] Everard (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Rahim (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Rûmî (medium)
 
 
-# Planet 4 - Yenibaşak Belt Beta ![[asteroid1.png]]
+# Planet 4 - Yenibaşak Belt Beta ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - EM3 ![[iceg11.png]]
+# Planet 5 - EM3 ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -111,12 +106,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Suonetar (medium)
-- ![[rock5.png]] Orhan (medium)
-- ![[oddmoon2.png]] Dua (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Suonetar (medium)
+- ![[rock5.png\|rock5.png]] Orhan (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dua (medium)
 
 
-# Planet 6 - EM4 ![[gasg7.png]]
+# Planet 6 - EM4 ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,12 +129,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon3.png]] Inanc Alpha (medium)
-- ![[rock13.png]] Inanc Beta (medium)
-- ![[oddmoon1.png]] Inanc Gamma (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Inanc Alpha (medium)
+- ![[rock13.png\|rock13.png]] Inanc Beta (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Inanc Gamma (medium)
 
 
-# Planet 7 - EM5 ![[gasg23.png]]
+# Planet 7 - EM5 ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -157,9 +152,9 @@ dg-publish: true
 3
 3
 
-- [[oddmoon3.png]] 1B1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] 1B1 (medium)
 
-# Planet 8 - Yenibaşak Belt Gamma ![[asteroid2.png]]
+# Planet 8 - Yenibaşak Belt Gamma ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -174,7 +169,7 @@ dg-publish: true
 
 
 
-# Planet 9 - EM6 ![[gasg19.png]]
+# Planet 9 - EM6 ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -192,12 +187,12 @@ dg-publish: true
 3
 0
 
-- ![[rock7.png]] Magni (large)
-- ![[rock13.png]] Æsgard (large)
-- ![[rock4.png]] Arif (medium)
+- ![[rock7.png\|rock7.png]] Magni (large)
+- ![[rock13.png\|rock13.png]] Æsgard (large)
+- ![[rock4.png\|rock4.png]] Arif (medium)
 
 
-# Planet 10 - Yenibaşak Belt Delta ![[asteroid3.png]]
+# Planet 10 - Yenibaşak Belt Delta ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -212,7 +207,7 @@ dg-publish: true
 
 
 
-# Planet 11 - EM7 ![[gasg24.png]]
+# Planet 11 - EM7 ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

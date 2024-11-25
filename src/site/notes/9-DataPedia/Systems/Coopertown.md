@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coopertown
-xcood: "-301.667"
-ycood: "-455.141"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coopertown/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coopertown
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -301.667 |
+> | Y coord| -455.141 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Frontier ![[rock16.png]]
+# Planet 1 - Frontier ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Coopertown ![[wet12.png]]
+# Planet 2 - Coopertown ![[wet12.png\|wet12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Corsicana ![[iceg10.png]]
+# Planet 3 - Corsicana ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -68,14 +63,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] XF-1 (large)
-- ![[rock17.png]] XF-2 (large)
-- ![[oddmoon1.png]] XF-3 (medium)
-- ![[oddmoon2.png]] XF-4 (medium)
-- ![[oddmoon3.png]] XF-5 (medium)
+- ![[rock5.png\|rock5.png]] XF-1 (large)
+- ![[rock17.png\|rock17.png]] XF-2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] XF-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] XF-4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] XF-5 (medium)
 
 
-# Planet 4 - Lilburn ![[rock15.png]]
+# Planet 4 - Lilburn ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - San Eduardo ![[frozen60.png]]
+# Planet 5 - San Eduardo ![[frozen60.png\|frozen60.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -110,9 +105,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] R1 (large)
+- [[rock10.png\|rock10.png]] R1 (large)
 
-# Planet 6 - Saint Lowe ![[frozen15.png]]
+# Planet 6 - Saint Lowe ![[frozen15.png\|frozen15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |

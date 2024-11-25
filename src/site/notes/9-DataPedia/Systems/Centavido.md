@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Centavido
-xcood: "257.724"
-ycood: "-368.727"
-spectralType: K0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/centavido/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Centavido
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K0V.png]] |
+> | X coord | 257.724 |
+> | Y coord| -368.727 |
+> | Spectral Type | K0V ![[K0V.png\|K0V.png]] |
 
-# Planet 1 - New Mahdia ![[iceg7.png]]
+# Planet 1 - New Mahdia ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,14 +25,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Erentil A (giant)
-- ![[rock8.png]] Erentil B (giant)
-- ![[rock1.png]] Erentil C (large)
-- ![[rock10.png]] Erentil D (large)
-- ![[rock15.png]] Erentil E (large)
+- ![[rock2.png\|rock2.png]] Erentil A (giant)
+- ![[rock8.png\|rock8.png]] Erentil B (giant)
+- ![[rock1.png\|rock1.png]] Erentil C (large)
+- ![[rock10.png\|rock10.png]] Erentil D (large)
+- ![[rock15.png\|rock15.png]] Erentil E (large)
 
 
-# Planet 2 - Centavido ![[green4.png]]
+# Planet 2 - Centavido ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,7 +53,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Västanfors-Västervåla ![[iceg17.png]]
+# Planet 3 - Västanfors-Västervåla ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -73,13 +68,13 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Hatt (giant)
-- ![[rock8.png]] Jebens (large)
-- ![[rock2.png]] Parker (large)
-- ![[rock14.png]] Conklin (large)
+- ![[rock11.png\|rock11.png]] Hatt (giant)
+- ![[rock8.png\|rock8.png]] Jebens (large)
+- ![[rock2.png\|rock2.png]] Parker (large)
+- ![[rock14.png\|rock14.png]] Conklin (large)
 
 
-# Planet 4 - Kladeruby nad Oslavou ![[gasg38.png]]
+# Planet 4 - Kladeruby nad Oslavou ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -94,9 +89,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Kerr (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Kerr (medium)
 
-# Planet 5 - Ueckermün ![[gasg2.png]]
+# Planet 5 - Ueckermün ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -111,9 +106,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Lokkju (medium)
+- [[rock9.png\|rock9.png]] Lokkju (medium)
 
-# Planet 6 - Weckolsheim ![[gasg31.png]]
+# Planet 6 - Weckolsheim ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -130,7 +125,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Qingcui ![[gasg26.png]]
+# Planet 7 - Qingcui ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -147,7 +142,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Canton de Sinnamary ![[gasg21.png]]
+# Planet 8 - Canton de Sinnamary ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,17 +157,17 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Vamshi I (giant)
-- ![[rock4.png]] Vamshi II (large)
-- ![[rock17.png]] Vamshi III (large)
-- ![[rock16.png]] Vamshi IV (large)
-- ![[rock2.png]] Vamshi V (large)
-- ![[rock14.png]] Vamshi VI (large)
-- ![[oddmoon3.png]] Vamshi VII (medium)
-- ![[oddmoon2.png]] Vamshi VIII (medium)
+- ![[rock8.png\|rock8.png]] Vamshi I (giant)
+- ![[rock4.png\|rock4.png]] Vamshi II (large)
+- ![[rock17.png\|rock17.png]] Vamshi III (large)
+- ![[rock16.png\|rock16.png]] Vamshi IV (large)
+- ![[rock2.png\|rock2.png]] Vamshi V (large)
+- ![[rock14.png\|rock14.png]] Vamshi VI (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Vamshi VII (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Vamshi VIII (medium)
 
 
-# Planet 9 - Southampton ![[gasg3.png]]
+# Planet 9 - Southampton ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,7 +184,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Nobleford ![[gasg17.png]]
+# Planet 10 - Nobleford ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -204,12 +199,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Volos Alpha (large)
-- ![[rock17.png]] Volos Beta (medium)
-- ![[oddmoon2.png]] Volos Gamma (medium)
+- ![[rock16.png\|rock16.png]] Volos Alpha (large)
+- ![[rock17.png\|rock17.png]] Volos Beta (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Volos Gamma (medium)
 
 
-# Planet 11 - Villar del Pedroso ![[gasg24.png]]
+# Planet 11 - Villar del Pedroso ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -224,11 +219,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Blair 1 (large)
-- ![[rock3.png]] Blair 2 (large)
+- ![[rock9.png\|rock9.png]] Blair 1 (large)
+- ![[rock3.png\|rock3.png]] Blair 2 (large)
 
 
-# Planet 12 - B4-1 ![[gasg19.png]]
+# Planet 12 - B4-1 ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -243,5 +238,5 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Cenn Cruach (large)
+- [[rock13.png\|rock13.png]] Cenn Cruach (large)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crevedia
-xcood: "-128.468"
-ycood: "160.226"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crevedia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crevedia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | -128.468 |
+> | Y coord| 160.226 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Ciumeghiu ![[barren16.png]]
+# Planet 1 - Ciumeghiu ![[barren16.png\|barren16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ares ![[rock7.png]]
+# Planet 2 - Ares ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Crevedia ![[green16.png]]
+# Planet 3 - Crevedia ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Epione ![[gasg16.png]]
+# Planet 4 - Epione ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Patch-ul lui Leda ![[gasg7.png]]
+# Planet 5 - Patch-ul lui Leda ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

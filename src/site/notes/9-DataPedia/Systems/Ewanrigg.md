@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ewanrigg
-xcood: "-330.86"
-ycood: "287.4"
-spectralType: M2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ewanrigg/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ewanrigg
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M2V.png]] |
+> | X coord | -330.86 |
+> | Y coord| 287.4 |
+> | Spectral Type | M2V ![[M2V.png\|M2V.png]] |
 
-# Planet 1 - Ewanrigg ![[green16.png]]
+# Planet 1 - Ewanrigg ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Veles ![[gasg35.png]]
+# Planet 2 - Veles ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -57,13 +52,13 @@ dg-publish: true
 4
 0
 
-- ![[rock1.png]] Baḍākholā Alpha (large)
-- ![[rock4.png]] Baḍākholā Beta (large)
-- ![[oddmoon2.png]] Baḍākholā Gamma (medium)
-- ![[oddmoon1.png]] Baḍākholā Delta (medium)
+- ![[rock1.png\|rock1.png]] Baḍākholā Alpha (large)
+- ![[rock4.png\|rock4.png]] Baḍākholā Beta (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Baḍākholā Gamma (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Baḍākholā Delta (medium)
 
 
-# Planet 3 - Chikumbu's Belt ![[asteroid2.png]]
+# Planet 3 - Chikumbu's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -78,7 +73,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Czernobog's Ship ![[gasg14.png]]
+# Planet 4 - Czernobog's Ship ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -96,14 +91,14 @@ dg-publish: true
 5
 0
 
-- ![[rock12.png]] Nuada Argatlam (large)
-- ![[rock7.png]] Nizam (medium)
-- ![[rock16.png]] Morrigu (medium)
-- ![[rock13.png]] Kawawe (medium)
-- ![[oddmoon2.png]] Idi (medium)
+- ![[rock12.png\|rock12.png]] Nuada Argatlam (large)
+- ![[rock7.png\|rock7.png]] Nizam (medium)
+- ![[rock16.png\|rock16.png]] Morrigu (medium)
+- ![[rock13.png\|rock13.png]] Kawawe (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Idi (medium)
 
 
-# Planet 5 - Belobog ![[gasg1.png]]
+# Planet 5 - Belobog ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,15 +116,15 @@ dg-publish: true
 6
 0
 
-- ![[rock17.png]] Inada Samadulo Hosi I (large)
-- ![[rock7.png]] Inada Samadulo Hosi II (large)
-- ![[rock14.png]] Inada Samadulo Hosi III (large)
-- ![[rock6.png]] Inada Samadulo Hosi IV (large)
-- ![[rock2.png]] Inada Samadulo Hosi V (large)
-- ![[rock15.png]] Inada Samadulo Hosi VI (medium)
+- ![[rock17.png\|rock17.png]] Inada Samadulo Hosi I (large)
+- ![[rock7.png\|rock7.png]] Inada Samadulo Hosi II (large)
+- ![[rock14.png\|rock14.png]] Inada Samadulo Hosi III (large)
+- ![[rock6.png\|rock6.png]] Inada Samadulo Hosi IV (large)
+- ![[rock2.png\|rock2.png]] Inada Samadulo Hosi V (large)
+- ![[rock15.png\|rock15.png]] Inada Samadulo Hosi VI (medium)
 
 
-# Planet 6 - Dolya ![[gasg7.png]]
+# Planet 6 - Dolya ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,9 +142,9 @@ dg-publish: true
 3
 8
 
-- [[rock6.png]] Pofadder (medium)
+- [[rock6.png\|rock6.png]] Pofadder (medium)
 
-# Planet 7 - Domovoi ![[gasg33.png]]
+# Planet 7 - Domovoi ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -167,5 +162,5 @@ dg-publish: true
 3
 8
 
-- [[rock11.png]] Wartburg (large)
+- [[rock11.png\|rock11.png]] Wartburg (large)
 

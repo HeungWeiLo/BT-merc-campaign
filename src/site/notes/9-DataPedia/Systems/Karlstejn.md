@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Karlstejn
-xcood: "-52.468"
-ycood: "-290.763"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/karlstejn/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Karlstejn
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | -52.468 |
+> | Y coord| -290.763 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Chnuphis ![[iceg2.png]]
+# Planet 1 - Chnuphis ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Iah Djuhty ![[barren19.png]]
+# Planet 2 - Iah Djuhty ![[barren19.png\|barren19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Karlstejn ![[green11.png]]
+# Planet 3 - Karlstejn ![[green11.png\|green11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Menchit ![[frozen51.png]]
+# Planet 4 - Menchit ![[frozen51.png\|frozen51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,7 +98,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Osiris ![[gasg38.png]]
+# Planet 5 - Osiris ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,14 +116,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Khonsu ![[gasg31.png]]
+# Planet 6 - Khonsu ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -148,7 +143,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Šu ![[iceg16.png]]
+# Planet 7 - Šu ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -166,12 +161,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Sakhmet ![[frozen59.png]]
+# Planet 8 - Sakhmet ![[frozen59.png\|frozen59.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -192,9 +187,9 @@ dg-publish: true
 3
 7
 
-- [[rock11.png]] Polewik (medium)
+- [[rock11.png\|rock11.png]] Polewik (medium)
 
-# Planet 9 - Tatenen ![[gasg1.png]]
+# Planet 9 - Tatenen ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -212,14 +207,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Sokar ![[gasg35.png]]
+# Planet 10 - Sokar ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -239,7 +234,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Bes ![[gasg20.png]]
+# Planet 11 - Bes ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

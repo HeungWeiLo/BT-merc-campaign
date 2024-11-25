@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Exeter
-xcood: "188.432"
-ycood: "-8.057"
-spectralType: A9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/exeter/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Exeter
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[A9V.png]] |
+> | X coord | 188.432 |
+> | Y coord| -8.057 |
+> | Spectral Type | A9V ![[A9V.png\|A9V.png]] |
 
-# Planet 1 - Whiteface ![[rock13.png]]
+# Planet 1 - Whiteface ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Rayne ![[rock10.png]]
+# Planet 2 - Rayne ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,7 +50,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Six Mile Grove ![[rock6.png]]
+# Planet 3 - Six Mile Grove ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Lyman ![[rock8.png]]
+# Planet 4 - Lyman ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -94,9 +89,9 @@ dg-publish: true
 3
 14
 
-- [[oddmoon1.png]] Ping Deng Wang (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Ping Deng Wang (medium)
 
-# Planet 5 - Scandia ![[rock4.png]]
+# Planet 5 - Scandia ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-# Planet 6 - DeL ![[frozen2.png]]
+# Planet 6 - DeL ![[frozen2.png\|frozen2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -136,11 +131,11 @@ dg-publish: true
 2
 0
 
-- ![[rock11.png]] Fortuna (medium)
-- ![[rock3.png]] Vesta (medium)
+- ![[rock11.png\|rock11.png]] Fortuna (medium)
+- ![[rock3.png\|rock3.png]] Vesta (medium)
 
 
-# Planet 7 - Exeter ![[green4.png]]
+# Planet 7 - Exeter ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -164,7 +159,7 @@ Exeter’s four continents are primarily covered in dense jungle and the hot, hi
 
 
 
-# Planet 8 - Az Zabadānī ![[frozen8.png]]
+# Planet 8 - Az Zabadānī ![[frozen8.png\|frozen8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -185,8 +180,8 @@ Exeter’s four continents are primarily covered in dense jungle and the hot, hi
 3
 0
 
-- ![[oddmoon2.png]] Achilles (medium)
-- ![[oddmoon1.png]] Achilles (medium)
-- ![[rock1.png]] Carlos Manuel de Céspedes (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Achilles (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Achilles (medium)
+- ![[rock1.png\|rock1.png]] Carlos Manuel de Céspedes (medium)
 
 

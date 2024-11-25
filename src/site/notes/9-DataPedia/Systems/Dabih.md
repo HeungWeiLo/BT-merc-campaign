@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dabih
-xcood: "59.968"
-ycood: "83.504"
-spectralType: F0IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dabih/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dabih
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0IV.png]] |
+> | X coord | 59.968 |
+> | Y coord| 83.504 |
+> | Spectral Type | F0IV ![[F0IV.png\|F0IV.png]] |
 
-# Planet 1 - Dabih ![[green38.png]]
+# Planet 1 - Dabih ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Muslim faith, who were drawn to the planet‘s lush forests and large, deep oceans. Shortly after the discovery of the planet, however, came the equally welcome revelation that  its large, innermost moon, Shakhi, was also suitable for colonization, possessing a breathable—if thin—atmosphere and enough free-standing water to sustain a limited ecosystem. Finding themselves gifted with two worlds for the price of one, the Azami settled Dabih and Shakhi with equal determination. As Shakhi‘s delicate environment could not support more than a basic agricultural industry, the newborn Dabih planetary leadership decreed the moon would be the planet‘s ―breadbasket. This freed the planetary-based industries to use more land and resources for heavy manufacturing and mining ventures. Unfortunately, neither plan turned out well. Shakhi‘s soil proved difficult to work and could support only a few grain crops without extensive bioengineering, while many of Dabih‘s valuable veins of metals and chemicals lay deep within the planet‘s crust, requiring extreme efforts to locate and exploit. Almost a century after the first cities appeared, however, Dabih‘s luck changed when a vast, rich vein of crude oil was discovered beneath the frozen lands of Garalash, the southern polar continent. Natural gas pockets, located by offshore mining operations, soon gave the planet a major resource for use in trade with other worlds. By the 26th century, Dabih had become a major exporter of refined hydrocarbon fuels, for use in everything from small power generators to heavy aircraft engines. Shakhi, meanwhile, had stagnated, a world of rugged prairies and sparse farmlands, used mainly as a way station between the planet and its jump point. Defending forces assigned to Dabih used the lunar surface as a base of operations for their aerospace elements, a strategy that helped thwart many raids and attempted invasions during the Succession Wars. It even helped the local Azami resist the Combine leadership‘s efforts to rein in their culture. Today, Dabih remains the economic and industrial core of the two-world microcosm, with Shakhi as its quiet guardian overhead. The capital for both worlds is Barheilabad, located on the equatorial continent of Zairikesh on Dabih. Dabih is also home to the primary commercial spaceport city of Kentiles, on the eastern coast of the northern Ludesi continent, the third of Dabih‘s major landmasses. Shakhi, with far less water than Dabih, is home to the military settlement of Garhenna, on the northern lunar continent of North Shakhiseh. Farmlands dominate much of the southern lunar continent, Jidharo.
 
-- ![[rock17.png]] El-Arabi (medium)
-- ![[oddmoon2.png]] Lorial (medium)
-- ![[rock14.png]] Shakhi (giant)
+- ![[rock17.png\|rock17.png]] El-Arabi (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lorial (medium)
+- ![[rock14.png\|rock14.png]] Shakhi (giant)
 
 
-# Planet 2 - Nowy Huron ![[greenhouse7.png]]
+# Planet 2 - Nowy Huron ![[greenhouse7.png\|greenhouse7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -57,7 +52,7 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-# Planet 3 - Bemwa ![[rock15.png]]
+# Planet 3 - Bemwa ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-# Planet 4 - Nowy Miękinia ![[barren2.png]]
+# Planet 4 - Nowy Miękinia ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,11 +86,11 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- ![[oddmoon2.png]] Ankiewicz (medium)
-- ![[rock5.png]] Rybak (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ankiewicz (medium)
+- ![[rock5.png\|rock5.png]] Rybak (medium)
 
 
-# Planet 5 - Solec-Zdrój ![[barren12.png]]
+# Planet 5 - Solec-Zdrój ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -111,9 +106,9 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- [[rock10.png]] San Juan Gran (medium)
+- [[rock10.png\|rock10.png]] San Juan Gran (medium)
 
-# Planet 6 - Saad's Belt ![[asteroid3.png]]
+# Planet 6 - Saad's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -125,7 +120,7 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-# Planet 7 - Grabowski ![[gasg9.png]]
+# Planet 7 - Grabowski ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,13 +135,13 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- ![[rock11.png]] Radzanowo (large)
-- ![[rock13.png]] Wilków (large)
-- ![[rock17.png]] Tabuenca (large)
-- ![[rock1.png]] Warmińsko-Mazurskie (medium)
+- ![[rock11.png\|rock11.png]] Radzanowo (large)
+- ![[rock13.png\|rock13.png]] Wilków (large)
+- ![[rock17.png\|rock17.png]] Tabuenca (large)
+- ![[rock1.png\|rock1.png]] Warmińsko-Mazurskie (medium)
 
 
-# Planet 8 - Dębica ![[gasg1.png]]
+# Planet 8 - Dębica ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,11 +156,11 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- ![[oddmoon2.png]] Ibsen 1 (medium)
-- ![[rock14.png]] Ibsen 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ibsen 1 (medium)
+- ![[rock14.png\|rock14.png]] Ibsen 2 (medium)
 
 
-# Planet 9 - Nowy Liw ![[gasg11.png]]
+# Planet 9 - Nowy Liw ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,12 +175,12 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- ![[rock3.png]] Artemis I (large)
-- ![[rock6.png]] Artemis II (large)
-- ![[rock1.png]] Artemis III (medium)
+- ![[rock3.png\|rock3.png]] Artemis I (large)
+- ![[rock6.png\|rock6.png]] Artemis II (large)
+- ![[rock1.png\|rock1.png]] Artemis III (medium)
 
 
-# Planet 10 - Dzierwa ![[gasg34.png]]
+# Planet 10 - Dzierwa ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -200,5 +195,5 @@ Another of the so-called Azami worlds, Dabih was settled by pilgrims of the Musl
 
 
 
-- [[oddmoon3.png]] P1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] P1 (medium)
 

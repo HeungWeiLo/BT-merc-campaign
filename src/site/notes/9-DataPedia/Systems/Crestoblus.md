@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crestoblus
-xcood: "452.156"
-ycood: "102.526"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crestoblus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crestoblus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 452.156 |
+> | Y coord| 102.526 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Provost ![[rock3.png]]
+# Planet 1 - Provost ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Nova PanevėžysMunicipality ![[rock16.png]]
+# Planet 2 - Nova PanevėžysMunicipality ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Nova Taladong ![[green31.png]]
+# Planet 3 - Nova Taladong ![[green31.png\|green31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Minto (medium)
-- ![[rock10.png]] Ramírez (medium)
-- ![[oddmoon3.png]] Pihuechenyi (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Minto (medium)
+- ![[rock10.png\|rock10.png]] Ramírez (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Pihuechenyi (medium)
 
 
-# Planet 4 - Crestoblus ![[green11.png]]
+# Planet 4 - Crestoblus ![[green11.png\|green11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Kushima ![[rock17.png]]
+# Planet 5 - Kushima ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Horseshoe Beach ![[rock16.png]]
+# Planet 6 - Horseshoe Beach ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -128,7 +123,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Kushchëvskiy ![[gasg21.png]]
+# Planet 7 - Kushchëvskiy ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,12 +138,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] V5P1 (medium)
-- ![[oddmoon1.png]] V5P2 (medium)
-- ![[rock7.png]] V5P3 (medium)
+- ![[rock12.png\|rock12.png]] V5P1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] V5P2 (medium)
+- ![[rock7.png\|rock7.png]] V5P3 (medium)
 
 
-# Planet 8 - Kecamatan Lubuk Baja Belt ![[asteroid3.png]]
+# Planet 8 - Kecamatan Lubuk Baja Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -160,7 +155,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Ruffrè-Mendola ![[gasg29.png]]
+# Planet 9 - Ruffrè-Mendola ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,11 +170,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Bishop I (medium)
-- ![[rock9.png]] Bishop II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bishop I (medium)
+- ![[rock9.png\|rock9.png]] Bishop II (medium)
 
 
-# Planet 10 - Ninhue ![[gasg9.png]]
+# Planet 10 - Ninhue ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -194,12 +189,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Qudshu (medium)
-- ![[oddmoon1.png]] Chellappan (medium)
-- ![[rock6.png]] Voorneveld (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Qudshu (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Chellappan (medium)
+- ![[rock6.png\|rock6.png]] Voorneveld (medium)
 
 
-# Planet 11 - Taivassalo ![[gasg3.png]]
+# Planet 11 - Taivassalo ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,14 +209,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] 5BE-1 (large)
-- ![[oddmoon1.png]] 5BE-2 (medium)
-- ![[oddmoon2.png]] 5BE-3 (medium)
-- ![[rock9.png]] 5BE-4 (medium)
-- ![[oddmoon3.png]] 5BE-5 (medium)
+- ![[rock5.png\|rock5.png]] 5BE-1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 5BE-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 5BE-3 (medium)
+- ![[rock9.png\|rock9.png]] 5BE-4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 5BE-5 (medium)
 
 
-# Planet 12 - Pedraza La Vieja ![[gasg23.png]]
+# Planet 12 - Pedraza La Vieja ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -236,7 +231,7 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Luna (large)
-- ![[rock14.png]] Volcanus (large)
+- ![[rock7.png\|rock7.png]] Luna (large)
+- ![[rock14.png\|rock14.png]] Volcanus (large)
 
 

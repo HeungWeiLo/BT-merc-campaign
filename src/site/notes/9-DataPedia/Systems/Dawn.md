@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dawn
-xcood: "29.194"
-ycood: "375.286"
-spectralType: M9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dawn/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dawn
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M9V.png]] |
+> | X coord | 29.194 |
+> | Y coord| 375.286 |
+> | Spectral Type | M9V ![[M9V.png\|M9V.png]] |
 
-# Planet 1 - Dawn ![[green51.png]]
+# Planet 1 - Dawn ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Areon ![[frozen26.png]]
+# Planet 2 - Areon ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Tantalus ![[frozen58.png]]
+# Planet 3 - Tantalus ![[frozen58.png\|frozen58.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,9 +69,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Lir (large)
+- [[rock3.png\|rock3.png]] Lir (large)
 
-# Planet 4 - Boreads ![[gasg29.png]]
+# Planet 4 - Boreads ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -91,13 +86,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Tetsworth (medium)
-- ![[rock13.png]] Yopal (medium)
-- ![[rock11.png]] Vicksburg (medium)
-- ![[oddmoon2.png]] Liskeard (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tetsworth (medium)
+- ![[rock13.png\|rock13.png]] Yopal (medium)
+- ![[rock11.png\|rock11.png]] Vicksburg (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Liskeard (medium)
 
 
-# Planet 5 - Lucan ![[gasg9.png]]
+# Planet 5 - Lucan ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -112,9 +107,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] MU31 (large)
+- [[rock10.png\|rock10.png]] MU31 (large)
 
-# Planet 6 - Sibyls ![[gasg12.png]]
+# Planet 6 - Sibyls ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,12 +124,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] L1 (medium)
-- ![[oddmoon1.png]] L2 (medium)
-- ![[rock2.png]] L3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] L1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] L2 (medium)
+- ![[rock2.png\|rock2.png]] L3 (medium)
 
 
-# Planet 7 - Enyalius ![[gasg31.png]]
+# Planet 7 - Enyalius ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -149,9 +144,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] LI-1 (large)
+- [[rock1.png\|rock1.png]] LI-1 (large)
 
-# Planet 8 - Tester's Field ![[gasg3.png]]
+# Planet 8 - Tester's Field ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,17 +161,17 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Dechtiré I (giant)
-- ![[rock6.png]] Dechtiré II (giant)
-- ![[rock10.png]] Dechtiré III (large)
-- ![[rock15.png]] Dechtiré IV (large)
-- ![[rock12.png]] Dechtiré V (medium)
-- ![[oddmoon3.png]] Dechtiré VI (medium)
-- ![[rock11.png]] Dechtiré VII (medium)
-- ![[oddmoon1.png]] Dechtiré VIII (medium)
+- ![[rock4.png\|rock4.png]] Dechtiré I (giant)
+- ![[rock6.png\|rock6.png]] Dechtiré II (giant)
+- ![[rock10.png\|rock10.png]] Dechtiré III (large)
+- ![[rock15.png\|rock15.png]] Dechtiré IV (large)
+- ![[rock12.png\|rock12.png]] Dechtiré V (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Dechtiré VI (medium)
+- ![[rock11.png\|rock11.png]] Dechtiré VII (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dechtiré VIII (medium)
 
 
-# Planet 9 - Cynthia ![[gasg22.png]]
+# Planet 9 - Cynthia ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -191,8 +186,8 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Morrigu I (medium)
-- ![[rock9.png]] Morrigu II (medium)
-- ![[rock14.png]] Morrigu III (medium)
+- ![[rock17.png\|rock17.png]] Morrigu I (medium)
+- ![[rock9.png\|rock9.png]] Morrigu II (medium)
+- ![[rock14.png\|rock14.png]] Morrigu III (medium)
 
 

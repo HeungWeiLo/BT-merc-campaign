@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kawabe
-xcood: "240.646"
-ycood: "135.661"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kawabe/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kawabe
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 240.646 |
+> | Y coord| 135.661 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Kawabe ![[green30.png]]
+# Planet 1 - Kawabe ![[green30.png\|green30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Zhi Nu Belt ![[asteroid1.png]]
+# Planet 2 - Zhi Nu Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Takami Musubi ![[gasg4.png]]
+# Planet 3 - Takami Musubi ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -72,12 +67,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 4 - Kannon Bosatsu ![[gasg2.png]]
+# Planet 4 - Kannon Bosatsu ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -95,14 +90,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Miroku ![[gasg7.png]]
+# Planet 5 - Miroku ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,17 +115,17 @@ dg-publish: true
 8
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Hoderi No Mikoto ![[gasg21.png]]
+# Planet 6 - Hoderi No Mikoto ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -148,14 +143,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Jimmu Teno ![[iceg12.png]]
+# Planet 7 - Jimmu Teno ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -173,15 +168,15 @@ dg-publish: true
 6
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Honosuseri ![[gasg37.png]]
+# Planet 8 - Honosuseri ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -199,9 +194,9 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

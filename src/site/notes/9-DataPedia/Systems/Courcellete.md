@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Courcellete
-xcood: "141.65"
-ycood: "-310.772"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/courcellete/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Courcellete
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 141.65 |
+> | Y coord| -310.772 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Huallallo's Harvest ![[gasg7.png]]
+# Planet 1 - Huallallo's Harvest ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chiminigagua ![[barren16.png]]
+# Planet 2 - Chiminigagua ![[barren16.png\|barren16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -48,9 +43,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Orati (medium)
+- [[rock11.png\|rock11.png]] Orati (medium)
 
-# Planet 3 - Courcellete ![[green43.png]]
+# Planet 3 - Courcellete ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Huecuve ![[iceg18.png]]
+# Planet 4 - Huecuve ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -86,11 +81,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] 7X31 (medium)
-- ![[rock17.png]] 7X32 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 7X31 (medium)
+- ![[rock17.png\|rock17.png]] 7X32 (medium)
 
 
-# Planet 5 - Chuchaviva ![[barren15.png]]
+# Planet 5 - Chuchaviva ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Pihuechenyi ![[gasg30.png]]
+# Planet 6 - Pihuechenyi ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,9 +118,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Mephitis (large)
+- [[rock3.png\|rock3.png]] Mephitis (large)
 
-# Planet 7 - Anatiwa ![[gasg6.png]]
+# Planet 7 - Anatiwa ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,15 +135,15 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Mar'yanovskoye (large)
-- ![[rock13.png]] San Gregorio nelle Alpi (large)
-- ![[rock4.png]] Prairie Farm (large)
-- ![[rock1.png]] Retter (large)
-- ![[rock9.png]] Pa Hsien (medium)
-- ![[rock7.png]] Virton (medium)
+- ![[rock15.png\|rock15.png]] Mar'yanovskoye (large)
+- ![[rock13.png\|rock13.png]] San Gregorio nelle Alpi (large)
+- ![[rock4.png\|rock4.png]] Prairie Farm (large)
+- ![[rock1.png\|rock1.png]] Retter (large)
+- ![[rock9.png\|rock9.png]] Pa Hsien (medium)
+- ![[rock7.png\|rock7.png]] Virton (medium)
 
 
-# Planet 8 - Chia ![[gasg11.png]]
+# Planet 8 - Chia ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,7 +160,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Frost Giants ![[gasg5.png]]
+# Planet 9 - Frost Giants ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,15 +175,15 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] M1 (large)
-- ![[rock9.png]] M2 (large)
-- ![[rock15.png]] M3 (medium)
-- ![[oddmoon2.png]] M4 (medium)
-- ![[oddmoon1.png]] M5 (medium)
-- ![[rock16.png]] M6 (medium)
+- ![[rock10.png\|rock10.png]] M1 (large)
+- ![[rock9.png\|rock9.png]] M2 (large)
+- ![[rock15.png\|rock15.png]] M3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] M4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] M5 (medium)
+- ![[rock16.png\|rock16.png]] M6 (medium)
 
 
-# Planet 10 - Kururumany ![[iceg13.png]]
+# Planet 10 - Kururumany ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -203,13 +198,13 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Mi Lo Fo 1 (large)
-- ![[rock5.png]] Mi Lo Fo 2 (large)
-- ![[rock7.png]] Mi Lo Fo 3 (large)
-- ![[rock11.png]] Mi Lo Fo 4 (medium)
+- ![[rock3.png\|rock3.png]] Mi Lo Fo 1 (large)
+- ![[rock5.png\|rock5.png]] Mi Lo Fo 2 (large)
+- ![[rock7.png\|rock7.png]] Mi Lo Fo 3 (large)
+- ![[rock11.png\|rock11.png]] Mi Lo Fo 4 (medium)
 
 
-# Planet 11 - Siarnaq Belt ![[asteroid1.png]]
+# Planet 11 - Siarnaq Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

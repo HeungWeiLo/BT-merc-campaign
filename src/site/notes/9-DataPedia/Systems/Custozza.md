@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Custozza
-xcood: "-544.644"
-ycood: "355.231"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/custozza/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Custozza
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | -544.644 |
+> | Y coord| 355.231 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Mosquito ![[rock8.png]]
+# Planet 1 - Mosquito ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Custozza ![[green33.png]]
+# Planet 2 - Custozza ![[green33.png\|green33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Aoujeft ![[green10.png]]
+# Planet 3 - Aoujeft ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,11 +67,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Hehet (medium)
-- ![[rock1.png]] Toeris (medium)
+- ![[rock16.png\|rock16.png]] Hehet (medium)
+- ![[rock1.png\|rock1.png]] Toeris (medium)
 
 
-# Planet 4 - Suttung ![[gasg30.png]]
+# Planet 4 - Suttung ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Hotei Osho ![[gasg8.png]]
+# Planet 5 - Hotei Osho ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,9 +103,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] NP1 (large)
+- [[rock13.png\|rock13.png]] NP1 (large)
 
-# Planet 6 - Gerda ![[gasg1.png]]
+# Planet 6 - Gerda ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Kalsi ![[gasg38.png]]
+# Planet 7 - Kalsi ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,13 +137,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Vokoun I (medium)
-- ![[rock1.png]] Vokoun II (medium)
-- ![[oddmoon3.png]] Vokoun III (medium)
-- ![[rock8.png]] Vokoun IV (medium)
+- ![[rock14.png\|rock14.png]] Vokoun I (medium)
+- ![[rock1.png\|rock1.png]] Vokoun II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Vokoun III (medium)
+- ![[rock8.png\|rock8.png]] Vokoun IV (medium)
 
 
-# Planet 8 - Suamico ![[gasg16.png]]
+# Planet 8 - Suamico ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,14 +158,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Bao (large)
-- ![[rock16.png]] Go (large)
-- ![[rock8.png]] Banebtetet (large)
-- ![[rock10.png]] Ammon (large)
-- ![[oddmoon3.png]] Takahashi (medium)
+- ![[rock2.png\|rock2.png]] Bao (large)
+- ![[rock16.png\|rock16.png]] Go (large)
+- ![[rock8.png\|rock8.png]] Banebtetet (large)
+- ![[rock10.png\|rock10.png]] Ammon (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Takahashi (medium)
 
 
-# Planet 9 - Naik ![[gasg31.png]]
+# Planet 9 - Naik ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,5 +180,5 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Yeshua (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Yeshua (medium)
 

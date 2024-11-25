@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coromodir
-xcood: "92.158"
-ycood: "-466.511"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coromodir/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coromodir
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | 92.158 |
+> | Y coord| -466.511 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Heard ![[greenhouse29.png]]
+# Planet 1 - Heard ![[greenhouse29.png\|greenhouse29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] T-1 (medium)
-- ![[oddmoon3.png]] T-2 (medium)
-- ![[oddmoon2.png]] T-3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] T-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] T-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] T-3 (medium)
 
 
-# Planet 2 - Butler ![[iceg6.png]]
+# Planet 2 - Butler ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,14 +46,14 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Freya Alpha (large)
-- ![[rock4.png]] Freya Beta (large)
-- ![[rock17.png]] Freya Gamma (medium)
-- ![[rock15.png]] Freya Delta (medium)
-- ![[oddmoon3.png]] Freya Epsilon (medium)
+- ![[rock3.png\|rock3.png]] Freya Alpha (large)
+- ![[rock4.png\|rock4.png]] Freya Beta (large)
+- ![[rock17.png\|rock17.png]] Freya Gamma (medium)
+- ![[rock15.png\|rock15.png]] Freya Delta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Freya Epsilon (medium)
 
 
-# Planet 3 - Lane ![[gasg32.png]]
+# Planet 3 - Lane ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Spotsylvania Belt ![[asteroid2.png]]
+# Planet 4 - Spotsylvania Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Coromodir V ![[frozen15.png]]
+# Planet 5 - Coromodir V ![[frozen15.png\|frozen15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Tatur (small)
+- [[rock13.png\|rock13.png]] Tatur (small)
 
-# Planet 6 - Coromodir ![[green42.png]]
+# Planet 6 - Coromodir ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -129,7 +124,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Jackson's Planet ![[gasg29.png]]
+# Planet 7 - Jackson's Planet ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Viel ![[gasg22.png]]
+# Planet 8 - Viel ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -163,7 +158,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Thirtle ![[iceg18.png]]
+# Planet 9 - Thirtle ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -180,7 +175,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Far Coromodir Belt ![[asteroid3.png]]
+# Planet 10 - Far Coromodir Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -192,7 +187,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Coromodir XI ![[gasg13.png]]
+# Planet 11 - Coromodir XI ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -207,8 +202,8 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Coromodir XI IIX (large)
-- ![[rock10.png]] Coromodir XI X (medium)
-- ![[oddmoon1.png]] Coromodir XI XV (medium)
+- ![[rock8.png\|rock8.png]] Coromodir XI IIX (large)
+- ![[rock10.png\|rock10.png]] Coromodir XI X (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Coromodir XI XV (medium)
 
 

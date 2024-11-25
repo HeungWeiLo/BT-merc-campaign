@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cyrton
-xcood: "364.13"
-ycood: "-343.269"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cyrton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cyrton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | 364.13 |
+> | Y coord| -343.269 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Burianov ![[greenhouse5.png]]
+# Planet 1 - Burianov ![[greenhouse5.png\|greenhouse5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Brunt ![[barren1.png]]
+# Planet 2 - Brunt ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Mickiewicz ![[gasg26.png]]
+# Planet 3 - Mickiewicz ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -66,12 +61,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Benadonner A (medium)
-- ![[oddmoon2.png]] Benadonner B (medium)
-- ![[oddmoon3.png]] Benadonner C (medium)
+- ![[rock17.png\|rock17.png]] Benadonner A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Benadonner B (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Benadonner C (medium)
 
 
-# Planet 4 - Cyrton ![[green1.png]]
+# Planet 4 - Cyrton ![[green1.png\|green1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Tassioglou ![[gasg22.png]]
+# Planet 5 - Tassioglou ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Weles ![[frozen47.png]]
+# Planet 6 - Weles ![[frozen47.png\|frozen47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -129,7 +124,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Swinton's End ![[gasg9.png]]
+# Planet 7 - Swinton's End ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,14 +139,14 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Sōma I (giant)
-- ![[rock17.png]] Sōma II (giant)
-- ![[oddmoon2.png]] Sōma III (medium)
-- ![[oddmoon1.png]] Sōma IV (medium)
-- ![[oddmoon3.png]] Sōma V (medium)
+- ![[rock8.png\|rock8.png]] Sōma I (giant)
+- ![[rock17.png\|rock17.png]] Sōma II (giant)
+- ![[oddmoon2.png\|oddmoon2.png]] Sōma III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sōma IV (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sōma V (medium)
 
 
-# Planet 8 - Rouhiainen ![[gasg6.png]]
+# Planet 8 - Rouhiainen ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,8 +161,8 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] YL5-1 (medium)
-- ![[rock14.png]] YL5-2 (medium)
-- ![[oddmoon3.png]] YL5-3 (medium)
+- ![[rock6.png\|rock6.png]] YL5-1 (medium)
+- ![[rock14.png\|rock14.png]] YL5-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] YL5-3 (medium)
 
 

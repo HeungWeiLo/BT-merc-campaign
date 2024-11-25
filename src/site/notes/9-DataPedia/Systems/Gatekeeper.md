@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gatekeeper
-xcood: "-22.586"
-ycood: "1779.374"
-spectralType: B0III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gatekeeper/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gatekeeper
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[B0III.png]] |
+> | X coord | -22.586 |
+> | Y coord| 1779.374 |
+> | Spectral Type | B0III ![[B0III.png\|B0III.png]] |
 
-# Planet 1 - Fenrir ![[rock5.png]]
+# Planet 1 - Fenrir ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gatekeeper ![[dry23.png]]
+# Planet 2 - Gatekeeper ![[dry23.png\|dry23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -57,9 +52,9 @@ No description available.
 3
 9
 
-- [[rock3.png]] Oromasdes (large)
+- [[rock3.png\|rock3.png]] Oromasdes (large)
 
-# Planet 3 - Odin ![[gasg9.png]]
+# Planet 3 - Odin ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -79,7 +74,7 @@ No description available.
 
 
 
-# Planet 4 - Colbert ![[rock14.png]]
+# Planet 4 - Colbert ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -99,7 +94,7 @@ No description available.
 
 
 
-# Planet 5 - Asgard's Redoubt ![[iceg17.png]]
+# Planet 5 - Asgard's Redoubt ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -117,12 +112,12 @@ No description available.
 3
 0
 
-- ![[rock15.png]] 4871 (large)
-- ![[rock1.png]] 4872 (large)
-- ![[rock11.png]] 4873 (large)
+- ![[rock15.png\|rock15.png]] 4871 (large)
+- ![[rock1.png\|rock1.png]] 4872 (large)
+- ![[rock11.png\|rock11.png]] 4873 (large)
 
 
-# Planet 6 - Svartálfheimr ![[barren17.png]]
+# Planet 6 - Svartálfheimr ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -141,12 +136,12 @@ No description available.
 3
 0
 
-- ![[rock3.png]] Lozano (medium)
-- ![[oddmoon3.png]] Whitley (medium)
-- ![[rock11.png]] Aellopos (medium)
+- ![[rock3.png\|rock3.png]] Lozano (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Whitley (medium)
+- ![[rock11.png\|rock11.png]] Aellopos (medium)
 
 
-# Planet 7 - Goðheimar ![[barren5.png]]
+# Planet 7 - Goðheimar ![[barren5.png\|barren5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -167,7 +162,7 @@ No description available.
 
 
 
-# Planet 8 - MacNiven ![[barren3.png]]
+# Planet 8 - MacNiven ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -188,7 +183,7 @@ No description available.
 
 
 
-# Planet 9 - Njörðr's Choice ![[iceg7.png]]
+# Planet 9 - Njörðr's Choice ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

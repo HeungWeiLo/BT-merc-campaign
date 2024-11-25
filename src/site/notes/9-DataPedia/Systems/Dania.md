@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dania
-xcood: "943.977"
-ycood: "203.809"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dania/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dania
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | 943.977 |
+> | Y coord| 203.809 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Marāveh Tappeh ![[rock7.png]]
+# Planet 1 - Marāveh Tappeh ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Dania ![[green41.png]]
+# Planet 2 - Dania ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Horus Belt Alpha ![[asteroid3.png]]
+# Planet 3 - Horus Belt Alpha ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kangāvar ![[gasg12.png]]
+# Planet 4 - Kangāvar ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,9 +75,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Zandi (large)
+- [[rock15.png\|rock15.png]] Zandi (large)
 
-# Planet 5 - Bajestān ![[gasg7.png]]
+# Planet 5 - Bajestān ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -97,11 +92,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Zare (medium)
-- ![[oddmoon3.png]] Durán (medium)
+- ![[rock15.png\|rock15.png]] Zare (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Durán (medium)
 
 
-# Planet 6 - New Newfield ![[iceg3.png]]
+# Planet 6 - New Newfield ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -116,12 +111,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Shahrestān-e Dehlorān (large)
-- ![[rock13.png]] Blessagno (large)
-- ![[oddmoon2.png]] Ninkasi (medium)
+- ![[rock8.png\|rock8.png]] Shahrestān-e Dehlorān (large)
+- ![[rock13.png\|rock13.png]] Blessagno (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Ninkasi (medium)
 
 
-# Planet 7 - Sorkheh ![[gasg23.png]]
+# Planet 7 - Sorkheh ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -136,12 +131,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Dakini 1 (large)
-- ![[rock7.png]] Dakini 2 (medium)
-- ![[oddmoon1.png]] Dakini 3 (medium)
+- ![[rock5.png\|rock5.png]] Dakini 1 (large)
+- ![[rock7.png\|rock7.png]] Dakini 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dakini 3 (medium)
 
 
-# Planet 8 - McLean ![[gasg24.png]]
+# Planet 8 - McLean ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,7 +153,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Kiseken ![[gasg21.png]]
+# Planet 9 - Kiseken ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,7 +170,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Shahrestān-e Tangestān ![[gasg16.png]]
+# Planet 10 - Shahrestān-e Tangestān ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,12 +185,12 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Buddha I (large)
-- ![[rock7.png]] Buddha II (large)
-- ![[oddmoon2.png]] Buddha III (medium)
+- ![[rock11.png\|rock11.png]] Buddha I (large)
+- ![[rock7.png\|rock7.png]] Buddha II (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Buddha III (medium)
 
 
-# Planet 11 - Horus Belt Beta ![[asteroid1.png]]
+# Planet 11 - Horus Belt Beta ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -207,7 +202,7 @@ dg-publish: true
 
 
 
-# Planet 12 - New Fort Scott ![[gasg2.png]]
+# Planet 12 - New Fort Scott ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -222,10 +217,10 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Skaoi (large)
-- ![[rock4.png]] Narfi (large)
-- ![[oddmoon3.png]] Þórr (medium)
-- ![[rock2.png]] Diana (medium)
-- ![[oddmoon1.png]] Abedi (medium)
+- ![[rock6.png\|rock6.png]] Skaoi (large)
+- ![[rock4.png\|rock4.png]] Narfi (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Þórr (medium)
+- ![[rock2.png\|rock2.png]] Diana (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Abedi (medium)
 
 

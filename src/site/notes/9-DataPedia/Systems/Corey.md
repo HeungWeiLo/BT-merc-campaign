@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corey
-xcood: "21.443"
-ycood: "-136.227"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corey/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corey
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | 21.443 |
+> | Y coord| -136.227 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Zalun ![[barren8.png]]
+# Planet 1 - Zalun ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Colo Colo (large)
+- [[rock9.png\|rock9.png]] Colo Colo (large)
 
-# Planet 2 - Kramer ![[barren11.png]]
+# Planet 2 - Kramer ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Corey ![[wet19.png]]
+# Planet 3 - Corey ![[wet19.png\|wet19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,9 +68,9 @@ Corey is a relatively comfortable planet for human habitation, with abundant nat
 Manufacturing centers:
 Hollis Incorporated
 
-- [[oddmoon2.png]] Ceti (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Ceti (medium)
 
-# Planet 4 - Curry's Grove ![[iceg10.png]]
+# Planet 4 - Curry's Grove ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -90,11 +85,11 @@ Hollis Incorporated
 
 
 
-- ![[rock16.png]] Audumla Alpha (large)
-- ![[rock2.png]] Audumla Beta (large)
+- ![[rock16.png\|rock16.png]] Audumla Alpha (large)
+- ![[rock2.png\|rock2.png]] Audumla Beta (large)
 
 
-# Planet 5 - Braasch ![[barren3.png]]
+# Planet 5 - Braasch ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -112,7 +107,7 @@ Hollis Incorporated
 
 
 
-# Planet 6 - Sims ![[gasg22.png]]
+# Planet 6 - Sims ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,12 +122,12 @@ Hollis Incorporated
 
 
 
-- ![[oddmoon2.png]] Vucub Camé (medium)
-- ![[rock1.png]] Huracan (medium)
-- ![[rock16.png]] God A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Vucub Camé (medium)
+- ![[rock1.png\|rock1.png]] Huracan (medium)
+- ![[rock16.png\|rock16.png]] God A (medium)
 
 
-# Planet 7 - Essey ![[gasg7.png]]
+# Planet 7 - Essey ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,15 +142,15 @@ Hollis Incorporated
 
 
 
-- ![[rock9.png]] Robinson 1 (giant)
-- ![[rock11.png]] Robinson 2 (giant)
-- ![[rock5.png]] Robinson 3 (large)
-- ![[rock10.png]] Robinson 4 (large)
-- ![[rock2.png]] Robinson 5 (large)
-- ![[rock12.png]] Robinson 6 (large)
+- ![[rock9.png\|rock9.png]] Robinson 1 (giant)
+- ![[rock11.png\|rock11.png]] Robinson 2 (giant)
+- ![[rock5.png\|rock5.png]] Robinson 3 (large)
+- ![[rock10.png\|rock10.png]] Robinson 4 (large)
+- ![[rock2.png\|rock2.png]] Robinson 5 (large)
+- ![[rock12.png\|rock12.png]] Robinson 6 (large)
 
 
-# Planet 8 - Inanna Belt ![[asteroid3.png]]
+# Planet 8 - Inanna Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -167,7 +162,7 @@ Hollis Incorporated
 
 
 
-# Planet 9 - Waseca ![[gasg4.png]]
+# Planet 9 - Waseca ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,9 +177,9 @@ Hollis Incorporated
 
 
 
-- [[rock13.png]] Abandinus (large)
+- [[rock13.png\|rock13.png]] Abandinus (large)
 
-# Planet 10 - Fort Hill ![[iceg18.png]]
+# Planet 10 - Fort Hill ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -199,5 +194,5 @@ Hollis Incorporated
 
 
 
-- [[rock8.png]] Southeast Bon Homme (large)
+- [[rock8.png\|rock8.png]] Southeast Bon Homme (large)
 

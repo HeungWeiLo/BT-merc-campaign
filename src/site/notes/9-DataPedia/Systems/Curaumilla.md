@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Curaumilla
-xcood: "-330.364"
-ycood: "-119.181"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/curaumilla/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Curaumilla
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | -330.364 |
+> | Y coord| -119.181 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Curaumilla ![[green53.png]]
+# Planet 1 - Curaumilla ![[green53.png\|green53.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Bóand (large)
+- [[rock12.png\|rock12.png]] Bóand (large)
 
-# Planet 2 - Peristéri ![[iceg3.png]]
+# Planet 2 - Peristéri ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Chiang A (giant)
-- ![[rock13.png]] Chiang B (giant)
+- ![[rock9.png\|rock9.png]] Chiang A (giant)
+- ![[rock13.png\|rock13.png]] Chiang B (giant)
 
 
-# Planet 3 - Nova Calama ![[gasg5.png]]
+# Planet 3 - Nova Calama ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,13 +65,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Vallenar 1 (large)
-- ![[rock1.png]] Vallenar 2 (large)
-- ![[rock15.png]] Vallenar 3 (large)
-- ![[oddmoon3.png]] Vallenar 4 (medium)
+- ![[rock8.png\|rock8.png]] Vallenar 1 (large)
+- ![[rock1.png\|rock1.png]] Vallenar 2 (large)
+- ![[rock15.png\|rock15.png]] Vallenar 3 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Vallenar 4 (medium)
 
 
-# Planet 4 - Hidalgo's Belt ![[asteroid2.png]]
+# Planet 4 - Hidalgo's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Rauco ![[gasg30.png]]
+# Planet 5 - Rauco ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -103,9 +98,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Rodríguez (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Rodríguez (medium)
 
-# Planet 6 - Rais ![[gasg1.png]]
+# Planet 6 - Rais ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,12 +115,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Peñalolen (medium)
-- ![[rock8.png]] San Bernardo (medium)
-- ![[oddmoon1.png]] López (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Peñalolen (medium)
+- ![[rock8.png\|rock8.png]] San Bernardo (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] López (medium)
 
 
-# Planet 7 - La Estrella ![[gasg19.png]]
+# Planet 7 - La Estrella ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,12 +135,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Espinosa (large)
-- ![[rock16.png]] Felecos (large)
-- ![[oddmoon1.png]] González (medium)
+- ![[rock17.png\|rock17.png]] Espinosa (large)
+- ![[rock16.png\|rock16.png]] Felecos (large)
+- ![[oddmoon1.png\|oddmoon1.png]] González (medium)
 
 
-# Planet 8 - Cautín ![[iceg18.png]]
+# Planet 8 - Cautín ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -160,11 +155,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] 9NY1 (medium)
-- ![[rock13.png]] 9NY2 (medium)
+- ![[rock8.png\|rock8.png]] 9NY1 (medium)
+- ![[rock13.png\|rock13.png]] 9NY2 (medium)
 
 
-# Planet 9 - Turgon ![[gasg10.png]]
+# Planet 9 - Turgon ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,16 +174,16 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] 5XD-1 (large)
-- ![[rock13.png]] 5XD-2 (large)
-- ![[rock6.png]] 5XD-3 (large)
-- ![[rock15.png]] 5XD-4 (large)
-- ![[rock1.png]] 5XD-5 (large)
-- ![[rock14.png]] 5XD-6 (medium)
-- ![[rock8.png]] 5XD-7 (medium)
+- ![[rock12.png\|rock12.png]] 5XD-1 (large)
+- ![[rock13.png\|rock13.png]] 5XD-2 (large)
+- ![[rock6.png\|rock6.png]] 5XD-3 (large)
+- ![[rock15.png\|rock15.png]] 5XD-4 (large)
+- ![[rock1.png\|rock1.png]] 5XD-5 (large)
+- ![[rock14.png\|rock14.png]] 5XD-6 (medium)
+- ![[rock8.png\|rock8.png]] 5XD-7 (medium)
 
 
-# Planet 10 - Maria Elena ![[gasg25.png]]
+# Planet 10 - Maria Elena ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

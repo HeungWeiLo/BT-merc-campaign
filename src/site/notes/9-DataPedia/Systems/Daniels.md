@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Daniels
-xcood: "124.593"
-ycood: "-196.495"
-spectralType: M4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/daniels/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Daniels
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M4V.png]] |
+> | X coord | 124.593 |
+> | Y coord| -196.495 |
+> | Spectral Type | M4V ![[M4V.png\|M4V.png]] |
 
-# Planet 1 - Daniels ![[green13.png]]
+# Planet 1 - Daniels ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Morrigna (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Morrigna (medium)
 
-# Planet 2 - Termini Imerese ![[gasg17.png]]
+# Planet 2 - Termini Imerese ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Arue ![[gasg16.png]]
+# Planet 3 - Arue ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,14 +63,14 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Tchernobog I (large)
-- ![[rock7.png]] Tchernobog II (large)
-- ![[rock3.png]] Tchernobog III (large)
-- ![[rock8.png]] Tchernobog IV (large)
-- ![[rock12.png]] Tchernobog V (large)
+- ![[rock6.png\|rock6.png]] Tchernobog I (large)
+- ![[rock7.png\|rock7.png]] Tchernobog II (large)
+- ![[rock3.png\|rock3.png]] Tchernobog III (large)
+- ![[rock8.png\|rock8.png]] Tchernobog IV (large)
+- ![[rock12.png\|rock12.png]] Tchernobog V (large)
 
 
-# Planet 4 - Abercrombie ![[gasg22.png]]
+# Planet 4 - Abercrombie ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,13 +85,13 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Vandalia 1 (large)
-- ![[rock8.png]] Vandalia 2 (large)
-- ![[rock12.png]] Vandalia 3 (medium)
-- ![[rock10.png]] Vandalia 4 (medium)
+- ![[rock3.png\|rock3.png]] Vandalia 1 (large)
+- ![[rock8.png\|rock8.png]] Vandalia 2 (large)
+- ![[rock12.png\|rock12.png]] Vandalia 3 (medium)
+- ![[rock10.png\|rock10.png]] Vandalia 4 (medium)
 
 
-# Planet 5 - Bad Waltersdorf ![[gasg15.png]]
+# Planet 5 - Bad Waltersdorf ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -111,9 +106,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] K1 (large)
+- [[rock13.png\|rock13.png]] K1 (large)
 
-# Planet 6 - Pomfret ![[gasg34.png]]
+# Planet 6 - Pomfret ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,15 +123,15 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Millinocket (large)
-- ![[rock8.png]] Hesper (large)
-- ![[rock9.png]] Zhao Xuantan (large)
-- ![[rock11.png]] Medicine Lodge (large)
-- ![[oddmoon1.png]] Starke (medium)
-- ![[oddmoon2.png]] Lan Ts'ai Ho (medium)
+- ![[rock17.png\|rock17.png]] Millinocket (large)
+- ![[rock8.png\|rock8.png]] Hesper (large)
+- ![[rock9.png\|rock9.png]] Zhao Xuantan (large)
+- ![[rock11.png\|rock11.png]] Medicine Lodge (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Starke (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lan Ts'ai Ho (medium)
 
 
-# Planet 7 - Valdez-Cordova ![[gasg8.png]]
+# Planet 7 - Valdez-Cordova ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,17 +146,17 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Kaduvul I (large)
-- ![[rock2.png]] Kaduvul II (large)
-- ![[rock17.png]] Kaduvul III (large)
-- ![[rock1.png]] Kaduvul IV (large)
-- ![[rock4.png]] Kaduvul V (medium)
-- ![[rock16.png]] Kaduvul VI (medium)
-- ![[oddmoon1.png]] Kaduvul VII (medium)
-- ![[rock7.png]] Kaduvul VIII (medium)
+- ![[rock9.png\|rock9.png]] Kaduvul I (large)
+- ![[rock2.png\|rock2.png]] Kaduvul II (large)
+- ![[rock17.png\|rock17.png]] Kaduvul III (large)
+- ![[rock1.png\|rock1.png]] Kaduvul IV (large)
+- ![[rock4.png\|rock4.png]] Kaduvul V (medium)
+- ![[rock16.png\|rock16.png]] Kaduvul VI (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kaduvul VII (medium)
+- ![[rock7.png\|rock7.png]] Kaduvul VIII (medium)
 
 
-# Planet 8 - Oanomochi ![[gasg14.png]]
+# Planet 8 - Oanomochi ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -178,7 +173,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Raiju ![[gasg26.png]]
+# Planet 9 - Raiju ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -193,13 +188,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Brecknock 1 (large)
-- ![[rock17.png]] Brecknock 2 (large)
-- ![[rock8.png]] Brecknock 3 (medium)
-- ![[oddmoon3.png]] Brecknock 4 (medium)
+- ![[rock1.png\|rock1.png]] Brecknock 1 (large)
+- ![[rock17.png\|rock17.png]] Brecknock 2 (large)
+- ![[rock8.png\|rock8.png]] Brecknock 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Brecknock 4 (medium)
 
 
-# Planet 10 - Chaffee ![[gasg35.png]]
+# Planet 10 - Chaffee ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,9 +209,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Clark (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Clark (medium)
 
-# Planet 11 - Nerivik ![[gasg23.png]]
+# Planet 11 - Nerivik ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -233,7 +228,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Ufford ![[gasg21.png]]
+# Planet 12 - Ufford ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -248,11 +243,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Waset (medium)
-- ![[oddmoon3.png]] Heret (medium)
+- ![[rock2.png\|rock2.png]] Waset (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Heret (medium)
 
 
-# Planet 13 - Milltown ![[gasg32.png]]
+# Planet 13 - Milltown ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -267,11 +262,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Ripi (large)
-- ![[oddmoon2.png]] Coalville (medium)
+- ![[rock5.png\|rock5.png]] Ripi (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Coalville (medium)
 
 
-# Planet 14 - Susano Wo ![[gasg13.png]]
+# Planet 14 - Susano Wo ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -286,7 +281,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Wade I (medium)
-- ![[rock13.png]] Wade II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Wade I (medium)
+- ![[rock13.png\|rock13.png]] Wade II (medium)
 
 

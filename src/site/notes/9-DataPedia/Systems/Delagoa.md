@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delagoa
-xcood: "-431.528"
-ycood: "360.363"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delagoa/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delagoa
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | -431.528 |
+> | Y coord| 360.363 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Delagoa ![[green50.png]]
+# Planet 1 - Delagoa ![[green50.png\|green50.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Coleman (large)
+- [[rock15.png\|rock15.png]] Coleman (large)
 
-# Planet 2 - Pustomolov's Stand ![[rock3.png]]
+# Planet 2 - Pustomolov's Stand ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Patton ![[gasg16.png]]
+# Planet 3 - Patton ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Meyers ![[gasg36.png]]
+# Planet 4 - Meyers ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,16 +80,16 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Wekshinsky I (large)
-- ![[rock10.png]] Wekshinsky II (large)
-- ![[rock12.png]] Wekshinsky III (large)
-- ![[oddmoon1.png]] Wekshinsky IV (medium)
-- ![[oddmoon3.png]] Wekshinsky V (medium)
-- ![[rock9.png]] Wekshinsky VI (medium)
-- ![[rock11.png]] Wekshinsky VII (medium)
+- ![[rock14.png\|rock14.png]] Wekshinsky I (large)
+- ![[rock10.png\|rock10.png]] Wekshinsky II (large)
+- ![[rock12.png\|rock12.png]] Wekshinsky III (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Wekshinsky IV (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Wekshinsky V (medium)
+- ![[rock9.png\|rock9.png]] Wekshinsky VI (medium)
+- ![[rock11.png\|rock11.png]] Wekshinsky VII (medium)
 
 
-# Planet 5 - Baker ![[gasg8.png]]
+# Planet 5 - Baker ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Minton's Redoubt ![[gasg9.png]]
+# Planet 6 - Minton's Redoubt ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,13 +121,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] JQ1 (large)
-- ![[oddmoon2.png]] JQ2 (medium)
-- ![[oddmoon1.png]] JQ3 (medium)
-- ![[rock15.png]] JQ4 (medium)
+- ![[rock7.png\|rock7.png]] JQ1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] JQ2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] JQ3 (medium)
+- ![[rock15.png\|rock15.png]] JQ4 (medium)
 
 
-# Planet 7 - Fort Gudereit ![[gasg17.png]]
+# Planet 7 - Fort Gudereit ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,13 +142,13 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Rassow (large)
-- ![[rock9.png]] M1 (large)
-- ![[rock17.png]] M2 (large)
-- ![[rock12.png]] Martinet (medium)
+- ![[rock15.png\|rock15.png]] Rassow (large)
+- ![[rock9.png\|rock9.png]] M1 (large)
+- ![[rock17.png\|rock17.png]] M2 (large)
+- ![[rock12.png\|rock12.png]] Martinet (medium)
 
 
-# Planet 8 - Lied ![[gasg5.png]]
+# Planet 8 - Lied ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,7 +165,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Cagahastian's Flats ![[gasg29.png]]
+# Planet 9 - Cagahastian's Flats ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -185,5 +180,5 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Buri (giant)
+- [[rock8.png\|rock8.png]] Buri (giant)
 

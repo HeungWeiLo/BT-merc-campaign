@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cruz Alta
-xcood: "-436.915"
-ycood: "20.632"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cruz-alta/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cruz Alta
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -436.915 |
+> | Y coord| 20.632 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Coronda ![[barren1.png]]
+# Planet 1 - Coronda ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] KG1 (medium)
+- [[rock8.png\|rock8.png]] KG1 (medium)
 
-# Planet 2 - Cruz Alta ![[green42.png]]
+# Planet 2 - Cruz Alta ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - New Doctor Manuel Belgrano ![[iceg1.png]]
+# Planet 3 - New Doctor Manuel Belgrano ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -69,12 +64,12 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Tefenet (medium)
-- ![[oddmoon3.png]] Baneb Djedet (medium)
-- ![[oddmoon2.png]] Kemu (medium)
+- ![[rock9.png\|rock9.png]] Tefenet (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Baneb Djedet (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kemu (medium)
 
 
-# Planet 4 - Atreucó ![[gasg29.png]]
+# Planet 4 - Atreucó ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,17 +84,17 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Blanco (giant)
-- ![[rock3.png]] Hernández (giant)
-- ![[rock5.png]] Carrillo (large)
-- ![[rock6.png]] Piña (large)
-- ![[rock8.png]] Djambek (large)
-- ![[rock17.png]] Yan (large)
-- ![[rock7.png]] Pacari (large)
-- ![[oddmoon2.png]] Rodríguez (medium)
+- ![[rock2.png\|rock2.png]] Blanco (giant)
+- ![[rock3.png\|rock3.png]] Hernández (giant)
+- ![[rock5.png\|rock5.png]] Carrillo (large)
+- ![[rock6.png\|rock6.png]] Piña (large)
+- ![[rock8.png\|rock8.png]] Djambek (large)
+- ![[rock17.png\|rock17.png]] Yan (large)
+- ![[rock7.png\|rock7.png]] Pacari (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Rodríguez (medium)
 
 
-# Planet 5 - Salto ![[gasg24.png]]
+# Planet 5 - Salto ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -114,11 +109,11 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Bellifluficus (large)
-- ![[rock12.png]] Iovis (medium)
+- ![[rock4.png\|rock4.png]] Bellifluficus (large)
+- ![[rock12.png\|rock12.png]] Iovis (medium)
 
 
-# Planet 6 - Cedezo ![[gasg31.png]]
+# Planet 6 - Cedezo ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -133,9 +128,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Calliope (large)
+- [[rock14.png\|rock14.png]] Calliope (large)
 
-# Planet 7 - Powiat kościański ![[gasg3.png]]
+# Planet 7 - Powiat kościański ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,7 +145,7 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Marinis (medium)
-- ![[oddmoon1.png]] Catha (medium)
+- ![[rock8.png\|rock8.png]] Marinis (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Catha (medium)
 
 

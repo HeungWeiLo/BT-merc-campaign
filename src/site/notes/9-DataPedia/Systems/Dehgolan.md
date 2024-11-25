@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dehgolan
-xcood: "5.425"
-ycood: "198.997"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dehgolan/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dehgolan
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 5.425 |
+> | Y coord| 198.997 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Dehgolan ![[green52.png]]
+# Planet 1 - Dehgolan ![[green52.png\|green52.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Farhadi ![[gasg14.png]]
+# Planet 2 - Farhadi ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] Sterquilinus (medium)
+- [[rock10.png\|rock10.png]] Sterquilinus (medium)
 
-# Planet 3 - Ansari's Meridian ![[gasg7.png]]
+# Planet 3 - Ansari's Meridian ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ghorbani's Harbour ![[gasg26.png]]
+# Planet 4 - Ghorbani's Harbour ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Tanguy's Revenge ![[iceg14.png]]
+# Planet 5 - Tanguy's Revenge ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Shafiee's Nest ![[gasg36.png]]
+# Planet 6 - Shafiee's Nest ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,12 +114,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Zolfaghari Alpha (large)
-- ![[rock11.png]] Zolfaghari Beta (large)
-- ![[rock2.png]] Zolfaghari Gamma (large)
+- ![[rock12.png\|rock12.png]] Zolfaghari Alpha (large)
+- ![[rock11.png\|rock11.png]] Zolfaghari Beta (large)
+- ![[rock2.png\|rock2.png]] Zolfaghari Gamma (large)
 
 
-# Planet 7 - Amphitryon ![[gasg15.png]]
+# Planet 7 - Amphitryon ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Ghasemi's Rift ![[gasg24.png]]
+# Planet 8 - Ghasemi's Rift ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,16 +151,16 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Nokomos 1 (large)
-- ![[rock5.png]] Nokomos 2 (large)
-- ![[rock10.png]] Nokomos 3 (large)
-- ![[rock14.png]] Nokomos 4 (large)
-- ![[rock11.png]] Nokomos 5 (medium)
-- ![[rock2.png]] Nokomos 6 (medium)
-- ![[rock7.png]] Nokomos 7 (medium)
+- ![[rock13.png\|rock13.png]] Nokomos 1 (large)
+- ![[rock5.png\|rock5.png]] Nokomos 2 (large)
+- ![[rock10.png\|rock10.png]] Nokomos 3 (large)
+- ![[rock14.png\|rock14.png]] Nokomos 4 (large)
+- ![[rock11.png\|rock11.png]] Nokomos 5 (medium)
+- ![[rock2.png\|rock2.png]] Nokomos 6 (medium)
+- ![[rock7.png\|rock7.png]] Nokomos 7 (medium)
 
 
-# Planet 9 - Eirene ![[frozen22.png]]
+# Planet 9 - Eirene ![[frozen22.png\|frozen22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

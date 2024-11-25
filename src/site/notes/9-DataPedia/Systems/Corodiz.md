@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corodiz
-xcood: "135.703"
-ycood: "-374.901"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corodiz/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corodiz
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 135.703 |
+> | Y coord| -374.901 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Corodiz ![[green26.png]]
+# Planet 1 - Corodiz ![[green26.png\|green26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sprague's Belt ![[asteroid1.png]]
+# Planet 2 - Sprague's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Amitabha's Frontier ![[gasg2.png]]
+# Planet 3 - Amitabha's Frontier ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,12 +58,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] 2G-1 (large)
-- ![[rock8.png]] 2G-2 (large)
-- ![[rock15.png]] 2G-3 (large)
+- ![[rock13.png\|rock13.png]] 2G-1 (large)
+- ![[rock8.png\|rock8.png]] 2G-2 (large)
+- ![[rock15.png\|rock15.png]] 2G-3 (large)
 
 
-# Planet 4 - Duryodhana ![[gasg6.png]]
+# Planet 4 - Duryodhana ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -83,13 +78,13 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Anatina (medium)
-- ![[oddmoon3.png]] Chibchachum (medium)
-- ![[oddmoon1.png]] Little (medium)
-- ![[oddmoon2.png]] Broster (medium)
+- ![[rock2.png\|rock2.png]] Anatina (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Chibchachum (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Little (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Broster (medium)
 
 
-# Planet 5 - Mainaky's Belt ![[asteroid3.png]]
+# Planet 5 - Mainaky's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

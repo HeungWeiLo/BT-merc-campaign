@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Katinka
-xcood: "151.694"
-ycood: "-451.193"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/katinka/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Katinka
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | 151.694 |
+> | Y coord| -451.193 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Ružomberok ![[gasg4.png]]
+# Planet 1 - Ružomberok ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 2
 
-- [[rock14.png]] Q1 (giant)
+- [[rock14.png\|rock14.png]] Q1 (giant)
 
-# Planet 2 - Katinka ![[green8.png]]
+# Planet 2 - Katinka ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ dg-publish: true
 
 
 
-# Planet 3 - 3IJ1 Belt ![[asteroid3.png]]
+# Planet 3 - 3IJ1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Sobrance ![[gasg37.png]]
+# Planet 4 - Sobrance ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,12 +87,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - La Unión ![[gasg17.png]]
+# Planet 5 - La Unión ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,14 +110,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - 3IJ2 Belt ![[asteroid2.png]]
+# Planet 6 - 3IJ2 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -137,7 +132,7 @@ dg-publish: true
 
 
 
-# Planet 7 - 3IJ3 Belt ![[asteroid1.png]]
+# Planet 7 - 3IJ3 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -152,7 +147,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Parisville ![[gasg29.png]]
+# Planet 8 - Parisville ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,16 +165,16 @@ dg-publish: true
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Bánovce nad Bebravou ![[gasg19.png]]
+# Planet 9 - Bánovce nad Bebravou ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -199,7 +194,7 @@ dg-publish: true
 
 
 
-# Planet 10 - 3IJ4 Belt ![[asteroid3.png]]
+# Planet 10 - 3IJ4 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -214,7 +209,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Okres Bratislava V ![[gasg1.png]]
+# Planet 11 - Okres Bratislava V ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -232,12 +227,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 12 - New Okres Michalovce ![[gasg9.png]]
+# Planet 12 - New Okres Michalovce ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -255,13 +250,13 @@ dg-publish: true
 8
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

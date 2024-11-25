@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Columbus (Epsilon Pegasus)
-xcood: "405.006"
-ycood: "601.855"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/columbus-epsilon-pegasus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Columbus (Epsilon Pegasus)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 405.006 |
+> | Y coord| 601.855 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - N1 ![[iceg1.png]]
+# Planet 1 - N1 ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - N2 ![[rock8.png]]
+# Planet 2 - N2 ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - N3 ![[badwater18.png]]
+# Planet 3 - N3 ![[badwater18.png\|badwater18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Columbus (Epsilon Pegasus) ![[green51.png]]
+# Planet 4 - Columbus (Epsilon Pegasus) ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-# Planet 5 - N5 ![[rock16.png]]
+# Planet 5 - N5 ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -108,7 +103,7 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-# Planet 6 - N6 ![[gasg32.png]]
+# Planet 6 - N6 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -125,7 +120,7 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-# Planet 7 - N7 ![[gasg15.png]]
+# Planet 7 - N7 ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,12 +135,12 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-- ![[rock2.png]] I1 (large)
-- ![[rock11.png]] I2 (large)
-- ![[oddmoon2.png]] I3 (medium)
+- ![[rock2.png\|rock2.png]] I1 (large)
+- ![[rock11.png\|rock11.png]] I2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] I3 (medium)
 
 
-# Planet 8 - N8 ![[iceg16.png]]
+# Planet 8 - N8 ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -160,13 +155,13 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-- ![[rock9.png]] Q81 (medium)
-- ![[oddmoon3.png]] Q82 (medium)
-- ![[rock8.png]] Q83 (medium)
-- ![[oddmoon2.png]] Q84 (medium)
+- ![[rock9.png\|rock9.png]] Q81 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Q82 (medium)
+- ![[rock8.png\|rock8.png]] Q83 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Q84 (medium)
 
 
-# Planet 9 - N9 ![[gasg37.png]]
+# Planet 9 - N9 ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -183,7 +178,7 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-# Planet 10 - P-1 Belt ![[asteroid3.png]]
+# Planet 10 - P-1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -195,7 +190,7 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-# Planet 11 - N10 ![[gasg30.png]]
+# Planet 11 - N10 ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -210,12 +205,12 @@ Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony. 
 
 
 
-- ![[rock17.png]] Y1 (large)
-- ![[rock13.png]] Y2 (medium)
-- ![[rock5.png]] Y3 (medium)
+- ![[rock17.png\|rock17.png]] Y1 (large)
+- ![[rock13.png\|rock13.png]] Y2 (medium)
+- ![[rock5.png\|rock5.png]] Y3 (medium)
 
 
-# Planet 12 - N11 ![[gasg27.png]]
+# Planet 12 - N11 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ceram
-xcood: "-518.535"
-ycood: "171.094"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ceram/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ceram
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | -518.535 |
+> | Y coord| 171.094 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - Ceram ![[green13.png]]
+# Planet 1 - Ceram ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Rhiannon's Rest ![[rock15.png]]
+# Planet 2 - Rhiannon's Rest ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Nazari (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Nazari (medium)
 
-# Planet 3 - Cuchulainn ![[frozen60.png]]
+# Planet 3 - Cuchulainn ![[frozen60.png\|frozen60.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bran ![[gasg22.png]]
+# Planet 4 - Bran ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Llwyd ![[rock3.png]]
+# Planet 5 - Llwyd ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Morrigna ![[frozen41.png]]
+# Planet 6 - Morrigna ![[frozen41.png\|frozen41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Boann ![[gasg35.png]]
+# Planet 7 - Boann ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Camulus ![[frozen32.png]]
+# Planet 8 - Camulus ![[frozen32.png\|frozen32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -164,7 +159,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Modongan ![[gasg26.png]]
+# Planet 9 - Modongan ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -181,7 +176,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Findbhair ![[gasg23.png]]
+# Planet 10 - Findbhair ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -198,7 +193,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Eostre ![[gasg29.png]]
+# Planet 11 - Eostre ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,12 +208,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Sukarto 1 (medium)
-- ![[oddmoon1.png]] Sukarto 2 (medium)
-- ![[oddmoon2.png]] Sukarto 3 (medium)
+- ![[rock1.png\|rock1.png]] Sukarto 1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sukarto 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sukarto 3 (medium)
 
 
-# Planet 12 - Konkipudi's Flats ![[iceg19.png]]
+# Planet 12 - Konkipudi's Flats ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -235,7 +230,7 @@ dg-publish: true
 
 
 
-# Planet 13 - Bormo ![[iceg4.png]]
+# Planet 13 - Bormo ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -250,13 +245,13 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] F8-1 (large)
-- ![[rock14.png]] F8-2 (medium)
-- ![[oddmoon2.png]] F8-3 (medium)
-- ![[oddmoon3.png]] F8-4 (medium)
+- ![[rock5.png\|rock5.png]] F8-1 (large)
+- ![[rock14.png\|rock14.png]] F8-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] F8-3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] F8-4 (medium)
 
 
-# Planet 14 - Birdal's Delight ![[iceg16.png]]
+# Planet 14 - Birdal's Delight ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -271,7 +266,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Dasangeres Alpha (medium)
-- ![[rock10.png]] Dasangeres Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Dasangeres Alpha (medium)
+- ![[rock10.png\|rock10.png]] Dasangeres Beta (medium)
 
 

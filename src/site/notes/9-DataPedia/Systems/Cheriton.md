@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cheriton
-xcood: "244.78"
-ycood: "328.533"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cheriton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cheriton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 244.78 |
+> | Y coord| 328.533 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Ran ![[iceg3.png]]
+# Planet 1 - Ran ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Lenn (large)
+- [[rock11.png\|rock11.png]] Lenn (large)
 
-# Planet 2 - Balder's Hold ![[barren18.png]]
+# Planet 2 - Balder's Hold ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cheriton ![[green25.png]]
+# Planet 3 - Cheriton ![[green25.png\|green25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Wakanda Belt ![[asteroid1.png]]
+# Planet 4 - Wakanda Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Freya's Wheel ![[gasg12.png]]
+# Planet 5 - Freya's Wheel ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -98,14 +93,14 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Spencer (large)
-- ![[oddmoon1.png]] Wilson (medium)
-- ![[oddmoon3.png]] Alston (medium)
-- ![[rock16.png]] Stephens (medium)
-- ![[oddmoon2.png]] Sampson (medium)
+- ![[rock3.png\|rock3.png]] Spencer (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Wilson (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Alston (medium)
+- ![[rock16.png\|rock16.png]] Stephens (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sampson (medium)
 
 
-# Planet 6 - EG1 ![[iceg6.png]]
+# Planet 6 - EG1 ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -120,14 +115,14 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Woodhaven I (large)
-- ![[rock16.png]] Woodhaven II (large)
-- ![[rock8.png]] Woodhaven III (large)
-- ![[oddmoon2.png]] Woodhaven IV (medium)
-- ![[rock12.png]] Woodhaven V (medium)
+- ![[rock7.png\|rock7.png]] Woodhaven I (large)
+- ![[rock16.png\|rock16.png]] Woodhaven II (large)
+- ![[rock8.png\|rock8.png]] Woodhaven III (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Woodhaven IV (medium)
+- ![[rock12.png\|rock12.png]] Woodhaven V (medium)
 
 
-# Planet 7 - Old Man Coyote Belt ![[asteroid2.png]]
+# Planet 7 - Old Man Coyote Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Fenris ![[gasg26.png]]
+# Planet 8 - Fenris ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,12 +149,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Rigsby (medium)
-- ![[rock16.png]] White (medium)
-- ![[rock2.png]] Bragg (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rigsby (medium)
+- ![[rock16.png\|rock16.png]] White (medium)
+- ![[rock2.png\|rock2.png]] Bragg (medium)
 
 
-# Planet 9 - Ve's Square ![[gasg7.png]]
+# Planet 9 - Ve's Square ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -174,13 +169,13 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Nanna A (large)
-- ![[rock2.png]] Nanna B (large)
-- ![[rock1.png]] Nanna C (medium)
-- ![[rock16.png]] Nanna D (medium)
+- ![[rock6.png\|rock6.png]] Nanna A (large)
+- ![[rock2.png\|rock2.png]] Nanna B (large)
+- ![[rock1.png\|rock1.png]] Nanna C (medium)
+- ![[rock16.png\|rock16.png]] Nanna D (medium)
 
 
-# Planet 10 - Ataensic Belt ![[asteroid3.png]]
+# Planet 10 - Ataensic Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -192,7 +187,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Odinn ![[gasg23.png]]
+# Planet 11 - Odinn ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -207,8 +202,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] King (medium)
-- ![[rock11.png]] Yama (medium)
-- ![[oddmoon3.png]] Matsya (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] King (medium)
+- ![[rock11.png\|rock11.png]] Yama (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Matsya (medium)
 
 

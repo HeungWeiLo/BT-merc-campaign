@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dalmantia
-xcood: "221.365"
-ycood: "166.525"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dalmantia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dalmantia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 221.365 |
+> | Y coord| 166.525 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Dalmantia ![[green51.png]]
+# Planet 1 - Dalmantia ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Pugh ![[rock16.png]]
+# Planet 2 - Pugh ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Parentucelli's Meridian ![[rock9.png]]
+# Planet 3 - Parentucelli's Meridian ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Gosden's Wheel ![[gasg34.png]]
+# Planet 4 - Gosden's Wheel ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,13 +80,13 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Leshey (large)
-- ![[rock11.png]] Rusalky (large)
-- ![[oddmoon1.png]] Hestia (medium)
-- ![[oddmoon2.png]] Cremia (medium)
+- ![[rock6.png\|rock6.png]] Leshey (large)
+- ![[rock11.png\|rock11.png]] Rusalky (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Hestia (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cremia (medium)
 
 
-# Planet 5 - Ramos ![[gasg6.png]]
+# Planet 5 - Ramos ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Moret (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Moret (medium)
 
-# Planet 6 - Hopkins's Folly ![[gasg36.png]]
+# Planet 6 - Hopkins's Folly ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,13 +118,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Bowling (medium)
-- ![[oddmoon2.png]] Hollo (medium)
-- ![[rock1.png]] Gajaren (medium)
-- ![[oddmoon3.png]] Shibalev (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Bowling (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hollo (medium)
+- ![[rock1.png\|rock1.png]] Gajaren (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Shibalev (medium)
 
 
-# Planet 7 - Mokos ![[gasg35.png]]
+# Planet 7 - Mokos ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,9 +139,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Aigle (medium)
+- [[rock12.png\|rock12.png]] Aigle (medium)
 
-# Planet 8 - Vodnik ![[iceg12.png]]
+# Planet 8 - Vodnik ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -161,9 +156,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] 0BQ-1 (large)
+- [[rock4.png\|rock4.png]] 0BQ-1 (large)
 
-# Planet 9 - Kupalo ![[gasg27.png]]
+# Planet 9 - Kupalo ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,10 +173,10 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] V-1 (large)
-- ![[oddmoon3.png]] V-2 (medium)
-- ![[oddmoon1.png]] V-3 (medium)
-- ![[oddmoon2.png]] V-4 (medium)
-- ![[oddmoon3.png]] V-5 (medium)
+- ![[rock17.png\|rock17.png]] V-1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] V-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] V-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] V-4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] V-5 (medium)
 
 

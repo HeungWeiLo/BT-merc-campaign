@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Everett
-xcood: "149.754"
-ycood: "-91.345"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/everett/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Everett
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | 149.754 |
+> | Y coord| -91.345 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Lawson ![[barren11.png]]
+# Planet 1 - Lawson ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Burns Port ![[rock6.png]]
+# Planet 2 - Burns Port ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cleere ![[greenhouse22.png]]
+# Planet 3 - Cleere ![[greenhouse22.png\|greenhouse22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Everett ![[green42.png]]
+# Planet 4 - Everett ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Devatas Belt ![[asteroid3.png]]
+# Planet 5 - Devatas Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Carey's Planet ![[gasg37.png]]
+# Planet 6 - Carey's Planet ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,10 +129,10 @@ dg-publish: true
 5
 0
 
-- ![[rock12.png]] 2W61 (large)
-- ![[rock2.png]] 2W62 (large)
-- ![[rock8.png]] 2W63 (large)
-- ![[rock15.png]] 2W64 (large)
-- ![[rock16.png]] 2W65 (medium)
+- ![[rock12.png\|rock12.png]] 2W61 (large)
+- ![[rock2.png\|rock2.png]] 2W62 (large)
+- ![[rock8.png\|rock8.png]] 2W63 (large)
+- ![[rock15.png\|rock15.png]] 2W64 (large)
+- ![[rock16.png\|rock16.png]] 2W65 (medium)
 
 

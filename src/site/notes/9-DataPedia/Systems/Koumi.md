@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Koumi
-xcood: "199.294"
-ycood: "170.817"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/koumi/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Koumi
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 199.294 |
+> | Y coord| 170.817 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Grand-Saint-Esprit ![[gasg10.png]]
+# Planet 1 - Grand-Saint-Esprit ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Arne ![[barren3.png]]
+# Planet 2 - Arne ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Munoz ![[gasg25.png]]
+# Planet 3 - Munoz ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Koumi ![[green35.png]]
+# Planet 4 - Koumi ![[green35.png\|green35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Hachiman-chō ![[frozen3.png]]
+# Planet 5 - Hachiman-chō ![[frozen3.png\|frozen3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Zaichik ![[gasg34.png]]
+# Planet 6 - Zaichik ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

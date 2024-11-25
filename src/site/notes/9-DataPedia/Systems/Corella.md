@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corella
-xcood: "142.165"
-ycood: "-251.304"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corella/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corella
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | 142.165 |
+> | Y coord| -251.304 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Fresno el Viejo ![[gasg2.png]]
+# Planet 1 - Fresno el Viejo ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Corella ![[green40.png]]
+# Planet 2 - Corella ![[green40.png\|green40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Brynhild Belt ![[asteroid3.png]]
+# Planet 3 - Brynhild Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Valleruela de Sepúlveda ![[gasg5.png]]
+# Planet 4 - Valleruela de Sepúlveda ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,12 +75,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Montoya 1 (giant)
-- ![[rock12.png]] Montoya 2 (giant)
-- ![[rock3.png]] Montoya 3 (large)
+- ![[rock17.png\|rock17.png]] Montoya 1 (giant)
+- ![[rock12.png\|rock12.png]] Montoya 2 (giant)
+- ![[rock3.png\|rock3.png]] Montoya 3 (large)
 
 
-# Planet 5 - Fleninge ![[gasg26.png]]
+# Planet 5 - Fleninge ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -100,12 +95,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] B1 (large)
-- ![[rock2.png]] B2 (medium)
-- ![[oddmoon3.png]] B3 (medium)
+- ![[rock4.png\|rock4.png]] B1 (large)
+- ![[rock2.png\|rock2.png]] B2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] B3 (medium)
 
 
-# Planet 6 - Salamanca ![[gasg13.png]]
+# Planet 6 - Salamanca ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,11 +115,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Anu I (medium)
-- ![[oddmoon2.png]] Anu II (medium)
+- ![[rock6.png\|rock6.png]] Anu I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Anu II (medium)
 
 
-# Planet 7 - New Flins-sur-Seine ![[iceg7.png]]
+# Planet 7 - New Flins-sur-Seine ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -139,12 +134,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Pérez (giant)
-- ![[rock17.png]] Khaos (giant)
-- ![[rock14.png]] Dyinyinga (large)
+- ![[rock3.png\|rock3.png]] Pérez (giant)
+- ![[rock17.png\|rock17.png]] Khaos (giant)
+- ![[rock14.png\|rock14.png]] Dyinyinga (large)
 
 
-# Planet 8 - Torrehermosa ![[gasg18.png]]
+# Planet 8 - Torrehermosa ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,19 +154,19 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Hernández 1 (giant)
-- ![[rock16.png]] Hernández 2 (giant)
-- ![[rock7.png]] Hernández 3 (large)
-- ![[rock10.png]] Hernández 4 (large)
-- ![[rock9.png]] Hernández 5 (large)
-- ![[rock8.png]] Hernández 6 (large)
-- ![[rock14.png]] Hernández 7 (large)
-- ![[oddmoon1.png]] Hernández 8 (medium)
-- ![[oddmoon3.png]] Hernández 9 (medium)
-- ![[oddmoon2.png]] Hernández 10 (medium)
+- ![[rock6.png\|rock6.png]] Hernández 1 (giant)
+- ![[rock16.png\|rock16.png]] Hernández 2 (giant)
+- ![[rock7.png\|rock7.png]] Hernández 3 (large)
+- ![[rock10.png\|rock10.png]] Hernández 4 (large)
+- ![[rock9.png\|rock9.png]] Hernández 5 (large)
+- ![[rock8.png\|rock8.png]] Hernández 6 (large)
+- ![[rock14.png\|rock14.png]] Hernández 7 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Hernández 8 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hernández 9 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hernández 10 (medium)
 
 
-# Planet 9 - Utrera ![[iceg5.png]]
+# Planet 9 - Utrera ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -186,12 +181,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Hernández 1 (giant)
-- ![[rock9.png]] Hernández 2 (large)
-- ![[rock14.png]] Hernández 3 (large)
+- ![[rock6.png\|rock6.png]] Hernández 1 (giant)
+- ![[rock9.png\|rock9.png]] Hernández 2 (large)
+- ![[rock14.png\|rock14.png]] Hernández 3 (large)
 
 
-# Planet 10 - Argoños ![[gasg37.png]]
+# Planet 10 - Argoños ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,7 +203,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Ament ![[gasg20.png]]
+# Planet 11 - Ament ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,13 +218,13 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Lecoeur I (large)
-- ![[rock15.png]] Lecoeur II (large)
-- ![[oddmoon2.png]] Lecoeur III (medium)
-- ![[rock14.png]] Lecoeur IV (medium)
+- ![[rock8.png\|rock8.png]] Lecoeur I (large)
+- ![[rock15.png\|rock15.png]] Lecoeur II (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Lecoeur III (medium)
+- ![[rock14.png\|rock14.png]] Lecoeur IV (medium)
 
 
-# Planet 12 - Arguisuelas ![[gasg4.png]]
+# Planet 12 - Arguisuelas ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -244,5 +239,5 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Ben Ange (large)
+- [[rock3.png\|rock3.png]] Ben Ange (large)
 

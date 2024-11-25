@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crossing
-xcood: "253.313"
-ycood: "47.262"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crossing/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crossing
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | 253.313 |
+> | Y coord| 47.262 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - New Painesville ![[iceg18.png]]
+# Planet 1 - New Painesville ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ocean ![[rock11.png]]
+# Planet 2 - Ocean ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - New Free Soil ![[gasg10.png]]
+# Planet 3 - New Free Soil ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -64,9 +59,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] 8I1 (giant)
+- [[rock5.png\|rock5.png]] 8I1 (giant)
 
-# Planet 4 - Crossing ![[wet4.png]]
+# Planet 4 - Crossing ![[wet4.png\|wet4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -91,13 +86,13 @@ Two of the planets four moons house military bases used to defend the planet and
 
 A large portion of the population on Crossing is made up of retired AFFS veterans and their families, with the cities of Crassus and New Rhodes made up almost entirely of retired personnel.
 
-- ![[rock17.png]] Journeyman (medium)
-- ![[rock10.png]] Scope (medium)
-- ![[rock15.png]] Trinket (medium)
-- ![[rock1.png]] Wayfarer (medium)
+- ![[rock17.png\|rock17.png]] Journeyman (medium)
+- ![[rock10.png\|rock10.png]] Scope (medium)
+- ![[rock15.png\|rock15.png]] Trinket (medium)
+- ![[rock1.png\|rock1.png]] Wayfarer (medium)
 
 
-# Planet 5 - Woolwich ![[frozen59.png]]
+# Planet 5 - Woolwich ![[frozen59.png\|frozen59.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -117,7 +112,7 @@ A large portion of the population on Crossing is made up of retired AFFS veteran
 
 
 
-# Planet 6 - Sandy Hook ![[gasg3.png]]
+# Planet 6 - Sandy Hook ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -132,15 +127,15 @@ A large portion of the population on Crossing is made up of retired AFFS veteran
 
 
 
-- ![[rock17.png]] Ēostre 1 (large)
-- ![[rock4.png]] Ēostre 2 (large)
-- ![[oddmoon2.png]] Ēostre 3 (medium)
-- ![[rock3.png]] Ēostre 4 (medium)
-- ![[rock1.png]] Ēostre 5 (medium)
-- ![[rock5.png]] Ēostre 6 (medium)
+- ![[rock17.png\|rock17.png]] Ēostre 1 (large)
+- ![[rock4.png\|rock4.png]] Ēostre 2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Ēostre 3 (medium)
+- ![[rock3.png\|rock3.png]] Ēostre 4 (medium)
+- ![[rock1.png\|rock1.png]] Ēostre 5 (medium)
+- ![[rock5.png\|rock5.png]] Ēostre 6 (medium)
 
 
-# Planet 7 - Edwards's Belt ![[asteroid1.png]]
+# Planet 7 - Edwards's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -152,7 +147,7 @@ A large portion of the population on Crossing is made up of retired AFFS veteran
 
 
 
-# Planet 8 - Portsmouth ![[gasg4.png]]
+# Planet 8 - Portsmouth ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -167,11 +162,11 @@ A large portion of the population on Crossing is made up of retired AFFS veteran
 
 
 
-- ![[rock9.png]] Peron (medium)
-- ![[rock7.png]] Sevandal (medium)
+- ![[rock9.png\|rock9.png]] Peron (medium)
+- ![[rock7.png\|rock7.png]] Sevandal (medium)
 
 
-# Planet 9 - Sung Ti Wang Belt ![[asteroid2.png]]
+# Planet 9 - Sung Ti Wang Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

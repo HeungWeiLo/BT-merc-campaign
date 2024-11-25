@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kotzebue
-xcood: "316.649"
-ycood: "-205.809"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kotzebue/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kotzebue
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 316.649 |
+> | Y coord| -205.809 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Caer ![[dry10.png]]
+# Planet 1 - Caer ![[dry10.png\|dry10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kotzebue ![[dry13.png]]
+# Planet 2 - Kotzebue ![[dry13.png\|dry13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -63,7 +58,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Halcyone Belt ![[asteroid3.png]]
+# Planet 3 - Halcyone Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

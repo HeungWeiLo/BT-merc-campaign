@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delitzsch
-xcood: "326.461"
-ycood: "146.804"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delitzsch/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delitzsch
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 326.461 |
+> | Y coord| 146.804 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Buser ![[barren20.png]]
+# Planet 1 - Buser ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Strub ![[greenhouse17.png]]
+# Planet 2 - Strub ![[greenhouse17.png\|greenhouse17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Delitzsch ![[green8.png]]
+# Planet 3 - Delitzsch ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - New Nastätten ![[gasg28.png]]
+# Planet 4 - New Nastätten ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -87,12 +82,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] BHC1 (medium)
-- ![[rock2.png]] BHC2 (medium)
-- ![[oddmoon3.png]] BHC3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] BHC1 (medium)
+- ![[rock2.png\|rock2.png]] BHC2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] BHC3 (medium)
 
 
-# Planet 5 - Beckenbauer ![[gasg33.png]]
+# Planet 5 - Beckenbauer ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,17 +102,17 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] XVB-1 (giant)
-- ![[rock4.png]] XVB-2 (giant)
-- ![[rock12.png]] XVB-3 (large)
-- ![[rock8.png]] XVB-4 (large)
-- ![[rock11.png]] XVB-5 (large)
-- ![[rock2.png]] XVB-6 (medium)
-- ![[oddmoon2.png]] XVB-7 (medium)
-- ![[rock1.png]] XVB-8 (medium)
+- ![[rock9.png\|rock9.png]] XVB-1 (giant)
+- ![[rock4.png\|rock4.png]] XVB-2 (giant)
+- ![[rock12.png\|rock12.png]] XVB-3 (large)
+- ![[rock8.png\|rock8.png]] XVB-4 (large)
+- ![[rock11.png\|rock11.png]] XVB-5 (large)
+- ![[rock2.png\|rock2.png]] XVB-6 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] XVB-7 (medium)
+- ![[rock1.png\|rock1.png]] XVB-8 (medium)
 
 
-# Planet 6 - Wimmers's World ![[iceg4.png]]
+# Planet 6 - Wimmers's World ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -132,11 +127,11 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Schaecter (large)
-- ![[rock3.png]] Kleber (medium)
+- ![[rock1.png\|rock1.png]] Schaecter (large)
+- ![[rock3.png\|rock3.png]] Kleber (medium)
 
 
-# Planet 7 - Neuner's World ![[gasg19.png]]
+# Planet 7 - Neuner's World ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,9 +146,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Putana (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Putana (medium)
 
-# Planet 8 - Waddeweitz ![[gasg24.png]]
+# Planet 8 - Waddeweitz ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,8 +163,8 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Lindern (large)
-- ![[oddmoon3.png]] Wittgendorf (medium)
-- ![[oddmoon1.png]] Jucken (medium)
+- ![[rock9.png\|rock9.png]] Lindern (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Wittgendorf (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Jucken (medium)
 
 

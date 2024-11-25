@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crimond
-xcood: "-68.521"
-ycood: "230.614"
-spectralType: F8II
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crimond/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crimond
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8II.png]] |
+> | X coord | -68.521 |
+> | Y coord| 230.614 |
+> | Spectral Type | F8II ![[F8II.png\|F8II.png]] |
 
-# Planet 1 - Lopti ![[gasg4.png]]
+# Planet 1 - Lopti ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Niu Heimar ![[rock5.png]]
+# Planet 2 - Niu Heimar ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Narfi ![[barren24.png]]
+# Planet 3 - Narfi ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Crimond ![[green5.png]]
+# Planet 4 - Crimond ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,9 +83,9 @@ Crimond is a comfortable planet with abundant natural resources and extensive in
 
 The continents of Chromatisch and Metallerz have been extensively surveyed and mined for natural minerals throughout the planet’s history. However, the smaller island continent of Condor has been more or less forgotten for most of the planet’s settled history. The Star League established Fort Beauord on Condor as a perfect location for the 54th Mechanized Infantry Division to undergo harsh environment training, taking advantage of the hot dry deserts and cold, wintry mountains that dominate Condor.
 
-- [[rock16.png]] Osseous (medium)
+- [[rock16.png\|rock16.png]] Osseous (medium)
 
-# Planet 5 - Brierley ![[rock10.png]]
+# Planet 5 - Brierley ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

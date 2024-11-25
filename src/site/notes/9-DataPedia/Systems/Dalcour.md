@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dalcour
-xcood: "-384.879"
-ycood: "-99.555"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dalcour/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dalcour
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | -384.879 |
+> | Y coord| -99.555 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Dalcour ![[green29.png]]
+# Planet 1 - Dalcour ![[green29.png\|green29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Junge's Ship ![[badwater11.png]]
+# Planet 2 - Junge's Ship ![[badwater11.png\|badwater11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Webster's Delight ![[gasg11.png]]
+# Planet 3 - Webster's Delight ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,17 +66,17 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] JXT-1 (giant)
-- ![[rock17.png]] JXT-2 (giant)
-- ![[rock12.png]] JXT-3 (large)
-- ![[rock8.png]] JXT-4 (large)
-- ![[rock16.png]] JXT-5 (large)
-- ![[rock7.png]] JXT-6 (large)
-- ![[rock3.png]] JXT-7 (large)
-- ![[oddmoon2.png]] JXT-8 (medium)
+- ![[rock11.png\|rock11.png]] JXT-1 (giant)
+- ![[rock17.png\|rock17.png]] JXT-2 (giant)
+- ![[rock12.png\|rock12.png]] JXT-3 (large)
+- ![[rock8.png\|rock8.png]] JXT-4 (large)
+- ![[rock16.png\|rock16.png]] JXT-5 (large)
+- ![[rock7.png\|rock7.png]] JXT-6 (large)
+- ![[rock3.png\|rock3.png]] JXT-7 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] JXT-8 (medium)
 
 
-# Planet 4 - Warren's Meridian ![[gasg21.png]]
+# Planet 4 - Warren's Meridian ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -96,16 +91,16 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Dirona I (large)
-- ![[rock1.png]] Dirona II (large)
-- ![[rock5.png]] Dirona III (large)
-- ![[rock4.png]] Dirona IV (large)
-- ![[rock12.png]] Dirona V (medium)
-- ![[oddmoon2.png]] Dirona VI (medium)
-- ![[rock17.png]] Dirona VII (medium)
+- ![[rock15.png\|rock15.png]] Dirona I (large)
+- ![[rock1.png\|rock1.png]] Dirona II (large)
+- ![[rock5.png\|rock5.png]] Dirona III (large)
+- ![[rock4.png\|rock4.png]] Dirona IV (large)
+- ![[rock12.png\|rock12.png]] Dirona V (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Dirona VI (medium)
+- ![[rock17.png\|rock17.png]] Dirona VII (medium)
 
 
-# Planet 5 - Bailey's Frontier ![[iceg7.png]]
+# Planet 5 - Bailey's Frontier ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -120,13 +115,13 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Enosichthon I (large)
-- ![[rock9.png]] Enosichthon II (large)
-- ![[rock5.png]] Enosichthon III (large)
-- ![[rock16.png]] Enosichthon IV (medium)
+- ![[rock3.png\|rock3.png]] Enosichthon I (large)
+- ![[rock9.png\|rock9.png]] Enosichthon II (large)
+- ![[rock5.png\|rock5.png]] Enosichthon III (large)
+- ![[rock16.png\|rock16.png]] Enosichthon IV (medium)
 
 
-# Planet 6 - McCarty's Planet ![[gasg29.png]]
+# Planet 6 - McCarty's Planet ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

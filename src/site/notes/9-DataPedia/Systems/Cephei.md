@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cephei
-xcood: "688.652"
-ycood: "-80.35"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cephei/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cephei
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 688.652 |
+> | Y coord| -80.35 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Port Rowarth ![[barren17.png]]
+# Planet 1 - Port Rowarth ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] 5XC1 (medium)
-- ![[rock5.png]] 5XC2 (medium)
+- ![[rock6.png\|rock6.png]] 5XC1 (medium)
+- ![[rock5.png\|rock5.png]] 5XC2 (medium)
 
 
-# Planet 2 - Cephei ![[green54.png]]
+# Planet 2 - Cephei ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,11 +49,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Ha (medium)
-- ![[rock9.png]] Dayman (medium)
+- ![[rock14.png\|rock14.png]] Ha (medium)
+- ![[rock9.png\|rock9.png]] Dayman (medium)
 
 
-# Planet 3 - Huang ![[rock13.png]]
+# Planet 3 - Huang ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - De Jesús's Field ![[gasg1.png]]
+# Planet 4 - De Jesús's Field ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cobden ![[gasg30.png]]
+# Planet 5 - Cobden ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,16 +102,16 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] C'hi Ku (large)
-- ![[rock12.png]] Yu Huang (large)
-- ![[rock10.png]] David (large)
-- ![[rock8.png]] Yen Lo Wang (large)
-- ![[rock13.png]] Shakyamuni (large)
-- ![[rock16.png]] IOO-1 (medium)
-- ![[rock3.png]] Chang Sheng (medium)
+- ![[rock7.png\|rock7.png]] C'hi Ku (large)
+- ![[rock12.png\|rock12.png]] Yu Huang (large)
+- ![[rock10.png\|rock10.png]] David (large)
+- ![[rock8.png\|rock8.png]] Yen Lo Wang (large)
+- ![[rock13.png\|rock13.png]] Shakyamuni (large)
+- ![[rock16.png\|rock16.png]] IOO-1 (medium)
+- ![[rock3.png\|rock3.png]] Chang Sheng (medium)
 
 
-# Planet 6 - Jahovic ![[gasg35.png]]
+# Planet 6 - Jahovic ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,9 +126,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] Gill (giant)
+- [[rock4.png\|rock4.png]] Gill (giant)
 
-# Planet 7 - Saranyu ![[gasg7.png]]
+# Planet 7 - Saranyu ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -148,12 +143,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] P1 (medium)
-- ![[oddmoon2.png]] P2 (medium)
-- ![[oddmoon3.png]] P3 (medium)
+- ![[rock13.png\|rock13.png]] P1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] P2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] P3 (medium)
 
 
-# Planet 8 - Vasishtha ![[gasg13.png]]
+# Planet 8 - Vasishtha ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,7 +165,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Roussel ![[gasg19.png]]
+# Planet 9 - Roussel ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,9 +180,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Ardoch (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Ardoch (medium)
 
-# Planet 10 - Herrera ![[gasg3.png]]
+# Planet 10 - Herrera ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -204,7 +199,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Durgha ![[gasg36.png]]
+# Planet 11 - Durgha ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -219,8 +214,8 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Höllviken (large)
-- ![[rock13.png]] Lepuix-Neuf (medium)
-- ![[rock8.png]] Fatou (medium)
+- ![[rock11.png\|rock11.png]] Höllviken (large)
+- ![[rock13.png\|rock13.png]] Lepuix-Neuf (medium)
+- ![[rock8.png\|rock8.png]] Fatou (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Eutin
-xcood: "-222.818"
-ycood: "150.133"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/eutin/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Eutin
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | -222.818 |
+> | Y coord| 150.133 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Offenhausen ![[greenhouse32.png]]
+# Planet 1 - Offenhausen ![[greenhouse32.png\|greenhouse32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - New Gustow ![[rock14.png]]
+# Planet 2 - New Gustow ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Eutin ![[green4.png]]
+# Planet 3 - Eutin ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,11 +75,11 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 2
 0
 
-- ![[rock2.png]] Eutin Minor (giant)
-- ![[rock4.png]] Eutin Prime (medium)
+- ![[rock2.png\|rock2.png]] Eutin Minor (giant)
+- ![[rock4.png\|rock4.png]] Eutin Prime (medium)
 
 
-# Planet 4 - Dautzenburg's Belt I ![[asteroid3.png]]
+# Planet 4 - Dautzenburg's Belt I ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -99,7 +94,7 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 
 
 
-# Planet 5 - Barna ![[gasg37.png]]
+# Planet 5 - Barna ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -117,11 +112,11 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 2
 0
 
-- ![[rock14.png]] NZ1 (large)
-- ![[rock8.png]] NZ2 (medium)
+- ![[rock14.png\|rock14.png]] NZ1 (large)
+- ![[rock8.png\|rock8.png]] NZ2 (medium)
 
 
-# Planet 6 - Plöchl ![[gasg22.png]]
+# Planet 6 - Plöchl ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,11 +134,11 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 2
 0
 
-- ![[oddmoon2.png]] Kara (medium)
-- ![[rock10.png]] Aurgelmir (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Kara (medium)
+- ![[rock10.png\|rock10.png]] Aurgelmir (medium)
 
 
-# Planet 7 - Stercutus ![[gasg33.png]]
+# Planet 7 - Stercutus ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,13 +156,13 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 4
 0
 
-- ![[rock12.png]] R-1 (large)
-- ![[oddmoon1.png]] R-2 (medium)
-- ![[rock7.png]] R-3 (medium)
-- ![[rock16.png]] R-4 (medium)
+- ![[rock12.png\|rock12.png]] R-1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] R-2 (medium)
+- ![[rock7.png\|rock7.png]] R-3 (medium)
+- ![[rock16.png\|rock16.png]] R-4 (medium)
 
 
-# Planet 8 - Mercuryswahl ![[iceg9.png]]
+# Planet 8 - Mercuryswahl ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -187,7 +182,7 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 
 
 
-# Planet 9 - Dautzenburg's Belt II ![[asteroid2.png]]
+# Planet 9 - Dautzenburg's Belt II ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -202,7 +197,7 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 
 
 
-# Planet 10 - Fraenckel ![[gasg24.png]]
+# Planet 10 - Fraenckel ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -220,13 +215,13 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 4
 0
 
-- ![[rock4.png]] J1 (large)
-- ![[rock10.png]] J2 (medium)
-- ![[oddmoon2.png]] J3 (medium)
-- ![[rock6.png]] J4 (medium)
+- ![[rock4.png\|rock4.png]] J1 (large)
+- ![[rock10.png\|rock10.png]] J2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] J3 (medium)
+- ![[rock6.png\|rock6.png]] J4 (medium)
 
 
-# Planet 11 - New Eschborn ![[iceg19.png]]
+# Planet 11 - New Eschborn ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -244,7 +239,7 @@ Eutin has two moons, Eutin Minor and Eutin Prime. Despite being only marginally 
 2
 0
 
-- ![[rock14.png]] Illmensee I (large)
-- ![[rock3.png]] Illmensee II (large)
+- ![[rock14.png\|rock14.png]] Illmensee I (large)
+- ![[rock3.png\|rock3.png]] Illmensee II (large)
 
 

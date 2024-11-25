@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delios
-xcood: "-16.762"
-ycood: "1804.928"
-spectralType: G6III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delios/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delios
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6III.png]] |
+> | X coord | -16.762 |
+> | Y coord| 1804.928 |
+> | Spectral Type | G6III ![[G6III.png\|G6III.png]] |
 
-# Planet 1 - Akuma ![[barren3.png]]
+# Planet 1 - Akuma ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Grundviller I (medium)
-- ![[rock16.png]] Grundviller II (medium)
-- ![[rock6.png]] Grundviller III (medium)
+- ![[rock13.png\|rock13.png]] Grundviller I (medium)
+- ![[rock16.png\|rock16.png]] Grundviller II (medium)
+- ![[rock6.png\|rock6.png]] Grundviller III (medium)
 
 
-# Planet 2 - Delios ![[wet9.png]]
+# Planet 2 - Delios ![[wet9.png\|wet9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,12 +50,12 @@ dg-publish: true
 
 No description available.
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Edwards's Refuge ![[barren18.png]]
+# Planet 3 - Edwards's Refuge ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,7 +73,7 @@ No description available.
 
 
 
-# Planet 4 - Hoori ![[gasg6.png]]
+# Planet 4 - Hoori ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -95,7 +90,7 @@ No description available.
 
 
 
-# Planet 5 - Kami ![[gasg24.png]]
+# Planet 5 - Kami ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -112,7 +107,7 @@ No description available.
 
 
 
-# Planet 6 - Forbes's World ![[gasg14.png]]
+# Planet 6 - Forbes's World ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,9 +122,9 @@ No description available.
 
 
 
-- [[rock15.png]] Grant (medium)
+- [[rock15.png\|rock15.png]] Grant (medium)
 
-# Planet 7 - Simpson ![[gasg20.png]]
+# Planet 7 - Simpson ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -146,7 +141,7 @@ No description available.
 
 
 
-# Planet 8 - DN-1 Belt ![[asteroid3.png]]
+# Planet 8 - DN-1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -158,7 +153,7 @@ No description available.
 
 
 
-# Planet 9 - Morris ![[gasg15.png]]
+# Planet 9 - Morris ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -173,14 +168,14 @@ No description available.
 
 
 
-- ![[rock5.png]] Teoponte (giant)
-- ![[rock4.png]] Strășeni (large)
-- ![[rock2.png]] Sikatahan (large)
-- ![[rock1.png]] Dernice (large)
-- ![[rock14.png]] Stroudsburg (large)
+- ![[rock5.png\|rock5.png]] Teoponte (giant)
+- ![[rock4.png\|rock4.png]] Strășeni (large)
+- ![[rock2.png\|rock2.png]] Sikatahan (large)
+- ![[rock1.png\|rock1.png]] Dernice (large)
+- ![[rock14.png\|rock14.png]] Stroudsburg (large)
 
 
-# Planet 10 - Kishimo Jin ![[gasg5.png]]
+# Planet 10 - Kishimo Jin ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,17 +190,17 @@ No description available.
 
 
 
-- ![[rock1.png]] C6X1 (giant)
-- ![[rock6.png]] C6X2 (large)
-- ![[rock7.png]] C6X3 (large)
-- ![[rock8.png]] C6X4 (large)
-- ![[rock16.png]] C6X5 (large)
-- ![[rock10.png]] C6X6 (medium)
-- ![[oddmoon1.png]] C6X7 (medium)
-- ![[rock15.png]] C6X8 (medium)
+- ![[rock1.png\|rock1.png]] C6X1 (giant)
+- ![[rock6.png\|rock6.png]] C6X2 (large)
+- ![[rock7.png\|rock7.png]] C6X3 (large)
+- ![[rock8.png\|rock8.png]] C6X4 (large)
+- ![[rock16.png\|rock16.png]] C6X5 (large)
+- ![[rock10.png\|rock10.png]] C6X6 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] C6X7 (medium)
+- ![[rock15.png\|rock15.png]] C6X8 (medium)
 
 
-# Planet 11 - Bakemono ![[gasg2.png]]
+# Planet 11 - Bakemono ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -220,9 +215,9 @@ No description available.
 
 
 
-- [[oddmoon1.png]] Frick (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Frick (medium)
 
-# Planet 12 - Tsukuyomi ![[gasg4.png]]
+# Planet 12 - Tsukuyomi ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -237,13 +232,13 @@ No description available.
 
 
 
-- ![[rock9.png]] Saint-Pie-de-Guire I (large)
-- ![[rock13.png]] Saint-Pie-de-Guire II (large)
-- ![[rock11.png]] Saint-Pie-de-Guire III (large)
-- ![[rock3.png]] Saint-Pie-de-Guire IV (large)
+- ![[rock9.png\|rock9.png]] Saint-Pie-de-Guire I (large)
+- ![[rock13.png\|rock13.png]] Saint-Pie-de-Guire II (large)
+- ![[rock11.png\|rock11.png]] Saint-Pie-de-Guire III (large)
+- ![[rock3.png\|rock3.png]] Saint-Pie-de-Guire IV (large)
 
 
-# Planet 13 - Ama No Minaka Nushi ![[gasg12.png]]
+# Planet 13 - Ama No Minaka Nushi ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Katla
-xcood: "-59.629"
-ycood: "-341.019"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/katla/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Katla
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | -59.629 |
+> | Y coord| -341.019 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Katla ![[green7.png]]
+# Planet 1 - Katla ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,12 +32,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Baal ![[iceg19.png]]
+# Planet 2 - Baal ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -60,11 +55,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Fyfield ![[iceg9.png]]
+# Planet 3 - Fyfield ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -82,12 +77,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 4 - Frol ![[gasg1.png]]
+# Planet 4 - Frol ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,12 +100,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Asbru ![[gasg35.png]]
+# Planet 5 - Asbru ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,12 +123,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Karlsborg ![[gasg11.png]]
+# Planet 6 - Karlsborg ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,13 +146,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Finnmark Fylke Belt ![[asteroid2.png]]
+# Planet 7 - Finnmark Fylke Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

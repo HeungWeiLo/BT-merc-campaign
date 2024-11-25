@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ganshoren
-xcood: "-43.428"
-ycood: "158.15"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ganshoren/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ganshoren
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | -43.428 |
+> | Y coord| 158.15 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Ganshoren ![[green33.png]]
+# Planet 1 - Ganshoren ![[green33.png\|green33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Knoppert ![[iceg14.png]]
+# Planet 2 - Knoppert ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -57,9 +52,9 @@ dg-publish: true
 3
 4
 
-- [[oddmoon2.png]] Dijk (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Dijk (medium)
 
-# Planet 3 - Verwijs's Planet ![[gasg14.png]]
+# Planet 3 - Verwijs's Planet ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Absu's Hol ![[gasg17.png]]
+# Planet 4 - Absu's Hol ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -97,11 +92,11 @@ dg-publish: true
 2
 0
 
-- ![[rock5.png]] Baal (medium)
-- ![[rock13.png]] Jehovah (medium)
+- ![[rock5.png\|rock5.png]] Baal (medium)
+- ![[rock13.png\|rock13.png]] Jehovah (medium)
 
 
-# Planet 5 - Enkil ![[iceg9.png]]
+# Planet 5 - Enkil ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 6 - An ![[gasg10.png]]
+# Planet 6 - An ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Kievit ![[gasg23.png]]
+# Planet 7 - Kievit ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

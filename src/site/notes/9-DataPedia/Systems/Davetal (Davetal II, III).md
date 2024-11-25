@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Davetal (Davetal II, III)
-xcood: "271.495"
-ycood: "-446.983"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/davetal-davetal-ii-iii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Davetal (Davetal II, III)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 271.495 |
+> | Y coord| -446.983 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Davetal I ![[iceg14.png]]
+# Planet 1 - Davetal I ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Olson (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Olson (medium)
 
-# Planet 2 - Davetal (Davetal II, III) ![[dry13.png]]
+# Planet 2 - Davetal (Davetal II, III) ![[dry13.png\|dry13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Ometotchtli (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Ometotchtli (medium)
 
-# Planet 3 - Davetal III ![[frozen26.png]]
+# Planet 3 - Davetal III ![[frozen26.png\|frozen26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Davetal IV ![[greenhouse6.png]]
+# Planet 4 - Davetal IV ![[greenhouse6.png\|greenhouse6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,12 +84,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] DB31 (medium)
-- ![[rock10.png]] DB32 (medium)
-- ![[rock17.png]] DB33 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] DB31 (medium)
+- ![[rock10.png\|rock10.png]] DB32 (medium)
+- ![[rock17.png\|rock17.png]] DB33 (medium)
 
 
-# Planet 5 - Davetal V ![[gasg10.png]]
+# Planet 5 - Davetal V ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,11 +104,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] D1 (medium)
-- ![[rock11.png]] D2 (medium)
+- ![[rock9.png\|rock9.png]] D1 (medium)
+- ![[rock11.png\|rock11.png]] D2 (medium)
 
 
-# Planet 6 - Davetal VI ![[gasg31.png]]
+# Planet 6 - Davetal VI ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,13 +123,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Ishtar (large)
-- ![[rock8.png]] GZ1 (large)
-- ![[oddmoon2.png]] GZ2 (medium)
-- ![[rock12.png]] Sherida (medium)
+- ![[rock9.png\|rock9.png]] Ishtar (large)
+- ![[rock8.png\|rock8.png]] GZ1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] GZ2 (medium)
+- ![[rock12.png\|rock12.png]] Sherida (medium)
 
 
-# Planet 7 - Ballard's Belt ![[asteroid1.png]]
+# Planet 7 - Ballard's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Davetal VII ![[gasg32.png]]
+# Planet 8 - Davetal VII ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,7 +156,7 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Cheiron (medium)
-- ![[rock12.png]] Cronos (medium)
+- ![[rock1.png\|rock1.png]] Cheiron (medium)
+- ![[rock12.png\|rock12.png]] Cronos (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galicia
-xcood: "-664.451"
-ycood: "1143.65"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galicia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galicia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | -664.451 |
+> | Y coord| 1143.65 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Schmidt ![[rock15.png]]
+# Planet 1 - Schmidt ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Carrillo ![[barren9.png]]
+# Planet 2 - Carrillo ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Galicia ![[green20.png]]
+# Planet 3 - Galicia ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ No description available.
 
 
 
-# Planet 4 - Castillo de Guzmán ![[iceg1.png]]
+# Planet 4 - Castillo de Guzmán ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -98,12 +93,12 @@ No description available.
 3
 0
 
-- ![[rock11.png]] Matinhata (large)
-- ![[rock14.png]] Marroquín (large)
-- ![[oddmoon1.png]] Díaz (medium)
+- ![[rock11.png\|rock11.png]] Matinhata (large)
+- ![[rock14.png\|rock14.png]] Marroquín (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Díaz (medium)
 
 
-# Planet 5 - Santos ![[gasg9.png]]
+# Planet 5 - Santos ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,13 +116,13 @@ No description available.
 4
 0
 
-- ![[rock5.png]] LUV1 (large)
-- ![[rock13.png]] LUV2 (large)
-- ![[rock11.png]] LUV3 (medium)
-- ![[rock12.png]] LUV4 (medium)
+- ![[rock5.png\|rock5.png]] LUV1 (large)
+- ![[rock13.png\|rock13.png]] LUV2 (large)
+- ![[rock11.png\|rock11.png]] LUV3 (medium)
+- ![[rock12.png\|rock12.png]] LUV4 (medium)
 
 
-# Planet 6 - Chapa's Delight ![[gasg18.png]]
+# Planet 6 - Chapa's Delight ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,11 +140,11 @@ No description available.
 2
 0
 
-- ![[rock15.png]] Macuil Tonaleque Alpha (large)
-- ![[rock9.png]] Macuil Tonaleque Beta (large)
+- ![[rock15.png\|rock15.png]] Macuil Tonaleque Alpha (large)
+- ![[rock9.png\|rock9.png]] Macuil Tonaleque Beta (large)
 
 
-# Planet 7 - Reyes's Belt Alpha ![[asteroid2.png]]
+# Planet 7 - Reyes's Belt Alpha ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -164,7 +159,7 @@ No description available.
 
 
 
-# Planet 8 - Flores's Madness ![[iceg10.png]]
+# Planet 8 - Flores's Madness ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -182,12 +177,12 @@ No description available.
 3
 0
 
-- ![[rock17.png]] Morrigu (medium)
-- ![[oddmoon3.png]] Sadb (medium)
-- ![[oddmoon1.png]] Mabon (medium)
+- ![[rock17.png\|rock17.png]] Morrigu (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sadb (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mabon (medium)
 
 
-# Planet 9 - Reyes's Belt Beta ![[asteroid3.png]]
+# Planet 9 - Reyes's Belt Beta ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -202,7 +197,7 @@ No description available.
 
 
 
-# Planet 10 - Overell ![[gasg17.png]]
+# Planet 10 - Overell ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -222,7 +217,7 @@ No description available.
 
 
 
-# Planet 11 - Vega ![[iceg4.png]]
+# Planet 11 - Vega ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chitwan
-xcood: "18.749"
-ycood: "-172.42"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chitwan/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chitwan
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | 18.749 |
+> | Y coord| -172.42 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Chitwan ![[green44.png]]
+# Planet 1 - Chitwan ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Rodikot ![[rock10.png]]
+# Planet 2 - Rodikot ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Najm al Din ![[rock4.png]]
+# Planet 3 - Najm al Din ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Oenghus ![[rock11.png]]
+# Planet 4 - Oenghus ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Rāptī ![[rock11.png]]
+# Planet 5 - Rāptī ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Fódhla ![[gasg13.png]]
+# Planet 6 - Fódhla ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Pandya's Harvest ![[gasg37.png]]
+# Planet 7 - Pandya's Harvest ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,14 +132,14 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Urania A (large)
-- ![[rock1.png]] Urania B (large)
-- ![[rock9.png]] Urania C (medium)
-- ![[oddmoon3.png]] Urania D (medium)
-- ![[rock11.png]] Urania E (medium)
+- ![[rock4.png\|rock4.png]] Urania A (large)
+- ![[rock1.png\|rock1.png]] Urania B (large)
+- ![[rock9.png\|rock9.png]] Urania C (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Urania D (medium)
+- ![[rock11.png\|rock11.png]] Urania E (medium)
 
 
-# Planet 8 - Sangkosh ![[gasg16.png]]
+# Planet 8 - Sangkosh ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,14 +154,14 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] 8L-1 (giant)
-- ![[rock6.png]] 8L-2 (large)
-- ![[rock4.png]] 8L-3 (large)
-- ![[rock17.png]] 8L-4 (medium)
-- ![[oddmoon3.png]] 8L-5 (medium)
+- ![[rock2.png\|rock2.png]] 8L-1 (giant)
+- ![[rock6.png\|rock6.png]] 8L-2 (large)
+- ![[rock4.png\|rock4.png]] 8L-3 (large)
+- ![[rock17.png\|rock17.png]] 8L-4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 8L-5 (medium)
 
 
-# Planet 9 - Bārāhā ![[iceg6.png]]
+# Planet 9 - Bārāhā ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -181,12 +176,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Aasgard (large)
-- ![[rock2.png]] Loki Laufeyjarson (large)
-- ![[rock9.png]] Odin (large)
+- ![[rock13.png\|rock13.png]] Aasgard (large)
+- ![[rock2.png\|rock2.png]] Loki Laufeyjarson (large)
+- ![[rock9.png\|rock9.png]] Odin (large)
 
 
-# Planet 10 - Karim ![[gasg34.png]]
+# Planet 10 - Karim ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -201,9 +196,9 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Timores A (medium)
-- ![[rock6.png]] Timores B (medium)
-- ![[oddmoon2.png]] Timores C (medium)
-- ![[rock12.png]] Timores D (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Timores A (medium)
+- ![[rock6.png\|rock6.png]] Timores B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Timores C (medium)
+- ![[rock12.png\|rock12.png]] Timores D (medium)
 
 

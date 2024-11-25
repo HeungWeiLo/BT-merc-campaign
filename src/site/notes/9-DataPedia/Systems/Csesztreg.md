@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Csesztreg
-xcood: "-69.286"
-ycood: "391.313"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/csesztreg/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Csesztreg
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | -69.286 |
+> | Y coord| 391.313 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - Sistonen ![[barren23.png]]
+# Planet 1 - Sistonen ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Koskinen ![[rock10.png]]
+# Planet 2 - Koskinen ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ilonen ![[iceg5.png]]
+# Planet 3 - Ilonen ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -65,11 +60,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Karvonen (large)
-- ![[oddmoon1.png]] Linna (medium)
+- ![[rock17.png\|rock17.png]] Karvonen (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Linna (medium)
 
 
-# Planet 4 - Csesztreg ![[green44.png]]
+# Planet 4 - Csesztreg ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,11 +85,11 @@ Csesztreg was settled for its abundant natural resources, specifically heavy met
 
 After suffering at the hands of the Combine for decades, the people of Csesztreg were unhappy to find that the Commonwealth was in no hurry to reclaim their planet and improve their situation during the 4th Succession War. As a result, the population petitioned to join the newly formed Free Rasalhague Republic when it formed. By then the advancements from the Helm Memory core allowed the FRR to rebuild and repair the water purifiers to improve the quality of life for people on the planet. The planet fell to the Wolves during Operation Revival and held the planet for more than twenty years before the Hell’s Horses captured the planet and established Csesztreg as their new capital and worked quickly to expand the manufacturing and industry on planet by bringing in prefabricated industrial units from the homeworlds. Csesztreg is also the site of the Horses’ primary genetic repository and Touman headquarters.
 
-- ![[rock3.png]] Banjno (large)
-- ![[oddmoon2.png]] Egylet (medium)
+- ![[rock3.png\|rock3.png]] Banjno (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Egylet (medium)
 
 
-# Planet 5 - Boraro ![[frozen31.png]]
+# Planet 5 - Boraro ![[frozen31.png\|frozen31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -114,7 +109,7 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-# Planet 6 - Oman ![[gasg28.png]]
+# Planet 6 - Oman ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,7 +126,7 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-# Planet 7 - Jumnong ![[frozen10.png]]
+# Planet 7 - Jumnong ![[frozen10.png\|frozen10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -149,9 +144,9 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-- [[rock1.png]] Skaoi (giant)
+- [[rock1.png\|rock1.png]] Skaoi (giant)
 
-# Planet 8 - Louramo ![[gasg29.png]]
+# Planet 8 - Louramo ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,12 +161,12 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-- ![[rock12.png]] SQA-1 (large)
-- ![[rock3.png]] SQA-2 (medium)
-- ![[rock15.png]] SQA-3 (medium)
+- ![[rock12.png\|rock12.png]] SQA-1 (large)
+- ![[rock3.png\|rock3.png]] SQA-2 (medium)
+- ![[rock15.png\|rock15.png]] SQA-3 (medium)
 
 
-# Planet 9 - Érd ![[gasg38.png]]
+# Planet 9 - Érd ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,7 +183,7 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-# Planet 10 - Albright ![[gasg33.png]]
+# Planet 10 - Albright ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,10 +198,10 @@ After suffering at the hands of the Combine for decades, the people of Csesztreg
 
 
 
-- ![[rock1.png]] Spencer I (large)
-- ![[rock14.png]] Spencer II (large)
-- ![[rock5.png]] Spencer III (large)
-- ![[rock13.png]] Spencer IV (medium)
-- ![[oddmoon3.png]] Spencer V (medium)
+- ![[rock1.png\|rock1.png]] Spencer I (large)
+- ![[rock14.png\|rock14.png]] Spencer II (large)
+- ![[rock5.png\|rock5.png]] Spencer III (large)
+- ![[rock13.png\|rock13.png]] Spencer IV (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Spencer V (medium)
 
 

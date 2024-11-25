@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cryfder
-xcood: "-153.289"
-ycood: "493.887"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cryfder/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cryfder
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -153.289 |
+> | Y coord| 493.887 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Borbokis ![[barren9.png]]
+# Planet 1 - Borbokis ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Grivas's Harvest ![[barren1.png]]
+# Planet 2 - Grivas's Harvest ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -49,9 +44,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Ukupnik (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Ukupnik (medium)
 
-# Planet 3 - Cryfder ![[green19.png]]
+# Planet 3 - Cryfder ![[green19.png\|green19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,11 +65,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Drake (medium)
-- ![[oddmoon3.png]] Kroměříž (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Drake (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kroměříž (medium)
 
 
-# Planet 4 - Jennings ![[rock1.png]]
+# Planet 4 - Jennings ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Love's Retreat ![[gasg20.png]]
+# Planet 5 - Love's Retreat ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Ac Yanto Belt ![[asteroid1.png]]
+# Planet 6 - Ac Yanto Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -120,7 +115,7 @@ dg-publish: true
 
 
 
-# Planet 7 - O'Halloran's Stand ![[gasg15.png]]
+# Planet 7 - O'Halloran's Stand ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,7 +132,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Melor ![[gasg11.png]]
+# Planet 8 - Melor ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -154,7 +149,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Barker ![[gasg13.png]]
+# Planet 9 - Barker ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,13 +164,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] EL1 (large)
-- ![[rock9.png]] EL2 (large)
-- ![[rock10.png]] EL3 (large)
-- ![[rock8.png]] EL4 (medium)
+- ![[rock13.png\|rock13.png]] EL1 (large)
+- ![[rock9.png\|rock9.png]] EL2 (large)
+- ![[rock10.png\|rock10.png]] EL3 (large)
+- ![[rock8.png\|rock8.png]] EL4 (medium)
 
 
-# Planet 10 - Wilsdon ![[gasg33.png]]
+# Planet 10 - Wilsdon ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,11 +185,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Rollins A (medium)
-- ![[oddmoon2.png]] Rollins B (medium)
+- ![[rock3.png\|rock3.png]] Rollins A (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rollins B (medium)
 
 
-# Planet 11 - Bryant's World ![[gasg8.png]]
+# Planet 11 - Bryant's World ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -209,8 +204,8 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Irimie (medium)
-- ![[rock13.png]] Weighell (medium)
-- ![[rock10.png]] Coetzala (medium)
+- ![[rock12.png\|rock12.png]] Irimie (medium)
+- ![[rock13.png\|rock13.png]] Weighell (medium)
+- ![[rock10.png\|rock10.png]] Coetzala (medium)
 
 

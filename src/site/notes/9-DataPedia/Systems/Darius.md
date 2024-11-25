@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Darius
-xcood: "65.124"
-ycood: "204.678"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/darius/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Darius
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | 65.124 |
+> | Y coord| 204.678 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Bönigen ![[barren20.png]]
+# Planet 1 - Bönigen ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Moirae (medium)
-- ![[rock16.png]] Circe (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Moirae (medium)
+- ![[rock16.png\|rock16.png]] Circe (medium)
 
 
-# Planet 2 - New Ukmergė ![[green22.png]]
+# Planet 2 - New Ukmergė ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,9 +49,9 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Saktassura (large)
+- [[rock6.png\|rock6.png]] Saktassura (large)
 
-# Planet 3 - Darius ![[green38.png]]
+# Planet 3 - Darius ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - PanevėžysMunicipality ![[gasg4.png]]
+# Planet 4 - PanevėžysMunicipality ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -92,12 +87,12 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] M1 (medium)
-- ![[oddmoon2.png]] M2 (medium)
-- ![[rock8.png]] M3 (medium)
+- ![[rock11.png\|rock11.png]] M1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] M2 (medium)
+- ![[rock8.png\|rock8.png]] M3 (medium)
 
 
-# Planet 5 - Herreid ![[frozen15.png]]
+# Planet 5 - Herreid ![[frozen15.png\|frozen15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -117,7 +112,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Visaginas ![[iceg9.png]]
+# Planet 6 - Visaginas ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

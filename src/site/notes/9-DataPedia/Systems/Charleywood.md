@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Charleywood
-xcood: "275.718"
-ycood: "-21.722"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/charleywood/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Charleywood
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | 275.718 |
+> | Y coord| -21.722 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Ásgarðr ![[greenhouse27.png]]
+# Planet 1 - Ásgarðr ![[greenhouse27.png\|greenhouse27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Charleywood ![[green35.png]]
+# Planet 2 - Charleywood ![[green35.png\|green35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - New Lempster ![[iceg18.png]]
+# Planet 3 - New Lempster ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Pearson (large)
+- [[rock2.png\|rock2.png]] Pearson (large)
 
-# Planet 4 - Morrighan ![[gasg30.png]]
+# Planet 4 - Morrighan ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - CB61 Belt ![[asteroid3.png]]
+# Planet 5 - CB61 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Heimdall ![[gasg34.png]]
+# Planet 6 - Heimdall ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,11 +110,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] O1 (large)
-- ![[oddmoon2.png]] O2 (medium)
+- ![[rock10.png\|rock10.png]] O1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] O2 (medium)
 
 
-# Planet 7 - Hnossa ![[gasg21.png]]
+# Planet 7 - Hnossa ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

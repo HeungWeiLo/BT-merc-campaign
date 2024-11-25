@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Defiance
-xcood: "424.953"
-ycood: "-106.593"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/defiance/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Defiance
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | 424.953 |
+> | Y coord| -106.593 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Friends Creek ![[rock15.png]]
+# Planet 1 - Friends Creek ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Panhandle ![[iceg12.png]]
+# Planet 2 - Panhandle ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -47,15 +42,15 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] E1 (large)
-- ![[rock12.png]] E2 (large)
-- ![[rock7.png]] E3 (medium)
-- ![[rock10.png]] E4 (medium)
-- ![[rock16.png]] E5 (medium)
-- ![[rock6.png]] E6 (medium)
+- ![[rock17.png\|rock17.png]] E1 (large)
+- ![[rock12.png\|rock12.png]] E2 (large)
+- ![[rock7.png\|rock7.png]] E3 (medium)
+- ![[rock10.png\|rock10.png]] E4 (medium)
+- ![[rock16.png\|rock16.png]] E5 (medium)
+- ![[rock6.png\|rock6.png]] E6 (medium)
 
 
-# Planet 3 - Woodsdale ![[rock11.png]]
+# Planet 3 - Woodsdale ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,9 +65,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Malsun (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Malsun (medium)
 
-# Planet 4 - Horicon ![[frozen62.png]]
+# Planet 4 - Horicon ![[frozen62.png\|frozen62.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ōtsu-shi ![[iceg19.png]]
+# Planet 5 - Ōtsu-shi ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Enfield ![[rock14.png]]
+# Planet 6 - Enfield ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Defiance ![[green39.png]]
+# Planet 7 - Defiance ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -145,11 +140,11 @@ dg-publish: true
 
 Defiance is a temperate planet with a tainted atmosphere that was originally settled as a mining colony. Unfortunately, years of mining have worsened the atmosphere and removed almost all of the of the valuable materials the planet once contained. Now, Defiance is a sleepy backwater and the planet’s biggest claim to fame is the Defiance Combat Training Center. The planet has only light industry and requires imported food to support its population and any military units rotating through to make use of the Training Center.
 
-- ![[rock2.png]] Iowa (medium)
-- ![[oddmoon3.png]] Missouri (medium)
+- ![[rock2.png\|rock2.png]] Iowa (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Missouri (medium)
 
 
-# Planet 8 - Edgington ![[rock3.png]]
+# Planet 8 - Edgington ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -166,7 +161,7 @@ Defiance is a temperate planet with a tainted atmosphere that was originally set
 
 
 
-# Planet 9 - Osborne's Planet ![[gasg1.png]]
+# Planet 9 - Osborne's Planet ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -183,7 +178,7 @@ Defiance is a temperate planet with a tainted atmosphere that was originally set
 
 
 
-# Planet 10 - Old Les Martres-de-Veyre ![[rock15.png]]
+# Planet 10 - Old Les Martres-de-Veyre ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

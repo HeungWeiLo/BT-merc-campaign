@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Damevang
-xcood: "345.59"
-ycood: "64.322"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/damevang/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Damevang
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 345.59 |
+> | Y coord| 64.322 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Damevang ![[green39.png]]
+# Planet 1 - Damevang ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - WTH-2 ![[iceg5.png]]
+# Planet 2 - WTH-2 ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Nox (large)
-- ![[oddmoon1.png]] Anteros (medium)
+- ![[rock10.png\|rock10.png]] Nox (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Anteros (medium)
 
 
-# Planet 3 - WTH-3 ![[gasg8.png]]
+# Planet 3 - WTH-3 ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,16 +65,16 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Y1 (large)
-- ![[rock8.png]] Y2 (large)
-- ![[rock13.png]] Y3 (large)
-- ![[rock14.png]] Y4 (large)
-- ![[rock6.png]] Y5 (large)
-- ![[oddmoon1.png]] Y6 (medium)
-- ![[oddmoon3.png]] Y7 (medium)
+- ![[rock2.png\|rock2.png]] Y1 (large)
+- ![[rock8.png\|rock8.png]] Y2 (large)
+- ![[rock13.png\|rock13.png]] Y3 (large)
+- ![[rock14.png\|rock14.png]] Y4 (large)
+- ![[rock6.png\|rock6.png]] Y5 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Y6 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Y7 (medium)
 
 
-# Planet 4 - WTH-4 ![[gasg26.png]]
+# Planet 4 - WTH-4 ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -94,12 +89,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Obatalá (medium)
-- ![[oddmoon3.png]] Shankpana (medium)
-- ![[rock11.png]] Njambi Karunga (medium)
+- ![[rock4.png\|rock4.png]] Obatalá (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Shankpana (medium)
+- ![[rock11.png\|rock11.png]] Njambi Karunga (medium)
 
 
-# Planet 5 - 4GL-1 Belt ![[asteroid2.png]]
+# Planet 5 - 4GL-1 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - WTH-5 ![[gasg3.png]]
+# Planet 6 - WTH-5 ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,13 +121,13 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Arvayheer 1 (large)
-- ![[rock16.png]] Arvayheer 2 (large)
-- ![[rock6.png]] Arvayheer 3 (large)
-- ![[oddmoon2.png]] Arvayheer 4 (medium)
+- ![[rock9.png\|rock9.png]] Arvayheer 1 (large)
+- ![[rock16.png\|rock16.png]] Arvayheer 2 (large)
+- ![[rock6.png\|rock6.png]] Arvayheer 3 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Arvayheer 4 (medium)
 
 
-# Planet 7 - WTH-6 ![[gasg10.png]]
+# Planet 7 - WTH-6 ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,11 +142,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] P3-1 (medium)
-- ![[oddmoon2.png]] P3-2 (medium)
+- ![[rock8.png\|rock8.png]] P3-1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] P3-2 (medium)
 
 
-# Planet 8 - WTH-7 ![[gasg14.png]]
+# Planet 8 - WTH-7 ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,13 +161,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] D1 (large)
-- ![[rock11.png]] D2 (medium)
-- ![[oddmoon3.png]] D3 (medium)
-- ![[rock5.png]] D4 (medium)
+- ![[rock13.png\|rock13.png]] D1 (large)
+- ![[rock11.png\|rock11.png]] D2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] D3 (medium)
+- ![[rock5.png\|rock5.png]] D4 (medium)
 
 
-# Planet 9 - WTH-8 ![[iceg8.png]]
+# Planet 9 - WTH-8 ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -187,11 +182,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Kururumany 1 (large)
-- ![[rock3.png]] Kururumany 2 (large)
+- ![[rock14.png\|rock14.png]] Kururumany 1 (large)
+- ![[rock3.png\|rock3.png]] Kururumany 2 (large)
 
 
-# Planet 10 - WTH-9 ![[gasg37.png]]
+# Planet 10 - WTH-9 ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -206,11 +201,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Mwambwa (large)
-- ![[rock11.png]] En Kai (large)
-- ![[rock13.png]] Mukunga Mbura (large)
-- ![[rock3.png]] Macuil Cozcacuahtli (large)
-- ![[oddmoon2.png]] Kwoth (medium)
-- ![[oddmoon3.png]] Obatala (medium)
+- ![[rock5.png\|rock5.png]] Mwambwa (large)
+- ![[rock11.png\|rock11.png]] En Kai (large)
+- ![[rock13.png\|rock13.png]] Mukunga Mbura (large)
+- ![[rock3.png\|rock3.png]] Macuil Cozcacuahtli (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Kwoth (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Obatala (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Karston
-xcood: "-10.352"
-ycood: "277.063"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/karston/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Karston
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | -10.352 |
+> | Y coord| 277.063 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Reading ![[barren14.png]]
+# Planet 1 - Reading ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Foisches ![[greenhouse6.png]]
+# Planet 2 - Foisches ![[greenhouse6.png\|greenhouse6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -60,7 +55,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Intibucá ![[greenhouse11.png]]
+# Planet 3 - Intibucá ![[greenhouse11.png\|greenhouse11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,11 +74,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 4 - Karston ![[green13.png]]
+# Planet 4 - Karston ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Shively ![[iceg12.png]]
+# Planet 5 - Shively ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -125,9 +120,9 @@ dg-publish: true
 3
 8
 
-- [[rock10.png]] Stinnett (medium)
+- [[rock10.png\|rock10.png]] Stinnett (medium)
 
-# Planet 6 - Asheville ![[gasg35.png]]
+# Planet 6 - Asheville ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,17 +140,17 @@ dg-publish: true
 8
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - JagaranathpurSira ![[gasg14.png]]
+# Planet 7 - JagaranathpurSira ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -173,8 +168,8 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

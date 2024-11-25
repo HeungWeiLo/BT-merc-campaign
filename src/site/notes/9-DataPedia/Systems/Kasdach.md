@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kasdach
-xcood: "20.928"
-ycood: "-313.054"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kasdach/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kasdach
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | 20.928 |
+> | Y coord| -313.054 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Tapti's Madness ![[rock7.png]]
+# Planet 1 - Tapti's Madness ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Djukic's Flats ![[gasg3.png]]
+# Planet 2 - Djukic's Flats ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,9 +48,9 @@ dg-publish: true
 3
 6
 
-- [[rock12.png]] Denton (large)
+- [[rock12.png\|rock12.png]] Denton (large)
 
-# Planet 3 - Wijkhuize's Planet ![[rock17.png]]
+# Planet 3 - Wijkhuize's Planet ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kasdach ![[green57.png]]
+# Planet 4 - Kasdach ![[green57.png\|green57.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - L1 Belt ![[asteroid3.png]]
+# Planet 5 - L1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -115,7 +110,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Robinson's World ![[gasg2.png]]
+# Planet 6 - Robinson's World ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -135,7 +130,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Newth ![[iceg16.png]]
+# Planet 7 - Newth ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -153,9 +148,9 @@ dg-publish: true
 3
 6
 
-- [[rock7.png]] Inaras (large)
+- [[rock7.png\|rock7.png]] Inaras (large)
 
-# Planet 8 - Torres ![[gasg9.png]]
+# Planet 8 - Torres ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

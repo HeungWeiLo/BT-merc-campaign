@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chaville
-xcood: "17.398"
-ycood: "46.931"
-spectralType: M9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chaville/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chaville
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M9V.png]] |
+> | X coord | 17.398 |
+> | Y coord| 46.931 |
+> | Spectral Type | M9V ![[M9V.png\|M9V.png]] |
 
-# Planet 1 - Chaville ![[green6.png]]
+# Planet 1 - Chaville ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Audincthun ![[iceg13.png]]
+# Planet 2 - Audincthun ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Nono I (large)
-- ![[rock3.png]] Nono II (large)
-- ![[rock11.png]] Nono III (medium)
+- ![[rock14.png\|rock14.png]] Nono I (large)
+- ![[rock3.png\|rock3.png]] Nono II (large)
+- ![[rock11.png\|rock11.png]] Nono III (medium)
 
 
-# Planet 3 - Lleu Llaw Gyffes ![[gasg4.png]]
+# Planet 3 - Lleu Llaw Gyffes ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Reyvroz ![[gasg19.png]]
+# Planet 4 - Reyvroz ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Rivière (medium)
-- ![[oddmoon2.png]] Roche (medium)
-- ![[rock14.png]] Cornu (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Rivière (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Roche (medium)
+- ![[rock14.png\|rock14.png]] Cornu (medium)
 
 
-# Planet 5 - Oghma ![[gasg10.png]]
+# Planet 5 - Oghma ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Chessy ![[gasg7.png]]
+# Planet 6 - Chessy ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Taranis ![[gasg32.png]]
+# Planet 7 - Taranis ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,9 +137,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] Perrin (medium)
+- [[rock4.png\|rock4.png]] Perrin (medium)
 
-# Planet 8 - Carmenta Belt ![[asteroid3.png]]
+# Planet 8 - Carmenta Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

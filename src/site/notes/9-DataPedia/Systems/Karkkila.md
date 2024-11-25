@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Karkkila
-xcood: "-433.743"
-ycood: "90.686"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/karkkila/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Karkkila
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | -433.743 |
+> | Y coord| 90.686 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Keski-Karjala ![[barren13.png]]
+# Planet 1 - Keski-Karjala ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 3
 8
 
-- [[oddmoon3.png]] Neptunus (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Neptunus (medium)
 
-# Planet 2 - Perniö ![[barren20.png]]
+# Planet 2 - Perniö ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,12 +50,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Karkkila ![[green6.png]]
+# Planet 3 - Karkkila ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Toholampi ![[gasg7.png]]
+# Planet 4 - Toholampi ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Järvelä ![[gasg2.png]]
+# Planet 5 - Järvelä ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,12 +117,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Teuva ![[gasg38.png]]
+# Planet 6 - Teuva ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,12 +140,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Kurikka ![[gasg8.png]]
+# Planet 7 - Kurikka ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,11 +163,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Southeast Fairbanks Belt ![[asteroid1.png]]
+# Planet 8 - Southeast Fairbanks Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -187,7 +182,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Uusi Kyyjärvi ![[gasg31.png]]
+# Planet 9 - Uusi Kyyjärvi ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -205,12 +200,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Plateaux ![[gasg23.png]]
+# Planet 10 - Plateaux ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -228,12 +223,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 11 - Takala's Folly ![[gasg29.png]]
+# Planet 11 - Takala's Folly ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -251,14 +246,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 12 - Pulkkila ![[iceg17.png]]
+# Planet 12 - Pulkkila ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -276,11 +271,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 13 - Hamina ![[gasg25.png]]
+# Planet 13 - Hamina ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -298,8 +293,8 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

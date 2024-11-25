@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gateway
-xcood: "-720.792"
-ycood: "643.114"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gateway/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gateway
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | -720.792 |
+> | Y coord| 643.114 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Phillips's Harbour ![[barren22.png]]
+# Planet 1 - Phillips's Harbour ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kenney's Redoubt ![[rock6.png]]
+# Planet 2 - Kenney's Redoubt ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Gateway ![[green24.png]]
+# Planet 3 - Gateway ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,12 +73,12 @@ No description available.
 3
 0
 
-- ![[oddmoon2.png]] H1 (medium)
-- ![[rock10.png]] H2 (medium)
-- ![[rock2.png]] H3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] H1 (medium)
+- ![[rock10.png\|rock10.png]] H2 (medium)
+- ![[rock2.png\|rock2.png]] H3 (medium)
 
 
-# Planet 4 - Pugh's Planet ![[iceg2.png]]
+# Planet 4 - Pugh's Planet ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -101,9 +96,9 @@ No description available.
 3
 4
 
-- [[rock7.png]] 7YT1 (large)
+- [[rock7.png\|rock7.png]] 7YT1 (large)
 
-# Planet 5 - Welch's Mistake ![[gasg6.png]]
+# Planet 5 - Welch's Mistake ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,11 +116,11 @@ No description available.
 2
 0
 
-- ![[rock3.png]] André (giant)
-- ![[rock11.png]] Glendenning (giant)
+- ![[rock3.png\|rock3.png]] André (giant)
+- ![[rock11.png\|rock11.png]] Glendenning (giant)
 
 
-# Planet 6 - Wells's Redoubt ![[gasg5.png]]
+# Planet 6 - Wells's Redoubt ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,12 +138,12 @@ No description available.
 3
 0
 
-- ![[rock7.png]] Phobetor 1 (large)
-- ![[rock15.png]] Phobetor 2 (large)
-- ![[rock10.png]] Phobetor 3 (medium)
+- ![[rock7.png\|rock7.png]] Phobetor 1 (large)
+- ![[rock15.png\|rock15.png]] Phobetor 2 (large)
+- ![[rock10.png\|rock10.png]] Phobetor 3 (medium)
 
 
-# Planet 7 - Blodeuedd Belt ![[asteroid3.png]]
+# Planet 7 - Blodeuedd Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -163,7 +158,7 @@ No description available.
 
 
 
-# Planet 8 - Hebert ![[gasg22.png]]
+# Planet 8 - Hebert ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,12 +176,12 @@ No description available.
 3
 0
 
-- ![[rock3.png]] Thor I (medium)
-- ![[rock13.png]] Thor II (medium)
-- ![[oddmoon2.png]] Thor III (medium)
+- ![[rock3.png\|rock3.png]] Thor I (medium)
+- ![[rock13.png\|rock13.png]] Thor II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Thor III (medium)
 
 
-# Planet 9 - Powell's Frontier ![[gasg17.png]]
+# Planet 9 - Powell's Frontier ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -204,12 +199,12 @@ No description available.
 3
 0
 
-- ![[oddmoon1.png]] Chernabog (medium)
-- ![[rock16.png]] Tchernobog (medium)
-- ![[oddmoon3.png]] Koschei (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Chernabog (medium)
+- ![[rock16.png\|rock16.png]] Tchernobog (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Koschei (medium)
 
 
-# Planet 10 - Arc-Wade ![[gasg21.png]]
+# Planet 10 - Arc-Wade ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,5 +222,5 @@ No description available.
 3
 13
 
-- [[rock13.png]] East Godāvari (medium)
+- [[rock13.png\|rock13.png]] East Godāvari (medium)
 

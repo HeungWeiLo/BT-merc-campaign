@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Courtney
-xcood: "283.732"
-ycood: "4.847"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/courtney/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Courtney
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 283.732 |
+> | Y coord| 4.847 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Hall's Run ![[iceg13.png]]
+# Planet 1 - Hall's Run ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Sotuknang (large)
+- [[rock1.png\|rock1.png]] Sotuknang (large)
 
-# Planet 2 - Campbell ![[barren21.png]]
+# Planet 2 - Campbell ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Courtney ![[green18.png]]
+# Planet 3 - Courtney ![[green18.png\|green18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Petit's World ![[frozen7.png]]
+# Planet 4 - Petit's World ![[frozen7.png\|frozen7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Bin Nawaf's Planet ![[iceg16.png]]
+# Planet 5 - Bin Nawaf's Planet ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] F31 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] F31 (medium)
 
-# Planet 6 - Czernobog ![[rock5.png]]
+# Planet 6 - Czernobog ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -126,7 +121,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Butrus ![[gasg22.png]]
+# Planet 7 - Butrus ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,7 +138,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Harmon ![[gasg29.png]]
+# Planet 8 - Harmon ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,12 +153,12 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Eliseenko (large)
-- ![[rock4.png]] Decker (large)
-- ![[rock1.png]] Simmons (medium)
+- ![[rock9.png\|rock9.png]] Eliseenko (large)
+- ![[rock4.png\|rock4.png]] Decker (large)
+- ![[rock1.png\|rock1.png]] Simmons (medium)
 
 
-# Planet 9 - San Miguel ![[rock8.png]]
+# Planet 9 - San Miguel ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -179,5 +174,5 @@ dg-publish: true
 
 
 
-- [[rock15.png]] 5X3-1 (giant)
+- [[rock15.png\|rock15.png]] 5X3-1 (giant)
 

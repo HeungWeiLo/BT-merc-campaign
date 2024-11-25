@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Circinus
-xcood: "-388.555"
-ycood: "-66.824"
-spectralType: G5IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/circinus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Circinus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5IV.png]] |
+> | X coord | -388.555 |
+> | Y coord| -66.824 |
+> | Spectral Type | G5IV ![[G5IV.png\|G5IV.png]] |
 
-# Planet 1 - Den Helder ![[iceg14.png]]
+# Planet 1 - Den Helder ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Sokaris 1 (medium)
-- ![[oddmoon2.png]] Sokaris 2 (medium)
+- ![[rock3.png\|rock3.png]] Sokaris 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sokaris 2 (medium)
 
 
-# Planet 2 - New Bammental ![[barren23.png]]
+# Planet 2 - New Bammental ![[barren23.png\|barren23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,7 +47,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Kohler ![[rock2.png]]
+# Planet 3 - Kohler ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Circinus ![[green12.png]]
+# Planet 4 - Circinus ![[green12.png\|green12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,11 +84,11 @@ dg-publish: true
 
 Circinus is an arid world that contains vast deposits of raw minerals and gemstones. Rumors persist of hidden training facilities and supply caches of stolen Lyran and League goods in the remote northern deserts.
 
-- ![[oddmoon2.png]] Bronco (medium)
-- ![[rock12.png]] Raxx (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Bronco (medium)
+- ![[rock12.png\|rock12.png]] Raxx (large)
 
 
-# Planet 5 - Ellis's Run ![[iceg5.png]]
+# Planet 5 - Ellis's Run ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -108,12 +103,12 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock12.png]] Cautha (large)
-- ![[oddmoon3.png]] Chalchihuitlicue (medium)
-- ![[oddmoon1.png]] Celsclan (medium)
+- ![[rock12.png\|rock12.png]] Cautha (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Chalchihuitlicue (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Celsclan (medium)
 
 
-# Planet 6 - Goldsboro ![[gasg15.png]]
+# Planet 6 - Goldsboro ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -130,7 +125,7 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-# Planet 7 - Växjö domkyrkoförs. ![[frozen42.png]]
+# Planet 7 - Växjö domkyrkoförs. ![[frozen42.png\|frozen42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -150,7 +145,7 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-# Planet 8 - New Atascosa ![[gasg21.png]]
+# Planet 8 - New Atascosa ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,11 +160,11 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock13.png]] Huallallo Carhuincho (large)
-- ![[rock1.png]] Chiá (medium)
+- ![[rock13.png\|rock13.png]] Huallallo Carhuincho (large)
+- ![[rock1.png\|rock1.png]] Chiá (medium)
 
 
-# Planet 9 - Riberos de la Cueza ![[gasg22.png]]
+# Planet 9 - Riberos de la Cueza ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -186,7 +181,7 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-# Planet 10 - Léger's Belt ![[asteroid3.png]]
+# Planet 10 - Léger's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -198,7 +193,7 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-# Planet 11 - Halfmoon ![[gasg18.png]]
+# Planet 11 - Halfmoon ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -213,14 +208,14 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock7.png]] Djous Pater Alpha (large)
-- ![[rock4.png]] Djous Pater Beta (large)
-- ![[rock13.png]] Djous Pater Gamma (large)
-- ![[oddmoon3.png]] Djous Pater Delta (medium)
-- ![[rock10.png]] Djous Pater Epsilon (medium)
+- ![[rock7.png\|rock7.png]] Djous Pater Alpha (large)
+- ![[rock4.png\|rock4.png]] Djous Pater Beta (large)
+- ![[rock13.png\|rock13.png]] Djous Pater Gamma (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Djous Pater Delta (medium)
+- ![[rock10.png\|rock10.png]] Djous Pater Epsilon (medium)
 
 
-# Planet 12 - Melo ![[gasg8.png]]
+# Planet 12 - Melo ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -235,12 +230,12 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock3.png]] Arawn (large)
-- ![[oddmoon3.png]] Loki (medium)
-- ![[rock10.png]] Cu Chulainn (medium)
+- ![[rock3.png\|rock3.png]] Arawn (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Loki (medium)
+- ![[rock10.png\|rock10.png]] Cu Chulainn (medium)
 
 
-# Planet 13 - Casey ![[iceg7.png]]
+# Planet 13 - Casey ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -255,12 +250,12 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock13.png]] Jupiter I (large)
-- ![[rock8.png]] Jupiter II (large)
-- ![[rock1.png]] Jupiter III (medium)
+- ![[rock13.png\|rock13.png]] Jupiter I (large)
+- ![[rock8.png\|rock8.png]] Jupiter II (large)
+- ![[rock1.png\|rock1.png]] Jupiter III (medium)
 
 
-# Planet 14 - Kuando Kubango ![[iceg18.png]]
+# Planet 14 - Kuando Kubango ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -275,10 +270,10 @@ Circinus is an arid world that contains vast deposits of raw minerals and gemsto
 
 
 
-- ![[rock12.png]] Curaco de Velez I (giant)
-- ![[rock3.png]] Curaco de Velez II (giant)
-- ![[rock4.png]] Curaco de Velez III (large)
-- ![[rock15.png]] Curaco de Velez IV (large)
-- ![[rock10.png]] Curaco de Velez V (large)
+- ![[rock12.png\|rock12.png]] Curaco de Velez I (giant)
+- ![[rock3.png\|rock3.png]] Curaco de Velez II (giant)
+- ![[rock4.png\|rock4.png]] Curaco de Velez III (large)
+- ![[rock15.png\|rock15.png]] Curaco de Velez IV (large)
+- ![[rock10.png\|rock10.png]] Curaco de Velez V (large)
 
 

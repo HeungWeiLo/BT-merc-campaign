@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Decatur
-xcood: "54.151"
-ycood: "-336.258"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/decatur/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Decatur
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | 54.151 |
+> | Y coord| -336.258 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Songpa-dong ![[rock12.png]]
+# Planet 1 - Songpa-dong ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Aukra ![[iceg3.png]]
+# Planet 2 - Aukra ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] 8U1 (large)
-- ![[rock7.png]] 8U2 (large)
-- ![[rock12.png]] 8U3 (large)
+- ![[rock4.png\|rock4.png]] 8U1 (large)
+- ![[rock7.png\|rock7.png]] 8U2 (large)
+- ![[rock12.png\|rock12.png]] 8U3 (large)
 
 
-# Planet 3 - Guelph ![[rock15.png]]
+# Planet 3 - Guelph ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Decatur ![[wet12.png]]
+# Planet 4 - Decatur ![[wet12.png\|wet12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ Decatur is a tropical planet with fertile soil and abundant surface water, thoug
 
 
 
-# Planet 5 - Kluisbergen ![[rock14.png]]
+# Planet 5 - Kluisbergen ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -108,7 +103,7 @@ Decatur is a tropical planet with fertile soil and abundant surface water, thoug
 
 
 
-# Planet 6 - Schneider ![[gasg16.png]]
+# Planet 6 - Schneider ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,8 +118,8 @@ Decatur is a tropical planet with fertile soil and abundant surface water, thoug
 
 
 
-- ![[rock1.png]] Beavercreek I (large)
-- ![[rock9.png]] Beavercreek II (large)
-- ![[rock4.png]] Beavercreek III (large)
+- ![[rock1.png\|rock1.png]] Beavercreek I (large)
+- ![[rock9.png\|rock9.png]] Beavercreek II (large)
+- ![[rock4.png\|rock4.png]] Beavercreek III (large)
 
 

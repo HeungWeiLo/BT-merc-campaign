@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Death's Gaze Cluster
-xcood: "487.197"
-ycood: "-1708.993"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/death-s-gaze-cluster/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Death's Gaze Cluster
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 487.197 |
+> | Y coord| -1708.993 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Death's Gaze Cluster ![[green11.png]]
+# Planet 1 - Death's Gaze Cluster ![[green11.png\|green11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Worth ![[barren17.png]]
+# Planet 2 - Worth ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,11 +47,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Kyklopes I (medium)
-- ![[rock3.png]] Kyklopes II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Kyklopes I (medium)
+- ![[rock3.png\|rock3.png]] Kyklopes II (medium)
 
 
-# Planet 3 - Weninggalih ![[iceg18.png]]
+# Planet 3 - Weninggalih ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Phan 1 (large)
-- ![[rock7.png]] Phan 2 (large)
+- ![[rock12.png\|rock12.png]] Phan 1 (large)
+- ![[rock7.png\|rock7.png]] Phan 2 (large)
 
 
-# Planet 4 - Al Jabal al Akhḑar ![[gasg8.png]]
+# Planet 4 - Al Jabal al Akhḑar ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,15 +85,15 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Bean Nighe (giant)
-- ![[rock9.png]] Pwyll (large)
-- ![[rock2.png]] Sucellus (large)
-- ![[rock14.png]] Brigit (large)
-- ![[rock6.png]] Cailleach Beara (medium)
-- ![[rock15.png]] Morrigna (medium)
+- ![[rock16.png\|rock16.png]] Bean Nighe (giant)
+- ![[rock9.png\|rock9.png]] Pwyll (large)
+- ![[rock2.png\|rock2.png]] Sucellus (large)
+- ![[rock14.png\|rock14.png]] Brigit (large)
+- ![[rock6.png\|rock6.png]] Cailleach Beara (medium)
+- ![[rock15.png\|rock15.png]] Morrigna (medium)
 
 
-# Planet 5 - Amo ![[gasg29.png]]
+# Planet 5 - Amo ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -115,7 +110,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Bohušice ![[gasg37.png]]
+# Planet 6 - Bohušice ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -130,16 +125,16 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Southworth A (large)
-- ![[rock13.png]] Southworth B (large)
-- ![[rock5.png]] Southworth C (large)
-- ![[rock3.png]] Southworth D (medium)
-- ![[oddmoon2.png]] Southworth E (medium)
-- ![[oddmoon3.png]] Southworth F (medium)
-- ![[oddmoon1.png]] Southworth G (medium)
+- ![[rock17.png\|rock17.png]] Southworth A (large)
+- ![[rock13.png\|rock13.png]] Southworth B (large)
+- ![[rock5.png\|rock5.png]] Southworth C (large)
+- ![[rock3.png\|rock3.png]] Southworth D (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Southworth E (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Southworth F (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Southworth G (medium)
 
 
-# Planet 7 - Strathfield ![[iceg7.png]]
+# Planet 7 - Strathfield ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -154,11 +149,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Silenos Alpha (giant)
-- ![[rock10.png]] Silenos Beta (large)
+- ![[rock7.png\|rock7.png]] Silenos Alpha (giant)
+- ![[rock10.png\|rock10.png]] Silenos Beta (large)
 
 
-# Planet 8 - Leicester ![[gasg33.png]]
+# Planet 8 - Leicester ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,7 +170,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Cerigo ![[gasg13.png]]
+# Planet 9 - Cerigo ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,12 +185,12 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Brock (large)
-- ![[rock2.png]] Haydock (large)
-- ![[rock17.png]] Andersen (large)
+- ![[rock13.png\|rock13.png]] Brock (large)
+- ![[rock2.png\|rock2.png]] Haydock (large)
+- ![[rock17.png\|rock17.png]] Andersen (large)
 
 
-# Planet 10 - Canton de Maripasoula ![[gasg22.png]]
+# Planet 10 - Canton de Maripasoula ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -212,7 +207,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Mingo ![[gasg26.png]]
+# Planet 11 - Mingo ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,8 +222,8 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Lemminkainen A (giant)
-- ![[rock6.png]] Lemminkainen B (large)
-- ![[rock13.png]] Lemminkainen C (large)
+- ![[rock15.png\|rock15.png]] Lemminkainen A (giant)
+- ![[rock6.png\|rock6.png]] Lemminkainen B (large)
+- ![[rock13.png\|rock13.png]] Lemminkainen C (large)
 
 

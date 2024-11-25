@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galedon V
-xcood: "331.999"
-ycood: "173.891"
-spectralType: K5III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galedon-v/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galedon V
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K5III.png]] |
+> | X coord | 331.999 |
+> | Y coord| 173.891 |
+> | Spectral Type | K5III ![[K5III.png\|K5III.png]] |
 
-# Planet 1 - Galedon I ![[iceg18.png]]
+# Planet 1 - Galedon I ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 3
 
-- [[oddmoon2.png]] G.1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] G.1 (medium)
 
-# Planet 2 - Galedon II ![[gasg19.png]]
+# Planet 2 - Galedon II ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,12 +48,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Daugherty 1 (medium)
-- ![[oddmoon2.png]] Daugherty 2 (medium)
-- ![[oddmoon3.png]] Daugherty 3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Daugherty 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Daugherty 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Daugherty 3 (medium)
 
 
-# Planet 3 - Galedon III ![[barren17.png]]
+# Planet 3 - Galedon III ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Galedon IV ![[gasg2.png]]
+# Planet 4 - Galedon IV ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -97,11 +92,11 @@ dg-publish: true
 2
 0
 
-- ![[rock3.png]] Hambridge and Westport (medium)
-- ![[rock8.png]] Asheville (medium)
+- ![[rock3.png\|rock3.png]] Hambridge and Westport (medium)
+- ![[rock8.png\|rock8.png]] Asheville (medium)
 
 
-# Planet 5 - Galedon V ![[green44.png]]
+# Planet 5 - Galedon V ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -135,9 +130,9 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 3
 5
 
-- [[rock12.png]] Shiro (medium)
+- [[rock12.png\|rock12.png]] Shiro (medium)
 
-# Planet 6 - Galedon VI ![[iceg11.png]]
+# Planet 6 - Galedon VI ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -155,14 +150,14 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 5
 0
 
-- ![[rock13.png]] Shahrestān-e Kordkūy Alpha (giant)
-- ![[rock6.png]] Shahrestān-e Kordkūy Beta (giant)
-- ![[rock1.png]] Shahrestān-e Kordkūy Gamma (large)
-- ![[rock2.png]] Shahrestān-e Kordkūy Delta (large)
-- ![[rock14.png]] Shahrestān-e Kordkūy Epsilon (large)
+- ![[rock13.png\|rock13.png]] Shahrestān-e Kordkūy Alpha (giant)
+- ![[rock6.png\|rock6.png]] Shahrestān-e Kordkūy Beta (giant)
+- ![[rock1.png\|rock1.png]] Shahrestān-e Kordkūy Gamma (large)
+- ![[rock2.png\|rock2.png]] Shahrestān-e Kordkūy Delta (large)
+- ![[rock14.png\|rock14.png]] Shahrestān-e Kordkūy Epsilon (large)
 
 
-# Planet 7 - Galedon VII ![[gasg25.png]]
+# Planet 7 - Galedon VII ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,15 +175,15 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 6
 0
 
-- ![[rock13.png]] Mohammadi 1 (large)
-- ![[rock8.png]] Mohammadi 2 (large)
-- ![[rock1.png]] Mohammadi 3 (large)
-- ![[rock2.png]] Mohammadi 4 (medium)
-- ![[rock14.png]] Mohammadi 5 (medium)
-- ![[oddmoon1.png]] Mohammadi 6 (medium)
+- ![[rock13.png\|rock13.png]] Mohammadi 1 (large)
+- ![[rock8.png\|rock8.png]] Mohammadi 2 (large)
+- ![[rock1.png\|rock1.png]] Mohammadi 3 (large)
+- ![[rock2.png\|rock2.png]] Mohammadi 4 (medium)
+- ![[rock14.png\|rock14.png]] Mohammadi 5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mohammadi 6 (medium)
 
 
-# Planet 8 - Galedon VIII ![[gasg29.png]]
+# Planet 8 - Galedon VIII ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,7 +203,7 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 
 
 
-# Planet 9 - Galedon IX ![[gasg4.png]]
+# Planet 9 - Galedon IX ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -226,12 +221,12 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 3
 0
 
-- ![[oddmoon1.png]] Mahdavi (medium)
-- ![[oddmoon3.png]] Bather (medium)
-- ![[oddmoon2.png]] Bauer (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mahdavi (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Bather (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bauer (medium)
 
 
-# Planet 10 - Galedon X ![[gasg20.png]]
+# Planet 10 - Galedon X ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -249,14 +244,14 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 5
 0
 
-- ![[rock10.png]] Necessitas (large)
-- ![[rock9.png]] Fama (large)
-- ![[rock11.png]] Veive (medium)
-- ![[oddmoon3.png]] Consualia (medium)
-- ![[rock7.png]] Sterculius (medium)
+- ![[rock10.png\|rock10.png]] Necessitas (large)
+- ![[rock9.png\|rock9.png]] Fama (large)
+- ![[rock11.png\|rock11.png]] Veive (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Consualia (medium)
+- ![[rock7.png\|rock7.png]] Sterculius (medium)
 
 
-# Planet 11 - Galedon XI ![[gasg13.png]]
+# Planet 11 - Galedon XI ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -276,7 +271,7 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 
 
 
-# Planet 12 - Galedon XII ![[gasg3.png]]
+# Planet 12 - Galedon XII ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -294,12 +289,12 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 3
 0
 
-- ![[oddmoon1.png]] And I (medium)
-- ![[rock2.png]] And II (medium)
-- ![[rock5.png]] And III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] And I (medium)
+- ![[rock2.png\|rock2.png]] And II (medium)
+- ![[rock5.png\|rock5.png]] And III (medium)
 
 
-# Planet 13 - Galedon XIII ![[gasg33.png]]
+# Planet 13 - Galedon XIII ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -317,7 +312,7 @@ Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Rave
 2
 0
 
-- ![[rock4.png]] Xiuhcoatl (large)
-- ![[rock6.png]] Matlalcueitl (large)
+- ![[rock4.png\|rock4.png]] Xiuhcoatl (large)
+- ![[rock6.png\|rock6.png]] Matlalcueitl (large)
 
 

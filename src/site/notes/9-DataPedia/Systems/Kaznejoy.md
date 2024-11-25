@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaznejoy
-xcood: "329.457"
-ycood: "132.599"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaznejoy/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaznejoy
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | 329.457 |
+> | Y coord| 132.599 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Sobek ![[rock8.png]]
+# Planet 1 - Sobek ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,11 +28,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Kreisfreie Stadt Zweibrücken ![[iceg16.png]]
+# Planet 2 - Kreisfreie Stadt Zweibrücken ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -57,7 +52,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dyjákovice ![[gasg17.png]]
+# Planet 3 - Dyjákovice ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kuhn's Gulf ![[gasg22.png]]
+# Planet 4 - Kuhn's Gulf ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -97,7 +92,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Kaznejoy ![[green21.png]]
+# Planet 5 - Kaznejoy ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -121,7 +116,7 @@ Kaznejoy is an advanced world with basic heavy industry. The world is hot arid w
 
 
 
-# Planet 6 - Weles ![[rock16.png]]
+# Planet 6 - Weles ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -141,7 +136,7 @@ Kaznejoy is an advanced world with basic heavy industry. The world is hot arid w
 
 
 
-# Planet 7 - Hnis's Gulf ![[rock17.png]]
+# Planet 7 - Hnis's Gulf ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |

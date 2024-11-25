@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Champadanga
-xcood: "-381.806"
-ycood: "216.314"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/champadanga/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Champadanga
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | -381.806 |
+> | Y coord| 216.314 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Narayan ![[rock13.png]]
+# Planet 1 - Narayan ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Champadanga ![[green4.png]]
+# Planet 2 - Champadanga ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,11 +47,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Eir (medium)
-- ![[oddmoon1.png]] Hell (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Eir (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hell (medium)
 
 
-# Planet 3 - Vallejo's Stand ![[greenhouse30.png]]
+# Planet 3 - Vallejo's Stand ![[greenhouse30.png\|greenhouse30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -74,11 +69,11 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Norddjurs (medium)
-- ![[rock1.png]] Wilaya de Mila (medium)
+- ![[rock2.png\|rock2.png]] Norddjurs (medium)
+- ![[rock1.png\|rock1.png]] Wilaya de Mila (medium)
 
 
-# Planet 4 - Preeti ![[gasg28.png]]
+# Planet 4 - Preeti ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -95,7 +90,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ghei's Rest ![[gasg29.png]]
+# Planet 5 - Ghei's Rest ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,13 +105,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] PGS1 (large)
-- ![[rock2.png]] PGS2 (large)
-- ![[rock11.png]] PGS3 (large)
-- ![[rock12.png]] PGS4 (large)
+- ![[rock1.png\|rock1.png]] PGS1 (large)
+- ![[rock2.png\|rock2.png]] PGS2 (large)
+- ![[rock11.png\|rock11.png]] PGS3 (large)
+- ![[rock12.png\|rock12.png]] PGS4 (large)
 
 
-# Planet 6 - Paseh Kidul ![[gasg16.png]]
+# Planet 6 - Paseh Kidul ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,11 +126,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Yaksha (medium)
-- ![[rock2.png]] Sarup (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Yaksha (medium)
+- ![[rock2.png\|rock2.png]] Sarup (medium)
 
 
-# Planet 7 - Loder Belt ![[asteroid1.png]]
+# Planet 7 - Loder Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -147,7 +142,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Helheimr's Redoubt ![[gasg5.png]]
+# Planet 8 - Helheimr's Redoubt ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,9 +157,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Delos (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Delos (medium)
 
-# Planet 9 - Robberstad ![[iceg14.png]]
+# Planet 9 - Robberstad ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -179,8 +174,8 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Mamit (large)
-- ![[rock7.png]] Jammu (large)
-- ![[oddmoon1.png]] Purnia (medium)
+- ![[rock14.png\|rock14.png]] Mamit (large)
+- ![[rock7.png\|rock7.png]] Jammu (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Purnia (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Declan II
-xcood: "362.876"
-ycood: "-20.348"
-spectralType: G3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/declan-ii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Declan II
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G3V.png]] |
+> | X coord | 362.876 |
+> | Y coord| -20.348 |
+> | Spectral Type | G3V ![[G3V.png\|G3V.png]] |
 
-# Planet 1 - Declan I ![[gasg3.png]]
+# Planet 1 - Declan I ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock12.png]] Z1 (medium)
+- [[rock12.png\|rock12.png]] Z1 (medium)
 
-# Planet 2 - Declan II ![[green39.png]]
+# Planet 2 - Declan II ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Declan III ![[badwater30.png]]
+# Planet 3 - Declan III ![[badwater30.png\|badwater30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Declan IV ![[rock7.png]]
+# Planet 4 - Declan IV ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Declan V ![[rock5.png]]
+# Planet 5 - Declan V ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Declan VI ![[gasg31.png]]
+# Planet 6 - Declan VI ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Ani (medium)
-- ![[rock12.png]] Theyer (medium)
+- ![[rock1.png\|rock1.png]] Ani (medium)
+- ![[rock12.png\|rock12.png]] Theyer (medium)
 
 

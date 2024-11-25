@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ctesiphon
-xcood: "321.685"
-ycood: "1044.936"
-spectralType: M2III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ctesiphon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ctesiphon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M2III.png]] |
+> | X coord | 321.685 |
+> | Y coord| 1044.936 |
+> | Spectral Type | M2III ![[M2III.png\|M2III.png]] |
 
-# Planet 1 - H-1 ![[barren17.png]]
+# Planet 1 - H-1 ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,7 +29,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ctesiphon ![[green43.png]]
+# Planet 2 - Ctesiphon ![[green43.png\|green43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,7 +50,7 @@ dg-publish: true
 
 
 
-# Planet 3 - 971 Belt ![[asteroid3.png]]
+# Planet 3 - 971 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -67,7 +62,7 @@ dg-publish: true
 
 
 
-# Planet 4 - H-3 ![[gasg17.png]]
+# Planet 4 - H-3 ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -82,13 +77,13 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] U1 (large)
-- ![[rock1.png]] U2 (large)
-- ![[rock17.png]] U3 (large)
-- ![[oddmoon1.png]] U4 (medium)
+- ![[rock2.png\|rock2.png]] U1 (large)
+- ![[rock1.png\|rock1.png]] U2 (large)
+- ![[rock17.png\|rock17.png]] U3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] U4 (medium)
 
 
-# Planet 5 - H-4 ![[gasg38.png]]
+# Planet 5 - H-4 ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - H-5 ![[iceg18.png]]
+# Planet 6 - H-5 ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - H-6 ![[gasg28.png]]
+# Planet 7 - H-6 ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,17 +132,17 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] 5V1 (large)
-- ![[rock3.png]] 5V2 (large)
-- ![[rock1.png]] 5V3 (large)
-- ![[rock6.png]] 5V4 (large)
-- ![[rock4.png]] 5V5 (large)
-- ![[oddmoon2.png]] 5V6 (medium)
-- ![[rock9.png]] 5V7 (medium)
-- ![[rock2.png]] 5V8 (medium)
+- ![[rock12.png\|rock12.png]] 5V1 (large)
+- ![[rock3.png\|rock3.png]] 5V2 (large)
+- ![[rock1.png\|rock1.png]] 5V3 (large)
+- ![[rock6.png\|rock6.png]] 5V4 (large)
+- ![[rock4.png\|rock4.png]] 5V5 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 5V6 (medium)
+- ![[rock9.png\|rock9.png]] 5V7 (medium)
+- ![[rock2.png\|rock2.png]] 5V8 (medium)
 
 
-# Planet 8 - H-7 ![[gasg33.png]]
+# Planet 8 - H-7 ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,14 +157,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] OH4-1 (large)
-- ![[oddmoon1.png]] OH4-2 (medium)
-- ![[rock10.png]] OH4-3 (medium)
-- ![[rock7.png]] OH4-4 (medium)
-- ![[oddmoon2.png]] OH4-5 (medium)
+- ![[rock14.png\|rock14.png]] OH4-1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] OH4-2 (medium)
+- ![[rock10.png\|rock10.png]] OH4-3 (medium)
+- ![[rock7.png\|rock7.png]] OH4-4 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] OH4-5 (medium)
 
 
-# Planet 9 - H-8 ![[iceg3.png]]
+# Planet 9 - H-8 ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -186,7 +181,7 @@ dg-publish: true
 
 
 
-# Planet 10 - H-9 ![[gasg7.png]]
+# Planet 10 - H-9 ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

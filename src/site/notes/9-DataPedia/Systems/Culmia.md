@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Culmia
-xcood: "544.081"
-ycood: "240.757"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/culmia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Culmia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 544.081 |
+> | Y coord| 240.757 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Culmia ![[green36.png]]
+# Planet 1 - Culmia ![[green36.png\|green36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock10.png]] England (large)
+- [[rock10.png\|rock10.png]] England (large)
 
-# Planet 2 - New Bickenholtz ![[gasg11.png]]
+# Planet 2 - New Bickenholtz ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Ley (large)
-- ![[rock2.png]] Ríos (medium)
-- ![[rock3.png]] White (medium)
+- ![[rock9.png\|rock9.png]] Ley (large)
+- ![[rock2.png\|rock2.png]] Ríos (medium)
+- ![[rock3.png\|rock3.png]] White (medium)
 
 
-# Planet 3 - Maletswai ![[gasg8.png]]
+# Planet 3 - Maletswai ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Sina (large)
-- ![[rock3.png]] Abdul-Latif (large)
+- ![[rock7.png\|rock7.png]] Sina (large)
+- ![[rock3.png\|rock3.png]] Abdul-Latif (large)
 
 
-# Planet 4 - Piguerao Belt ![[asteroid1.png]]
+# Planet 4 - Piguerao Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Orcet ![[gasg10.png]]
+# Planet 5 - Orcet ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Metemma ![[gasg36.png]]
+# Planet 6 - Metemma ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,12 +114,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] B1 (large)
-- ![[rock13.png]] B2 (large)
-- ![[rock14.png]] B3 (medium)
+- ![[rock15.png\|rock15.png]] B1 (large)
+- ![[rock13.png\|rock13.png]] B2 (large)
+- ![[rock14.png\|rock14.png]] B3 (medium)
 
 
-# Planet 7 - Lismore ![[gasg38.png]]
+# Planet 7 - Lismore ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,16 +134,16 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Adams A (large)
-- ![[rock16.png]] Adams B (large)
-- ![[rock15.png]] Adams C (large)
-- ![[oddmoon3.png]] Adams D (medium)
-- ![[oddmoon1.png]] Adams E (medium)
-- ![[oddmoon2.png]] Adams F (medium)
-- ![[oddmoon3.png]] Adams G (medium)
+- ![[rock10.png\|rock10.png]] Adams A (large)
+- ![[rock16.png\|rock16.png]] Adams B (large)
+- ![[rock15.png\|rock15.png]] Adams C (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Adams D (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Adams E (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Adams F (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Adams G (medium)
 
 
-# Planet 8 - Shevington ![[gasg26.png]]
+# Planet 8 - Shevington ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,13 +158,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Chi (large)
-- ![[rock17.png]] Qin Shu Po (large)
-- ![[rock2.png]] Monkey (large)
-- ![[rock14.png]] Gadsby (large)
-- ![[rock7.png]] Sun Wu K'ung (large)
-- ![[oddmoon3.png]] Kiskunmajsa (medium)
-- ![[rock6.png]] Guan Yun Chang (medium)
-- ![[rock16.png]] Guan Yin (medium)
+- ![[rock1.png\|rock1.png]] Chi (large)
+- ![[rock17.png\|rock17.png]] Qin Shu Po (large)
+- ![[rock2.png\|rock2.png]] Monkey (large)
+- ![[rock14.png\|rock14.png]] Gadsby (large)
+- ![[rock7.png\|rock7.png]] Sun Wu K'ung (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Kiskunmajsa (medium)
+- ![[rock6.png\|rock6.png]] Guan Yun Chang (medium)
+- ![[rock16.png\|rock16.png]] Guan Yin (medium)
 
 

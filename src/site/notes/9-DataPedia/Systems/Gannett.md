@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gannett
-xcood: "-165.429"
-ycood: "-60.539"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gannett/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gannett
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | -165.429 |
+> | Y coord| -60.539 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Cutting ![[greenhouse16.png]]
+# Planet 1 - Cutting ![[greenhouse16.png\|greenhouse16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Ramey ![[iceg19.png]]
+# Planet 2 - Ramey ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -54,9 +49,9 @@ dg-publish: true
 3
 7
 
-- [[rock10.png]] Iupiter (giant)
+- [[rock10.png\|rock10.png]] Iupiter (giant)
 
-# Planet 3 - Gannett ![[green27.png]]
+# Planet 3 - Gannett ![[green27.png\|green27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -78,9 +73,9 @@ dg-publish: true
 3
 3
 
-- [[rock12.png]] F11 (medium)
+- [[rock12.png\|rock12.png]] F11 (medium)
 
-# Planet 4 - Koschei ![[barren20.png]]
+# Planet 4 - Koschei ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -99,11 +94,11 @@ dg-publish: true
 2
 0
 
-- ![[rock6.png]] Moore A (medium)
-- ![[oddmoon3.png]] Moore B (medium)
+- ![[rock6.png\|rock6.png]] Moore A (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Moore B (medium)
 
 
-# Planet 5 - Auðumla Belt ![[asteroid1.png]]
+# Planet 5 - Auðumla Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -118,7 +113,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Owens ![[gasg18.png]]
+# Planet 6 - Owens ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,7 +133,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Conklin's Harvest ![[gasg15.png]]
+# Planet 7 - Conklin's Harvest ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,13 +151,13 @@ dg-publish: true
 4
 0
 
-- ![[rock11.png]] Becker (large)
-- ![[oddmoon2.png]] Satan (medium)
-- ![[rock5.png]] Jehovah (medium)
-- ![[rock2.png]] Ahuramazda (medium)
+- ![[rock11.png\|rock11.png]] Becker (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Satan (medium)
+- ![[rock5.png\|rock5.png]] Jehovah (medium)
+- ![[rock2.png\|rock2.png]] Ahuramazda (medium)
 
 
-# Planet 8 - Nova Lovö ![[gasg10.png]]
+# Planet 8 - Nova Lovö ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,9 +175,9 @@ dg-publish: true
 3
 12
 
-- [[rock13.png]] Ned Er Tcher (medium)
+- [[rock13.png\|rock13.png]] Ned Er Tcher (medium)
 
-# Planet 9 - Bullard's Redoubt ![[gasg26.png]]
+# Planet 9 - Bullard's Redoubt ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -200,12 +195,12 @@ dg-publish: true
 3
 0
 
-- ![[rock15.png]] Grand Bois 1 (large)
-- ![[oddmoon1.png]] Grand Bois 2 (medium)
-- ![[oddmoon3.png]] Grand Bois 3 (medium)
+- ![[rock15.png\|rock15.png]] Grand Bois 1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Grand Bois 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Grand Bois 3 (medium)
 
 
-# Planet 10 - Nga ![[gasg32.png]]
+# Planet 10 - Nga ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,11 +218,11 @@ dg-publish: true
 2
 0
 
-- ![[rock2.png]] Hart A (large)
-- ![[oddmoon2.png]] Hart B (medium)
+- ![[rock2.png\|rock2.png]] Hart A (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Hart B (medium)
 
 
-# Planet 11 - Olson ![[iceg3.png]]
+# Planet 11 - Olson ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -247,7 +242,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Liddell's Planet ![[gasg6.png]]
+# Planet 12 - Liddell's Planet ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -265,11 +260,11 @@ dg-publish: true
 2
 0
 
-- ![[rock9.png]] Dewi I (medium)
-- ![[oddmoon1.png]] Dewi II (medium)
+- ![[rock9.png\|rock9.png]] Dewi I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dewi II (medium)
 
 
-# Planet 13 - Vuldr Belt ![[asteroid3.png]]
+# Planet 13 - Vuldr Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -284,7 +279,7 @@ dg-publish: true
 
 
 
-# Planet 14 - Bielobog ![[gasg20.png]]
+# Planet 14 - Bielobog ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -304,7 +299,7 @@ dg-publish: true
 
 
 
-# Planet 15 - Burrell's Frontier ![[gasg8.png]]
+# Planet 15 - Burrell's Frontier ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -322,5 +317,5 @@ dg-publish: true
 3
 6
 
-- [[rock5.png]] Lokkju (giant)
+- [[rock5.png\|rock5.png]] Lokkju (giant)
 

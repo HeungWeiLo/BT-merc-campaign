@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Conwy
-xcood: "77.664"
-ycood: "-71.325"
-spectralType: M7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/conwy/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Conwy
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M7V.png]] |
+> | X coord | 77.664 |
+> | Y coord| -71.325 |
+> | Spectral Type | M7V ![[M7V.png\|M7V.png]] |
 
-# Planet 1 - Conwy ![[green39.png]]
+# Planet 1 - Conwy ![[green39.png\|green39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,11 +29,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] J2-1 (medium)
-- ![[oddmoon2.png]] J2-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] J2-1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] J2-2 (medium)
 
 
-# Planet 2 - Hounsell's Belt ![[asteroid2.png]]
+# Planet 2 - Hounsell's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Compton Bassett ![[gasg22.png]]
+# Planet 3 - Compton Bassett ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -65,13 +60,13 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Istar (medium)
-- ![[oddmoon2.png]] Tiamet (medium)
-- ![[oddmoon3.png]] Tiamat (medium)
-- ![[oddmoon1.png]] Ashur (medium)
+- ![[rock6.png\|rock6.png]] Istar (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tiamet (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Tiamat (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ashur (medium)
 
 
-# Planet 4 - Cardiff ![[gasg11.png]]
+# Planet 4 - Cardiff ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,11 +81,11 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Turure 1 (large)
-- ![[rock5.png]] Turure 2 (large)
+- ![[rock12.png\|rock12.png]] Turure 1 (large)
+- ![[rock5.png\|rock5.png]] Turure 2 (large)
 
 
-# Planet 5 - New Easton Maudit ![[gasg31.png]]
+# Planet 5 - New Easton Maudit ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,9 +100,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Lechainá (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Lechainá (medium)
 
-# Planet 6 - Vachskiy ![[gasg20.png]]
+# Planet 6 - Vachskiy ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,8 +117,8 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Don A (large)
-- ![[rock1.png]] Don B (large)
-- ![[rock7.png]] Don C (large)
+- ![[rock8.png\|rock8.png]] Don A (large)
+- ![[rock1.png\|rock1.png]] Don B (large)
+- ![[rock7.png\|rock7.png]] Don C (large)
 
 

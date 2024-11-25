@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dalian
-xcood: "-57.584"
-ycood: "-267.289"
-spectralType: F2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dalian/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dalian
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2V.png]] |
+> | X coord | -57.584 |
+> | Y coord| -267.289 |
+> | Spectral Type | F2V ![[F2V.png\|F2V.png]] |
 
-# Planet 1 - Dhatri ![[barren10.png]]
+# Planet 1 - Dhatri ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Yutu ![[iceg16.png]]
+# Planet 2 - Yutu ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,12 +43,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Chu Pa Chieh I (large)
-- ![[rock10.png]] Chu Pa Chieh II (large)
-- ![[rock17.png]] Chu Pa Chieh III (large)
+- ![[rock5.png\|rock5.png]] Chu Pa Chieh I (large)
+- ![[rock10.png\|rock10.png]] Chu Pa Chieh II (large)
+- ![[rock17.png\|rock17.png]] Chu Pa Chieh III (large)
 
 
-# Planet 3 - Dakshesha ![[barren14.png]]
+# Planet 3 - Dakshesha ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Dalian ![[green21.png]]
+# Planet 4 - Dalian ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Tianzeng Belt ![[asteroid1.png]]
+# Planet 5 - Tianzeng Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Parjanya ![[gasg25.png]]
+# Planet 6 - Parjanya ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,12 +114,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Dong Tai Shan (large)
-- ![[rock17.png]] Ba Xian (large)
-- ![[rock9.png]] Nüwa (medium)
+- ![[rock6.png\|rock6.png]] Dong Tai Shan (large)
+- ![[rock17.png\|rock17.png]] Ba Xian (large)
+- ![[rock9.png\|rock9.png]] Nüwa (medium)
 
 
-# Planet 7 - Sita ![[gasg19.png]]
+# Planet 7 - Sita ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,7 +136,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Maitreya ![[iceg19.png]]
+# Planet 8 - Maitreya ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -158,7 +153,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Chaitany ![[gasg29.png]]
+# Planet 9 - Chaitany ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -173,8 +168,8 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Cheng (giant)
-- ![[rock2.png]] Hsia (large)
-- ![[rock14.png]] Lok (large)
+- ![[rock13.png\|rock13.png]] Cheng (giant)
+- ![[rock2.png\|rock2.png]] Hsia (large)
+- ![[rock14.png\|rock14.png]] Lok (large)
 
 

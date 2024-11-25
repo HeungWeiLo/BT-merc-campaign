@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chirala
-xcood: "385.662"
-ycood: "240.871"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chirala/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chirala
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 385.662 |
+> | Y coord| 240.871 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Pal's Mistake ![[rock17.png]]
+# Planet 1 - Pal's Mistake ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mitra ![[gasg26.png]]
+# Planet 2 - Mitra ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chirala ![[green21.png]]
+# Planet 3 - Chirala ![[green21.png\|green21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Gorawala's World ![[rock17.png]]
+# Planet 4 - Gorawala's World ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Amrāvati ![[gasg9.png]]
+# Planet 5 - Amrāvati ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -102,11 +97,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Dhenkānāl 1 (giant)
-- ![[rock14.png]] Dhenkānāl 2 (giant)
+- ![[rock7.png\|rock7.png]] Dhenkānāl 1 (giant)
+- ![[rock14.png\|rock14.png]] Dhenkānāl 2 (giant)
 
 
-# Planet 6 - Uppuluri's Hold ![[gasg11.png]]
+# Planet 6 - Uppuluri's Hold ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -123,7 +118,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Collins's Land ![[gasg20.png]]
+# Planet 7 - Collins's Land ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,13 +133,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Muthupalaniappan I (large)
-- ![[oddmoon3.png]] Muthupalaniappan II (medium)
-- ![[rock7.png]] Muthupalaniappan III (medium)
-- ![[rock14.png]] Muthupalaniappan IV (medium)
+- ![[rock1.png\|rock1.png]] Muthupalaniappan I (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Muthupalaniappan II (medium)
+- ![[rock7.png\|rock7.png]] Muthupalaniappan III (medium)
+- ![[rock14.png\|rock14.png]] Muthupalaniappan IV (medium)
 
 
-# Planet 8 - Sumeet ![[gasg32.png]]
+# Planet 8 - Sumeet ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,8 +154,8 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Udupi Taluk (large)
-- ![[rock12.png]] Palwal (large)
-- ![[rock13.png]] Parrita (large)
+- ![[rock9.png\|rock9.png]] Udupi Taluk (large)
+- ![[rock12.png\|rock12.png]] Palwal (large)
+- ![[rock13.png\|rock13.png]] Parrita (large)
 
 

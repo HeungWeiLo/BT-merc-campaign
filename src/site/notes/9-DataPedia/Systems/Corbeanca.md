@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corbeanca
-xcood: "-350.486"
-ycood: "-235.839"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corbeanca/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corbeanca
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | -350.486 |
+> | Y coord| -235.839 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Dragon Kings ![[barren24.png]]
+# Planet 1 - Dragon Kings ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Corbeanca ![[green4.png]]
+# Planet 2 - Corbeanca ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Teufen (large)
+- [[rock15.png\|rock15.png]] Teufen (large)
 
-# Planet 3 - Amarynthia ![[frozen34.png]]
+# Planet 3 - Amarynthia ![[frozen34.png\|frozen34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Racova ![[iceg8.png]]
+# Planet 4 - Racova ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Guan Yin ![[rock16.png]]
+# Planet 5 - Guan Yin ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Municipiul Bistriţa ![[rock12.png]]
+# Planet 6 - Municipiul Bistriţa ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Chu Pa Chieh ![[gasg9.png]]
+# Planet 7 - Chu Pa Chieh ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,11 +135,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] U-1 (giant)
-- ![[oddmoon1.png]] U-2 (medium)
+- ![[rock17.png\|rock17.png]] U-1 (giant)
+- ![[oddmoon1.png\|oddmoon1.png]] U-2 (medium)
 
 
-# Planet 8 - Henley ![[gasg23.png]]
+# Planet 8 - Henley ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,5 +154,5 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] FP-1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] FP-1 (medium)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dayr Khuna
-xcood: "-113.791"
-ycood: "-196.495"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dayr-khuna/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dayr Khuna
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -113.791 |
+> | Y coord| -196.495 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Zahlé ![[iceg4.png]]
+# Planet 1 - Zahlé ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Dimos Kavala ![[barren19.png]]
+# Planet 2 - Dimos Kavala ![[barren19.png\|barren19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dayr Khuna ![[green13.png]]
+# Planet 3 - Dayr Khuna ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Joshua (medium)
+- [[rock13.png\|rock13.png]] Joshua (medium)
 
-# Planet 4 - Metn ![[greenhouse32.png]]
+# Planet 4 - Metn ![[greenhouse32.png\|greenhouse32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Yuejin ![[frozen11.png]]
+# Planet 5 - Yuejin ![[frozen11.png\|frozen11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,7 +104,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Mandurah ![[gasg20.png]]
+# Planet 6 - Mandurah ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,9 +119,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] I1 (medium)
+- [[rock1.png\|rock1.png]] I1 (medium)
 
-# Planet 7 - Caza de Jezzîne Jadida ![[gasg34.png]]
+# Planet 7 - Caza de Jezzîne Jadida ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,16 +136,16 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Jezzîne (large)
-- ![[rock7.png]] Rybná nad Zdobnicí (large)
-- ![[rock10.png]] Sidon (large)
-- ![[rock8.png]] Lotan (large)
-- ![[rock12.png]] Keta (large)
-- ![[oddmoon3.png]] Baabda (medium)
-- ![[rock11.png]] Ninhursaga (medium)
+- ![[rock17.png\|rock17.png]] Jezzîne (large)
+- ![[rock7.png\|rock7.png]] Rybná nad Zdobnicí (large)
+- ![[rock10.png\|rock10.png]] Sidon (large)
+- ![[rock8.png\|rock8.png]] Lotan (large)
+- ![[rock12.png\|rock12.png]] Keta (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Baabda (medium)
+- ![[rock11.png\|rock11.png]] Ninhursaga (medium)
 
 
-# Planet 8 - Halba ![[gasg21.png]]
+# Planet 8 - Halba ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,9 +160,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Kyprianou (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Kyprianou (medium)
 
-# Planet 9 - Caza de Aakkar ![[gasg9.png]]
+# Planet 9 - Caza de Aakkar ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -184,7 +179,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Tournefort ![[gasg8.png]]
+# Planet 10 - Tournefort ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -199,11 +194,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Ramakian (large)
-- ![[rock2.png]] Lang (large)
-- ![[rock13.png]] Panorn Maruek (medium)
-- ![[rock16.png]] Chac Mol (medium)
-- ![[oddmoon1.png]] Tjak (medium)
-- ![[rock17.png]] Tschernobog (medium)
+- ![[rock7.png\|rock7.png]] Ramakian (large)
+- ![[rock2.png\|rock2.png]] Lang (large)
+- ![[rock13.png\|rock13.png]] Panorn Maruek (medium)
+- ![[rock16.png\|rock16.png]] Chac Mol (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tjak (medium)
+- ![[rock17.png\|rock17.png]] Tschernobog (medium)
 
 

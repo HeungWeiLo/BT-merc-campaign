@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chillon
-xcood: "227.851"
-ycood: "-242.96"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chillon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chillon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | 227.851 |
+> | Y coord| -242.96 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Chillon ![[green6.png]]
+# Planet 1 - Chillon ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - North Plains ![[iceg9.png]]
+# Planet 2 - North Plains ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] O1 (medium)
-- ![[rock1.png]] O2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] O1 (medium)
+- ![[rock1.png\|rock1.png]] O2 (medium)
 
 
-# Planet 3 - Roca de Sim ![[gasg31.png]]
+# Planet 3 - Roca de Sim ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,11 +65,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Hijar (medium)
-- ![[oddmoon2.png]] Montés (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hijar (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Montés (medium)
 
 
-# Planet 4 - Pedrosa del Rey ![[gasg35.png]]
+# Planet 4 - Pedrosa del Rey ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,9 +84,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Q-1 (large)
+- [[rock9.png\|rock9.png]] Q-1 (large)
 
-# Planet 5 - Kittitas ![[gasg10.png]]
+# Planet 5 - Kittitas ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,9 +101,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Martínez (large)
+- [[rock3.png\|rock3.png]] Martínez (large)
 
-# Planet 6 - Castrillo de Villavega ![[gasg7.png]]
+# Planet 6 - Castrillo de Villavega ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

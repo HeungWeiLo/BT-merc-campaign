@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crawford's Delight
-xcood: "-209.067"
-ycood: "-519.376"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crawford-s-delight/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crawford's Delight
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | -209.067 |
+> | Y coord| -519.376 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Crawford's Delight ![[green27.png]]
+# Planet 1 - Crawford's Delight ![[green27.png\|green27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Tchernobog Belt ![[asteroid2.png]]
+# Planet 2 - Tchernobog Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Old La Grue ![[gasg18.png]]
+# Planet 3 - Old La Grue ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,12 +58,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] QI-1 (medium)
-- ![[oddmoon1.png]] QI-2 (medium)
-- ![[oddmoon3.png]] QI-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] QI-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] QI-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] QI-3 (medium)
 
 
-# Planet 4 - Calypso Belt ![[asteroid1.png]]
+# Planet 4 - Calypso Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Follett ![[gasg5.png]]
+# Planet 5 - Follett ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -97,7 +92,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Kragnes ![[gasg8.png]]
+# Planet 6 - Kragnes ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -112,11 +107,11 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Sterquilinius I (large)
-- ![[rock6.png]] Sterquilinius II (large)
+- ![[rock17.png\|rock17.png]] Sterquilinius I (large)
+- ![[rock6.png\|rock6.png]] Sterquilinius II (large)
 
 
-# Planet 7 - West Leechburg ![[gasg1.png]]
+# Planet 7 - West Leechburg ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -131,11 +126,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Moyer 1 (medium)
-- ![[rock12.png]] Moyer 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Moyer 1 (medium)
+- ![[rock12.png\|rock12.png]] Moyer 2 (medium)
 
 
-# Planet 8 - Massilon ![[gasg2.png]]
+# Planet 8 - Massilon ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,8 +145,8 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] T1 (large)
-- ![[oddmoon2.png]] T2 (medium)
-- ![[rock2.png]] T3 (medium)
+- ![[rock10.png\|rock10.png]] T1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] T2 (medium)
+- ![[rock2.png\|rock2.png]] T3 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dagda (Clan)
-xcood: "-132.266"
-ycood: "1603.856"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dagda-clan/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dagda (Clan)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | -132.266 |
+> | Y coord| 1603.856 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Kārsava ![[gasg34.png]]
+# Planet 1 - Kārsava ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock3.png]] Nefertem (medium)
+- [[rock3.png\|rock3.png]] Nefertem (medium)
 
-# Planet 2 - Priekuļi ![[iceg9.png]]
+# Planet 2 - Priekuļi ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dagda (Clan) ![[green6.png]]
+# Planet 3 - Dagda (Clan) ![[green6.png\|green6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,11 +65,11 @@ Dagda was the first of the Pentagon Worlds settled by the Star League in Exile. 
 
 The Jade Falcon, totem animal of the Clan with the same name, is from Dagda.
 
-- ![[rock11.png]] Aine (large)
-- ![[rock4.png]] Mebd (giant)
+- ![[rock11.png\|rock11.png]] Aine (large)
+- ![[rock4.png\|rock4.png]] Mebd (giant)
 
 
-# Planet 4 - Vorfolomeev's Belt I ![[asteroid2.png]]
+# Planet 4 - Vorfolomeev's Belt I ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -86,7 +81,7 @@ The Jade Falcon, totem animal of the Clan with the same name, is from Dagda.
 
 
 
-# Planet 5 - Kemp ![[gasg16.png]]
+# Planet 5 - Kemp ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -101,11 +96,11 @@ The Jade Falcon, totem animal of the Clan with the same name, is from Dagda.
 
 
 
-- ![[rock12.png]] R51 (large)
-- ![[rock5.png]] R52 (medium)
+- ![[rock12.png\|rock12.png]] R51 (large)
+- ![[rock5.png\|rock5.png]] R52 (medium)
 
 
-# Planet 6 - The Colony ![[gasg18.png]]
+# Planet 6 - The Colony ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,13 +115,13 @@ The Jade Falcon, totem animal of the Clan with the same name, is from Dagda.
 
 
 
-- ![[oddmoon2.png]] Rēzekne I (medium)
-- ![[rock12.png]] Rēzekne II (medium)
-- ![[rock7.png]] Rēzekne III (medium)
-- ![[rock8.png]] Rēzekne IV (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Rēzekne I (medium)
+- ![[rock12.png\|rock12.png]] Rēzekne II (medium)
+- ![[rock7.png\|rock7.png]] Rēzekne III (medium)
+- ![[rock8.png\|rock8.png]] Rēzekne IV (medium)
 
 
-# Planet 7 - Vorfolomeev's Belt II ![[asteroid1.png]]
+# Planet 7 - Vorfolomeev's Belt II ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

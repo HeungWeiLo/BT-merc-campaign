@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Garstedt
-xcood: "126.138"
-ycood: "382.004"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/garstedt/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Garstedt
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | 126.138 |
+> | Y coord| 382.004 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Dooley's Planet ![[barren20.png]]
+# Planet 1 - Dooley's Planet ![[barren20.png\|barren20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Schoeeserstein ![[barren9.png]]
+# Planet 2 - Schoeeserstein ![[barren9.png\|barren9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,9 +50,9 @@ dg-publish: true
 3
 6
 
-- [[rock7.png]] Kaiser (large)
+- [[rock7.png\|rock7.png]] Kaiser (large)
 
-# Planet 3 - Cecenasriss ![[iceg3.png]]
+# Planet 3 - Cecenasriss ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Garstedt ![[green26.png]]
+# Planet 4 - Garstedt ![[green26.png\|green26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -99,9 +94,9 @@ dg-publish: true
 3
 10
 
-- [[rock17.png]] Mama Pacha (large)
+- [[rock17.png\|rock17.png]] Mama Pacha (large)
 
-# Planet 5 - Kuhn's Belt ![[asteroid1.png]]
+# Planet 5 - Kuhn's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Allmark ![[gasg9.png]]
+# Planet 6 - Allmark ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,11 +129,11 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon3.png]] Gabutdinov 1 (medium)
-- ![[oddmoon2.png]] Gabutdinov 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Gabutdinov 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Gabutdinov 2 (medium)
 
 
-# Planet 7 - Ribhegge's Belt ![[asteroid2.png]]
+# Planet 7 - Ribhegge's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -153,7 +148,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Szelig Port ![[gasg14.png]]
+# Planet 8 - Szelig Port ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,7 +166,7 @@ dg-publish: true
 2
 0
 
-- ![[rock7.png]] Morrigna 1 (medium)
-- ![[rock8.png]] Morrigna 2 (medium)
+- ![[rock7.png\|rock7.png]] Morrigna 1 (medium)
+- ![[rock8.png\|rock8.png]] Morrigna 2 (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chapineria
-xcood: "292.088"
-ycood: "392.083"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chapineria/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chapineria
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 292.088 |
+> | Y coord| 392.083 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - W201 ![[greenhouse20.png]]
+# Planet 1 - W201 ![[greenhouse20.png\|greenhouse20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chapineria ![[green17.png]]
+# Planet 2 - Chapineria ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] 9H91 (large)
+- [[rock11.png\|rock11.png]] 9H91 (large)
 
-# Planet 3 - W203 ![[gasg1.png]]
+# Planet 3 - W203 ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - W204 ![[gasg33.png]]
+# Planet 4 - W204 ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,11 +81,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] O91 (medium)
-- ![[rock13.png]] O92 (medium)
+- ![[rock10.png\|rock10.png]] O91 (medium)
+- ![[rock13.png\|rock13.png]] O92 (medium)
 
 
-# Planet 5 - W205 ![[gasg14.png]]
+# Planet 5 - W205 ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - W206 ![[iceg5.png]]
+# Planet 6 - W206 ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -122,13 +117,13 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] W56-1 (large)
-- ![[oddmoon1.png]] W56-2 (medium)
-- ![[oddmoon3.png]] W56-3 (medium)
-- ![[rock15.png]] W56-4 (medium)
+- ![[rock5.png\|rock5.png]] W56-1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] W56-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] W56-3 (medium)
+- ![[rock15.png\|rock15.png]] W56-4 (medium)
 
 
-# Planet 7 - W207 ![[gasg21.png]]
+# Planet 7 - W207 ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,9 +138,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Ragnarok (large)
+- [[rock15.png\|rock15.png]] Ragnarok (large)
 
-# Planet 8 - W208 ![[gasg27.png]]
+# Planet 8 - W208 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,13 +155,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] 87Q1 (large)
-- ![[oddmoon2.png]] 87Q2 (medium)
-- ![[rock7.png]] 87Q3 (medium)
-- ![[oddmoon3.png]] 87Q4 (medium)
+- ![[rock14.png\|rock14.png]] 87Q1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] 87Q2 (medium)
+- ![[rock7.png\|rock7.png]] 87Q3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 87Q4 (medium)
 
 
-# Planet 9 - Loki Belt ![[asteroid3.png]]
+# Planet 9 - Loki Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -178,7 +173,7 @@ dg-publish: true
 
 
 
-# Planet 10 - W209 ![[gasg28.png]]
+# Planet 10 - W209 ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -193,11 +188,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Zúñiga Alpha (medium)
-- ![[rock16.png]] Zúñiga Beta (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Zúñiga Alpha (medium)
+- ![[rock16.png\|rock16.png]] Zúñiga Beta (medium)
 
 
-# Planet 11 - W2010 ![[gasg19.png]]
+# Planet 11 - W2010 ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -214,7 +209,7 @@ dg-publish: true
 
 
 
-# Planet 12 - W2011 ![[gasg32.png]]
+# Planet 12 - W2011 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -229,13 +224,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] T34-1 (medium)
-- ![[oddmoon1.png]] T34-2 (medium)
-- ![[oddmoon2.png]] T34-3 (medium)
-- ![[oddmoon3.png]] T34-4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] T34-1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] T34-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] T34-3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] T34-4 (medium)
 
 
-# Planet 13 - W2012 ![[gasg26.png]]
+# Planet 13 - W2012 ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

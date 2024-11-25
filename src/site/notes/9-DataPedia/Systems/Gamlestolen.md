@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gamlestolen
-xcood: "601.166"
-ycood: "-103.713"
-spectralType: M4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gamlestolen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gamlestolen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M4V.png]] |
+> | X coord | 601.166 |
+> | Y coord| -103.713 |
+> | Spectral Type | M4V ![[M4V.png\|M4V.png]] |
 
-# Planet 1 - Gamlestolen ![[wet4.png]]
+# Planet 1 - Gamlestolen ![[wet4.png\|wet4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cu Chulainn Belt ![[asteroid1.png]]
+# Planet 2 - Cu Chulainn Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Osen ![[gasg10.png]]
+# Planet 3 - Osen ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -72,12 +67,12 @@ dg-publish: true
 3
 0
 
-- ![[rock3.png]] P-1 (large)
-- ![[oddmoon2.png]] P-2 (medium)
-- ![[oddmoon1.png]] P-3 (medium)
+- ![[rock3.png\|rock3.png]] P-1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] P-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] P-3 (medium)
 
 
-# Planet 4 - Øygarden ![[gasg6.png]]
+# Planet 4 - Øygarden ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -95,9 +90,9 @@ dg-publish: true
 3
 7
 
-- [[rock14.png]] Høiland (large)
+- [[rock14.png\|rock14.png]] Høiland (large)
 
-# Planet 5 - New Burzenin ![[gasg26.png]]
+# Planet 5 - New Burzenin ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -115,12 +110,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Ienpw I (medium)
-- ![[rock11.png]] Ienpw II (medium)
-- ![[oddmoon2.png]] Ienpw III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ienpw I (medium)
+- ![[rock11.png\|rock11.png]] Ienpw II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ienpw III (medium)
 
 
-# Planet 6 - Sørreisa ![[gasg22.png]]
+# Planet 6 - Sørreisa ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -140,7 +135,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Leirfjord ![[gasg37.png]]
+# Planet 7 - Leirfjord ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -158,17 +153,17 @@ dg-publish: true
 8
 0
 
-- ![[rock16.png]] Lopti A (giant)
-- ![[rock13.png]] Lopti B (giant)
-- ![[rock5.png]] Lopti C (large)
-- ![[rock6.png]] Lopti D (large)
-- ![[rock4.png]] Lopti E (medium)
-- ![[oddmoon1.png]] Lopti F (medium)
-- ![[oddmoon2.png]] Lopti G (medium)
-- ![[oddmoon3.png]] Lopti H (medium)
+- ![[rock16.png\|rock16.png]] Lopti A (giant)
+- ![[rock13.png\|rock13.png]] Lopti B (giant)
+- ![[rock5.png\|rock5.png]] Lopti C (large)
+- ![[rock6.png\|rock6.png]] Lopti D (large)
+- ![[rock4.png\|rock4.png]] Lopti E (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lopti F (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lopti G (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Lopti H (medium)
 
 
-# Planet 8 - Doss ![[gasg28.png]]
+# Planet 8 - Doss ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -186,7 +181,7 @@ dg-publish: true
 2
 0
 
-- ![[rock17.png]] Sørum 1 (large)
-- ![[rock1.png]] Sørum 2 (large)
+- ![[rock17.png\|rock17.png]] Sørum 1 (large)
+- ![[rock1.png\|rock1.png]] Sørum 2 (large)
 
 

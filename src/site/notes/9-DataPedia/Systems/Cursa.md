@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cursa
-xcood: "-51.456"
-ycood: "-348.632"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cursa/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cursa
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | -51.456 |
+> | Y coord| -348.632 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Cursa ![[green45.png]]
+# Planet 1 - Cursa ![[green45.png\|green45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Zuid ![[frozen14.png]]
+# Planet 2 - Zuid ![[frozen14.png\|frozen14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,9 +49,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] LT1 (medium)
+- [[rock9.png\|rock9.png]] LT1 (medium)
 
-# Planet 3 - Saint-Patrice-de-Sherrington ![[gasg4.png]]
+# Planet 3 - Saint-Patrice-de-Sherrington ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Erkelens I (medium)
-- ![[oddmoon3.png]] Erkelens II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Erkelens I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Erkelens II (medium)
 
 
-# Planet 4 - Kooiman's Wind ![[gasg22.png]]
+# Planet 4 - Kooiman's Wind ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,13 +85,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Gwen Bach (large)
-- ![[oddmoon1.png]] Morrighan (medium)
-- ![[oddmoon2.png]] Morrigu (medium)
-- ![[oddmoon3.png]] Cernunnus (medium)
+- ![[rock1.png\|rock1.png]] Gwen Bach (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Morrighan (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Morrigu (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cernunnus (medium)
 
 
-# Planet 5 - Tytsjerksteradiel ![[gasg30.png]]
+# Planet 5 - Tytsjerksteradiel ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -113,7 +108,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Sarris's Bolwerk ![[gasg9.png]]
+# Planet 6 - Sarris's Bolwerk ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -130,7 +125,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Kasim ![[gasg35.png]]
+# Planet 7 - Kasim ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,11 +140,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Valkyries (medium)
-- ![[oddmoon2.png]] Loki Laufeyjarson (medium)
+- ![[rock7.png\|rock7.png]] Valkyries (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Loki Laufeyjarson (medium)
 
 
-# Planet 8 - Teune's Harvest ![[gasg17.png]]
+# Planet 8 - Teune's Harvest ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -164,12 +159,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] D-1 (large)
-- ![[oddmoon2.png]] D-2 (medium)
-- ![[rock2.png]] D-3 (medium)
+- ![[rock12.png\|rock12.png]] D-1 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] D-2 (medium)
+- ![[rock2.png\|rock2.png]] D-3 (medium)
 
 
-# Planet 9 - Baan's Garden ![[iceg6.png]]
+# Planet 9 - Baan's Garden ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -184,11 +179,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Himavat (medium)
-- ![[oddmoon3.png]] Ayyappan (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Himavat (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ayyappan (medium)
 
 
-# Planet 10 - Cumberledge ![[gasg1.png]]
+# Planet 10 - Cumberledge ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -203,11 +198,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Holster (medium)
-- ![[oddmoon2.png]] Oomsen (medium)
+- ![[rock8.png\|rock8.png]] Holster (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Oomsen (medium)
 
 
-# Planet 11 - Menterwol Belt ![[asteroid2.png]]
+# Planet 11 - Menterwol Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -219,7 +214,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Gennep Belt ![[asteroid1.png]]
+# Planet 12 - Gennep Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

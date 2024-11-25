@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dansur
-xcood: "-74.923"
-ycood: "-315.105"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dansur/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dansur
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | -74.923 |
+> | Y coord| -315.105 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Tufan ![[barren12.png]]
+# Planet 1 - Tufan ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Dansur ![[green13.png]]
+# Planet 2 - Dansur ![[green13.png\|green13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Mandirali's World ![[rock8.png]]
+# Planet 3 - Mandirali's World ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Mazıdağı Bucağı ![[gasg27.png]]
+# Planet 4 - Mazıdağı Bucağı ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,15 +81,15 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Küçük 1 (large)
-- ![[rock5.png]] Küçük 2 (large)
-- ![[rock14.png]] Küçük 3 (large)
-- ![[oddmoon2.png]] Küçük 4 (medium)
-- ![[oddmoon1.png]] Küçük 5 (medium)
-- ![[rock3.png]] Küçük 6 (medium)
+- ![[rock11.png\|rock11.png]] Küçük 1 (large)
+- ![[rock5.png\|rock5.png]] Küçük 2 (large)
+- ![[rock14.png\|rock14.png]] Küçük 3 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Küçük 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Küçük 5 (medium)
+- ![[rock3.png\|rock3.png]] Küçük 6 (medium)
 
 
-# Planet 5 - Badbh Belt ![[asteroid2.png]]
+# Planet 5 - Badbh Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

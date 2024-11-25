@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cordiagr
-xcood: "24.296"
-ycood: "-191.043"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cordiagr/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cordiagr
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | 24.296 |
+> | Y coord| -191.043 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Cordiagr ![[green7.png]]
+# Planet 1 - Cordiagr ![[green7.png\|green7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lewis's Belt ![[asteroid1.png]]
+# Planet 2 - Lewis's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - King ![[gasg5.png]]
+# Planet 3 - King ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,11 +58,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Semara (medium)
-- ![[oddmoon2.png]] Susano (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Semara (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Susano (medium)
 
 
-# Planet 4 - Sokolowski ![[gasg26.png]]
+# Planet 4 - Sokolowski ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Kızılırmak ![[iceg4.png]]
+# Planet 5 - Kızılırmak ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Lloyd's Choice ![[gasg10.png]]
+# Planet 6 - Lloyd's Choice ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -118,7 +113,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Ishikawa's Redoubt ![[gasg7.png]]
+# Planet 7 - Ishikawa's Redoubt ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -133,12 +128,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Endiku I (medium)
-- ![[oddmoon3.png]] Endiku II (medium)
-- ![[rock7.png]] Endiku III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Endiku I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Endiku II (medium)
+- ![[rock7.png\|rock7.png]] Endiku III (medium)
 
 
-# Planet 8 - Stone's Rift ![[gasg8.png]]
+# Planet 8 - Stone's Rift ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -155,7 +150,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Dávila ![[gasg24.png]]
+# Planet 9 - Dávila ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,7 +165,7 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Himeros A (large)
-- ![[rock2.png]] Himeros B (medium)
+- ![[rock3.png\|rock3.png]] Himeros A (large)
+- ![[rock2.png\|rock2.png]] Himeros B (medium)
 
 

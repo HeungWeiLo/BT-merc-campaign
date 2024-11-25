@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dalkeith
-xcood: "-26.4"
-ycood: "157.711"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dalkeith/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dalkeith
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | -26.4 |
+> | Y coord| 157.711 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Clarks Grove ![[rock14.png]]
+# Planet 1 - Clarks Grove ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Perth and Kinross ![[rock17.png]]
+# Planet 2 - Perth and Kinross ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Gangleri ![[rock1.png]]
+# Planet 3 - Gangleri ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -66,7 +61,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Aberford ![[iceg17.png]]
+# Planet 4 - Aberford ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -81,9 +76,9 @@ dg-publish: true
 
 
 
-- [[rock11.png]] Chimera (large)
+- [[rock11.png\|rock11.png]] Chimera (large)
 
-# Planet 5 - Dalkeith ![[green28.png]]
+# Planet 5 - Dalkeith ![[green28.png\|green28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -104,13 +99,13 @@ Dalkeith was a beautiful planet in the centuries during the Star League, unfortu
 
 During the First Succession War, the Draconis Combine used over a dozen 100-megaton nuclear weapons across the heavily inhabited continent of Rockmeir, destroying the Star League Castle Brian and the planet’s capital of Newhaven, along with most of the population. The continent of Devarick met a similar fate when the Combine turned more nuclear and chemical weapons against the defending Lyran forces there. The planet would likely have been abandoned after the First Succession War if not for the rich deposits of rare metals in the Alveria mountain range on Dunnbar.
 
-- ![[rock2.png]] Dal-Mar (medium)
-- ![[rock5.png]] Dal-Ra (medium)
-- ![[oddmoon1.png]] Dal-Rue (medium)
-- ![[oddmoon3.png]] Dal-Tal (medium)
+- ![[rock2.png\|rock2.png]] Dal-Mar (medium)
+- ![[rock5.png\|rock5.png]] Dal-Ra (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Dal-Rue (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Dal-Tal (medium)
 
 
-# Planet 6 - Herstmonceux ![[iceg6.png]]
+# Planet 6 - Herstmonceux ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -127,7 +122,7 @@ During the First Succession War, the Draconis Combine used over a dozen 100-mega
 
 
 
-# Planet 7 - Walmsgate ![[rock6.png]]
+# Planet 7 - Walmsgate ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -144,7 +139,7 @@ During the First Succession War, the Draconis Combine used over a dozen 100-mega
 
 
 
-# Planet 8 - Ordino ![[gasg3.png]]
+# Planet 8 - Ordino ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -159,5 +154,5 @@ During the First Succession War, the Draconis Combine used over a dozen 100-mega
 
 
 
-- [[rock10.png]] XO1 (medium)
+- [[rock10.png\|rock10.png]] XO1 (medium)
 

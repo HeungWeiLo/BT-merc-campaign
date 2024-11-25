@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coyle
-xcood: "636.799"
-ycood: "170.182"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coyle/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coyle
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 636.799 |
+> | Y coord| 170.182 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Coyle ![[dry26.png]]
+# Planet 1 - Coyle ![[dry26.png\|dry26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Beisigl ![[badwater14.png]]
+# Planet 2 - Beisigl ![[badwater14.png\|badwater14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Etheridge ![[iceg7.png]]
+# Planet 3 - Etheridge ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,12 +66,12 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Vehine Hae (large)
-- ![[rock8.png]] Latmikaik (large)
-- ![[rock12.png]] Hi'aka (large)
+- ![[rock2.png\|rock2.png]] Vehine Hae (large)
+- ![[rock8.png\|rock8.png]] Latmikaik (large)
+- ![[rock12.png\|rock12.png]] Hi'aka (large)
 
 
-# Planet 4 - Sheridan ![[gasg26.png]]
+# Planet 4 - Sheridan ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -91,13 +86,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Beliticaurus I (large)
-- ![[rock8.png]] Beliticaurus II (large)
-- ![[rock6.png]] Beliticaurus III (large)
-- ![[rock2.png]] Beliticaurus IV (large)
+- ![[rock14.png\|rock14.png]] Beliticaurus I (large)
+- ![[rock8.png\|rock8.png]] Beliticaurus II (large)
+- ![[rock6.png\|rock6.png]] Beliticaurus III (large)
+- ![[rock2.png\|rock2.png]] Beliticaurus IV (large)
 
 
-# Planet 5 - Carroll ![[gasg15.png]]
+# Planet 5 - Carroll ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -114,7 +109,7 @@ dg-publish: true
 
 
 
-# Planet 6 - New Islip ![[gasg34.png]]
+# Planet 6 - New Islip ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,12 +124,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] 3Z-1 (large)
-- ![[rock15.png]] 3Z-2 (large)
-- ![[rock17.png]] 3Z-3 (medium)
+- ![[rock10.png\|rock10.png]] 3Z-1 (large)
+- ![[rock15.png\|rock15.png]] 3Z-2 (large)
+- ![[rock17.png\|rock17.png]] 3Z-3 (medium)
 
 
-# Planet 7 - Peabody ![[gasg20.png]]
+# Planet 7 - Peabody ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -149,18 +144,18 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] 2NJ1 (large)
-- ![[rock2.png]] 2NJ2 (large)
-- ![[rock16.png]] 2NJ3 (large)
-- ![[rock17.png]] 2NJ4 (large)
-- ![[rock6.png]] 2NJ5 (large)
-- ![[oddmoon1.png]] 2NJ6 (medium)
-- ![[oddmoon3.png]] 2NJ7 (medium)
-- ![[oddmoon2.png]] 2NJ8 (medium)
-- ![[oddmoon1.png]] 2NJ9 (medium)
+- ![[rock15.png\|rock15.png]] 2NJ1 (large)
+- ![[rock2.png\|rock2.png]] 2NJ2 (large)
+- ![[rock16.png\|rock16.png]] 2NJ3 (large)
+- ![[rock17.png\|rock17.png]] 2NJ4 (large)
+- ![[rock6.png\|rock6.png]] 2NJ5 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 2NJ6 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 2NJ7 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 2NJ8 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 2NJ9 (medium)
 
 
-# Planet 8 - Aoife Belt ![[asteroid1.png]]
+# Planet 8 - Aoife Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

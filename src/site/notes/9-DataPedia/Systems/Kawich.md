@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kawich
-xcood: "53.764"
-ycood: "-29.514"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kawich/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kawich
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | 53.764 |
+> | Y coord| -29.514 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - Hasköy ![[rock4.png]]
+# Planet 1 - Hasköy ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kawich ![[green3.png]]
+# Planet 2 - Kawich ![[green3.png\|green3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -61,9 +56,9 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 3
 6
 
-- [[rock4.png]] Cactus (medium)
+- [[rock4.png\|rock4.png]] Cactus (medium)
 
-# Planet 3 - Makee ![[frozen40.png]]
+# Planet 3 - Makee ![[frozen40.png\|frozen40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -86,7 +81,7 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 
 
 
-# Planet 4 - South Russell ![[gasg5.png]]
+# Planet 4 - South Russell ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,7 +101,7 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 
 
 
-# Planet 5 - Hlybokaye ![[gasg23.png]]
+# Planet 5 - Hlybokaye ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,14 +119,14 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Scriba ![[gasg34.png]]
+# Planet 6 - Scriba ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -149,14 +144,14 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - GEA.1 ![[iceg14.png]]
+# Planet 7 - GEA.1 ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -176,7 +171,7 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 
 
 
-# Planet 8 - GEA.2 ![[gasg37.png]]
+# Planet 8 - GEA.2 ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,7 +191,7 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 
 
 
-# Planet 9 - Kennedy ![[gasg9.png]]
+# Planet 9 - Kennedy ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,9 +209,9 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 3
 9
 
-- [[rock4.png]] Tien Kung (medium)
+- [[rock4.png\|rock4.png]] Tien Kung (medium)
 
-# Planet 10 - GEA.3 ![[gasg8.png]]
+# Planet 10 - GEA.3 ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -234,11 +229,11 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 11 - Buah ![[gasg38.png]]
+# Planet 11 - Buah ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -256,9 +251,9 @@ The Blakist Holy War destroyed much of Kawich‘s industry, but The Republic of 
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

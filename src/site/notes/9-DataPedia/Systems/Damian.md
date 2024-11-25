@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Damian
-xcood: "72.894"
-ycood: "459.292"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/damian/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Damian
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 72.894 |
+> | Y coord| 459.292 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Damian ![[green10.png]]
+# Planet 1 - Damian ![[green10.png\|green10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Falessa ![[iceg9.png]]
+# Planet 2 - Falessa ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,12 +46,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] CK1 (medium)
-- ![[oddmoon2.png]] CK2 (medium)
-- ![[oddmoon3.png]] CK3 (medium)
+- ![[rock7.png\|rock7.png]] CK1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] CK2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] CK3 (medium)
 
 
-# Planet 3 - Ruíz ![[gasg32.png]]
+# Planet 3 - Ruíz ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -71,12 +66,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Lang I (medium)
-- ![[rock12.png]] Lang II (medium)
-- ![[oddmoon3.png]] Lang III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lang I (medium)
+- ![[rock12.png\|rock12.png]] Lang II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Lang III (medium)
 
 
-# Planet 4 - Kouramangui ![[rock15.png]]
+# Planet 4 - Kouramangui ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Martin ![[frozen3.png]]
+# Planet 5 - Martin ![[frozen3.png\|frozen3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -111,9 +106,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Pilsen (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Pilsen (medium)
 
-# Planet 6 - Landry's Belt ![[asteroid2.png]]
+# Planet 6 - Landry's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 7 - New Koropara ![[gasg24.png]]
+# Planet 7 - New Koropara ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,17 +135,17 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Boone 1 (large)
-- ![[rock2.png]] Boone 2 (large)
-- ![[rock14.png]] Boone 3 (large)
-- ![[rock10.png]] Boone 4 (large)
-- ![[rock9.png]] Boone 5 (large)
-- ![[oddmoon2.png]] Boone 6 (medium)
-- ![[rock12.png]] Boone 7 (medium)
-- ![[oddmoon3.png]] Boone 8 (medium)
+- ![[rock4.png\|rock4.png]] Boone 1 (large)
+- ![[rock2.png\|rock2.png]] Boone 2 (large)
+- ![[rock14.png\|rock14.png]] Boone 3 (large)
+- ![[rock10.png\|rock10.png]] Boone 4 (large)
+- ![[rock9.png\|rock9.png]] Boone 5 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Boone 6 (medium)
+- ![[rock12.png\|rock12.png]] Boone 7 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Boone 8 (medium)
 
 
-# Planet 8 - Santou ![[gasg4.png]]
+# Planet 8 - Santou ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,12 +160,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Cerklicing 1 (medium)
-- ![[oddmoon2.png]] Cerklicing 2 (medium)
-- ![[rock1.png]] Cerklicing 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cerklicing 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cerklicing 2 (medium)
+- ![[rock1.png\|rock1.png]] Cerklicing 3 (medium)
 
 
-# Planet 9 - Parcelle de Macha ![[gasg3.png]]
+# Planet 9 - Parcelle de Macha ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,11 +180,11 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Østvold A (large)
-- ![[rock3.png]] Østvold B (large)
+- ![[rock12.png\|rock12.png]] Østvold A (large)
+- ![[rock3.png\|rock3.png]] Østvold B (large)
 
 
-# Planet 10 - Ouassou ![[gasg37.png]]
+# Planet 10 - Ouassou ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -206,7 +201,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Noussy ![[frozen42.png]]
+# Planet 11 - Noussy ![[frozen42.png\|frozen42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -226,7 +221,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Maninder's Refuge ![[gasg11.png]]
+# Planet 12 - Maninder's Refuge ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -241,7 +236,7 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Yemoja (large)
-- ![[rock15.png]] Olorun (large)
+- ![[rock12.png\|rock12.png]] Yemoja (large)
+- ![[rock15.png\|rock15.png]] Olorun (large)
 
 

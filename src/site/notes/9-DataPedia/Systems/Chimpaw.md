@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chimpaw
-xcood: "45.162"
-ycood: "154.465"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chimpaw/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chimpaw
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | 45.162 |
+> | Y coord| 154.465 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Chimpaw ![[green9.png]]
+# Planet 1 - Chimpaw ![[green9.png\|green9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,12 +29,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] 9G1 (medium)
-- ![[oddmoon3.png]] 9G2 (medium)
-- ![[oddmoon2.png]] 9G3 (medium)
+- ![[rock7.png\|rock7.png]] 9G1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 9G2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 9G3 (medium)
 
 
-# Planet 2 - Rivera's Planet ![[rock5.png]]
+# Planet 2 - Rivera's Planet ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Rahov ![[gasg7.png]]
+# Planet 3 - Rahov ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Z1 (large)
-- ![[rock11.png]] Z2 (large)
+- ![[rock3.png\|rock3.png]] Z1 (large)
+- ![[rock11.png\|rock11.png]] Z2 (large)
 
 
-# Planet 4 - Caffey's Gulf ![[gasg14.png]]
+# Planet 4 - Caffey's Gulf ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Gillingham's Patch ![[gasg34.png]]
+# Planet 5 - Gillingham's Patch ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -107,14 +102,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Sinaa (large)
-- ![[rock13.png]] Chiá (large)
-- ![[rock7.png]] Kulimina (large)
-- ![[rock8.png]] Urubutsin (medium)
-- ![[oddmoon3.png]] Huecuve (medium)
+- ![[rock5.png\|rock5.png]] Sinaa (large)
+- ![[rock13.png\|rock13.png]] Chiá (large)
+- ![[rock7.png\|rock7.png]] Kulimina (large)
+- ![[rock8.png\|rock8.png]] Urubutsin (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Huecuve (medium)
 
 
-# Planet 6 - Brisbourne's Gulf ![[gasg17.png]]
+# Planet 6 - Brisbourne's Gulf ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,16 +124,16 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Palee 1 (large)
-- ![[rock17.png]] Palee 2 (large)
-- ![[rock9.png]] Palee 3 (large)
-- ![[oddmoon1.png]] Palee 4 (medium)
-- ![[rock3.png]] Palee 5 (medium)
-- ![[rock11.png]] Palee 6 (medium)
-- ![[rock14.png]] Palee 7 (medium)
+- ![[rock12.png\|rock12.png]] Palee 1 (large)
+- ![[rock17.png\|rock17.png]] Palee 2 (large)
+- ![[rock9.png\|rock9.png]] Palee 3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Palee 4 (medium)
+- ![[rock3.png\|rock3.png]] Palee 5 (medium)
+- ![[rock11.png\|rock11.png]] Palee 6 (medium)
+- ![[rock14.png\|rock14.png]] Palee 7 (medium)
 
 
-# Planet 7 - Stuble's Retreat ![[gasg28.png]]
+# Planet 7 - Stuble's Retreat ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -153,11 +148,11 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Alfred NzoMunicipality A (large)
-- ![[rock16.png]] Alfred NzoMunicipality B (large)
+- ![[rock8.png\|rock8.png]] Alfred NzoMunicipality A (large)
+- ![[rock16.png\|rock16.png]] Alfred NzoMunicipality B (large)
 
 
-# Planet 8 - Steel's Planet ![[frozen24.png]]
+# Planet 8 - Steel's Planet ![[frozen24.png\|frozen24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -175,9 +170,9 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] NH-1 (large)
-- ![[rock7.png]] NH-2 (medium)
-- ![[oddmoon2.png]] NH-3 (medium)
-- ![[rock1.png]] NH-4 (medium)
+- ![[rock15.png\|rock15.png]] NH-1 (large)
+- ![[rock7.png\|rock7.png]] NH-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] NH-3 (medium)
+- ![[rock1.png\|rock1.png]] NH-4 (medium)
 
 

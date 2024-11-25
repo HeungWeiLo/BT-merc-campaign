@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kazlam
-xcood: "-1420.702"
-ycood: "804.13"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kazlam/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kazlam
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | -1420.702 |
+> | Y coord| 804.13 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Kazlam ![[green52.png]]
+# Planet 1 - Kazlam ![[green52.png\|green52.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,11 +32,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Camara ![[rock2.png]]
+# Planet 2 - Camara ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -61,7 +56,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Pandemos ![[rock11.png]]
+# Planet 3 - Pandemos ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -81,7 +76,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Daphnaie ![[iceg17.png]]
+# Planet 4 - Daphnaie ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -99,9 +94,9 @@ dg-publish: true
 3
 7
 
-- [[rock16.png]] Nykanen (giant)
+- [[rock16.png\|rock16.png]] Nykanen (giant)
 
-# Planet 5 - Pegasus ![[frozen13.png]]
+# Planet 5 - Pegasus ![[frozen13.png\|frozen13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Nephelai ![[rock4.png]]
+# Planet 6 - Nephelai ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -144,7 +139,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Godin's Belt ![[asteroid2.png]]
+# Planet 7 - Godin's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -159,7 +154,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Harmony ![[gasg6.png]]
+# Planet 8 - Harmony ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Cerynitis ![[gasg9.png]]
+# Planet 9 - Cerynitis ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -197,12 +192,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Coeus ![[iceg1.png]]
+# Planet 10 - Coeus ![[iceg1.png\|iceg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -220,9 +215,9 @@ dg-publish: true
 3
 3
 
-- [[rock10.png]] AP1 (large)
+- [[rock10.png\|rock10.png]] AP1 (large)
 
-# Planet 11 - Aesculapius ![[gasg21.png]]
+# Planet 11 - Aesculapius ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -240,5 +235,5 @@ dg-publish: true
 3
 2
 
-- [[rock9.png]] M1 (medium)
+- [[rock9.png\|rock9.png]] M1 (medium)
 

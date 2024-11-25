@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cusset
-xcood: "-49.375"
-ycood: "283.778"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cusset/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cusset
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | -49.375 |
+> | Y coord| 283.778 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Michel's Frontier ![[gasg38.png]]
+# Planet 1 - Michel's Frontier ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,12 +25,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Longechenal 1 (medium)
-- ![[rock9.png]] Longechenal 2 (medium)
-- ![[rock11.png]] Longechenal 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Longechenal 1 (medium)
+- ![[rock9.png\|rock9.png]] Longechenal 2 (medium)
+- ![[rock11.png\|rock11.png]] Longechenal 3 (medium)
 
 
-# Planet 2 - Cusset ![[green16.png]]
+# Planet 2 - Cusset ![[green16.png\|green16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Simon's Gulf ![[iceg12.png]]
+# Planet 3 - Simon's Gulf ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -71,15 +66,15 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Chambord (large)
-- ![[rock5.png]] Mundolsheim (large)
-- ![[rock10.png]] Mrocza (large)
-- ![[oddmoon3.png]] Cambayrac (medium)
-- ![[rock6.png]] Briatexte (medium)
-- ![[rock13.png]] Mill (medium)
+- ![[rock15.png\|rock15.png]] Chambord (large)
+- ![[rock5.png\|rock5.png]] Mundolsheim (large)
+- ![[rock10.png\|rock10.png]] Mrocza (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Cambayrac (medium)
+- ![[rock6.png\|rock6.png]] Briatexte (medium)
+- ![[rock13.png\|rock13.png]] Mill (medium)
 
 
-# Planet 4 - Alba ![[iceg16.png]]
+# Planet 4 - Alba ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -94,9 +89,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Lefebvre (giant)
+- [[rock1.png\|rock1.png]] Lefebvre (giant)
 
-# Planet 5 - Crevasse de Turpin ![[rock2.png]]
+# Planet 5 - Crevasse de Turpin ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -113,7 +108,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Allain's Wind ![[gasg18.png]]
+# Planet 6 - Allain's Wind ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,15 +123,15 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Di Penates (giant)
-- ![[rock4.png]] Penates (giant)
-- ![[rock6.png]] Lemures (large)
-- ![[rock1.png]] Pilumnus (large)
-- ![[rock8.png]] Sturculinus (large)
-- ![[oddmoon1.png]] Sterquilinus (medium)
+- ![[rock9.png\|rock9.png]] Di Penates (giant)
+- ![[rock4.png\|rock4.png]] Penates (giant)
+- ![[rock6.png\|rock6.png]] Lemures (large)
+- ![[rock1.png\|rock1.png]] Pilumnus (large)
+- ![[rock8.png\|rock8.png]] Sturculinus (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Sterquilinus (medium)
 
 
-# Planet 7 - Tawhirimatea ![[gasg22.png]]
+# Planet 7 - Tawhirimatea ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -151,8 +146,8 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Ana 1 (large)
-- ![[rock5.png]] Ana 2 (large)
-- ![[rock11.png]] Ana 3 (large)
+- ![[rock15.png\|rock15.png]] Ana 1 (large)
+- ![[rock5.png\|rock5.png]] Ana 2 (large)
+- ![[rock11.png\|rock11.png]] Ana 3 (large)
 
 

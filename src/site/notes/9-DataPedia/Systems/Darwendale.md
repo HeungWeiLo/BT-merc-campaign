@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Darwendale
-xcood: "311.732"
-ycood: "-262.9"
-spectralType: F9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/darwendale/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Darwendale
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F9V.png]] |
+> | X coord | 311.732 |
+> | Y coord| -262.9 |
+> | Spectral Type | F9V ![[F9V.png\|F9V.png]] |
 
-# Planet 1 - Kwekwe ![[rock3.png]]
+# Planet 1 - Kwekwe ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mount Darwin ![[gasg38.png]]
+# Planet 2 - Mount Darwin ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Darwendale ![[green48.png]]
+# Planet 3 - Darwendale ![[green48.png\|green48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Coggan (medium)
-- ![[oddmoon1.png]] Peatfield (medium)
-- ![[rock12.png]] KGF-1 (medium)
+- ![[rock6.png\|rock6.png]] Coggan (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Peatfield (medium)
+- ![[rock12.png\|rock12.png]] KGF-1 (medium)
 
 
-# Planet 4 - Orisha Belt ![[asteroid3.png]]
+# Planet 4 - Orisha Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -85,7 +80,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Chiredzi ![[gasg7.png]]
+# Planet 5 - Chiredzi ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -100,12 +95,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Patten (medium)
-- ![[oddmoon3.png]] Agat Talai (medium)
-- ![[oddmoon1.png]] Hinton (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Patten (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Agat Talai (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hinton (medium)
 
 
-# Planet 6 - New Makon ![[iceg19.png]]
+# Planet 6 - New Makon ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Carleton ![[gasg21.png]]
+# Planet 7 - Carleton ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,14 +132,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Oni (giant)
-- ![[rock13.png]] Benten (giant)
-- ![[rock2.png]] Susano Wu (medium)
-- ![[rock7.png]] Toyotama (medium)
-- ![[oddmoon2.png]] Fudo (medium)
+- ![[rock5.png\|rock5.png]] Oni (giant)
+- ![[rock13.png\|rock13.png]] Benten (giant)
+- ![[rock2.png\|rock2.png]] Susano Wu (medium)
+- ![[rock7.png\|rock7.png]] Toyotama (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fudo (medium)
 
 
-# Planet 8 - Goromonzi ![[iceg4.png]]
+# Planet 8 - Goromonzi ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: De Berry
-xcood: "446.666"
-ycood: "62.502"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/de-berry/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # De Berry
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 446.666 |
+> | Y coord| 62.502 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Webb ![[barren7.png]]
+# Planet 1 - Webb ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - De Berry ![[green18.png]]
+# Planet 2 - De Berry ![[green18.png\|green18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,11 +47,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Hoath (medium)
-- ![[rock3.png]] Hansen (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hoath (medium)
+- ![[rock3.png\|rock3.png]] Hansen (medium)
 
 
-# Planet 3 - Kennedy's Frontier ![[iceg7.png]]
+# Planet 3 - Kennedy's Frontier ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -73,7 +68,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Phillips's Folly ![[gasg26.png]]
+# Planet 4 - Phillips's Folly ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -88,9 +83,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Euphrosyne (large)
+- [[rock2.png\|rock2.png]] Euphrosyne (large)
 
-# Planet 5 - Sadhyas ![[frozen43.png]]
+# Planet 5 - Sadhyas ![[frozen43.png\|frozen43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Francis ![[frozen62.png]]
+# Planet 6 - Francis ![[frozen62.png\|frozen62.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -130,7 +125,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Peters ![[gasg17.png]]
+# Planet 7 - Peters ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -145,12 +140,12 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] F-1 (large)
-- ![[rock9.png]] F-2 (large)
-- ![[oddmoon1.png]] F-3 (medium)
+- ![[rock10.png\|rock10.png]] F-1 (large)
+- ![[rock9.png\|rock9.png]] F-2 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] F-3 (medium)
 
 
-# Planet 8 - Chac Belt ![[asteroid3.png]]
+# Planet 8 - Chac Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -162,7 +157,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Khanum ![[gasg38.png]]
+# Planet 9 - Khanum ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,11 +172,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Clitherall A (medium)
-- ![[oddmoon3.png]] Clitherall B (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Clitherall A (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Clitherall B (medium)
 
 
-# Planet 10 - Cechmanek ![[gasg35.png]]
+# Planet 10 - Cechmanek ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -196,12 +191,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Griffin (large)
-- ![[rock4.png]] Yoder (large)
-- ![[rock17.png]] Moore (large)
-- ![[oddmoon2.png]] Love (medium)
-- ![[rock3.png]] Lewis (medium)
-- ![[oddmoon1.png]] Lester (medium)
-- ![[rock2.png]] Strong (medium)
+- ![[rock1.png\|rock1.png]] Griffin (large)
+- ![[rock4.png\|rock4.png]] Yoder (large)
+- ![[rock17.png\|rock17.png]] Moore (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Love (medium)
+- ![[rock3.png\|rock3.png]] Lewis (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lester (medium)
+- ![[rock2.png\|rock2.png]] Strong (medium)
 
 

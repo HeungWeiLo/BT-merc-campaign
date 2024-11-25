@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Covington
-xcood: "360.339"
-ycood: "-149.712"
-spectralType: G6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/covington/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Covington
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G6V.png]] |
+> | X coord | 360.339 |
+> | Y coord| -149.712 |
+> | Spectral Type | G6V ![[G6V.png\|G6V.png]] |
 
-# Planet 1 - Davis's Frontier ![[gasg34.png]]
+# Planet 1 - Davis's Frontier ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kennedy Port ![[gasg32.png]]
+# Planet 2 - Kennedy Port ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Covington ![[green51.png]]
+# Planet 3 - Covington ![[green51.png\|green51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -70,7 +65,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bin Yasin ![[barren6.png]]
+# Planet 4 - Bin Yasin ![[barren6.png\|barren6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Sugumonxe ![[rock8.png]]
+# Planet 5 - Sugumonxe ![[rock8.png\|rock8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Lindsey ![[gasg19.png]]
+# Planet 6 - Lindsey ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -120,5 +115,5 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Neal (medium)
+- [[rock8.png\|rock8.png]] Neal (medium)
 

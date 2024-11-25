@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kazanka
-xcood: "444.605"
-ycood: "229.752"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kazanka/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kazanka
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | 444.605 |
+> | Y coord| 229.752 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Kazanka ![[green14.png]]
+# Planet 1 - Kazanka ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,9 +32,9 @@ dg-publish: true
 3
 4
 
-- [[rock11.png]] Maia (large)
+- [[rock11.png\|rock11.png]] Maia (large)
 
-# Planet 2 - Efimenko's Planet ![[badwater32.png]]
+# Planet 2 - Efimenko's Planet ![[badwater32.png\|badwater32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -60,11 +55,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Basatin ![[rock14.png]]
+# Planet 3 - Basatin ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -84,7 +79,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Bowman ![[gasg31.png]]
+# Planet 4 - Bowman ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ansov's Wind ![[rock3.png]]
+# Planet 5 - Ansov's Wind ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -124,7 +119,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Dacyshin's Frontier ![[gasg3.png]]
+# Planet 6 - Dacyshin's Frontier ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,14 +137,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Netishinsky ![[gasg34.png]]
+# Planet 7 - Netishinsky ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -167,14 +162,14 @@ dg-publish: true
 9
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

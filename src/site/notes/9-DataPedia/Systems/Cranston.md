@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cranston
-xcood: "-211.47"
-ycood: "-336.729"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cranston/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cranston
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | -211.47 |
+> | Y coord| -336.729 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Cranston ![[green41.png]]
+# Planet 1 - Cranston ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Halstad ![[iceg8.png]]
+# Planet 2 - Halstad ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Hoso No Kami I (large)
-- ![[oddmoon1.png]] Hoso No Kami II (medium)
+- ![[rock10.png\|rock10.png]] Hoso No Kami I (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Hoso No Kami II (medium)
 
 
-# Planet 3 - Beccaria ![[gasg2.png]]
+# Planet 3 - Beccaria ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,9 +65,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Waite Park (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Waite Park (medium)
 
-# Planet 4 - Stone Harbor ![[gasg25.png]]
+# Planet 4 - Stone Harbor ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -87,9 +82,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Coleman (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Coleman (medium)
 
-# Planet 5 - Letart ![[gasg19.png]]
+# Planet 5 - Letart ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -104,11 +99,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Chenresig (medium)
-- ![[oddmoon3.png]] Nagpo Chenpo (medium)
+- ![[rock6.png\|rock6.png]] Chenresig (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nagpo Chenpo (medium)
 
 
-# Planet 6 - Plainview ![[gasg36.png]]
+# Planet 6 - Plainview ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,12 +118,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] BUR1 (medium)
-- ![[rock13.png]] BUR2 (medium)
-- ![[oddmoon3.png]] BUR3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] BUR1 (medium)
+- ![[rock13.png\|rock13.png]] BUR2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] BUR3 (medium)
 
 
-# Planet 7 - Svarizic ![[gasg27.png]]
+# Planet 7 - Svarizic ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,12 +138,12 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Mikula 1 (medium)
-- ![[oddmoon2.png]] Mikula 2 (medium)
-- ![[rock12.png]] Mikula 3 (medium)
+- ![[rock15.png\|rock15.png]] Mikula 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Mikula 2 (medium)
+- ![[rock12.png\|rock12.png]] Mikula 3 (medium)
 
 
-# Planet 8 - Durga Belt ![[asteroid1.png]]
+# Planet 8 - Durga Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kostinbrod
-xcood: "-374.869"
-ycood: "157.895"
-spectralType: M1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kostinbrod/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kostinbrod
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M1V.png]] |
+> | X coord | -374.869 |
+> | Y coord| 157.895 |
+> | Spectral Type | M1V ![[M1V.png\|M1V.png]] |
 
-# Planet 1 - Kostinbrod ![[green5.png]]
+# Planet 1 - Kostinbrod ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Tanda ![[iceg2.png]]
+# Planet 2 - Tanda ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -57,9 +52,9 @@ dg-publish: true
 3
 11
 
-- [[oddmoon2.png]] Vajravarahi (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Vajravarahi (medium)
 
-# Planet 3 - Port Douglas ![[rock9.png]]
+# Planet 3 - Port Douglas ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -79,7 +74,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Stenissen's Delight ![[gasg33.png]]
+# Planet 4 - Stenissen's Delight ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Hladik ![[gasg10.png]]
+# Planet 5 - Hladik ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -117,9 +112,9 @@ dg-publish: true
 3
 5
 
-- [[rock4.png]] Masin (medium)
+- [[rock4.png\|rock4.png]] Masin (medium)
 
-# Planet 6 - Verba ![[iceg4.png]]
+# Planet 6 - Verba ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Gostilja ![[iceg5.png]]
+# Planet 7 - Gostilja ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -159,7 +154,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Hernández's Delight ![[gasg28.png]]
+# Planet 8 - Hernández's Delight ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Divisek ![[gasg30.png]]
+# Planet 9 - Divisek ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

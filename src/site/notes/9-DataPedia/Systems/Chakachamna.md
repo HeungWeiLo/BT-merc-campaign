@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chakachamna
-xcood: "299.848"
-ycood: "-181.231"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chakachamna/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chakachamna
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 299.848 |
+> | Y coord| -181.231 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Gundagai ![[gasg19.png]]
+# Planet 1 - Gundagai ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Muncy ![[barren10.png]]
+# Planet 2 - Muncy ![[barren10.png\|barren10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chakachamna ![[green31.png]]
+# Planet 3 - Chakachamna ![[green31.png\|green31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Pinckney ![[greenhouse24.png]]
+# Planet 4 - Pinckney ![[greenhouse24.png\|greenhouse24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Old Muang Hôm ![[gasg13.png]]
+# Planet 5 - Old Muang Hôm ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,11 +99,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Amentit (large)
-- ![[rock16.png]] Šu (large)
+- ![[rock6.png\|rock6.png]] Amentit (large)
+- ![[rock16.png\|rock16.png]] Šu (large)
 
 
-# Planet 6 - Okres Sabinov ![[gasg9.png]]
+# Planet 6 - Okres Sabinov ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,13 +118,13 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] QL1 (large)
-- ![[oddmoon1.png]] QL2 (medium)
-- ![[oddmoon2.png]] QL3 (medium)
-- ![[oddmoon3.png]] QL4 (medium)
+- ![[rock6.png\|rock6.png]] QL1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] QL2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] QL3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] QL4 (medium)
 
 
-# Planet 7 - Njor's Nest ![[gasg32.png]]
+# Planet 7 - Njor's Nest ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,14 +139,14 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] J-1 (large)
-- ![[rock3.png]] J-2 (large)
-- ![[oddmoon2.png]] J-3 (medium)
-- ![[rock11.png]] J-4 (medium)
-- ![[rock9.png]] J-5 (medium)
+- ![[rock17.png\|rock17.png]] J-1 (large)
+- ![[rock3.png\|rock3.png]] J-2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] J-3 (medium)
+- ![[rock11.png\|rock11.png]] J-4 (medium)
+- ![[rock9.png\|rock9.png]] J-5 (medium)
 
 
-# Planet 8 - Nong Bua Rawe ![[gasg30.png]]
+# Planet 8 - Nong Bua Rawe ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -166,14 +161,14 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Jæger (large)
-- ![[rock11.png]] Sylvanus (large)
-- ![[rock6.png]] Śródmieście (large)
-- ![[rock4.png]] Bubona (large)
-- ![[rock17.png]] Robles (large)
+- ![[rock12.png\|rock12.png]] Jæger (large)
+- ![[rock11.png\|rock11.png]] Sylvanus (large)
+- ![[rock6.png\|rock6.png]] Śródmieście (large)
+- ![[rock4.png\|rock4.png]] Bubona (large)
+- ![[rock17.png\|rock17.png]] Robles (large)
 
 
-# Planet 9 - Abrams ![[gasg2.png]]
+# Planet 9 - Abrams ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,12 +183,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Peralta I (medium)
-- ![[rock8.png]] Peralta II (medium)
-- ![[rock4.png]] Peralta III (medium)
+- ![[rock7.png\|rock7.png]] Peralta I (medium)
+- ![[rock8.png\|rock8.png]] Peralta II (medium)
+- ![[rock4.png\|rock4.png]] Peralta III (medium)
 
 
-# Planet 10 - New Pülümür ![[gasg12.png]]
+# Planet 10 - New Pülümür ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,18 +203,18 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] PH-1 (large)
-- ![[rock16.png]] PH-2 (large)
-- ![[rock12.png]] PH-3 (large)
-- ![[rock6.png]] PH-4 (large)
-- ![[rock5.png]] PH-5 (large)
-- ![[oddmoon3.png]] PH-6 (medium)
-- ![[oddmoon2.png]] PH-7 (medium)
-- ![[oddmoon1.png]] PH-8 (medium)
-- ![[rock1.png]] PH-9 (medium)
+- ![[rock8.png\|rock8.png]] PH-1 (large)
+- ![[rock16.png\|rock16.png]] PH-2 (large)
+- ![[rock12.png\|rock12.png]] PH-3 (large)
+- ![[rock6.png\|rock6.png]] PH-4 (large)
+- ![[rock5.png\|rock5.png]] PH-5 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] PH-6 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] PH-7 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] PH-8 (medium)
+- ![[rock1.png\|rock1.png]] PH-9 (medium)
 
 
-# Planet 11 - Otohime ![[iceg14.png]]
+# Planet 11 - Otohime ![[iceg14.png\|iceg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -236,7 +231,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Seròs ![[iceg3.png]]
+# Planet 12 - Seròs ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -251,15 +246,15 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Virtus (large)
-- ![[rock11.png]] Ailuros (large)
-- ![[rock17.png]] Iuppiter (medium)
-- ![[oddmoon1.png]] Saritor (medium)
-- ![[rock2.png]] Stercutus (medium)
-- ![[oddmoon2.png]] Jove (medium)
+- ![[rock13.png\|rock13.png]] Virtus (large)
+- ![[rock11.png\|rock11.png]] Ailuros (large)
+- ![[rock17.png\|rock17.png]] Iuppiter (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Saritor (medium)
+- ![[rock2.png\|rock2.png]] Stercutus (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Jove (medium)
 
 
-# Planet 13 - William Hamilton ![[gasg34.png]]
+# Planet 13 - William Hamilton ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -274,9 +269,9 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] 44-1 (large)
-- ![[rock9.png]] 44-2 (large)
-- ![[rock6.png]] 44-3 (large)
-- ![[oddmoon1.png]] 44-4 (medium)
+- ![[rock2.png\|rock2.png]] 44-1 (large)
+- ![[rock9.png\|rock9.png]] 44-2 (large)
+- ![[rock6.png\|rock6.png]] 44-3 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] 44-4 (medium)
 
 

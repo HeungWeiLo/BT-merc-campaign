@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gallery
-xcood: "-198.236"
-ycood: "108.266"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gallery/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gallery
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | -198.236 |
+> | Y coord| 108.266 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Gallery ![[wet4.png]]
+# Planet 1 - Gallery ![[wet4.png\|wet4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,9 +34,9 @@ When Gallery was originally settled there were no native lifeforms so the origin
 3
 7
 
-- [[oddmoon1.png]] Romaine (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Romaine (medium)
 
-# Planet 2 - V1 Belt ![[asteroid3.png]]
+# Planet 2 - V1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -56,7 +51,7 @@ When Gallery was originally settled there were no native lifeforms so the origin
 
 
 
-# Planet 3 - Llwyd ![[gasg7.png]]
+# Planet 3 - Llwyd ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -74,11 +69,11 @@ When Gallery was originally settled there were no native lifeforms so the origin
 2
 0
 
-- ![[oddmoon1.png]] Sutekh (medium)
-- ![[rock7.png]] Buto (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sutekh (medium)
+- ![[rock7.png\|rock7.png]] Buto (medium)
 
 
-# Planet 4 - The Dark Fairy ![[gasg19.png]]
+# Planet 4 - The Dark Fairy ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -98,7 +93,7 @@ When Gallery was originally settled there were no native lifeforms so the origin
 
 
 
-# Planet 5 - Caillech ![[gasg16.png]]
+# Planet 5 - Caillech ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,12 +111,12 @@ When Gallery was originally settled there were no native lifeforms so the origin
 3
 0
 
-- ![[oddmoon2.png]] Silvanus (medium)
-- ![[rock13.png]] Sterculius (medium)
-- ![[oddmoon3.png]] Opis (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Silvanus (medium)
+- ![[rock13.png\|rock13.png]] Sterculius (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Opis (medium)
 
 
-# Planet 6 - V2 Belt ![[asteroid1.png]]
+# Planet 6 - V2 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -136,7 +131,7 @@ When Gallery was originally settled there were no native lifeforms so the origin
 
 
 
-# Planet 7 - Bourgeois ![[gasg3.png]]
+# Planet 7 - Bourgeois ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,14 +149,14 @@ When Gallery was originally settled there were no native lifeforms so the origin
 5
 0
 
-- ![[rock16.png]] Babi (large)
-- ![[rock10.png]] Tefenet (large)
-- ![[rock7.png]] Ailuros (large)
-- ![[rock4.png]] Amon (large)
-- ![[rock13.png]] Amun Re (large)
+- ![[rock16.png\|rock16.png]] Babi (large)
+- ![[rock10.png\|rock10.png]] Tefenet (large)
+- ![[rock7.png\|rock7.png]] Ailuros (large)
+- ![[rock4.png\|rock4.png]] Amon (large)
+- ![[rock13.png\|rock13.png]] Amun Re (large)
 
 
-# Planet 8 - Badb ![[gasg32.png]]
+# Planet 8 - Badb ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,5 +174,5 @@ When Gallery was originally settled there were no native lifeforms so the origin
 3
 5
 
-- [[oddmoon3.png]] Diana (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Diana (medium)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gambilon
-xcood: "-263.594"
-ycood: "-382.84"
-spectralType: K5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gambilon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gambilon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K5V.png]] |
+> | X coord | -263.594 |
+> | Y coord| -382.84 |
+> | Spectral Type | K5V ![[K5V.png\|K5V.png]] |
 
-# Planet 1 - Gambilon ![[green57.png]]
+# Planet 1 - Gambilon ![[green57.png\|green57.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cole's Glory ![[gasg1.png]]
+# Planet 2 - Cole's Glory ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -57,13 +52,13 @@ dg-publish: true
 4
 0
 
-- ![[rock13.png]] God D (large)
-- ![[rock5.png]] Chaac (medium)
-- ![[oddmoon3.png]] Ahau Kin (medium)
-- ![[oddmoon2.png]] Hun Chowen (medium)
+- ![[rock13.png\|rock13.png]] God D (large)
+- ![[rock5.png\|rock5.png]] Chaac (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ahau Kin (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hun Chowen (medium)
 
 
-# Planet 3 - Armstrong's Gulf ![[iceg8.png]]
+# Planet 3 - Armstrong's Gulf ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Alexander ![[gasg33.png]]
+# Planet 4 - Alexander ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -101,13 +96,13 @@ dg-publish: true
 4
 0
 
-- ![[rock5.png]] QVL-1 (medium)
-- ![[oddmoon3.png]] QVL-2 (medium)
-- ![[rock4.png]] QVL-3 (medium)
-- ![[oddmoon2.png]] QVL-4 (medium)
+- ![[rock5.png\|rock5.png]] QVL-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] QVL-2 (medium)
+- ![[rock4.png\|rock4.png]] QVL-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] QVL-4 (medium)
 
 
-# Planet 5 - Ellis's Mistake ![[gasg38.png]]
+# Planet 5 - Ellis's Mistake ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Natrimpe Belt ![[asteroid3.png]]
+# Planet 6 - Natrimpe Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -142,7 +137,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Koell's Rest ![[gasg21.png]]
+# Planet 7 - Koell's Rest ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,7 +157,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Wood's Nest ![[gasg10.png]]
+# Planet 8 - Wood's Nest ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -180,12 +175,12 @@ dg-publish: true
 3
 0
 
-- ![[rock2.png]] Priapus 1 (medium)
-- ![[oddmoon3.png]] Priapus 2 (medium)
-- ![[rock7.png]] Priapus 3 (medium)
+- ![[rock2.png\|rock2.png]] Priapus 1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Priapus 2 (medium)
+- ![[rock7.png\|rock7.png]] Priapus 3 (medium)
 
 
-# Planet 9 - Sura's Pride ![[gasg9.png]]
+# Planet 9 - Sura's Pride ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -203,11 +198,11 @@ dg-publish: true
 2
 0
 
-- ![[rock6.png]] Precious (medium)
-- ![[rock16.png]] Balor (medium)
+- ![[rock6.png\|rock6.png]] Precious (medium)
+- ![[rock16.png\|rock16.png]] Balor (medium)
 
 
-# Planet 10 - Incenso ![[gasg11.png]]
+# Planet 10 - Incenso ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,7 +220,7 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon2.png]] P1 (medium)
-- ![[oddmoon3.png]] P2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] P1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] P2 (medium)
 
 

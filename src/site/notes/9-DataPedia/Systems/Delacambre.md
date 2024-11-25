@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delacambre
-xcood: "539.708"
-ycood: "4.872"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delacambre/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delacambre
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | 539.708 |
+> | Y coord| 4.872 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Nafpliotis ![[barren7.png]]
+# Planet 1 - Nafpliotis ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sarwate's Hold ![[greenhouse14.png]]
+# Planet 2 - Sarwate's Hold ![[greenhouse14.png\|greenhouse14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Smith's Hole ![[rock4.png]]
+# Planet 3 - Smith's Hole ![[rock4.png\|rock4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Delacambre ![[green5.png]]
+# Planet 4 - Delacambre ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,9 +82,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Arntzen (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Arntzen (medium)
 
-# Planet 5 - Saucedo ![[rock12.png]]
+# Planet 5 - Saucedo ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Anderson ![[gasg37.png]]
+# Planet 6 - Anderson ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,11 +116,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Binnowee A (medium)
-- ![[rock5.png]] Binnowee B (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Binnowee A (medium)
+- ![[rock5.png\|rock5.png]] Binnowee B (medium)
 
 
-# Planet 7 - Zerman's Tears ![[gasg14.png]]
+# Planet 7 - Zerman's Tears ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,7 +135,7 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Yaluk (large)
-- ![[oddmoon2.png]] Kinich Ahaw (medium)
+- ![[rock2.png\|rock2.png]] Yaluk (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Kinich Ahaw (medium)
 
 

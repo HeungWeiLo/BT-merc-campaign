@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gangtok
-xcood: "135.199"
-ycood: "-472.324"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gangtok/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gangtok
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | 135.199 |
+> | Y coord| -472.324 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Gangtok ![[green50.png]]
+# Planet 1 - Gangtok ![[green50.png\|green50.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,12 +32,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon2.png]] Fates 1 (medium)
-- ![[rock8.png]] Fates 2 (medium)
-- ![[rock10.png]] Fates 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Fates 1 (medium)
+- ![[rock8.png\|rock8.png]] Fates 2 (medium)
+- ![[rock10.png\|rock10.png]] Fates 3 (medium)
 
 
-# Planet 2 - Virasana ![[iceg8.png]]
+# Planet 2 - Virasana ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -62,7 +57,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Vaithu's Rift ![[barren2.png]]
+# Planet 3 - Vaithu's Rift ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Varganti's Harvest ![[gasg35.png]]
+# Planet 4 - Varganti's Harvest ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -101,9 +96,9 @@ dg-publish: true
 3
 14
 
-- [[rock3.png]] Macuil Tochtli (large)
+- [[rock3.png\|rock3.png]] Macuil Tochtli (large)
 
-# Planet 5 - Sivaramakrishnan ![[gasg25.png]]
+# Planet 5 - Sivaramakrishnan ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,11 +116,11 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon1.png]] Lang Singalang Burong (medium)
-- ![[oddmoon3.png]] Nirvana (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lang Singalang Burong (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nirvana (medium)
 
 
-# Planet 6 - Nishita ![[gasg6.png]]
+# Planet 6 - Nishita ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,10 +138,10 @@ dg-publish: true
 5
 0
 
-- ![[rock2.png]] Jeevan (large)
-- ![[rock15.png]] Freya (large)
-- ![[rock8.png]] Suchitra (medium)
-- ![[oddmoon1.png]] Sonari (medium)
-- ![[oddmoon3.png]] Ramaswami (medium)
+- ![[rock2.png\|rock2.png]] Jeevan (large)
+- ![[rock15.png\|rock15.png]] Freya (large)
+- ![[rock8.png\|rock8.png]] Suchitra (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Sonari (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ramaswami (medium)
 
 

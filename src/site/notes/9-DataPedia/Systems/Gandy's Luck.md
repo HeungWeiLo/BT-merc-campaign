@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gandy's Luck
-xcood: "250.211"
-ycood: "93.012"
-spectralType: K3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gandy-s-luck/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gandy's Luck
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K3V.png]] |
+> | X coord | 250.211 |
+> | Y coord| 93.012 |
+> | Spectral Type | K3V ![[K3V.png\|K3V.png]] |
 
-# Planet 1 - Lyons ![[barren19.png]]
+# Planet 1 - Lyons ![[barren19.png\|barren19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gandy's Luck ![[green2.png]]
+# Planet 2 - Gandy's Luck ![[green2.png\|green2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,9 +53,9 @@ dg-publish: true
 3
 6
 
-- [[rock4.png]] Kimsey (medium)
+- [[rock4.png\|rock4.png]] Kimsey (medium)
 
-# Planet 3 - Fort Lewis ![[iceg9.png]]
+# Planet 3 - Fort Lewis ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Norman ![[rock1.png]]
+# Planet 4 - Norman ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Taylor's Planet ![[iceg3.png]]
+# Planet 5 - Taylor's Planet ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -118,11 +113,11 @@ dg-publish: true
 2
 0
 
-- ![[rock6.png]] TI-1 (large)
-- ![[rock17.png]] TI-2 (large)
+- ![[rock6.png\|rock6.png]] TI-1 (large)
+- ![[rock17.png\|rock17.png]] TI-2 (large)
 
 
-# Planet 6 - Conner's Wheel ![[gasg24.png]]
+# Planet 6 - Conner's Wheel ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,12 +135,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon2.png]] Manu (medium)
-- ![[oddmoon3.png]] Lee (medium)
-- ![[oddmoon1.png]] Krishna (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Manu (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Lee (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Krishna (medium)
 
 
-# Planet 7 - Turk's Garden ![[iceg8.png]]
+# Planet 7 - Turk's Garden ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -165,7 +160,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Dunham ![[gasg15.png]]
+# Planet 8 - Dunham ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -183,13 +178,13 @@ dg-publish: true
 4
 0
 
-- ![[rock5.png]] N-1 (large)
-- ![[oddmoon3.png]] N-2 (medium)
-- ![[rock1.png]] N-3 (medium)
-- ![[rock12.png]] N-4 (medium)
+- ![[rock5.png\|rock5.png]] N-1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] N-2 (medium)
+- ![[rock1.png\|rock1.png]] N-3 (medium)
+- ![[rock12.png\|rock12.png]] N-4 (medium)
 
 
-# Planet 9 - Baraboo ![[gasg31.png]]
+# Planet 9 - Baraboo ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -207,14 +202,14 @@ dg-publish: true
 5
 0
 
-- ![[rock16.png]] Grant 1 (giant)
-- ![[rock8.png]] Grant 2 (large)
-- ![[rock12.png]] Grant 3 (large)
-- ![[rock14.png]] Grant 4 (large)
-- ![[rock11.png]] Grant 5 (large)
+- ![[rock16.png\|rock16.png]] Grant 1 (giant)
+- ![[rock8.png\|rock8.png]] Grant 2 (large)
+- ![[rock12.png\|rock12.png]] Grant 3 (large)
+- ![[rock14.png\|rock14.png]] Grant 4 (large)
+- ![[rock11.png\|rock11.png]] Grant 5 (large)
 
 
-# Planet 10 - Stokes's World ![[gasg16.png]]
+# Planet 10 - Stokes's World ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,7 +229,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Ferrysburg ![[gasg27.png]]
+# Planet 11 - Ferrysburg ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

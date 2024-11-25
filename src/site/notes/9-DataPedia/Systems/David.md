@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: David
-xcood: "140.085"
-ycood: "19.234"
-spectralType: F8IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/david/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # David
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8IV.png]] |
+> | X coord | 140.085 |
+> | Y coord| 19.234 |
+> | Spectral Type | F8IV ![[F8IV.png\|F8IV.png]] |
 
-# Planet 1 - Lan Cai He ![[barren19.png]]
+# Planet 1 - Lan Cai He ![[barren19.png\|barren19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - David ![[green54.png]]
+# Planet 2 - David ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-# Planet 3 - Kuei Hsien ![[rock15.png]]
+# Planet 3 - Kuei Hsien ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-# Planet 4 - Guan Gong ![[barren4.png]]
+# Planet 4 - Guan Gong ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,11 +82,11 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-- ![[rock17.png]] Sinulescu I (medium)
-- ![[rock4.png]] Sinulescu II (medium)
+- ![[rock17.png\|rock17.png]] Sinulescu I (medium)
+- ![[rock4.png\|rock4.png]] Sinulescu II (medium)
 
 
-# Planet 5 - Hsuan Tsang ![[barren8.png]]
+# Planet 5 - Hsuan Tsang ![[barren8.png\|barren8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -109,7 +104,7 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-# Planet 6 - Feng Huang ![[rock2.png]]
+# Planet 6 - Feng Huang ![[rock2.png\|rock2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-# Planet 7 - Refugiul lui Albast ![[gasg12.png]]
+# Planet 7 - Refugiul lui Albast ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -141,18 +136,18 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-- ![[rock2.png]] Gaea 1 (large)
-- ![[rock4.png]] Gaea 2 (large)
-- ![[rock11.png]] Gaea 3 (large)
-- ![[rock13.png]] Gaea 4 (large)
-- ![[rock1.png]] Gaea 5 (large)
-- ![[rock5.png]] Gaea 6 (medium)
-- ![[oddmoon2.png]] Gaea 7 (medium)
-- ![[rock15.png]] Gaea 8 (medium)
-- ![[oddmoon3.png]] Gaea 9 (medium)
+- ![[rock2.png\|rock2.png]] Gaea 1 (large)
+- ![[rock4.png\|rock4.png]] Gaea 2 (large)
+- ![[rock11.png\|rock11.png]] Gaea 3 (large)
+- ![[rock13.png\|rock13.png]] Gaea 4 (large)
+- ![[rock1.png\|rock1.png]] Gaea 5 (large)
+- ![[rock5.png\|rock5.png]] Gaea 6 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Gaea 7 (medium)
+- ![[rock15.png\|rock15.png]] Gaea 8 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Gaea 9 (medium)
 
 
-# Planet 8 - Morrigu Belt ![[asteroid1.png]]
+# Planet 8 - Morrigu Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -164,7 +159,7 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-# Planet 9 - Lan Ts'ai Ho's Redoubt ![[gasg2.png]]
+# Planet 9 - Lan Ts'ai Ho's Redoubt ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,11 +174,11 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-- ![[rock4.png]] Apsu I (medium)
-- ![[oddmoon3.png]] Apsu II (medium)
+- ![[rock4.png\|rock4.png]] Apsu I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Apsu II (medium)
 
 
-# Planet 10 - Weiwobo's Hold ![[gasg20.png]]
+# Planet 10 - Weiwobo's Hold ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -198,5 +193,5 @@ David‘s water table, not its atmosphere, is actually the health hazard posed t
 
 
 
-- [[rock14.png]] K1 (medium)
+- [[rock14.png\|rock14.png]] K1 (medium)
 

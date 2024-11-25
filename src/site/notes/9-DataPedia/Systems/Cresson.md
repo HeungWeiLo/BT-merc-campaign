@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cresson
-xcood: "-269.816"
-ycood: "-483.923"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cresson/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cresson
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | -269.816 |
+> | Y coord| -483.923 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Gandapur ![[barren6.png]]
+# Planet 1 - Gandapur ![[barren6.png\|barren6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] 0EB1 (medium)
-- ![[oddmoon1.png]] 0EB2 (medium)
-- ![[rock2.png]] 0EB3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 0EB1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 0EB2 (medium)
+- ![[rock2.png\|rock2.png]] 0EB3 (medium)
 
 
-# Planet 2 - Rogers ![[gasg1.png]]
+# Planet 2 - Rogers ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Green ![[gasg37.png]]
+# Planet 3 - Green ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Cox (giant)
+- [[rock13.png\|rock13.png]] Cox (giant)
 
-# Planet 4 - Cresson ![[wet14.png]]
+# Planet 4 - Cresson ![[wet14.png\|wet14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -91,7 +86,7 @@ dg-publish: true
 
 
 
-# Planet 5 - TML-1 Belt ![[asteroid3.png]]
+# Planet 5 - TML-1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -103,7 +98,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Ash Valley ![[gasg8.png]]
+# Planet 6 - Ash Valley ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -118,13 +113,13 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] Yanluo Wang (large)
-- ![[rock14.png]] Cao Guojiu (medium)
-- ![[rock9.png]] Lao Tse (medium)
-- ![[rock16.png]] Kuchuna (medium)
+- ![[rock4.png\|rock4.png]] Yanluo Wang (large)
+- ![[rock14.png\|rock14.png]] Cao Guojiu (medium)
+- ![[rock9.png\|rock9.png]] Lao Tse (medium)
+- ![[rock16.png\|rock16.png]] Kuchuna (medium)
 
 
-# Planet 7 - Ormsby ![[gasg9.png]]
+# Planet 7 - Ormsby ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,12 +134,12 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Ferrell I (large)
-- ![[rock12.png]] Ferrell II (large)
-- ![[oddmoon3.png]] Ferrell III (medium)
+- ![[rock17.png\|rock17.png]] Ferrell I (large)
+- ![[rock12.png\|rock12.png]] Ferrell II (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Ferrell III (medium)
 
 
-# Planet 8 - Piper ![[gasg5.png]]
+# Planet 8 - Piper ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,9 +154,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] FP-1 (large)
+- [[rock14.png\|rock14.png]] FP-1 (large)
 
-# Planet 9 - Nosovets's Run ![[gasg33.png]]
+# Planet 9 - Nosovets's Run ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galisteo
-xcood: "-355.928"
-ycood: "-71.907"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galisteo/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galisteo
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | -355.928 |
+> | Y coord| -71.907 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Kunitsu Kami ![[iceg5.png]]
+# Planet 1 - Kunitsu Kami ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Kamu Yamato Iware Hiko ![[barren21.png]]
+# Planet 2 - Kamu Yamato Iware Hiko ![[barren21.png\|barren21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Galisteo ![[green44.png]]
+# Planet 3 - Galisteo ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Susano ![[iceg8.png]]
+# Planet 4 - Susano ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Anderson ![[gasg38.png]]
+# Planet 5 - Anderson ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -118,14 +113,14 @@ dg-publish: true
 5
 0
 
-- ![[rock8.png]] 301 (large)
-- ![[rock14.png]] 302 (large)
-- ![[rock5.png]] 303 (medium)
-- ![[rock13.png]] 304 (medium)
-- ![[oddmoon2.png]] 305 (medium)
+- ![[rock8.png\|rock8.png]] 301 (large)
+- ![[rock14.png\|rock14.png]] 302 (large)
+- ![[rock5.png\|rock5.png]] 303 (medium)
+- ![[rock13.png\|rock13.png]] 304 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 305 (medium)
 
 
-# Planet 6 - Abundantia Belt I ![[asteroid3.png]]
+# Planet 6 - Abundantia Belt I ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -140,7 +135,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Abundantia Belt II ![[asteroid1.png]]
+# Planet 7 - Abundantia Belt II ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -155,7 +150,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Hoji ![[gasg15.png]]
+# Planet 8 - Hoji ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -173,10 +168,10 @@ dg-publish: true
 5
 0
 
-- ![[rock6.png]] Serrano Alpha (large)
-- ![[rock8.png]] Serrano Beta (large)
-- ![[rock16.png]] Serrano Gamma (medium)
-- ![[oddmoon3.png]] Serrano Delta (medium)
-- ![[rock2.png]] Serrano Epsilon (medium)
+- ![[rock6.png\|rock6.png]] Serrano Alpha (large)
+- ![[rock8.png\|rock8.png]] Serrano Beta (large)
+- ![[rock16.png\|rock16.png]] Serrano Gamma (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Serrano Delta (medium)
+- ![[rock2.png\|rock2.png]] Serrano Epsilon (medium)
 
 

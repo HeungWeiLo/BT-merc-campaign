@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delacruz
-xcood: "372.478"
-ycood: "113.17"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delacruz/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delacruz
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | 372.478 |
+> | Y coord| 113.17 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Delacruz ![[wet9.png]]
+# Planet 1 - Delacruz ![[wet9.png\|wet9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Arc-Huddleston ![[frozen15.png]]
+# Planet 2 - Arc-Huddleston ![[frozen15.png\|frozen15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -55,7 +50,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Walker ![[gasg30.png]]
+# Planet 3 - Walker ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -70,11 +65,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Bolcar (large)
-- ![[rock14.png]] Edelberg (large)
+- ![[rock15.png\|rock15.png]] Bolcar (large)
+- ![[rock14.png\|rock14.png]] Edelberg (large)
 
 
-# Planet 4 - Genty ![[gasg6.png]]
+# Planet 4 - Genty ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,12 +84,12 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Thanotos I (medium)
-- ![[oddmoon1.png]] Thanotos II (medium)
-- ![[oddmoon2.png]] Thanotos III (medium)
+- ![[rock1.png\|rock1.png]] Thanotos I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Thanotos II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Thanotos III (medium)
 
 
-# Planet 5 - Gillbard's Patch ![[gasg28.png]]
+# Planet 5 - Gillbard's Patch ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,17 +104,17 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Sugumonxe (large)
-- ![[rock14.png]] Iae (large)
-- ![[rock9.png]] Abe Mango (large)
-- ![[rock4.png]] 23-1 (large)
-- ![[rock16.png]] 23-2 (large)
-- ![[rock10.png]] El Lal (medium)
-- ![[oddmoon1.png]] Cherruves (medium)
-- ![[oddmoon2.png]] 23-3 (medium)
+- ![[rock2.png\|rock2.png]] Sugumonxe (large)
+- ![[rock14.png\|rock14.png]] Iae (large)
+- ![[rock9.png\|rock9.png]] Abe Mango (large)
+- ![[rock4.png\|rock4.png]] 23-1 (large)
+- ![[rock16.png\|rock16.png]] 23-2 (large)
+- ![[rock10.png\|rock10.png]] El Lal (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Cherruves (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 23-3 (medium)
 
 
-# Planet 6 - Batalha ![[gasg29.png]]
+# Planet 6 - Batalha ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -134,9 +129,9 @@ dg-publish: true
 
 
 
-- [[rock16.png]] Bhutamata (medium)
+- [[rock16.png\|rock16.png]] Bhutamata (medium)
 
-# Planet 7 - P1 Belt ![[asteroid1.png]]
+# Planet 7 - P1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -148,7 +143,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Hadley ![[iceg11.png]]
+# Planet 8 - Hadley ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -163,9 +158,9 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Mangoni I (medium)
-- ![[oddmoon1.png]] Mangoni II (medium)
-- ![[oddmoon2.png]] Mangoni III (medium)
-- ![[oddmoon3.png]] Mangoni IV (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Mangoni I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Mangoni II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Mangoni III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Mangoni IV (medium)
 
 

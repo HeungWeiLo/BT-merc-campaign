@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chamdo
-xcood: "10.332"
-ycood: "-152.286"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chamdo/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chamdo
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 10.332 |
+> | Y coord| -152.286 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Chamdo ![[green4.png]]
+# Planet 1 - Chamdo ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Jiezhi ![[rock16.png]]
+# Planet 2 - Jiezhi ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Zhang (large)
+- [[rock1.png\|rock1.png]] Zhang (large)
 
-# Planet 3 - Shuizi ![[gasg31.png]]
+# Planet 3 - Shuizi ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -69,9 +64,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Morrigan (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Morrigan (medium)
 
-# Planet 4 - Xixinzhuang ![[gasg19.png]]
+# Planet 4 - Xixinzhuang ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -86,9 +81,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] 8LB1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] 8LB1 (medium)
 
-# Planet 5 - Guiyang ![[gasg14.png]]
+# Planet 5 - Guiyang ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -103,16 +98,16 @@ dg-publish: true
 
 
 
-- ![[rock4.png]] 701 (large)
-- ![[rock13.png]] 702 (large)
-- ![[rock9.png]] 703 (large)
-- ![[rock10.png]] 704 (large)
-- ![[rock11.png]] 705 (medium)
-- ![[rock17.png]] 706 (medium)
-- ![[rock16.png]] 707 (medium)
+- ![[rock4.png\|rock4.png]] 701 (large)
+- ![[rock13.png\|rock13.png]] 702 (large)
+- ![[rock9.png\|rock9.png]] 703 (large)
+- ![[rock10.png\|rock10.png]] 704 (large)
+- ![[rock11.png\|rock11.png]] 705 (medium)
+- ![[rock17.png\|rock17.png]] 706 (medium)
+- ![[rock16.png\|rock16.png]] 707 (medium)
 
 
-# Planet 6 - Mok ![[gasg28.png]]
+# Planet 6 - Mok ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,9 +122,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Sun Hou Zi (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Sun Hou Zi (medium)
 
-# Planet 7 - Chou's Harvest ![[gasg23.png]]
+# Planet 7 - Chou's Harvest ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -144,13 +139,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Vishnu A (medium)
-- ![[rock4.png]] Vishnu B (medium)
-- ![[rock3.png]] Vishnu C (medium)
-- ![[rock9.png]] Vishnu D (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Vishnu A (medium)
+- ![[rock4.png\|rock4.png]] Vishnu B (medium)
+- ![[rock3.png\|rock3.png]] Vishnu C (medium)
+- ![[rock9.png\|rock9.png]] Vishnu D (medium)
 
 
-# Planet 8 - New Song Xian Chengguanzhen ![[gasg32.png]]
+# Planet 8 - New Song Xian Chengguanzhen ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -167,7 +162,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Guecufu Belt ![[asteroid1.png]]
+# Planet 9 - Guecufu Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Tieh ![[iceg5.png]]
+# Planet 10 - Tieh ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -196,7 +191,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Bowen ![[gasg16.png]]
+# Planet 11 - Bowen ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -213,7 +208,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Wuzhong Qu ![[gasg37.png]]
+# Planet 12 - Wuzhong Qu ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -228,7 +223,7 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Q1 (medium)
-- ![[rock10.png]] Q2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Q1 (medium)
+- ![[rock10.png\|rock10.png]] Q2 (medium)
 
 

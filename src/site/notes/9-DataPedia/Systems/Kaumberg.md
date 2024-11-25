@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaumberg
-xcood: "-387.844"
-ycood: "144.452"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaumberg/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaumberg
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -387.844 |
+> | Y coord| 144.452 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - C-1 ![[iceg8.png]]
+# Planet 1 - C-1 ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -33,11 +28,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - C-2 ![[frozen37.png]]
+# Planet 2 - C-2 ![[frozen37.png\|frozen37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,9 +53,9 @@ dg-publish: true
 3
 6
 
-- [[rock3.png]] Pöllau (large)
+- [[rock3.png\|rock3.png]] Pöllau (large)
 
-# Planet 3 - C-3 ![[barren5.png]]
+# Planet 3 - C-3 ![[barren5.png\|barren5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -79,12 +74,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 4 - Kaumberg ![[wet5.png]]
+# Planet 4 - Kaumberg ![[wet5.png\|wet5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -108,9 +103,9 @@ Kaumberg was primarily settled by colonists hailing from Germany and Austria.
 3
 7
 
-- [[oddmoon1.png]] Grobrot (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Grobrot (medium)
 
-# Planet 5 - C-5 ![[frozen47.png]]
+# Planet 5 - C-5 ![[frozen47.png\|frozen47.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -133,7 +128,7 @@ Kaumberg was primarily settled by colonists hailing from Germany and Austria.
 
 
 
-# Planet 6 - C-6 ![[rock17.png]]
+# Planet 6 - C-6 ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -153,7 +148,7 @@ Kaumberg was primarily settled by colonists hailing from Germany and Austria.
 
 
 
-# Planet 7 - C-7 ![[gasg14.png]]
+# Planet 7 - C-7 ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -171,9 +166,9 @@ Kaumberg was primarily settled by colonists hailing from Germany and Austria.
 3
 5
 
-- [[rock17.png]] Devis (large)
+- [[rock17.png\|rock17.png]] Devis (large)
 
-# Planet 8 - C-8 ![[rock5.png]]
+# Planet 8 - C-8 ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |

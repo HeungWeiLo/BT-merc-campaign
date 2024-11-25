@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gallatin
-xcood: "-160.771"
-ycood: "-74.494"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gallatin/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gallatin
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | -160.771 |
+> | Y coord| -74.494 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Gallatin ![[wet13.png]]
+# Planet 1 - Gallatin ![[wet13.png\|wet13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lordstown ![[rock16.png]]
+# Planet 2 - Lordstown ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -59,7 +54,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Johnson ![[gasg20.png]]
+# Planet 3 - Johnson ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -77,12 +72,12 @@ dg-publish: true
 3
 0
 
-- ![[rock5.png]] Argelander (large)
-- ![[oddmoon1.png]] Dean (medium)
-- ![[rock2.png]] White (medium)
+- ![[rock5.png\|rock5.png]] Argelander (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Dean (medium)
+- ![[rock2.png\|rock2.png]] White (medium)
 
 
-# Planet 4 - Yen Ti ![[gasg14.png]]
+# Planet 4 - Yen Ti ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -100,12 +95,12 @@ dg-publish: true
 3
 0
 
-- ![[rock4.png]] 5M1 (large)
-- ![[rock6.png]] 5M2 (large)
-- ![[rock7.png]] 5M3 (large)
+- ![[rock4.png\|rock4.png]] 5M1 (large)
+- ![[rock6.png\|rock6.png]] 5M2 (large)
+- ![[rock7.png\|rock7.png]] 5M3 (large)
 
 
-# Planet 5 - Missoula ![[gasg33.png]]
+# Planet 5 - Missoula ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,11 +118,11 @@ dg-publish: true
 2
 0
 
-- ![[rock11.png]] 4Q-1 (large)
-- ![[rock5.png]] 4Q-2 (large)
+- ![[rock11.png\|rock11.png]] 4Q-1 (large)
+- ![[rock5.png\|rock5.png]] 4Q-2 (large)
 
 
-# Planet 6 - Dao Belt A ![[asteroid3.png]]
+# Planet 6 - Dao Belt A ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -142,7 +137,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Sun Hou Tze ![[gasg15.png]]
+# Planet 7 - Sun Hou Tze ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,15 +155,15 @@ dg-publish: true
 6
 0
 
-- ![[rock5.png]] Heret (large)
-- ![[rock10.png]] Maribel (large)
-- ![[rock8.png]] Sukuna Biko Na (large)
-- ![[rock4.png]] South Annville (medium)
-- ![[oddmoon2.png]] Clifford (medium)
-- ![[oddmoon1.png]] Nekhabed (medium)
+- ![[rock5.png\|rock5.png]] Heret (large)
+- ![[rock10.png\|rock10.png]] Maribel (large)
+- ![[rock8.png\|rock8.png]] Sukuna Biko Na (large)
+- ![[rock4.png\|rock4.png]] South Annville (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Clifford (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nekhabed (medium)
 
 
-# Planet 8 - Coldwater ![[iceg15.png]]
+# Planet 8 - Coldwater ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -186,12 +181,12 @@ dg-publish: true
 3
 0
 
-- ![[rock10.png]] Rainbow Snake (giant)
-- ![[rock15.png]] Yingarna (giant)
-- ![[rock9.png]] Birrahgnooloo (large)
+- ![[rock10.png\|rock10.png]] Rainbow Snake (giant)
+- ![[rock15.png\|rock15.png]] Yingarna (giant)
+- ![[rock9.png\|rock9.png]] Birrahgnooloo (large)
 
 
-# Planet 9 - Dao Belt B ![[asteroid2.png]]
+# Planet 9 - Dao Belt B ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -206,7 +201,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Montville ![[gasg2.png]]
+# Planet 10 - Montville ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -226,7 +221,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Willacy ![[gasg34.png]]
+# Planet 11 - Willacy ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -244,11 +239,11 @@ dg-publish: true
 6
 0
 
-- ![[rock5.png]] Khnum (large)
-- ![[rock4.png]] Freyja (large)
-- ![[oddmoon2.png]] Naunet (medium)
-- ![[oddmoon1.png]] Thot (medium)
-- ![[oddmoon3.png]] Simpson (medium)
-- ![[rock1.png]] Khepri (medium)
+- ![[rock5.png\|rock5.png]] Khnum (large)
+- ![[rock4.png\|rock4.png]] Freyja (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Naunet (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Thot (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Simpson (medium)
+- ![[rock1.png\|rock1.png]] Khepri (medium)
 
 

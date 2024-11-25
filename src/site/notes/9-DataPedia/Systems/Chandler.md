@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chandler
-xcood: "47.037"
-ycood: "207.265"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chandler/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chandler
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 47.037 |
+> | Y coord| 207.265 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Richter's Wheel ![[iceg19.png]]
+# Planet 1 - Richter's Wheel ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,9 +25,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Rymice (large)
+- [[rock2.png\|rock2.png]] Rymice (large)
 
-# Planet 2 - Alfheim ![[rock17.png]]
+# Planet 2 - Alfheim ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Deverell ![[gasg28.png]]
+# Planet 3 - Deverell ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -64,9 +59,9 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Valtam (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Valtam (medium)
 
-# Planet 4 - Chandler ![[green14.png]]
+# Planet 4 - Chandler ![[green14.png\|green14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Eaton's World ![[iceg6.png]]
+# Planet 5 - Eaton's World ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -102,12 +97,12 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Suonetar (large)
-- ![[rock4.png]] Valley-Hi (large)
-- ![[rock8.png]] Kalma (large)
+- ![[rock3.png\|rock3.png]] Suonetar (large)
+- ![[rock4.png\|rock4.png]] Valley-Hi (large)
+- ![[rock8.png\|rock8.png]] Kalma (large)
 
 
-# Planet 6 - Fearn ![[frozen41.png]]
+# Planet 6 - Fearn ![[frozen41.png\|frozen41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Ivancu's Plains ![[gasg31.png]]
+# Planet 7 - Ivancu's Plains ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -142,12 +137,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Plowman (medium)
-- ![[oddmoon3.png]] Pickford (medium)
-- ![[rock4.png]] Oakden (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Plowman (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Pickford (medium)
+- ![[rock4.png\|rock4.png]] Oakden (medium)
 
 
-# Planet 8 - Rhiannon ![[gasg11.png]]
+# Planet 8 - Rhiannon ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -162,10 +157,10 @@ dg-publish: true
 
 
 
-- ![[rock17.png]] Hickman (large)
-- ![[rock14.png]] Cantrell (large)
-- ![[oddmoon1.png]] Holbrook (medium)
-- ![[rock3.png]] Gaywood (medium)
-- ![[rock8.png]] Adamczewski (medium)
+- ![[rock17.png\|rock17.png]] Hickman (large)
+- ![[rock14.png\|rock14.png]] Cantrell (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Holbrook (medium)
+- ![[rock3.png\|rock3.png]] Gaywood (medium)
+- ![[rock8.png\|rock8.png]] Adamczewski (medium)
 
 

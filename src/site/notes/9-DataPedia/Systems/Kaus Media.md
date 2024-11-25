@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaus Media
-xcood: "7.746"
-ycood: "80.087"
-spectralType: K2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaus-media/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaus Media
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K2V.png]] |
+> | X coord | 7.746 |
+> | Y coord| 80.087 |
+> | Spectral Type | K2V ![[K2V.png\|K2V.png]] |
 
-# Planet 1 - Kaus Media ![[wet16.png]]
+# Planet 1 - Kaus Media ![[wet16.png\|wet16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,13 +34,13 @@ Trade between both resumed again decades after the crisis, though government was
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Cape Wardrope ![[barren12.png]]
+# Planet 2 - Cape Wardrope ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -66,7 +61,7 @@ Trade between both resumed again decades after the crisis, though government was
 
 
 
-# Planet 3 - Medina ![[rock14.png]]
+# Planet 3 - Medina ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -86,7 +81,7 @@ Trade between both resumed again decades after the crisis, though government was
 
 
 
-# Planet 4 - Houston's Grove ![[gasg20.png]]
+# Planet 4 - Houston's Grove ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -106,7 +101,7 @@ Trade between both resumed again decades after the crisis, though government was
 
 
 
-# Planet 5 - Moret ![[gasg13.png]]
+# Planet 5 - Moret ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -126,7 +121,7 @@ Trade between both resumed again decades after the crisis, though government was
 
 
 
-# Planet 6 - Auxesia Belt ![[asteroid1.png]]
+# Planet 6 - Auxesia Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

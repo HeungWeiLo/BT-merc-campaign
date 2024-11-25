@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cumberland
-xcood: "207.037"
-ycood: "-264.979"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cumberland/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cumberland
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | 207.037 |
+> | Y coord| -264.979 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Susanoo No Mikoto ![[barren13.png]]
+# Planet 1 - Susanoo No Mikoto ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cumberland ![[green32.png]]
+# Planet 2 - Cumberland ![[green32.png\|green32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Labriola ![[gasg1.png]]
+# Planet 3 - Labriola ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -69,11 +64,11 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Martin (medium)
-- ![[rock17.png]] Benson (medium)
+- ![[rock9.png\|rock9.png]] Martin (medium)
+- ![[rock17.png\|rock17.png]] Benson (medium)
 
 
-# Planet 4 - Fudo ![[gasg15.png]]
+# Planet 4 - Fudo ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,14 +83,14 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Ashur (large)
-- ![[rock12.png]] Francis (large)
-- ![[oddmoon2.png]] Terry (medium)
-- ![[oddmoon1.png]] Tiamat (medium)
-- ![[oddmoon3.png]] Nelson (medium)
+- ![[rock5.png\|rock5.png]] Ashur (large)
+- ![[rock12.png\|rock12.png]] Francis (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Terry (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Tiamat (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nelson (medium)
 
 
-# Planet 5 - Sukunabikona ![[gasg6.png]]
+# Planet 5 - Sukunabikona ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,12 +105,12 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] As Iga I (medium)
-- ![[rock6.png]] As Iga II (medium)
-- ![[oddmoon2.png]] As Iga III (medium)
+- ![[rock7.png\|rock7.png]] As Iga I (medium)
+- ![[rock6.png\|rock6.png]] As Iga II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] As Iga III (medium)
 
 
-# Planet 6 - O'Herlihy's Planet ![[gasg24.png]]
+# Planet 6 - O'Herlihy's Planet ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -130,16 +125,16 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Deywis (large)
-- ![[rock8.png]] Stewart (large)
-- ![[rock10.png]] Price (large)
-- ![[rock12.png]] Brooks (medium)
-- ![[rock14.png]] Bryant (medium)
-- ![[rock6.png]] Y1 (medium)
-- ![[oddmoon3.png]] Zemepatis (medium)
+- ![[rock15.png\|rock15.png]] Deywis (large)
+- ![[rock8.png\|rock8.png]] Stewart (large)
+- ![[rock10.png\|rock10.png]] Price (large)
+- ![[rock12.png\|rock12.png]] Brooks (medium)
+- ![[rock14.png\|rock14.png]] Bryant (medium)
+- ![[rock6.png\|rock6.png]] Y1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Zemepatis (medium)
 
 
-# Planet 7 - Fire Fade ![[gasg22.png]]
+# Planet 7 - Fire Fade ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,9 +149,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] J-1 (large)
+- [[rock4.png\|rock4.png]] J-1 (large)
 
-# Planet 8 - Duncan ![[gasg12.png]]
+# Planet 8 - Duncan ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -171,10 +166,10 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Gao Yao I (large)
-- ![[rock15.png]] Gao Yao II (large)
-- ![[rock16.png]] Gao Yao III (large)
-- ![[rock2.png]] Gao Yao IV (large)
-- ![[rock14.png]] Gao Yao V (large)
+- ![[rock9.png\|rock9.png]] Gao Yao I (large)
+- ![[rock15.png\|rock15.png]] Gao Yao II (large)
+- ![[rock16.png\|rock16.png]] Gao Yao III (large)
+- ![[rock2.png\|rock2.png]] Gao Yao IV (large)
+- ![[rock14.png\|rock14.png]] Gao Yao V (large)
 
 

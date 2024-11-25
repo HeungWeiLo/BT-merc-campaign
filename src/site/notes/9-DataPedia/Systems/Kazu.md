@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kazu
-xcood: "101.119"
-ycood: "-364.208"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kazu/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kazu
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 101.119 |
+> | Y coord| -364.208 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - George ![[greenhouse31.png]]
+# Planet 1 - George ![[greenhouse31.png\|greenhouse31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 3
 2
 
-- [[oddmoon1.png]] K1 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] K1 (medium)
 
-# Planet 2 - Messiah ![[gasg5.png]]
+# Planet 2 - Messiah ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -54,12 +49,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Kazu ![[green15.png]]
+# Planet 3 - Kazu ![[green15.png\|green15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yahweh ![[badwater27.png]]
+# Planet 4 - Yahweh ![[badwater27.png\|badwater27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,12 +98,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Perom ![[gasg4.png]]
+# Planet 5 - Perom ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,17 +121,17 @@ dg-publish: true
 8
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Stan ![[iceg18.png]]
+# Planet 6 - Stan ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -154,13 +149,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Yhwh ![[gasg22.png]]
+# Planet 7 - Yhwh ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,7 +175,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Oromasdes ![[gasg9.png]]
+# Planet 8 - Oromasdes ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -198,12 +193,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Bin Ayman ![[gasg36.png]]
+# Planet 9 - Bin Ayman ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,7 +218,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Old Nick ![[gasg30.png]]
+# Planet 10 - Old Nick ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -241,12 +236,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 11 - Loki Laufeyjarson Belt ![[asteroid1.png]]
+# Planet 11 - Loki Laufeyjarson Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -261,7 +256,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Holy Trinity ![[gasg7.png]]
+# Planet 12 - Holy Trinity ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -279,7 +274,7 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

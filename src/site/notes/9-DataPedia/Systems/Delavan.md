@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Delavan
-xcood: "269.864"
-ycood: "-95.167"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/delavan/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Delavan
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 269.864 |
+> | Y coord| -95.167 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - XKQ-1 ![[gasg6.png]]
+# Planet 1 - XKQ-1 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Delavan ![[green8.png]]
+# Planet 2 - Delavan ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,14 +46,14 @@ dg-publish: true
 
 Delavan is a comfortable garden world with modest natural resources and a strong industrial base and high-tech industry. Despite being relatively cold and having 15% higher gravity than Terra, Delavan compares favorably to the "Golden Five" in the Federated Suns.
 
-- ![[rock14.png]] Co (large)
-- ![[oddmoon2.png]] Geneva (medium)
-- ![[oddmoon3.png]] Racine (medium)
-- ![[oddmoon1.png]] Walworth (medium)
-- ![[rock17.png]] Wisconsin (medium)
+- ![[rock14.png\|rock14.png]] Co (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Geneva (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Racine (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Walworth (medium)
+- ![[rock17.png\|rock17.png]] Wisconsin (medium)
 
 
-# Planet 3 - XKQ-3 ![[gasg21.png]]
+# Planet 3 - XKQ-3 ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -75,7 +70,7 @@ Delavan is a comfortable garden world with modest natural resources and a strong
 
 
 
-# Planet 4 - XKQ-4 ![[gasg1.png]]
+# Planet 4 - XKQ-4 ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,12 +85,12 @@ Delavan is a comfortable garden world with modest natural resources and a strong
 
 
 
-- ![[oddmoon2.png]] Nuwa I (medium)
-- ![[rock1.png]] Nuwa II (medium)
-- ![[oddmoon3.png]] Nuwa III (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Nuwa I (medium)
+- ![[rock1.png\|rock1.png]] Nuwa II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Nuwa III (medium)
 
 
-# Planet 5 - XKQ-5 ![[gasg24.png]]
+# Planet 5 - XKQ-5 ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,13 +105,13 @@ Delavan is a comfortable garden world with modest natural resources and a strong
 
 
 
-- ![[rock9.png]] Asclepius 1 (large)
-- ![[rock17.png]] Asclepius 2 (medium)
-- ![[oddmoon2.png]] Asclepius 3 (medium)
-- ![[rock10.png]] Asclepius 4 (medium)
+- ![[rock9.png\|rock9.png]] Asclepius 1 (large)
+- ![[rock17.png\|rock17.png]] Asclepius 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Asclepius 3 (medium)
+- ![[rock10.png\|rock10.png]] Asclepius 4 (medium)
 
 
-# Planet 6 - XKQ-6 ![[gasg16.png]]
+# Planet 6 - XKQ-6 ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

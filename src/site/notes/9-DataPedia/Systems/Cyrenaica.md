@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cyrenaica
-xcood: "156.561"
-ycood: "273.932"
-spectralType: M6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cyrenaica/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cyrenaica
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M6V.png]] |
+> | X coord | 156.561 |
+> | Y coord| 273.932 |
+> | Spectral Type | M6V ![[M6V.png\|M6V.png]] |
 
-# Planet 1 - Cyrenaica ![[green41.png]]
+# Planet 1 - Cyrenaica ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Brooklyn ![[gasg34.png]]
+# Planet 2 - Brooklyn ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Summanus 1 (medium)
-- ![[rock2.png]] Summanus 2 (medium)
+- ![[rock5.png\|rock5.png]] Summanus 1 (medium)
+- ![[rock2.png\|rock2.png]] Summanus 2 (medium)
 
 
-# Planet 3 - Chandrapur ![[iceg7.png]]
+# Planet 3 - Chandrapur ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -70,11 +65,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Gucheng (large)
-- ![[oddmoon2.png]] Lanark (medium)
+- ![[rock14.png\|rock14.png]] Gucheng (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Lanark (medium)
 
 
-# Planet 4 - Otisco ![[gasg20.png]]
+# Planet 4 - Otisco ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -89,13 +84,13 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Chandler (large)
-- ![[oddmoon3.png]] Gunturu (medium)
-- ![[oddmoon1.png]] Slootweg (medium)
-- ![[oddmoon2.png]] Israel (medium)
+- ![[rock14.png\|rock14.png]] Chandler (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Gunturu (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Slootweg (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Israel (medium)
 
 
-# Planet 5 - Rebollosa de Jadraque ![[gasg31.png]]
+# Planet 5 - Rebollosa de Jadraque ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -110,9 +105,9 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Dimos Aegina (large)
-- ![[oddmoon2.png]] Sasolburg (medium)
-- ![[rock6.png]] Pamlico (medium)
-- ![[oddmoon3.png]] Santa Cruz del Valle (medium)
+- ![[rock2.png\|rock2.png]] Dimos Aegina (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Sasolburg (medium)
+- ![[rock6.png\|rock6.png]] Pamlico (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Santa Cruz del Valle (medium)
 
 

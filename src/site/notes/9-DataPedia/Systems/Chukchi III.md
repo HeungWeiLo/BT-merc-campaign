@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chukchi III
-xcood: "-180.694"
-ycood: "90.425"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chukchi-iii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chukchi III
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -180.694 |
+> | Y coord| 90.425 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Chukchi I ![[gasg30.png]]
+# Planet 1 - Chukchi I ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Chukchi II ![[gasg16.png]]
+# Planet 2 - Chukchi II ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Chukchi III ![[green46.png]]
+# Planet 3 - Chukchi III ![[green46.png\|green46.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,12 +67,12 @@ This led to a very hostile environment by the mid 3020s with many residents just
 
 3080 - Chukchi III became heavily industrialized after the discovery of titanium in the planet’s crust. The Maxell Metals, Incorporated plants already on planet, responsible for creating the highly sought Maxell Lasers, expanded to include BattleMech production after the titanium was discovered. Unfortunately, the planet has suffered significant unrest starting after the Clan Invasion. The planet is locked in a three-way battle between organized crime, industry and eco-terrorists. The organized crime comes from the Malthus Syndicate, which became heavily involved on Chukchi III after the Clan Invasion lost the syndicate Dustball, their previous base of operations. The Syndicate is always trying to find more ways to increase their revenue, often clashing with Maxell Industries. The third combatants are ‘eco-terrorists’ driven to drastic actions due to the damage that the expanded industry and strip-mining have begun to cause to the planet.
 
-- ![[oddmoon2.png]] Koryak (medium)
-- ![[rock1.png]] Magadan (medium)
-- ![[oddmoon3.png]] Sakha (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Koryak (medium)
+- ![[rock1.png\|rock1.png]] Magadan (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sakha (medium)
 
 
-# Planet 4 - Dakhadayevskiy Belt ![[asteroid3.png]]
+# Planet 4 - Dakhadayevskiy Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -89,7 +84,7 @@ This led to a very hostile environment by the mid 3020s with many residents just
 
 
 
-# Planet 5 - Chukchi IV ![[gasg8.png]]
+# Planet 5 - Chukchi IV ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,15 +99,15 @@ This led to a very hostile environment by the mid 3020s with many residents just
 
 
 
-- ![[rock1.png]] G01 (large)
-- ![[rock15.png]] G02 (large)
-- ![[rock3.png]] G03 (large)
-- ![[oddmoon2.png]] G04 (medium)
-- ![[rock11.png]] G05 (medium)
-- ![[rock17.png]] G06 (medium)
+- ![[rock1.png\|rock1.png]] G01 (large)
+- ![[rock15.png\|rock15.png]] G02 (large)
+- ![[rock3.png\|rock3.png]] G03 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] G04 (medium)
+- ![[rock11.png\|rock11.png]] G05 (medium)
+- ![[rock17.png\|rock17.png]] G06 (medium)
 
 
-# Planet 6 - Chukchi V ![[gasg14.png]]
+# Planet 6 - Chukchi V ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,16 +122,16 @@ This led to a very hostile environment by the mid 3020s with many residents just
 
 
 
-- ![[rock8.png]] Veles (large)
-- ![[rock7.png]] Qingu (large)
-- ![[rock12.png]] Peron (large)
-- ![[rock6.png]] Dugnai (large)
-- ![[oddmoon1.png]] Svandovit (medium)
-- ![[rock10.png]] Tschernobog (medium)
-- ![[rock1.png]] Vodyanoy (medium)
+- ![[rock8.png\|rock8.png]] Veles (large)
+- ![[rock7.png\|rock7.png]] Qingu (large)
+- ![[rock12.png\|rock12.png]] Peron (large)
+- ![[rock6.png\|rock6.png]] Dugnai (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Svandovit (medium)
+- ![[rock10.png\|rock10.png]] Tschernobog (medium)
+- ![[rock1.png\|rock1.png]] Vodyanoy (medium)
 
 
-# Planet 7 - Chukchi VI ![[gasg33.png]]
+# Planet 7 - Chukchi VI ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -151,11 +146,11 @@ This led to a very hostile environment by the mid 3020s with many residents just
 
 
 
-- ![[oddmoon3.png]] Khoroshevo-Mnevniki I (medium)
-- ![[rock2.png]] Khoroshevo-Mnevniki II (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Khoroshevo-Mnevniki I (medium)
+- ![[rock2.png\|rock2.png]] Khoroshevo-Mnevniki II (medium)
 
 
-# Planet 8 - Nasyr-Kortskiy Gorodskoy Okrug Belt ![[asteroid2.png]]
+# Planet 8 - Nasyr-Kortskiy Gorodskoy Okrug Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

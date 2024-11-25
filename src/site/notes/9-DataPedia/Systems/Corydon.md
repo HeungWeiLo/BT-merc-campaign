@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corydon
-xcood: "216.61"
-ycood: "-38.822"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corydon/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corydon
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | 216.61 |
+> | Y coord| -38.822 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Corydon ![[green52.png]]
+# Planet 1 - Corydon ![[green52.png\|green52.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Pamit ![[frozen61.png]]
+# Planet 2 - Pamit ![[frozen61.png\|frozen61.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Kapoonis ![[frozen51.png]]
+# Planet 3 - Kapoonis ![[frozen51.png\|frozen51.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kwekwaxa'we ![[gasg37.png]]
+# Planet 4 - Kwekwaxa'we ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -90,16 +85,16 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Blodeuedd (giant)
-- ![[rock14.png]] Bíle (large)
-- ![[rock11.png]] Anu (large)
-- ![[rock9.png]] Morrigna (large)
-- ![[oddmoon3.png]] Ana (medium)
-- ![[oddmoon2.png]] Theseus (medium)
-- ![[oddmoon1.png]] Eochaid Ollathair (medium)
+- ![[rock8.png\|rock8.png]] Blodeuedd (giant)
+- ![[rock14.png\|rock14.png]] Bíle (large)
+- ![[rock11.png\|rock11.png]] Anu (large)
+- ![[rock9.png\|rock9.png]] Morrigna (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Ana (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Theseus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Eochaid Ollathair (medium)
 
 
-# Planet 5 - Tirawa's Harvest ![[gasg1.png]]
+# Planet 5 - Tirawa's Harvest ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,7 +111,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Ai Tupuai ![[gasg29.png]]
+# Planet 6 - Ai Tupuai ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -133,7 +128,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Aakuluujjusi ![[gasg36.png]]
+# Planet 7 - Aakuluujjusi ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -148,11 +143,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Nzambi I (medium)
-- ![[rock3.png]] Nzambi II (medium)
+- ![[rock6.png\|rock6.png]] Nzambi I (medium)
+- ![[rock3.png\|rock3.png]] Nzambi II (medium)
 
 
-# Planet 8 - Gitchie Manitou ![[gasg17.png]]
+# Planet 8 - Gitchie Manitou ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -169,7 +164,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Kat'sinas ![[gasg12.png]]
+# Planet 9 - Kat'sinas ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -184,14 +179,14 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Absu A (giant)
-- ![[rock4.png]] Absu B (giant)
-- ![[rock7.png]] Absu C (large)
-- ![[rock12.png]] Absu D (large)
-- ![[rock15.png]] Absu E (large)
+- ![[rock13.png\|rock13.png]] Absu A (giant)
+- ![[rock4.png\|rock4.png]] Absu B (giant)
+- ![[rock7.png\|rock7.png]] Absu C (large)
+- ![[rock12.png\|rock12.png]] Absu D (large)
+- ![[rock15.png\|rock15.png]] Absu E (large)
 
 
-# Planet 10 - T4-1 Belt ![[asteroid2.png]]
+# Planet 10 - T4-1 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -203,7 +198,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Golden ![[iceg7.png]]
+# Planet 11 - Golden ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -218,7 +213,7 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Q-1 (giant)
-- ![[rock10.png]] Q-2 (giant)
+- ![[rock11.png\|rock11.png]] Q-1 (giant)
+- ![[rock10.png\|rock10.png]] Q-2 (giant)
 
 

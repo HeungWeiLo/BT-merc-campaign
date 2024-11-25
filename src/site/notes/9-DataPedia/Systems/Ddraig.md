@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Ddraig
-xcood: "750.889"
-ycood: "151.599"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/ddraig/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Ddraig
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | 750.889 |
+> | Y coord| 151.599 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Ddraig ![[green4.png]]
+# Planet 1 - Ddraig ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Q092 ![[gasg27.png]]
+# Planet 2 - Q092 ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Q093 ![[gasg32.png]]
+# Planet 3 - Q093 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,17 +63,17 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Risinghurst and Sandhills (large)
-- ![[rock4.png]] Martin (large)
-- ![[rock8.png]] Egglescliffe (large)
-- ![[rock10.png]] Hecate (large)
-- ![[rock5.png]] Ekho (large)
-- ![[oddmoon1.png]] Layer-de-la-Haye (medium)
-- ![[oddmoon3.png]] 1Q.1 (medium)
-- ![[oddmoon2.png]] Pallas (medium)
+- ![[rock13.png\|rock13.png]] Risinghurst and Sandhills (large)
+- ![[rock4.png\|rock4.png]] Martin (large)
+- ![[rock8.png\|rock8.png]] Egglescliffe (large)
+- ![[rock10.png\|rock10.png]] Hecate (large)
+- ![[rock5.png\|rock5.png]] Ekho (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Layer-de-la-Haye (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] 1Q.1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Pallas (medium)
 
 
-# Planet 4 - Q094 ![[gasg2.png]]
+# Planet 4 - Q094 ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -93,18 +88,18 @@ dg-publish: true
 
 
 
-- ![[rock11.png]] Sopdet 1 (giant)
-- ![[rock7.png]] Sopdet 2 (giant)
-- ![[rock6.png]] Sopdet 3 (large)
-- ![[rock2.png]] Sopdet 4 (large)
-- ![[rock17.png]] Sopdet 5 (large)
-- ![[rock5.png]] Sopdet 6 (large)
-- ![[rock13.png]] Sopdet 7 (large)
-- ![[oddmoon2.png]] Sopdet 8 (medium)
-- ![[oddmoon3.png]] Sopdet 9 (medium)
+- ![[rock11.png\|rock11.png]] Sopdet 1 (giant)
+- ![[rock7.png\|rock7.png]] Sopdet 2 (giant)
+- ![[rock6.png\|rock6.png]] Sopdet 3 (large)
+- ![[rock2.png\|rock2.png]] Sopdet 4 (large)
+- ![[rock17.png\|rock17.png]] Sopdet 5 (large)
+- ![[rock5.png\|rock5.png]] Sopdet 6 (large)
+- ![[rock13.png\|rock13.png]] Sopdet 7 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Sopdet 8 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sopdet 9 (medium)
 
 
-# Planet 5 - Q095 ![[gasg30.png]]
+# Planet 5 - Q095 ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -119,9 +114,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Longworth (large)
+- [[rock15.png\|rock15.png]] Longworth (large)
 
-# Planet 6 - Q096 ![[gasg21.png]]
+# Planet 6 - Q096 ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -136,11 +131,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] W1M1 (large)
-- ![[rock12.png]] W1M2 (large)
+- ![[rock14.png\|rock14.png]] W1M1 (large)
+- ![[rock12.png\|rock12.png]] W1M2 (large)
 
 
-# Planet 7 - Q097 ![[gasg8.png]]
+# Planet 7 - Q097 ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -155,9 +150,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] Leese (large)
+- [[rock2.png\|rock2.png]] Leese (large)
 
-# Planet 8 - Q098 ![[gasg9.png]]
+# Planet 8 - Q098 ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -172,9 +167,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Arawn (medium)
+- [[rock1.png\|rock1.png]] Arawn (medium)
 
-# Planet 9 - Q099 ![[gasg37.png]]
+# Planet 9 - Q099 ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,12 +184,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] 2B6-1 (medium)
-- ![[rock11.png]] 2B6-2 (medium)
-- ![[rock1.png]] 2B6-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 2B6-1 (medium)
+- ![[rock11.png\|rock11.png]] 2B6-2 (medium)
+- ![[rock1.png\|rock1.png]] 2B6-3 (medium)
 
 
-# Planet 10 - Q0910 ![[iceg13.png]]
+# Planet 10 - Q0910 ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -209,13 +204,13 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] Bel A (large)
-- ![[oddmoon1.png]] Bel B (medium)
-- ![[rock4.png]] Bel C (medium)
-- ![[rock11.png]] Bel D (medium)
+- ![[rock5.png\|rock5.png]] Bel A (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Bel B (medium)
+- ![[rock4.png\|rock4.png]] Bel C (medium)
+- ![[rock11.png\|rock11.png]] Bel D (medium)
 
 
-# Planet 11 - Q0911 ![[frozen36.png]]
+# Planet 11 - Q0911 ![[frozen36.png\|frozen36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -233,5 +228,5 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Maa Emoinen (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Maa Emoinen (medium)
 

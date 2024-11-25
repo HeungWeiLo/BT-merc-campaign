@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Elektrougli
-xcood: "-113.194"
-ycood: "-184.105"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/elektrougli/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Elektrougli
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | -113.194 |
+> | Y coord| -184.105 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Tenyalang ![[barren3.png]]
+# Planet 1 - Tenyalang ![[barren3.png\|barren3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sukreep ![[greenhouse13.png]]
+# Planet 2 - Sukreep ![[greenhouse13.png\|greenhouse13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Igushev's Ship ![[iceg10.png]]
+# Planet 3 - Igushev's Ship ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -66,9 +61,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] YZO1 (large)
+- [[rock9.png\|rock9.png]] YZO1 (large)
 
-# Planet 4 - Elektrougli ![[wet19.png]]
+# Planet 4 - Elektrougli ![[wet19.png\|wet19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Batara Kali ![[iceg12.png]]
+# Planet 5 - Batara Kali ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -106,7 +101,7 @@ dg-publish: true
 
 
 
-# Planet 6 - D-1 ![[gasg18.png]]
+# Planet 6 - D-1 ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -121,11 +116,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] EW1 (large)
-- ![[rock14.png]] EW2 (large)
+- ![[rock3.png\|rock3.png]] EW1 (large)
+- ![[rock14.png\|rock14.png]] EW2 (large)
 
 
-# Planet 7 - Labetsky's Planet ![[rock7.png]]
+# Planet 7 - Labetsky's Planet ![[rock7.png\|rock7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -142,7 +137,7 @@ dg-publish: true
 
 
 
-# Planet 8 - D-2 ![[rock1.png]]
+# Planet 8 - D-2 ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -159,7 +154,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Taghizadeh's Meridian ![[frozen18.png]]
+# Planet 9 - Taghizadeh's Meridian ![[frozen18.png\|frozen18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -179,7 +174,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Anek Warna ![[rock16.png]]
+# Planet 10 - Anek Warna ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -197,7 +192,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Antaboga ![[gasg19.png]]
+# Planet 11 - Antaboga ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

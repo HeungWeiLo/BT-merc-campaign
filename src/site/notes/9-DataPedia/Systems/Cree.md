@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cree
-xcood: "-189.457"
-ycood: "-247.497"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cree/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cree
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | -189.457 |
+> | Y coord| -247.497 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Sains-en-Gohelle ![[greenhouse3.png]]
+# Planet 1 - Sains-en-Gohelle ![[greenhouse3.png\|greenhouse3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Milhaud ![[greenhouse38.png]]
+# Planet 2 - Milhaud ![[greenhouse38.png\|greenhouse38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Nouveau Les Crozets ![[gasg30.png]]
+# Planet 3 - Nouveau Les Crozets ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -66,9 +61,9 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Boyer (giant)
+- [[rock14.png\|rock14.png]] Boyer (giant)
 
-# Planet 4 - Cree ![[green4.png]]
+# Planet 4 - Cree ![[green4.png\|green4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Caron's Belt ![[asteroid3.png]]
+# Planet 5 - Caron's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Mazières-de-Touraine ![[gasg2.png]]
+# Planet 6 - Mazières-de-Touraine ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -116,12 +111,12 @@ dg-publish: true
 
 
 
-- ![[rock8.png]] Rivière-Rouge (medium)
-- ![[rock12.png]] Baliticaurus (medium)
-- ![[oddmoon3.png]] Arawn (medium)
+- ![[rock8.png\|rock8.png]] Rivière-Rouge (medium)
+- ![[rock12.png\|rock12.png]] Baliticaurus (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Arawn (medium)
 
 
-# Planet 7 - Alizay ![[gasg21.png]]
+# Planet 7 - Alizay ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -136,14 +131,14 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Y-1 (large)
-- ![[rock15.png]] Y-2 (large)
-- ![[rock2.png]] Y-3 (large)
-- ![[rock4.png]] Y-4 (large)
-- ![[rock12.png]] Y-5 (large)
-- ![[rock3.png]] Y-6 (medium)
-- ![[rock13.png]] Y-7 (medium)
-- ![[oddmoon3.png]] Y-8 (medium)
-- ![[oddmoon1.png]] Y-9 (medium)
+- ![[rock10.png\|rock10.png]] Y-1 (large)
+- ![[rock15.png\|rock15.png]] Y-2 (large)
+- ![[rock2.png\|rock2.png]] Y-3 (large)
+- ![[rock4.png\|rock4.png]] Y-4 (large)
+- ![[rock12.png\|rock12.png]] Y-5 (large)
+- ![[rock3.png\|rock3.png]] Y-6 (medium)
+- ![[rock13.png\|rock13.png]] Y-7 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Y-8 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Y-9 (medium)
 
 

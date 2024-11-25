@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kautokeino
-xcood: "241.744"
-ycood: "-311.819"
-spectralType: F2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kautokeino/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kautokeino
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F2V.png]] |
+> | X coord | 241.744 |
+> | Y coord| -311.819 |
+> | Spectral Type | F2V ![[F2V.png\|F2V.png]] |
 
-# Planet 1 - Jensen's Delight ![[barren11.png]]
+# Planet 1 - Jensen's Delight ![[barren11.png\|barren11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Olsen ![[iceg13.png]]
+# Planet 2 - Olsen ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Kautokeino ![[green8.png]]
+# Planet 3 - Kautokeino ![[green8.png\|green8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Vågen's Tokeri ![[gasg21.png]]
+# Planet 4 - Vågen's Tokeri ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -98,13 +93,13 @@ dg-publish: true
 4
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Burfjord Belt ![[asteroid3.png]]
+# Planet 5 - Burfjord Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -119,7 +114,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Weiseth's Choice ![[gasg32.png]]
+# Planet 6 - Weiseth's Choice ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,12 +132,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Skjevik ![[iceg8.png]]
+# Planet 7 - Skjevik ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -160,12 +155,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Abundantia ![[gasg7.png]]
+# Planet 8 - Abundantia ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -183,14 +178,14 @@ dg-publish: true
 5
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Eskeland ![[gasg36.png]]
+# Planet 9 - Eskeland ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,15 +203,15 @@ dg-publish: true
 6
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Follestad ![[gasg20.png]]
+# Planet 10 - Follestad ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -234,12 +229,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 11 - Meling ![[frozen41.png]]
+# Planet 11 - Meling ![[frozen41.png\|frozen41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -262,7 +257,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Sandnessjøen ![[gasg38.png]]
+# Planet 12 - Sandnessjøen ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -280,12 +275,12 @@ dg-publish: true
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Garrison
-xcood: "-103.187"
-ycood: "180.382"
-spectralType: F1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/garrison/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Garrison
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F1V.png]] |
+> | X coord | -103.187 |
+> | Y coord| 180.382 |
+> | Spectral Type | F1V ![[F1V.png\|F1V.png]] |
 
-# Planet 1 - Iuppiter ![[rock6.png]]
+# Planet 1 - Iuppiter ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Acca Larentia ![[rock6.png]]
+# Planet 2 - Acca Larentia ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Striges ![[greenhouse8.png]]
+# Planet 3 - Striges ![[greenhouse8.png\|greenhouse8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -75,11 +70,11 @@ dg-publish: true
 2
 0
 
-- ![[oddmoon3.png]] Miller (medium)
-- ![[rock7.png]] McJannett (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Miller (medium)
+- ![[rock7.png\|rock7.png]] McJannett (medium)
 
 
-# Planet 4 - Garrison ![[green40.png]]
+# Planet 4 - Garrison ![[green40.png\|green40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,7 +98,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Lucifer ![[frozen34.png]]
+# Planet 5 - Lucifer ![[frozen34.png\|frozen34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -124,12 +119,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon3.png]] Hakro I (medium)
-- ![[oddmoon1.png]] Hakro II (medium)
-- ![[rock14.png]] Hakro III (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hakro I (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hakro II (medium)
+- ![[rock14.png\|rock14.png]] Hakro III (medium)
 
 
-# Planet 6 - Pluto's Grove ![[gasg5.png]]
+# Planet 6 - Pluto's Grove ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,12 +142,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Miller Alpha (medium)
-- ![[oddmoon3.png]] Miller Beta (medium)
-- ![[oddmoon2.png]] Miller Gamma (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Miller Alpha (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Miller Beta (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Miller Gamma (medium)
 
 
-# Planet 7 - Hercules ![[iceg16.png]]
+# Planet 7 - Hercules ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -170,9 +165,9 @@ dg-publish: true
 3
 15
 
-- [[rock15.png]] Gudratrigakwitl (medium)
+- [[rock15.png\|rock15.png]] Gudratrigakwitl (medium)
 
-# Planet 8 - Tamayon Hine's Rock ![[gasg7.png]]
+# Planet 8 - Tamayon Hine's Rock ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -190,13 +185,13 @@ dg-publish: true
 4
 0
 
-- ![[oddmoon3.png]] Erishkegal A (medium)
-- ![[oddmoon1.png]] Erishkegal B (medium)
-- ![[oddmoon2.png]] Erishkegal C (medium)
-- ![[oddmoon3.png]] Erishkegal D (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Erishkegal A (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Erishkegal B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Erishkegal C (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Erishkegal D (medium)
 
 
-# Planet 9 - Prudence ![[gasg24.png]]
+# Planet 9 - Prudence ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,5 +209,5 @@ dg-publish: true
 3
 7
 
-- [[rock13.png]] Murehwa (large)
+- [[rock13.png\|rock13.png]] Murehwa (large)
 

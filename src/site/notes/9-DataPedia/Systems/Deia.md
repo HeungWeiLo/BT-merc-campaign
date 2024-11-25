@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Deia
-xcood: "-176.045"
-ycood: "303.685"
-spectralType: G5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/deia/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Deia
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G5V.png]] |
+> | X coord | -176.045 |
+> | Y coord| 303.685 |
+> | Spectral Type | G5V ![[G5V.png\|G5V.png]] |
 
-# Planet 1 - Scott's World ![[rock13.png]]
+# Planet 1 - Scott's World ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Rose ![[rock16.png]]
+# Planet 2 - Rose ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Hambley ![[rock17.png]]
+# Planet 3 - Hambley ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -66,7 +61,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Yao ![[rock1.png]]
+# Planet 4 - Yao ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -83,7 +78,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Jasikan ![[frozen45.png]]
+# Planet 5 - Jasikan ![[frozen45.png\|frozen45.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -103,7 +98,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Deia ![[wet5.png]]
+# Planet 6 - Deia ![[wet5.png\|wet5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -124,9 +119,9 @@ Deia is a harsh planet deep in the Lyran interior, which protected it from the w
 
 After the Clan Invasion, Deia found itself along the front of a new dangerous border and as a result saw a sudden influx of regular and mercenary forces to garrison the previously quiet backwater. Deia was one of a handful of planets targeted by the Red Corsair in the early 3050s.
 
-- [[oddmoon3.png]] Honor (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Honor (medium)
 
-# Planet 7 - Montenegro ![[gasg38.png]]
+# Planet 7 - Montenegro ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -141,13 +136,13 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 
 
 
-- ![[rock4.png]] Tuonetar A (large)
-- ![[rock16.png]] Tuonetar B (large)
-- ![[rock17.png]] Tuonetar C (medium)
-- ![[oddmoon2.png]] Tuonetar D (medium)
+- ![[rock4.png\|rock4.png]] Tuonetar A (large)
+- ![[rock16.png\|rock16.png]] Tuonetar B (large)
+- ![[rock17.png\|rock17.png]] Tuonetar C (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Tuonetar D (medium)
 
 
-# Planet 8 - Gunsche ![[iceg15.png]]
+# Planet 8 - Gunsche ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -162,8 +157,8 @@ After the Clan Invasion, Deia found itself along the front of a new dangerous bo
 
 
 
-- ![[rock1.png]] Cash A (medium)
-- ![[oddmoon1.png]] Cash B (medium)
-- ![[oddmoon3.png]] Cash C (medium)
+- ![[rock1.png\|rock1.png]] Cash A (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Cash B (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cash C (medium)
 
 

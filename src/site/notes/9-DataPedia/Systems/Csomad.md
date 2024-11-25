@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Csomad
-xcood: "427.282"
-ycood: "-292.14"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/csomad/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Csomad
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | 427.282 |
+> | Y coord| -292.14 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Tiszakécskei Járás ![[gasg15.png]]
+# Planet 1 - Tiszakécskei Járás ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] PSB1 (medium)
-- ![[rock6.png]] PSB2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] PSB1 (medium)
+- ![[rock6.png\|rock6.png]] PSB2 (medium)
 
 
-# Planet 2 - Gyál ![[iceg16.png]]
+# Planet 2 - Gyál ![[iceg16.png\|iceg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -49,13 +44,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Niskakangas 1 (large)
-- ![[oddmoon3.png]] Niskakangas 2 (medium)
-- ![[rock12.png]] Niskakangas 3 (medium)
-- ![[rock14.png]] Niskakangas 4 (medium)
+- ![[rock7.png\|rock7.png]] Niskakangas 1 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Niskakangas 2 (medium)
+- ![[rock12.png\|rock12.png]] Niskakangas 3 (medium)
+- ![[rock14.png\|rock14.png]] Niskakangas 4 (medium)
 
 
-# Planet 3 - Csomad ![[green54.png]]
+# Planet 3 - Csomad ![[green54.png\|green54.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Smelser ![[barren1.png]]
+# Planet 4 - Smelser ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Lulu ![[gasg14.png]]
+# Planet 5 - Lulu ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -109,9 +104,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] Melikki (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Melikki (medium)
 
-# Planet 6 - Lagrange ![[gasg20.png]]
+# Planet 6 - Lagrange ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -126,13 +121,13 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Kenyalang (large)
-- ![[oddmoon1.png]] Khon (medium)
-- ![[rock12.png]] Tan'gun (medium)
-- ![[rock5.png]] Pipek (medium)
+- ![[rock7.png\|rock7.png]] Kenyalang (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Khon (medium)
+- ![[rock12.png\|rock12.png]] Tan'gun (medium)
+- ![[rock5.png\|rock5.png]] Pipek (medium)
 
 
-# Planet 7 - Manica ![[gasg17.png]]
+# Planet 7 - Manica ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,13 +142,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Hartikainen (large)
-- ![[oddmoon1.png]] Budapest (medium)
-- ![[rock16.png]] Pásztó (medium)
-- ![[rock12.png]] Ózdi Járás (medium)
+- ![[rock1.png\|rock1.png]] Hartikainen (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Budapest (medium)
+- ![[rock16.png\|rock16.png]] Pásztó (medium)
+- ![[rock12.png\|rock12.png]] Ózdi Járás (medium)
 
 
-# Planet 8 - Lukin ![[gasg27.png]]
+# Planet 8 - Lukin ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,13 +163,13 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Hel 1 (medium)
-- ![[rock9.png]] Hel 2 (medium)
-- ![[oddmoon1.png]] Hel 3 (medium)
-- ![[oddmoon3.png]] Hel 4 (medium)
+- ![[rock13.png\|rock13.png]] Hel 1 (medium)
+- ![[rock9.png\|rock9.png]] Hel 2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hel 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hel 4 (medium)
 
 
-# Planet 9 - Coronel ![[gasg36.png]]
+# Planet 9 - Coronel ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -191,7 +186,7 @@ dg-publish: true
 
 
 
-# Planet 10 - Karhu ![[gasg22.png]]
+# Planet 10 - Karhu ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -206,8 +201,8 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Dhritarashtra (medium)
-- ![[oddmoon1.png]] Kinnaras (medium)
-- ![[oddmoon3.png]] Selin (medium)
+- ![[rock2.png\|rock2.png]] Dhritarashtra (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Kinnaras (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Selin (medium)
 
 

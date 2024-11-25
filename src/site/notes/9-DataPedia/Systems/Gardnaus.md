@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gardnaus
-xcood: "118.314"
-ycood: "-324.25"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gardnaus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gardnaus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 118.314 |
+> | Y coord| -324.25 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Gardnaus ![[green23.png]]
+# Planet 1 - Gardnaus ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Genius ![[gasg16.png]]
+# Planet 2 - Genius ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -57,12 +52,12 @@ dg-publish: true
 3
 0
 
-- ![[rock11.png]] D-1 (large)
-- ![[rock6.png]] D-2 (medium)
-- ![[rock4.png]] D-3 (medium)
+- ![[rock11.png\|rock11.png]] D-1 (large)
+- ![[rock6.png\|rock6.png]] D-2 (medium)
+- ![[rock4.png\|rock4.png]] D-3 (medium)
 
 
-# Planet 3 - Candelifera ![[gasg38.png]]
+# Planet 3 - Candelifera ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,12 +75,12 @@ dg-publish: true
 3
 0
 
-- ![[rock16.png]] Tamit (large)
-- ![[rock4.png]] Kwekwaxa'we (medium)
-- ![[oddmoon2.png]] Ellerby (medium)
+- ![[rock16.png\|rock16.png]] Tamit (large)
+- ![[rock4.png\|rock4.png]] Kwekwaxa'we (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ellerby (medium)
 
 
-# Planet 4 - Voorneveld's Belt ![[asteroid2.png]]
+# Planet 4 - Voorneveld's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Veritas's Grove ![[gasg33.png]]
+# Planet 5 - Veritas's Grove ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -118,11 +113,11 @@ dg-publish: true
 2
 0
 
-- ![[rock3.png]] Hope A (large)
-- ![[rock11.png]] Hope B (large)
+- ![[rock3.png\|rock3.png]] Hope A (large)
+- ![[rock11.png\|rock11.png]] Hope B (large)
 
 
-# Planet 6 - Iuppiter ![[iceg13.png]]
+# Planet 6 - Iuppiter ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |

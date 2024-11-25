@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Davisville
-xcood: "481.307"
-ycood: "-27.443"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/davisville/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Davisville
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 481.307 |
+> | Y coord| -27.443 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Rhodes's Plains ![[barren15.png]]
+# Planet 1 - Rhodes's Plains ![[barren15.png\|barren15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,9 +26,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] M1 (medium)
+- [[rock8.png\|rock8.png]] M1 (medium)
 
-# Planet 2 - Davisville ![[green46.png]]
+# Planet 2 - Davisville ![[green46.png\|green46.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Jackson's Planet ![[rock3.png]]
+# Planet 3 - Jackson's Planet ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Mahoney ![[iceg13.png]]
+# Planet 4 - Mahoney ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Fentress ![[iceg15.png]]
+# Planet 5 - Fentress ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Martin's World ![[iceg2.png]]
+# Planet 6 - Martin's World ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Lazil ![[gasg8.png]]
+# Planet 7 - Lazil ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Helton's Mistake ![[gasg26.png]]
+# Planet 8 - Helton's Mistake ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,15 +149,15 @@ dg-publish: true
 
 
 
-- ![[rock2.png]] Dragon Kings (giant)
-- ![[rock17.png]] Abgal (giant)
-- ![[rock1.png]] No Cha (medium)
-- ![[rock8.png]] Yu Huang Shangdi (medium)
-- ![[oddmoon3.png]] Pierce (medium)
-- ![[oddmoon2.png]] Yeng Wang Yeh (medium)
+- ![[rock2.png\|rock2.png]] Dragon Kings (giant)
+- ![[rock17.png\|rock17.png]] Abgal (giant)
+- ![[rock1.png\|rock1.png]] No Cha (medium)
+- ![[rock8.png\|rock8.png]] Yu Huang Shangdi (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Pierce (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Yeng Wang Yeh (medium)
 
 
-# Planet 9 - Cheoah ![[gasg38.png]]
+# Planet 9 - Cheoah ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -177,9 +172,9 @@ dg-publish: true
 
 
 
-- [[rock9.png]] Fire Fade (large)
+- [[rock9.png\|rock9.png]] Fire Fade (large)
 
-# Planet 10 - New Palm Coast ![[iceg11.png]]
+# Planet 10 - New Palm Coast ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -194,12 +189,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Q31 (medium)
-- ![[oddmoon3.png]] Q32 (medium)
-- ![[oddmoon1.png]] Q33 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Q31 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Q32 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Q33 (medium)
 
 
-# Planet 11 - Hays ![[gasg13.png]]
+# Planet 11 - Hays ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,9 +209,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] SBO1 (large)
+- [[rock5.png\|rock5.png]] SBO1 (large)
 
-# Planet 12 - Morales ![[gasg12.png]]
+# Planet 12 - Morales ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -231,9 +226,9 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] 26Q-1 (large)
-- ![[rock10.png]] 26Q-2 (large)
-- ![[rock6.png]] 26Q-3 (medium)
-- ![[rock17.png]] 26Q-4 (medium)
+- ![[rock15.png\|rock15.png]] 26Q-1 (large)
+- ![[rock10.png\|rock10.png]] 26Q-2 (large)
+- ![[rock6.png\|rock6.png]] 26Q-3 (medium)
+- ![[rock17.png\|rock17.png]] 26Q-4 (medium)
 
 

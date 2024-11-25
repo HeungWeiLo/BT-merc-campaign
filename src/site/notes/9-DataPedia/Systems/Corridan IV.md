@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corridan IV
-xcood: "-38.014"
-ycood: "121.453"
-spectralType: G4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corridan-iv/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corridan IV
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G4V.png]] |
+> | X coord | -38.014 |
+> | Y coord| 121.453 |
+> | Spectral Type | G4V ![[G4V.png\|G4V.png]] |
 
-# Planet 1 - Corridan I ![[barren6.png]]
+# Planet 1 - Corridan I ![[barren6.png\|barren6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,12 +26,12 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] FSQ-1 (medium)
-- ![[oddmoon3.png]] FSQ-2 (medium)
-- ![[oddmoon1.png]] FSQ-3 (medium)
+- ![[rock9.png\|rock9.png]] FSQ-1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] FSQ-2 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] FSQ-3 (medium)
 
 
-# Planet 2 - Corridan II ![[rock13.png]]
+# Planet 2 - Corridan II ![[rock13.png\|rock13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Corridan III ![[iceg7.png]]
+# Planet 3 - Corridan III ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock15.png]] Davoodi (large)
+- [[rock15.png\|rock15.png]] Davoodi (large)
 
-# Planet 4 - Corridan IV ![[green38.png]]
+# Planet 4 - Corridan IV ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,9 +88,9 @@ Eventually Gabriel Tal, a resident part-time chemical engineer, stumbled upon a 
 
 Today, Corridan‘s greatest exports, after water purifiers, are agricultural and ranching produce, which range from native fruits and vegetables to the beef-like meat of the Corridani grazer, a dim-witted beast roughly half again the size of a Terran buffalo. For this reason, many travelers expect a world of mainly rural plains. In fact, close to half the planetary population lives in big cities, mostly concentrated on Feyrun and Cederban. The largest of these, Rio Grande, is home to Water Pure Industries, much of the Tal family fortune, and the largest planetary spaceport. The planetary capital, New Austin, is over seventy kilometers north of Rio Grande, and boasts the planet‘s largest shipping concern, Corridani Forward, which uses its own starport.
 
-- [[oddmoon1.png]] Muse (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Muse (medium)
 
-# Planet 5 - Corridan V ![[iceg10.png]]
+# Planet 5 - Corridan V ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -110,9 +105,9 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- [[oddmoon1.png]] Hercules (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Hercules (medium)
 
-# Planet 6 - Putana Belt I ![[asteroid2.png]]
+# Planet 6 - Putana Belt I ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -124,7 +119,7 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-# Planet 7 - Corridan VI ![[gasg38.png]]
+# Planet 7 - Corridan VI ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,16 +134,16 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- ![[rock17.png]] Ari Hes Nefer (large)
-- ![[rock2.png]] Selkit (large)
-- ![[rock9.png]] Benarbia (large)
-- ![[rock6.png]] 6F-1 (large)
-- ![[oddmoon1.png]] Sepa (medium)
-- ![[rock15.png]] Nefer Tem (medium)
-- ![[rock5.png]] Menhit (medium)
+- ![[rock17.png\|rock17.png]] Ari Hes Nefer (large)
+- ![[rock2.png\|rock2.png]] Selkit (large)
+- ![[rock9.png\|rock9.png]] Benarbia (large)
+- ![[rock6.png\|rock6.png]] 6F-1 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Sepa (medium)
+- ![[rock15.png\|rock15.png]] Nefer Tem (medium)
+- ![[rock5.png\|rock5.png]] Menhit (medium)
 
 
-# Planet 8 - Putana Belt II ![[asteroid1.png]]
+# Planet 8 - Putana Belt II ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -160,7 +155,7 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-# Planet 9 - Corridan VII ![[gasg31.png]]
+# Planet 9 - Corridan VII ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -175,12 +170,12 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- ![[rock8.png]] Nes I (large)
-- ![[rock6.png]] Nes II (large)
-- ![[rock9.png]] Nes III (large)
+- ![[rock8.png\|rock8.png]] Nes I (large)
+- ![[rock6.png\|rock6.png]] Nes II (large)
+- ![[rock9.png\|rock9.png]] Nes III (large)
 
 
-# Planet 10 - Putana Belt III ![[asteroid3.png]]
+# Planet 10 - Putana Belt III ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -192,7 +187,7 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-# Planet 11 - Corridan VIII ![[gasg11.png]]
+# Planet 11 - Corridan VIII ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -207,13 +202,13 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- ![[rock15.png]] Heimdall (large)
-- ![[rock5.png]] Freya (large)
-- ![[rock9.png]] Valkyries (medium)
-- ![[rock2.png]] Gotterdammerung (medium)
+- ![[rock15.png\|rock15.png]] Heimdall (large)
+- ![[rock5.png\|rock5.png]] Freya (large)
+- ![[rock9.png\|rock9.png]] Valkyries (medium)
+- ![[rock2.png\|rock2.png]] Gotterdammerung (medium)
 
 
-# Planet 12 - Corridan IX ![[gasg10.png]]
+# Planet 12 - Corridan IX ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -228,11 +223,11 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- ![[oddmoon3.png]] Hino 1 (medium)
-- ![[rock2.png]] Hino 2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hino 1 (medium)
+- ![[rock2.png\|rock2.png]] Hino 2 (medium)
 
 
-# Planet 13 - Corridan X ![[gasg27.png]]
+# Planet 13 - Corridan X ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -247,14 +242,14 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- ![[rock9.png]] Méndez (large)
-- ![[oddmoon3.png]] Becker (medium)
-- ![[oddmoon1.png]] Pikin (medium)
-- ![[oddmoon2.png]] Lane (medium)
-- ![[rock16.png]] Vega (medium)
+- ![[rock9.png\|rock9.png]] Méndez (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Becker (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Pikin (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Lane (medium)
+- ![[rock16.png\|rock16.png]] Vega (medium)
 
 
-# Planet 14 - Corridan XI ![[gasg37.png]]
+# Planet 14 - Corridan XI ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -269,5 +264,5 @@ Today, Corridan‘s greatest exports, after water purifiers, are agricultural an
 
 
 
-- [[oddmoon1.png]] Dimos Livadeia (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Dimos Livadeia (medium)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cotocallao
-xcood: "144.753"
-ycood: "-299.672"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cotocallao/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cotocallao
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | 144.753 |
+> | Y coord| -299.672 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Furies's Refuge ![[iceg3.png]]
+# Planet 1 - Furies's Refuge ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Zethes ![[gasg25.png]]
+# Planet 2 - Zethes ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -47,11 +42,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Bauer (medium)
-- ![[rock5.png]] Molyneaux (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Bauer (medium)
+- ![[rock5.png\|rock5.png]] Molyneaux (medium)
 
 
-# Planet 3 - Cotocallao ![[green44.png]]
+# Planet 3 - Cotocallao ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Iecavas Novads ![[gasg22.png]]
+# Planet 4 - Iecavas Novads ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Yıldız ![[gasg19.png]]
+# Planet 5 - Yıldız ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,11 +99,11 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Rosewarne (large)
-- ![[rock12.png]] Groves (large)
+- ![[rock7.png\|rock7.png]] Rosewarne (large)
+- ![[rock12.png\|rock12.png]] Groves (large)
 
 
-# Planet 6 - Adonis ![[gasg24.png]]
+# Planet 6 - Adonis ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -123,9 +118,9 @@ dg-publish: true
 
 
 
-- [[rock17.png]] Mudzi (large)
+- [[rock17.png\|rock17.png]] Mudzi (large)
 
-# Planet 7 - Mitchell's Hold ![[gasg8.png]]
+# Planet 7 - Mitchell's Hold ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,5 +135,5 @@ dg-publish: true
 
 
 
-- [[rock14.png]] Mahu Fatu Rau (medium)
+- [[rock14.png\|rock14.png]] Mahu Fatu Rau (medium)
 

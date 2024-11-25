@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaufermann
-xcood: "405.802"
-ycood: "-100.734"
-spectralType: G0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaufermann/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaufermann
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G0V.png]] |
+> | X coord | 405.802 |
+> | Y coord| -100.734 |
+> | Spectral Type | G0V ![[G0V.png\|G0V.png]] |
 
-# Planet 1 - Martinton ![[gasg26.png]]
+# Planet 1 - Martinton ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,11 +28,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 2 - Pul-e Khumrī ![[barren1.png]]
+# Planet 2 - Pul-e Khumrī ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -58,7 +53,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Yunomae Machi ![[rock9.png]]
+# Planet 3 - Yunomae Machi ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -78,7 +73,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kaufermann ![[dry16.png]]
+# Planet 4 - Kaufermann ![[dry16.png\|dry16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,9 +95,9 @@ dg-publish: true
 3
 6
 
-- [[rock10.png]] Cencio (large)
+- [[rock10.png\|rock10.png]] Cencio (large)
 
-# Planet 5 - Songling Qu ![[frozen59.png]]
+# Planet 5 - Songling Qu ![[frozen59.png\|frozen59.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -125,7 +120,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Taylor's Harvest ![[gasg17.png]]
+# Planet 6 - Taylor's Harvest ![[gasg17.png\|gasg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -143,11 +138,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Cyclopes Belt ![[asteroid2.png]]
+# Planet 7 - Cyclopes Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -162,7 +157,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Three Fates Belt ![[asteroid3.png]]
+# Planet 8 - Three Fates Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -177,7 +172,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Laslett's World ![[gasg35.png]]
+# Planet 9 - Laslett's World ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,15 +190,15 @@ dg-publish: true
 6
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - Swati ![[gasg15.png]]
+# Planet 10 - Swati ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,7 +218,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Hill ![[frozen33.png]]
+# Planet 11 - Hill ![[frozen33.png\|frozen33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -244,7 +239,7 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kaus Australis
-xcood: "5.683"
-ycood: "83.447"
-spectralType: B9IV
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kaus-australis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kaus Australis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[B9IV.png]] |
+> | X coord | 5.683 |
+> | Y coord| 83.447 |
+> | Spectral Type | B9IV ![[B9IV.png\|B9IV.png]] |
 
-# Planet 1 - Tlahuiltepa ![[iceg11.png]]
+# Planet 1 - Tlahuiltepa ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 2
 
-- [[rock17.png]] F1 (large)
+- [[rock17.png\|rock17.png]] F1 (large)
 
-# Planet 2 - Bla ![[iceg13.png]]
+# Planet 2 - Bla ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,11 +48,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Kaus Australis ![[wet2.png]]
+# Planet 3 - Kaus Australis ![[wet2.png\|wet2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -83,9 +78,9 @@ Even today, Kaus Australis maintains Kaus Media as its primary customer and sour
 3
 9
 
-- [[oddmoon3.png]] Epstarius (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Epstarius (medium)
 
-# Planet 4 - Saint-Henri ![[rock5.png]]
+# Planet 4 - Saint-Henri ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -103,9 +98,9 @@ Even today, Kaus Australis maintains Kaus Media as its primary customer and sour
 3
 6
 
-- [[oddmoon1.png]] Jafari (medium)
+- [[oddmoon1.png\|oddmoon1.png]] Jafari (medium)
 
-# Planet 5 - Kulitta's Field ![[rock6.png]]
+# Planet 5 - Kulitta's Field ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -125,7 +120,7 @@ Even today, Kaus Australis maintains Kaus Media as its primary customer and sour
 
 
 
-# Planet 6 - Lacle ![[barren1.png]]
+# Planet 6 - Lacle ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -144,5 +139,5 @@ Even today, Kaus Australis maintains Kaus Media as its primary customer and sour
 3
 2
 
-- [[oddmoon3.png]] I1 (medium)
+- [[oddmoon3.png\|oddmoon3.png]] I1 (medium)
 

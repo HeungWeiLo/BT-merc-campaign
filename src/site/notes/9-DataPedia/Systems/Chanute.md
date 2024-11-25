@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chanute
-xcood: "463.735"
-ycood: "23.474"
-spectralType: M3V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chanute/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chanute
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M3V.png]] |
+> | X coord | 463.735 |
+> | Y coord| 23.474 |
+> | Spectral Type | M3V ![[M3V.png\|M3V.png]] |
 
-# Planet 1 - Chanute ![[green17.png]]
+# Planet 1 - Chanute ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mentzoni ![[frozen31.png]]
+# Planet 2 - Mentzoni ![[frozen31.png\|frozen31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,12 +49,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Juno (medium)
-- ![[oddmoon2.png]] Sterquilinus (medium)
-- ![[oddmoon3.png]] Suovetaurilia (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Juno (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Sterquilinus (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Suovetaurilia (medium)
 
 
-# Planet 3 - Johnston's Dawn ![[rock10.png]]
+# Planet 3 - Johnston's Dawn ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -76,7 +71,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Jones ![[gasg10.png]]
+# Planet 4 - Jones ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Conner ![[gasg20.png]]
+# Planet 5 - Conner ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,9 +103,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] Odur (large)
+- [[rock1.png\|rock1.png]] Odur (large)
 
-# Planet 6 - Duncan's World ![[gasg9.png]]
+# Planet 6 - Duncan's World ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,7 +122,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Hill's Belt ![[asteroid2.png]]
+# Planet 7 - Hill's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Cassels's Hold ![[gasg4.png]]
+# Planet 8 - Cassels's Hold ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,5 +149,5 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Russel (medium)
+- [[rock6.png\|rock6.png]] Russel (medium)
 

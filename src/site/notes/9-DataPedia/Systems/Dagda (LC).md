@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dagda (LC)
-xcood: "-225.943"
-ycood: "101.604"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dagda-lc/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dagda (LC)
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | -225.943 |
+> | Y coord| 101.604 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Ojereliev ![[rock17.png]]
+# Planet 1 - Ojereliev ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Arc-Nyrkov ![[barren12.png]]
+# Planet 2 - Arc-Nyrkov ![[barren12.png\|barren12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dagda (LC) ![[green42.png]]
+# Planet 3 - Dagda (LC) ![[green42.png\|green42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -71,7 +66,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Kaminker ![[rock17.png]]
+# Planet 4 - Kaminker ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -88,7 +83,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Erakin's Belt ![[asteroid3.png]]
+# Planet 5 - Erakin's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Popkov's Refuge ![[gasg3.png]]
+# Planet 6 - Popkov's Refuge ![[gasg3.png\|gasg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,14 +110,14 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Veles (large)
-- ![[rock11.png]] Zorya Polunochnaya (large)
-- ![[rock3.png]] Zorya (large)
-- ![[rock16.png]] Byelobog (large)
-- ![[rock14.png]] Chernabog (large)
+- ![[rock7.png\|rock7.png]] Veles (large)
+- ![[rock11.png\|rock11.png]] Zorya Polunochnaya (large)
+- ![[rock3.png\|rock3.png]] Zorya (large)
+- ![[rock16.png\|rock16.png]] Byelobog (large)
+- ![[rock14.png\|rock14.png]] Chernabog (large)
 
 
-# Planet 7 - Khons ![[gasg23.png]]
+# Planet 7 - Khons ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,7 +134,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Pigarev Sava ![[gasg16.png]]
+# Planet 8 - Pigarev Sava ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -154,10 +149,10 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Razborov (giant)
-- ![[rock5.png]] Shamsutdinov (large)
-- ![[rock8.png]] Daugmales pagasts (medium)
-- ![[oddmoon2.png]] A6K1 (medium)
-- ![[rock6.png]] Dagda (medium)
+- ![[rock1.png\|rock1.png]] Razborov (giant)
+- ![[rock5.png\|rock5.png]] Shamsutdinov (large)
+- ![[rock8.png\|rock8.png]] Daugmales pagasts (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] A6K1 (medium)
+- ![[rock6.png\|rock6.png]] Dagda (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galatia III
-xcood: "90.726"
-ycood: "14.234"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galatia-iii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galatia III
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | 90.726 |
+> | Y coord| 14.234 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - Galatia I ![[iceg5.png]]
+# Planet 1 - Galatia I ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 11
 
-- [[oddmoon3.png]] Tlazolteotl (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Tlazolteotl (medium)
 
-# Planet 2 - Galatia II ![[iceg17.png]]
+# Planet 2 - Galatia II ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,9 +48,9 @@ dg-publish: true
 3
 6
 
-- [[rock12.png]] Ossian (large)
+- [[rock12.png\|rock12.png]] Ossian (large)
 
-# Planet 3 - Galatia III ![[green29.png]]
+# Planet 3 - Galatia III ![[green29.png\|green29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,13 +72,13 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 4
 0
 
-- ![[rock17.png]] Athens (giant)
-- ![[rock9.png]] Olympus (large)
-- ![[oddmoon2.png]] Thebes (medium)
-- ![[rock1.png]] Troy (medium)
+- ![[rock17.png\|rock17.png]] Athens (giant)
+- ![[rock9.png\|rock9.png]] Olympus (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Thebes (medium)
+- ![[rock1.png\|rock1.png]] Troy (medium)
 
 
-# Planet 4 - Galatia IV ![[barren1.png]]
+# Planet 4 - Galatia IV ![[barren1.png\|barren1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -104,7 +99,7 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 
 
 
-# Planet 5 - Rose's Belt ![[asteroid3.png]]
+# Planet 5 - Rose's Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -119,7 +114,7 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 
 
 
-# Planet 6 - Galatia V ![[gasg18.png]]
+# Planet 6 - Galatia V ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -137,17 +132,17 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 8
 0
 
-- ![[rock11.png]] Apotequil I (large)
-- ![[rock3.png]] Apotequil II (large)
-- ![[rock17.png]] Apotequil III (large)
-- ![[rock2.png]] Apotequil IV (large)
-- ![[rock8.png]] Apotequil V (large)
-- ![[rock6.png]] Apotequil VI (medium)
-- ![[rock5.png]] Apotequil VII (medium)
-- ![[rock4.png]] Apotequil VIII (medium)
+- ![[rock11.png\|rock11.png]] Apotequil I (large)
+- ![[rock3.png\|rock3.png]] Apotequil II (large)
+- ![[rock17.png\|rock17.png]] Apotequil III (large)
+- ![[rock2.png\|rock2.png]] Apotequil IV (large)
+- ![[rock8.png\|rock8.png]] Apotequil V (large)
+- ![[rock6.png\|rock6.png]] Apotequil VI (medium)
+- ![[rock5.png\|rock5.png]] Apotequil VII (medium)
+- ![[rock4.png\|rock4.png]] Apotequil VIII (medium)
 
 
-# Planet 7 - Galatia VI ![[gasg28.png]]
+# Planet 7 - Galatia VI ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,9 +160,9 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 3
 7
 
-- [[rock6.png]] Pangika (large)
+- [[rock6.png\|rock6.png]] Pangika (large)
 
-# Planet 8 - Galatia VII ![[gasg4.png]]
+# Planet 8 - Galatia VII ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -185,18 +180,18 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 9
 0
 
-- ![[rock3.png]] Njorth (giant)
-- ![[rock4.png]] Lokkju (giant)
-- ![[rock12.png]] Magni (large)
-- ![[rock13.png]] Crow (large)
-- ![[rock6.png]] Krios (large)
-- ![[rock7.png]] Loki Laufeyjarson (large)
-- ![[rock1.png]] Susano O (large)
-- ![[rock15.png]] Asgard (medium)
-- ![[oddmoon3.png]] Aurgelmir (medium)
+- ![[rock3.png\|rock3.png]] Njorth (giant)
+- ![[rock4.png\|rock4.png]] Lokkju (giant)
+- ![[rock12.png\|rock12.png]] Magni (large)
+- ![[rock13.png\|rock13.png]] Crow (large)
+- ![[rock6.png\|rock6.png]] Krios (large)
+- ![[rock7.png\|rock7.png]] Loki Laufeyjarson (large)
+- ![[rock1.png\|rock1.png]] Susano O (large)
+- ![[rock15.png\|rock15.png]] Asgard (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Aurgelmir (medium)
 
 
-# Planet 9 - Galatia VIII ![[gasg8.png]]
+# Planet 9 - Galatia VIII ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -214,12 +209,12 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 3
 0
 
-- ![[rock7.png]] Saga 1 (large)
-- ![[rock13.png]] Saga 2 (large)
-- ![[rock11.png]] Saga 3 (large)
+- ![[rock7.png\|rock7.png]] Saga 1 (large)
+- ![[rock13.png\|rock13.png]] Saga 2 (large)
+- ![[rock11.png\|rock11.png]] Saga 3 (large)
 
 
-# Planet 10 - Galatia IX ![[gasg9.png]]
+# Planet 10 - Galatia IX ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -237,8 +232,8 @@ Astonishingly similar to Terra in many ways, colonists were drawn to Galatia III
 3
 0
 
-- ![[rock14.png]] Hy A (large)
-- ![[rock12.png]] Hy B (large)
-- ![[rock7.png]] Hy C (large)
+- ![[rock14.png\|rock14.png]] Hy A (large)
+- ![[rock12.png\|rock12.png]] Hy B (large)
+- ![[rock7.png\|rock7.png]] Hy C (large)
 
 

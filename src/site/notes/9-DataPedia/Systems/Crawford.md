@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crawford
-xcood: "205.865"
-ycood: "-276.17"
-spectralType: K1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crawford/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crawford
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K1V.png]] |
+> | X coord | 205.865 |
+> | Y coord| -276.17 |
+> | Spectral Type | K1V ![[K1V.png\|K1V.png]] |
 
-# Planet 1 - Crawford ![[green48.png]]
+# Planet 1 - Crawford ![[green48.png\|green48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mann ![[rock12.png]]
+# Planet 2 - Mann ![[rock12.png\|rock12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Weeks ![[gasg33.png]]
+# Planet 3 - Weeks ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,12 +63,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Agrotora (medium)
-- ![[oddmoon3.png]] Antiope (medium)
-- ![[oddmoon2.png]] Skylla (medium)
+- ![[rock12.png\|rock12.png]] Agrotora (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Antiope (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Skylla (medium)
 
 
-# Planet 4 - Simmons's Belt A ![[asteroid2.png]]
+# Planet 4 - Simmons's Belt A ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -85,7 +80,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Simmons's Belt B ![[asteroid1.png]]
+# Planet 5 - Simmons's Belt B ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

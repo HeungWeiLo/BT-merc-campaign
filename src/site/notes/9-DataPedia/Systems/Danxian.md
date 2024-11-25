@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Danxian
-xcood: "-347.412"
-ycood: "17.271"
-spectralType: G8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/danxian/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Danxian
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G8V.png]] |
+> | X coord | -347.412 |
+> | Y coord| 17.271 |
+> | Spectral Type | G8V ![[G8V.png\|G8V.png]] |
 
-# Planet 1 - Tangaroa ![[greenhouse3.png]]
+# Planet 1 - Tangaroa ![[greenhouse3.png\|greenhouse3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Danxian ![[green23.png]]
+# Planet 2 - Danxian ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Tangatamanu ![[badwater22.png]]
+# Planet 3 - Tangatamanu ![[badwater22.png\|badwater22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -72,9 +67,9 @@ dg-publish: true
 
 
 
-- [[oddmoon2.png]] Koch (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Koch (medium)
 
-# Planet 4 - Puarata ![[frozen13.png]]
+# Planet 4 - Puarata ![[frozen13.png\|frozen13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -92,9 +87,9 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Wojciechowski (large)
-- ![[rock17.png]] Orishala (medium)
-- ![[rock11.png]] Mebeghe (medium)
-- ![[rock6.png]] Aho Njoku (medium)
+- ![[rock12.png\|rock12.png]] Wojciechowski (large)
+- ![[rock17.png\|rock17.png]] Orishala (medium)
+- ![[rock11.png\|rock11.png]] Mebeghe (medium)
+- ![[rock6.png\|rock6.png]] Aho Njoku (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cygnus
-xcood: "-7.084"
-ycood: "-500.136"
-spectralType: M5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cygnus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cygnus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M5V.png]] |
+> | X coord | -7.084 |
+> | Y coord| -500.136 |
+> | Spectral Type | M5V ![[M5V.png\|M5V.png]] |
 
-# Planet 1 - Cygnus ![[green37.png]]
+# Planet 1 - Cygnus ![[green37.png\|green37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Veeck's Belt 1 ![[asteroid3.png]]
+# Planet 2 - Veeck's Belt 1 ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Waynesburg ![[gasg25.png]]
+# Planet 3 - Waynesburg ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -63,11 +58,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Guenther (medium)
-- ![[oddmoon1.png]] Hitchcock (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Guenther (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hitchcock (medium)
 
 
-# Planet 4 - Hiawassee ![[gasg36.png]]
+# Planet 4 - Hiawassee ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -82,12 +77,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Brown (medium)
-- ![[rock4.png]] Sims (medium)
-- ![[rock7.png]] Wrightson (medium)
+- ![[rock12.png\|rock12.png]] Brown (medium)
+- ![[rock4.png\|rock4.png]] Sims (medium)
+- ![[rock7.png\|rock7.png]] Wrightson (medium)
 
 
-# Planet 5 - Brookings ![[iceg9.png]]
+# Planet 5 - Brookings ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -104,7 +99,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Doña Ana ![[gasg27.png]]
+# Planet 6 - Doña Ana ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -121,7 +116,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Lowry's World ![[gasg7.png]]
+# Planet 7 - Lowry's World ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -136,9 +131,9 @@ dg-publish: true
 
 
 
-- [[oddmoon1.png]] R601 (medium)
+- [[oddmoon1.png\|oddmoon1.png]] R601 (medium)
 
-# Planet 8 - Bellair ![[gasg20.png]]
+# Planet 8 - Bellair ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -153,12 +148,12 @@ dg-publish: true
 
 
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 9 - Veeck's Belt 2 ![[asteroid1.png]]
+# Planet 9 - Veeck's Belt 2 ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

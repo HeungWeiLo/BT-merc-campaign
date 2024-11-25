@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gatchina
-xcood: "-270.887"
-ycood: "-295.212"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gatchina/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gatchina
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | -270.887 |
+> | Y coord| -295.212 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Shakhovskoy ![[iceg4.png]]
+# Planet 1 - Shakhovskoy ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gatchina ![[green41.png]]
+# Planet 2 - Gatchina ![[green41.png\|green41.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -57,12 +52,12 @@ dg-publish: true
 3
 0
 
-- ![[rock16.png]] Afanasievsky (medium)
-- ![[rock9.png]] Baldaev (medium)
-- ![[rock1.png]] Domnu (medium)
+- ![[rock16.png\|rock16.png]] Afanasievsky (medium)
+- ![[rock9.png\|rock9.png]] Baldaev (medium)
+- ![[rock1.png\|rock1.png]] Domnu (medium)
 
 
-# Planet 3 - Montfoort ![[gasg27.png]]
+# Planet 3 - Montfoort ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -80,17 +75,17 @@ dg-publish: true
 8
 0
 
-- ![[rock14.png]] Jurupari 1 (giant)
-- ![[rock10.png]] Jurupari 2 (large)
-- ![[rock9.png]] Jurupari 3 (large)
-- ![[rock8.png]] Jurupari 4 (large)
-- ![[oddmoon1.png]] Jurupari 5 (medium)
-- ![[rock4.png]] Jurupari 6 (medium)
-- ![[rock5.png]] Jurupari 7 (medium)
-- ![[rock13.png]] Jurupari 8 (medium)
+- ![[rock14.png\|rock14.png]] Jurupari 1 (giant)
+- ![[rock10.png\|rock10.png]] Jurupari 2 (large)
+- ![[rock9.png\|rock9.png]] Jurupari 3 (large)
+- ![[rock8.png\|rock8.png]] Jurupari 4 (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Jurupari 5 (medium)
+- ![[rock4.png\|rock4.png]] Jurupari 6 (medium)
+- ![[rock5.png\|rock5.png]] Jurupari 7 (medium)
+- ![[rock13.png\|rock13.png]] Jurupari 8 (medium)
 
 
-# Planet 4 - Chernabog ![[gasg16.png]]
+# Planet 4 - Chernabog ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,16 +103,16 @@ dg-publish: true
 7
 0
 
-- ![[rock9.png]] Ezenachi I (giant)
-- ![[rock13.png]] Ezenachi II (giant)
-- ![[rock16.png]] Ezenachi III (large)
-- ![[rock6.png]] Ezenachi IV (large)
-- ![[oddmoon2.png]] Ezenachi V (medium)
-- ![[oddmoon1.png]] Ezenachi VI (medium)
-- ![[oddmoon3.png]] Ezenachi VII (medium)
+- ![[rock9.png\|rock9.png]] Ezenachi I (giant)
+- ![[rock13.png\|rock13.png]] Ezenachi II (giant)
+- ![[rock16.png\|rock16.png]] Ezenachi III (large)
+- ![[rock6.png\|rock6.png]] Ezenachi IV (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Ezenachi V (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Ezenachi VI (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ezenachi VII (medium)
 
 
-# Planet 5 - Osinskiy ![[rock17.png]]
+# Planet 5 - Osinskiy ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -138,7 +133,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Koschei Bessmertnyi ![[gasg18.png]]
+# Planet 6 - Koschei Bessmertnyi ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -156,7 +151,7 @@ dg-publish: true
 2
 0
 
-- ![[rock8.png]] Sterculius (large)
-- ![[rock4.png]] Bellona (large)
+- ![[rock8.png\|rock8.png]] Sterculius (large)
+- ![[rock4.png\|rock4.png]] Bellona (large)
 
 

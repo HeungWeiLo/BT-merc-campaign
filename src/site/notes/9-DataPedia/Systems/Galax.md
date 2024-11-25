@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galax
-xcood: "283.632"
-ycood: "-124.547"
-spectralType: F5III
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galax/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galax
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5III.png]] |
+> | X coord | 283.632 |
+> | Y coord| -124.547 |
+> | Spectral Type | F5III ![[F5III.png\|F5III.png]] |
 
-# Planet 1 - May ![[gasg21.png]]
+# Planet 1 - May ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Børve's Redoubt ![[barren7.png]]
+# Planet 2 - Børve's Redoubt ![[barren7.png\|barren7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Zimmerman's Field ![[greenhouse8.png]]
+# Planet 3 - Zimmerman's Field ![[greenhouse8.png\|greenhouse8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Galax ![[green28.png]]
+# Planet 4 - Galax ![[green28.png\|green28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -105,9 +100,9 @@ Universal Air
 3
 7
 
-- [[rock9.png]] Malabar (large)
+- [[rock9.png\|rock9.png]] Malabar (large)
 
-# Planet 5 - Leslie ![[barren24.png]]
+# Planet 5 - Leslie ![[barren24.png\|barren24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -128,7 +123,7 @@ Universal Air
 
 
 
-# Planet 6 - EMI1 Belt ![[asteroid1.png]]
+# Planet 6 - EMI1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

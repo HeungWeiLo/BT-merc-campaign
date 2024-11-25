@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coventry
-xcood: "-257.862"
-ycood: "221.263"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coventry/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coventry
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | -257.862 |
+> | Y coord| 221.263 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Richards ![[gasg21.png]]
+# Planet 1 - Richards ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Hammond's Planet ![[rock5.png]]
+# Planet 2 - Hammond's Planet ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -49,7 +44,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Coventry ![[wet6.png]]
+# Planet 3 - Coventry ![[wet6.png\|wet6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -76,9 +71,9 @@ Manufacturing centers:
 Coventry Metal Works
 Coventry Metal Works, Refit Facility
 
-- [[oddmoon3.png]] Wellston (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Wellston (medium)
 
-# Planet 4 - Burch ![[barren17.png]]
+# Planet 4 - Burch ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -96,7 +91,7 @@ Coventry Metal Works, Refit Facility
 
 
 
-# Planet 5 - Hayes's Rock ![[rock14.png]]
+# Planet 5 - Hayes's Rock ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -113,7 +108,7 @@ Coventry Metal Works, Refit Facility
 
 
 
-# Planet 6 - Tuckerton ![[gasg11.png]]
+# Planet 6 - Tuckerton ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -128,12 +123,12 @@ Coventry Metal Works, Refit Facility
 
 
 
-- ![[oddmoon3.png]] Hanson Alpha (medium)
-- ![[rock4.png]] Hanson Beta (medium)
-- ![[oddmoon1.png]] Hanson Gamma (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hanson Alpha (medium)
+- ![[rock4.png\|rock4.png]] Hanson Beta (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hanson Gamma (medium)
 
 
-# Planet 7 - Rogers ![[gasg7.png]]
+# Planet 7 - Rogers ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

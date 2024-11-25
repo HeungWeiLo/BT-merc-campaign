@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dahar IV
-xcood: "279.421"
-ycood: "20.112"
-spectralType: M8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dahar-iv/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dahar IV
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M8V.png]] |
+> | X coord | 279.421 |
+> | Y coord| 20.112 |
+> | Spectral Type | M8V ![[M8V.png\|M8V.png]] |
 
-# Planet 1 - Dahar I ![[iceg12.png]]
+# Planet 1 - Dahar I ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,11 +25,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Frizell I (medium)
-- ![[rock6.png]] Frizell II (medium)
+- ![[rock3.png\|rock3.png]] Frizell I (medium)
+- ![[rock6.png\|rock6.png]] Frizell II (medium)
 
 
-# Planet 2 - Dahar II ![[gasg15.png]]
+# Planet 2 - Dahar II ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Dahar III ![[iceg17.png]]
+# Planet 3 - Dahar III ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -68,7 +63,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Dahar IV ![[green27.png]]
+# Planet 4 - Dahar IV ![[green27.png\|green27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -87,11 +82,11 @@ dg-publish: true
 
 Dahar IV is a scorching desert planet known best for its hardy people and the metal ores they mine from the planet. The planet has abundant deposits of ores, silicon and bauxite. The planet is home to Brook Incorporated, which produces some of the most advanced mining equipment in the Inner Sphere and sells their machines throughout the Inner Sphere. Of the planet's two continents, Dusty is more habitable and is home to most of the cities and the planet's population. The other continent, Bauxum is known as 'Hell's Kitchen' to locals, due to an average mean temperature of 75 degrees celcius. Due to the scorching temperatures on Bauxum, the local militia is located and trains there to be better prepared for the harsh, but relatively comfortable, conditions on the rest of the planet.
 
-- ![[rock1.png]] Drakhor (medium)
-- ![[oddmoon2.png]] Drakkon (medium)
+- ![[rock1.png\|rock1.png]] Drakhor (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Drakkon (medium)
 
 
-# Planet 5 - Dahar V ![[frozen5.png]]
+# Planet 5 - Dahar V ![[frozen5.png\|frozen5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -109,11 +104,11 @@ Dahar IV is a scorching desert planet known best for its hardy people and the me
 
 
 
-- ![[oddmoon1.png]] Hodan I (medium)
-- ![[oddmoon3.png]] Hodan II (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hodan I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Hodan II (medium)
 
 
-# Planet 6 - Dahar VI ![[gasg36.png]]
+# Planet 6 - Dahar VI ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -128,14 +123,14 @@ Dahar IV is a scorching desert planet known best for its hardy people and the me
 
 
 
-- ![[rock11.png]] Gobolka Jubbada Hoose I (large)
-- ![[rock17.png]] Gobolka Jubbada Hoose II (large)
-- ![[rock6.png]] Gobolka Jubbada Hoose III (large)
-- ![[rock3.png]] Gobolka Jubbada Hoose IV (medium)
-- ![[oddmoon1.png]] Gobolka Jubbada Hoose V (medium)
+- ![[rock11.png\|rock11.png]] Gobolka Jubbada Hoose I (large)
+- ![[rock17.png\|rock17.png]] Gobolka Jubbada Hoose II (large)
+- ![[rock6.png\|rock6.png]] Gobolka Jubbada Hoose III (large)
+- ![[rock3.png\|rock3.png]] Gobolka Jubbada Hoose IV (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Gobolka Jubbada Hoose V (medium)
 
 
-# Planet 7 - Dahar VII ![[gasg11.png]]
+# Planet 7 - Dahar VII ![[gasg11.png\|gasg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,11 +145,11 @@ Dahar IV is a scorching desert planet known best for its hardy people and the me
 
 
 
-- ![[rock1.png]] Brunhilt I (large)
-- ![[rock10.png]] Brunhilt II (medium)
+- ![[rock1.png\|rock1.png]] Brunhilt I (large)
+- ![[rock10.png\|rock10.png]] Brunhilt II (medium)
 
 
-# Planet 8 - Dahar VIII ![[gasg38.png]]
+# Planet 8 - Dahar VIII ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,11 +164,11 @@ Dahar IV is a scorching desert planet known best for its hardy people and the me
 
 
 
-- ![[rock15.png]] Gobolka Shabeellaha Hoose Alpha (medium)
-- ![[rock8.png]] Gobolka Shabeellaha Hoose Beta (medium)
+- ![[rock15.png\|rock15.png]] Gobolka Shabeellaha Hoose Alpha (medium)
+- ![[rock8.png\|rock8.png]] Gobolka Shabeellaha Hoose Beta (medium)
 
 
-# Planet 9 - Dahar IX ![[gasg12.png]]
+# Planet 9 - Dahar IX ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

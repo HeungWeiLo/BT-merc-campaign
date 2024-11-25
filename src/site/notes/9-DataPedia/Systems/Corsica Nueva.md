@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Corsica Nueva
-xcood: "194.121"
-ycood: "227.165"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/corsica-nueva/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Corsica Nueva
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 194.121 |
+> | Y coord| 227.165 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Pulastja ![[greenhouse10.png]]
+# Planet 1 - Pulastja ![[greenhouse10.png\|greenhouse10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Daksa ![[iceg3.png]]
+# Planet 2 - Daksa ![[iceg3.png\|iceg3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -48,15 +43,15 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Oller (large)
-- ![[rock14.png]] Od (large)
-- ![[rock17.png]] Borr (large)
-- ![[rock7.png]] Balder (medium)
-- ![[rock15.png]] Narfi (medium)
-- ![[rock9.png]] Audumbla (medium)
+- ![[rock16.png\|rock16.png]] Oller (large)
+- ![[rock14.png\|rock14.png]] Od (large)
+- ![[rock17.png\|rock17.png]] Borr (large)
+- ![[rock7.png\|rock7.png]] Balder (medium)
+- ![[rock15.png\|rock15.png]] Narfi (medium)
+- ![[rock9.png\|rock9.png]] Audumbla (medium)
 
 
-# Planet 3 - Corsica Nueva ![[green18.png]]
+# Planet 3 - Corsica Nueva ![[green18.png\|green18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -77,7 +72,7 @@ dg-publish: true
 
 
 
-# Planet 4 - 7C41 Belt ![[asteroid1.png]]
+# Planet 4 - 7C41 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -89,7 +84,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Gibson ![[gasg18.png]]
+# Planet 5 - Gibson ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,12 +99,12 @@ dg-publish: true
 
 
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 6 - Davis ![[gasg27.png]]
+# Planet 6 - Davis ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -124,14 +119,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Lejman 1 (large)
-- ![[rock13.png]] Lejman 2 (large)
-- ![[rock3.png]] Lejman 3 (medium)
-- ![[rock12.png]] Lejman 4 (medium)
-- ![[oddmoon1.png]] Lejman 5 (medium)
+- ![[rock14.png\|rock14.png]] Lejman 1 (large)
+- ![[rock13.png\|rock13.png]] Lejman 2 (large)
+- ![[rock3.png\|rock3.png]] Lejman 3 (medium)
+- ![[rock12.png\|rock12.png]] Lejman 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Lejman 5 (medium)
 
 
-# Planet 7 - Tarkmann ![[iceg9.png]]
+# Planet 7 - Tarkmann ![[iceg9.png\|iceg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -146,15 +141,15 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] An Nuqāţ al Khams 1 (large)
-- ![[rock15.png]] An Nuqāţ al Khams 2 (large)
-- ![[rock9.png]] An Nuqāţ al Khams 3 (medium)
-- ![[oddmoon2.png]] An Nuqāţ al Khams 4 (medium)
-- ![[oddmoon3.png]] An Nuqāţ al Khams 5 (medium)
-- ![[oddmoon1.png]] An Nuqāţ al Khams 6 (medium)
+- ![[rock6.png\|rock6.png]] An Nuqāţ al Khams 1 (large)
+- ![[rock15.png\|rock15.png]] An Nuqāţ al Khams 2 (large)
+- ![[rock9.png\|rock9.png]] An Nuqāţ al Khams 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] An Nuqāţ al Khams 4 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] An Nuqāţ al Khams 5 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] An Nuqāţ al Khams 6 (medium)
 
 
-# Planet 8 - Sapta Rishis ![[gasg25.png]]
+# Planet 8 - Sapta Rishis ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,12 +164,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Cathubodua I (medium)
-- ![[oddmoon3.png]] Cathubodua II (medium)
-- ![[rock4.png]] Cathubodua III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Cathubodua I (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cathubodua II (medium)
+- ![[rock4.png\|rock4.png]] Cathubodua III (medium)
 
 
-# Planet 9 - Hyangchon-dong ![[gasg12.png]]
+# Planet 9 - Hyangchon-dong ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,9 +184,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] N-1 (large)
+- [[rock2.png\|rock2.png]] N-1 (large)
 
-# Planet 10 - Asuras ![[gasg9.png]]
+# Planet 10 - Asuras ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -208,7 +203,7 @@ dg-publish: true
 
 
 
-# Planet 11 - Dunakeszi Járás ![[gasg26.png]]
+# Planet 11 - Dunakeszi Járás ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -223,11 +218,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Woods Alpha (medium)
-- ![[rock3.png]] Woods Beta (medium)
+- ![[rock6.png\|rock6.png]] Woods Alpha (medium)
+- ![[rock3.png\|rock3.png]] Woods Beta (medium)
 
 
-# Planet 12 - Downing ![[gasg15.png]]
+# Planet 12 - Downing ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -244,7 +239,7 @@ dg-publish: true
 
 
 
-# Planet 13 - Edwards ![[iceg17.png]]
+# Planet 13 - Edwards ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -259,11 +254,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Belphegor Alpha (medium)
-- ![[rock9.png]] Belphegor Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Belphegor Alpha (medium)
+- ![[rock9.png\|rock9.png]] Belphegor Beta (medium)
 
 
-# Planet 14 - Andrzejewo ![[iceg6.png]]
+# Planet 14 - Andrzejewo ![[iceg6.png\|iceg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -278,8 +273,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Ragnorak 1 (medium)
-- ![[oddmoon2.png]] Ragnorak 2 (medium)
-- ![[rock15.png]] Ragnorak 3 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Ragnorak 1 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Ragnorak 2 (medium)
+- ![[rock15.png\|rock15.png]] Ragnorak 3 (medium)
 
 

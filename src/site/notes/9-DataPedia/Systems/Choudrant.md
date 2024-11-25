@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Choudrant
-xcood: "336.035"
-ycood: "56.042"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/choudrant/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Choudrant
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 336.035 |
+> | Y coord| 56.042 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - White's Refuge ![[rock6.png]]
+# Planet 1 - White's Refuge ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Pelahustán ![[barren4.png]]
+# Planet 2 - Pelahustán ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -48,11 +43,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] JN1 (medium)
-- ![[oddmoon1.png]] JN2 (medium)
+- ![[rock13.png\|rock13.png]] JN1 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] JN2 (medium)
 
 
-# Planet 3 - Apollon's Redoubt ![[rock17.png]]
+# Planet 3 - Apollon's Redoubt ![[rock17.png\|rock17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Choudrant ![[green44.png]]
+# Planet 4 - Choudrant ![[green44.png\|green44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -90,7 +85,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Tapolcai Járás ![[rock11.png]]
+# Planet 5 - Tapolcai Járás ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -107,7 +102,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Hamilton's Belt ![[asteroid2.png]]
+# Planet 6 - Hamilton's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

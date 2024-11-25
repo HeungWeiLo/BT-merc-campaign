@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Charleston
-xcood: "409.646"
-ycood: "-389.514"
-spectralType: F6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/charleston/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Charleston
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F6V.png]] |
+> | X coord | 409.646 |
+> | Y coord| -389.514 |
+> | Spectral Type | F6V ![[F6V.png\|F6V.png]] |
 
-# Planet 1 - Baker ![[iceg15.png]]
+# Planet 1 - Baker ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -30,13 +25,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Winston I (giant)
-- ![[rock2.png]] Winston II (giant)
-- ![[rock17.png]] Winston III (large)
-- ![[rock3.png]] Winston IV (large)
+- ![[rock1.png\|rock1.png]] Winston I (giant)
+- ![[rock2.png\|rock2.png]] Winston II (giant)
+- ![[rock17.png\|rock17.png]] Winston III (large)
+- ![[rock3.png\|rock3.png]] Winston IV (large)
 
 
-# Planet 2 - Changyŏn-gun ![[rock11.png]]
+# Planet 2 - Changyŏn-gun ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -52,9 +47,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] I-1 (large)
+- [[rock8.png\|rock8.png]] I-1 (large)
 
-# Planet 3 - O'Connor's Dawn ![[barren13.png]]
+# Planet 3 - O'Connor's Dawn ![[barren13.png\|barren13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Charleston ![[green36.png]]
+# Planet 4 - Charleston ![[green36.png\|green36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -93,7 +88,7 @@ dg-publish: true
 
 
 
-# Planet 5 - McElroy ![[iceg17.png]]
+# Planet 5 - McElroy ![[iceg17.png\|iceg17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -108,13 +103,13 @@ dg-publish: true
 
 
 
-- ![[rock1.png]] Baba Yaga I (large)
-- ![[rock13.png]] Baba Yaga II (large)
-- ![[oddmoon2.png]] Baba Yaga III (medium)
-- ![[rock12.png]] Baba Yaga IV (medium)
+- ![[rock1.png\|rock1.png]] Baba Yaga I (large)
+- ![[rock13.png\|rock13.png]] Baba Yaga II (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Baba Yaga III (medium)
+- ![[rock12.png\|rock12.png]] Baba Yaga IV (medium)
 
 
-# Planet 6 - Fort Jackson ![[gasg33.png]]
+# Planet 6 - Fort Jackson ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,14 +124,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Iola Alpha (large)
-- ![[rock8.png]] Iola Beta (large)
-- ![[rock17.png]] Iola Gamma (medium)
-- ![[oddmoon1.png]] Iola Delta (medium)
-- ![[oddmoon2.png]] Iola Epsilon (medium)
+- ![[rock14.png\|rock14.png]] Iola Alpha (large)
+- ![[rock8.png\|rock8.png]] Iola Beta (large)
+- ![[rock17.png\|rock17.png]] Iola Gamma (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Iola Delta (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Iola Epsilon (medium)
 
 
-# Planet 7 - IFC-1 Belt ![[asteroid1.png]]
+# Planet 7 - IFC-1 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -148,7 +143,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Al Madīnah al Munawwarah ![[gasg24.png]]
+# Planet 8 - Al Madīnah al Munawwarah ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -165,7 +160,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Kobryn ![[gasg38.png]]
+# Planet 9 - Kobryn ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -180,11 +175,11 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Ford (medium)
-- ![[rock1.png]] Benjamin (medium)
+- ![[rock14.png\|rock14.png]] Ford (medium)
+- ![[rock1.png\|rock1.png]] Benjamin (medium)
 
 
-# Planet 10 - Cervera del Maestre ![[gasg9.png]]
+# Planet 10 - Cervera del Maestre ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -199,5 +194,5 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Estasanatlehi (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Estasanatlehi (medium)
 

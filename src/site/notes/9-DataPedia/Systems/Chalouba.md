@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chalouba
-xcood: "-277.927"
-ycood: "-141.685"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chalouba/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chalouba
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | -277.927 |
+> | Y coord| -141.685 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Chalouba ![[green38.png]]
+# Planet 1 - Chalouba ![[green38.png\|green38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Mahé's Meridian ![[rock5.png]]
+# Planet 2 - Mahé's Meridian ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -51,9 +46,9 @@ dg-publish: true
 
 
 
-- [[rock4.png]] N71 (medium)
+- [[rock4.png\|rock4.png]] N71 (medium)
 
-# Planet 3 - Fort Chauvin ![[gasg21.png]]
+# Planet 3 - Fort Chauvin ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,9 +63,9 @@ dg-publish: true
 
 
 
-- [[rock2.png]] CD91 (large)
+- [[rock2.png\|rock2.png]] CD91 (large)
 
-# Planet 4 - Bonhomme ![[gasg8.png]]
+# Planet 4 - Bonhomme ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -85,11 +80,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon3.png]] Odysseus (medium)
-- ![[oddmoon2.png]] Minona (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Odysseus (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Minona (medium)
 
 
-# Planet 5 - Lemoine ![[gasg33.png]]
+# Planet 5 - Lemoine ![[gasg33.png\|gasg33.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -104,15 +99,15 @@ dg-publish: true
 
 
 
-- ![[rock9.png]] Hart (large)
-- ![[rock16.png]] Simon (large)
-- ![[rock2.png]] Morel (large)
-- ![[rock4.png]] Roger (medium)
-- ![[rock14.png]] Miller (medium)
-- ![[oddmoon1.png]] Vaillant (medium)
+- ![[rock9.png\|rock9.png]] Hart (large)
+- ![[rock16.png\|rock16.png]] Simon (large)
+- ![[rock2.png\|rock2.png]] Morel (large)
+- ![[rock4.png\|rock4.png]] Roger (medium)
+- ![[rock14.png\|rock14.png]] Miller (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Vaillant (medium)
 
 
-# Planet 6 - Jardin de Champion ![[gasg28.png]]
+# Planet 6 - Jardin de Champion ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,12 +122,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Asgård (large)
-- ![[rock2.png]] Fricco (large)
-- ![[rock5.png]] Valtam (large)
+- ![[rock12.png\|rock12.png]] Asgård (large)
+- ![[rock2.png\|rock2.png]] Fricco (large)
+- ![[rock5.png\|rock5.png]] Valtam (large)
 
 
-# Planet 7 - Fernandez's Gulf ![[frozen39.png]]
+# Planet 7 - Fernandez's Gulf ![[frozen39.png\|frozen39.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -150,8 +145,8 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Muller A (medium)
-- ![[oddmoon3.png]] Muller B (medium)
-- ![[rock6.png]] Muller C (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Muller A (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Muller B (medium)
+- ![[rock6.png\|rock6.png]] Muller C (medium)
 
 

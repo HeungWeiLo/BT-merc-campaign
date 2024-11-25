@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Dark Nebula
-xcood: "-137.44"
-ycood: "424.06"
-spectralType: K8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/dark-nebula/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Dark Nebula
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K8V.png]] |
+> | X coord | -137.44 |
+> | Y coord| 424.06 |
+> | Spectral Type | K8V ![[K8V.png\|K8V.png]] |
 
-# Planet 1 - 211 ![[rock11.png]]
+# Planet 1 - 211 ![[rock11.png\|rock11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - 212 ![[gasg6.png]]
+# Planet 2 - 212 ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -47,17 +42,17 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] OIU-1 (large)
-- ![[rock6.png]] OIU-2 (large)
-- ![[rock4.png]] OIU-3 (large)
-- ![[rock10.png]] OIU-4 (large)
-- ![[rock3.png]] OIU-5 (large)
-- ![[oddmoon2.png]] OIU-6 (medium)
-- ![[rock8.png]] OIU-7 (medium)
-- ![[rock14.png]] OIU-8 (medium)
+- ![[rock12.png\|rock12.png]] OIU-1 (large)
+- ![[rock6.png\|rock6.png]] OIU-2 (large)
+- ![[rock4.png\|rock4.png]] OIU-3 (large)
+- ![[rock10.png\|rock10.png]] OIU-4 (large)
+- ![[rock3.png\|rock3.png]] OIU-5 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] OIU-6 (medium)
+- ![[rock8.png\|rock8.png]] OIU-7 (medium)
+- ![[rock14.png\|rock14.png]] OIU-8 (medium)
 
 
-# Planet 3 - XB1 Belt ![[asteroid3.png]]
+# Planet 3 - XB1 Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - 213 ![[gasg31.png]]
+# Planet 4 - 213 ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -84,11 +79,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] N-1 (large)
-- ![[rock1.png]] N-2 (large)
+- ![[rock16.png\|rock16.png]] N-1 (large)
+- ![[rock1.png\|rock1.png]] N-2 (large)
 
 
-# Planet 5 - XB2 Belt ![[asteroid2.png]]
+# Planet 5 - XB2 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 6 - 214 ![[gasg4.png]]
+# Planet 6 - 214 ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -115,12 +110,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] 40T-1 (medium)
-- ![[rock6.png]] 40T-2 (medium)
-- ![[rock14.png]] 40T-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 40T-1 (medium)
+- ![[rock6.png\|rock6.png]] 40T-2 (medium)
+- ![[rock14.png\|rock14.png]] 40T-3 (medium)
 
 
-# Planet 7 - XB3 Belt ![[asteroid1.png]]
+# Planet 7 - XB3 Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -132,7 +127,7 @@ dg-publish: true
 
 
 
-# Planet 8 - 215 ![[gasg37.png]]
+# Planet 8 - 215 ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,16 +142,16 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] F-1 (large)
-- ![[rock13.png]] F-2 (large)
-- ![[rock7.png]] F-3 (large)
-- ![[rock9.png]] F-4 (medium)
-- ![[rock11.png]] F-5 (medium)
-- ![[rock14.png]] F-6 (medium)
-- ![[rock8.png]] F-7 (medium)
+- ![[rock12.png\|rock12.png]] F-1 (large)
+- ![[rock13.png\|rock13.png]] F-2 (large)
+- ![[rock7.png\|rock7.png]] F-3 (large)
+- ![[rock9.png\|rock9.png]] F-4 (medium)
+- ![[rock11.png\|rock11.png]] F-5 (medium)
+- ![[rock14.png\|rock14.png]] F-6 (medium)
+- ![[rock8.png\|rock8.png]] F-7 (medium)
 
 
-# Planet 9 - 216 ![[gasg14.png]]
+# Planet 9 - 216 ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -173,7 +168,7 @@ dg-publish: true
 
 
 
-# Planet 10 - 217 ![[gasg29.png]]
+# Planet 10 - 217 ![[gasg29.png\|gasg29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -188,14 +183,14 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] 8U1 (large)
-- ![[rock4.png]] 8U2 (large)
-- ![[rock7.png]] 8U3 (medium)
-- ![[oddmoon1.png]] 8U4 (medium)
-- ![[rock13.png]] 8U5 (medium)
+- ![[rock14.png\|rock14.png]] 8U1 (large)
+- ![[rock4.png\|rock4.png]] 8U2 (large)
+- ![[rock7.png\|rock7.png]] 8U3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 8U4 (medium)
+- ![[rock13.png\|rock13.png]] 8U5 (medium)
 
 
-# Planet 11 - 218 ![[gasg5.png]]
+# Planet 11 - 218 ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -212,7 +207,7 @@ dg-publish: true
 
 
 
-# Planet 12 - 219 ![[gasg32.png]]
+# Planet 12 - 219 ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -227,16 +222,16 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] T-1 (large)
-- ![[rock12.png]] T-2 (large)
-- ![[rock8.png]] T-3 (large)
-- ![[rock2.png]] T-4 (large)
-- ![[rock10.png]] T-5 (large)
-- ![[oddmoon3.png]] T-6 (medium)
-- ![[oddmoon2.png]] T-7 (medium)
+- ![[rock7.png\|rock7.png]] T-1 (large)
+- ![[rock12.png\|rock12.png]] T-2 (large)
+- ![[rock8.png\|rock8.png]] T-3 (large)
+- ![[rock2.png\|rock2.png]] T-4 (large)
+- ![[rock10.png\|rock10.png]] T-5 (large)
+- ![[oddmoon3.png\|oddmoon3.png]] T-6 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] T-7 (medium)
 
 
-# Planet 13 - 2110 ![[gasg16.png]]
+# Planet 13 - 2110 ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -253,7 +248,7 @@ dg-publish: true
 
 
 
-# Planet 14 - 2111 ![[gasg21.png]]
+# Planet 14 - 2111 ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -270,7 +265,7 @@ dg-publish: true
 
 
 
-# Planet 15 - Dark Nebula ![[asteroid3.png]]
+# Planet 15 - Dark Nebula ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

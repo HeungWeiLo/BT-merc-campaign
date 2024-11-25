@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Chateau
-xcood: "-75.747"
-ycood: "395.445"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/chateau/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Chateau
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | -75.747 |
+> | Y coord| 395.445 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Grandvillers-aux-Bois ![[barren22.png]]
+# Planet 1 - Grandvillers-aux-Bois ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -31,11 +26,11 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Volupta (medium)
-- ![[oddmoon1.png]] Saturn (medium)
+- ![[rock3.png\|rock3.png]] Volupta (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Saturn (medium)
 
 
-# Planet 2 - Chateau ![[green53.png]]
+# Planet 2 - Chateau ![[green53.png\|green53.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Brunswick ![[gasg35.png]]
+# Planet 3 - Brunswick ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,11 +66,11 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Egeria 1 (large)
-- ![[rock11.png]] Egeria 2 (large)
+- ![[rock6.png\|rock6.png]] Egeria 1 (large)
+- ![[rock11.png\|rock11.png]] Egeria 2 (large)
 
 
-# Planet 4 - Zoza ![[frozen42.png]]
+# Planet 4 - Zoza ![[frozen42.png\|frozen42.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -95,7 +90,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Dieffenbach-lès-Wœrth ![[iceg11.png]]
+# Planet 5 - Dieffenbach-lès-Wœrth ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -110,9 +105,9 @@ dg-publish: true
 
 
 
-- [[rock5.png]] Rault (large)
+- [[rock5.png\|rock5.png]] Rault (large)
 
-# Planet 6 - Vedelago Belt ![[asteroid3.png]]
+# Planet 6 - Vedelago Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

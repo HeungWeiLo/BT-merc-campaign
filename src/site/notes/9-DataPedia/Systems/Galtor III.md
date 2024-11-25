@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Galtor III
-xcood: "194.121"
-ycood: "73.107"
-spectralType: F8V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/galtor-iii/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Galtor III
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F8V.png]] |
+> | X coord | 194.121 |
+> | Y coord| 73.107 |
+> | Spectral Type | F8V ![[F8V.png\|F8V.png]] |
 
-# Planet 1 - Galtor I ![[iceg5.png]]
+# Planet 1 - Galtor I ![[iceg5.png\|iceg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -33,12 +28,12 @@ dg-publish: true
 3
 0
 
-- ![[rock7.png]] Bin Tamam 1 (large)
-- ![[rock15.png]] Bin Tamam 2 (large)
-- ![[rock16.png]] Bin Tamam 3 (large)
+- ![[rock7.png\|rock7.png]] Bin Tamam 1 (large)
+- ![[rock15.png\|rock15.png]] Bin Tamam 2 (large)
+- ![[rock16.png\|rock16.png]] Bin Tamam 3 (large)
 
 
-# Planet 2 - Galtor II ![[greenhouse37.png]]
+# Planet 2 - Galtor II ![[greenhouse37.png\|greenhouse37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Galtor III ![[green37.png]]
+# Planet 3 - Galtor III ![[green37.png\|green37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -81,12 +76,12 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 4 - Galtor IV ![[rock10.png]]
+# Planet 4 - Galtor IV ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -106,7 +101,7 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 
 
 
-# Planet 5 - Galtor V ![[rock10.png]]
+# Planet 5 - Galtor V ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 
 
 
-# Planet 6 - Galtor VI ![[rock1.png]]
+# Planet 6 - Galtor VI ![[rock1.png\|rock1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -146,7 +141,7 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 
 
 
-# Planet 7 - Sterculius Belt ![[asteroid3.png]]
+# Planet 7 - Sterculius Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -161,7 +156,7 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 
 
 
-# Planet 8 - Galtor VII ![[gasg35.png]]
+# Planet 8 - Galtor VII ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -179,11 +174,11 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 2
 0
 
-- ![[rock9.png]] Minerva Medica (medium)
-- ![[rock1.png]] Lunar (medium)
+- ![[rock9.png\|rock9.png]] Minerva Medica (medium)
+- ![[rock1.png\|rock1.png]] Lunar (medium)
 
 
-# Planet 9 - Galtor VIII ![[gasg1.png]]
+# Planet 9 - Galtor VIII ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -201,11 +196,11 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 2
 0
 
-- ![[rock16.png]] Y1 (large)
-- ![[rock5.png]] Y2 (large)
+- ![[rock16.png\|rock16.png]] Y1 (large)
+- ![[rock5.png\|rock5.png]] Y2 (large)
 
 
-# Planet 10 - Galtor IX ![[gasg38.png]]
+# Planet 10 - Galtor IX ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -225,7 +220,7 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 
 
 
-# Planet 11 - Galtor X ![[gasg32.png]]
+# Planet 11 - Galtor X ![[gasg32.png\|gasg32.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -243,16 +238,16 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 7
 0
 
-- ![[rock10.png]] Topoucik 1 (large)
-- ![[rock2.png]] Topoucik 2 (large)
-- ![[rock5.png]] Topoucik 3 (large)
-- ![[rock6.png]] Topoucik 4 (large)
-- ![[rock14.png]] Topoucik 5 (large)
-- ![[oddmoon2.png]] Topoucik 6 (medium)
-- ![[oddmoon1.png]] Topoucik 7 (medium)
+- ![[rock10.png\|rock10.png]] Topoucik 1 (large)
+- ![[rock2.png\|rock2.png]] Topoucik 2 (large)
+- ![[rock5.png\|rock5.png]] Topoucik 3 (large)
+- ![[rock6.png\|rock6.png]] Topoucik 4 (large)
+- ![[rock14.png\|rock14.png]] Topoucik 5 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Topoucik 6 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Topoucik 7 (medium)
 
 
-# Planet 12 - Galtor XI ![[gasg36.png]]
+# Planet 12 - Galtor XI ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -270,19 +265,19 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 10
 0
 
-- ![[rock10.png]] Cyrene 1 (giant)
-- ![[rock16.png]] Cyrene 2 (giant)
-- ![[rock9.png]] Cyrene 3 (large)
-- ![[rock14.png]] Cyrene 4 (large)
-- ![[rock5.png]] Cyrene 5 (large)
-- ![[rock6.png]] Cyrene 6 (large)
-- ![[rock4.png]] Cyrene 7 (large)
-- ![[rock2.png]] Cyrene 8 (medium)
-- ![[rock13.png]] Cyrene 9 (medium)
-- ![[oddmoon3.png]] Cyrene 10 (medium)
+- ![[rock10.png\|rock10.png]] Cyrene 1 (giant)
+- ![[rock16.png\|rock16.png]] Cyrene 2 (giant)
+- ![[rock9.png\|rock9.png]] Cyrene 3 (large)
+- ![[rock14.png\|rock14.png]] Cyrene 4 (large)
+- ![[rock5.png\|rock5.png]] Cyrene 5 (large)
+- ![[rock6.png\|rock6.png]] Cyrene 6 (large)
+- ![[rock4.png\|rock4.png]] Cyrene 7 (large)
+- ![[rock2.png\|rock2.png]] Cyrene 8 (medium)
+- ![[rock13.png\|rock13.png]] Cyrene 9 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Cyrene 10 (medium)
 
 
-# Planet 13 - Galtor XII ![[gasg10.png]]
+# Planet 13 - Galtor XII ![[gasg10.png\|gasg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -300,9 +295,9 @@ Galtor III is an agriculture world that is moderately advanced with basic heavy 
 4
 0
 
-- ![[rock5.png]] Alcemana (giant)
-- ![[rock9.png]] Electra (large)
-- ![[rock12.png]] YW1 (large)
-- ![[rock8.png]] YW2 (large)
+- ![[rock5.png\|rock5.png]] Alcemana (giant)
+- ![[rock9.png\|rock9.png]] Electra (large)
+- ![[rock12.png\|rock12.png]] YW1 (large)
+- ![[rock8.png\|rock8.png]] YW2 (large)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Koulen
-xcood: "371.697"
-ycood: "229.267"
-spectralType: F5V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/koulen/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Koulen
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5V.png]] |
+> | X coord | 371.697 |
+> | Y coord| 229.267 |
+> | Spectral Type | F5V ![[F5V.png\|F5V.png]] |
 
-# Planet 1 - Tloque Nahuaque ![[rock5.png]]
+# Planet 1 - Tloque Nahuaque ![[rock5.png\|rock5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Tamoanchan ![[rock15.png]]
+# Planet 2 - Tamoanchan ![[rock15.png\|rock15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Koulen ![[green24.png]]
+# Planet 3 - Koulen ![[green24.png\|green24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -80,7 +75,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ometecuhtli ![[barren4.png]]
+# Planet 4 - Ometecuhtli ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -101,7 +96,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Popocatepetl ![[barren22.png]]
+# Planet 5 - Popocatepetl ![[barren22.png\|barren22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Atlatonin ![[gasg26.png]]
+# Planet 6 - Atlatonin ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,9 +135,9 @@ dg-publish: true
 3
 5
 
-- [[oddmoon2.png]] 84U-1 (medium)
+- [[oddmoon2.png\|oddmoon2.png]] 84U-1 (medium)
 
-# Planet 7 - Maeve ![[iceg2.png]]
+# Planet 7 - Maeve ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -162,7 +157,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Cahn's Belt ![[asteroid1.png]]
+# Planet 8 - Cahn's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |

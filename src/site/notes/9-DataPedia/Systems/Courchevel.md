@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Courchevel
-xcood: "95.114"
-ycood: "344.785"
-spectralType: G9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/courchevel/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Courchevel
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G9V.png]] |
+> | X coord | 95.114 |
+> | Y coord| 344.785 |
+> | Spectral Type | G9V ![[G9V.png\|G9V.png]] |
 
-# Planet 1 - Villedoux ![[barren17.png]]
+# Planet 1 - Villedoux ![[barren17.png\|barren17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - La Souterraine ![[green5.png]]
+# Planet 2 - La Souterraine ![[green5.png\|green5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -54,7 +49,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Courchevel ![[green20.png]]
+# Planet 3 - Courchevel ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -73,9 +68,9 @@ dg-publish: true
 
 
 
-- [[rock1.png]] HM1 (large)
+- [[rock1.png\|rock1.png]] HM1 (large)
 
-# Planet 4 - Manannan Maclir Belt ![[asteroid1.png]]
+# Planet 4 - Manannan Maclir Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -87,7 +82,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Chepy ![[gasg16.png]]
+# Planet 5 - Chepy ![[gasg16.png\|gasg16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -102,7 +97,7 @@ dg-publish: true
 
 
 
-- ![[rock6.png]] Harvey A (large)
-- ![[rock10.png]] Harvey B (large)
+- ![[rock6.png\|rock6.png]] Harvey A (large)
+- ![[rock10.png\|rock10.png]] Harvey B (large)
 
 

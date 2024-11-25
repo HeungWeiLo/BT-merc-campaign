@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cosenza
-xcood: "325.957"
-ycood: "161.51"
-spectralType: K9V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cosenza/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cosenza
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K9V.png]] |
+> | X coord | 325.957 |
+> | Y coord| 161.51 |
+> | Spectral Type | K9V ![[K9V.png\|K9V.png]] |
 
-# Planet 1 - Cosenza ![[green27.png]]
+# Planet 1 - Cosenza ![[green27.png\|green27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Santa Manin ![[iceg18.png]]
+# Planet 2 - Santa Manin ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -51,11 +46,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Walker (medium)
-- ![[rock9.png]] Villa Faral (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Walker (medium)
+- ![[rock9.png\|rock9.png]] Villa Faral (medium)
 
 
-# Planet 3 - Cardone ![[rock6.png]]
+# Planet 3 - Cardone ![[rock6.png\|rock6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -72,7 +67,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Ori ![[frozen44.png]]
+# Planet 4 - Ori ![[frozen44.png\|frozen44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -92,7 +87,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Labaro ![[frozen43.png]]
+# Planet 5 - Labaro ![[frozen43.png\|frozen43.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -112,7 +107,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Guiccardini ![[gasg19.png]]
+# Planet 6 - Guiccardini ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,11 +122,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Cupra I (medium)
-- ![[rock13.png]] Cupra II (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Cupra I (medium)
+- ![[rock13.png\|rock13.png]] Cupra II (medium)
 
 
-# Planet 7 - Castellani ![[gasg8.png]]
+# Planet 7 - Castellani ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -146,11 +141,11 @@ dg-publish: true
 
 
 
-- ![[rock13.png]] Spes (large)
-- ![[rock1.png]] Iupiter (large)
+- ![[rock13.png\|rock13.png]] Spes (large)
+- ![[rock1.png\|rock1.png]] Iupiter (large)
 
 
-# Planet 8 - Ford ![[gasg36.png]]
+# Planet 8 - Ford ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -165,5 +160,5 @@ dg-publish: true
 
 
 
-- [[oddmoon3.png]] Carone (medium)
+- [[oddmoon3.png\|oddmoon3.png]] Carone (medium)
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Crichton
-xcood: "589.252"
-ycood: "226.772"
-spectralType: M6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/crichton/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Crichton
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M6V.png]] |
+> | X coord | 589.252 |
+> | Y coord| 226.772 |
+> | Spectral Type | M6V ![[M6V.png\|M6V.png]] |
 
-# Planet 1 - Crichton ![[wet5.png]]
+# Planet 1 - Crichton ![[wet5.png\|wet5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -34,9 +29,9 @@ dg-publish: true
 
 
 
-- [[rock13.png]] Singleton (large)
+- [[rock13.png\|rock13.png]] Singleton (large)
 
-# Planet 2 - Jones's Belt ![[asteroid1.png]]
+# Planet 2 - Jones's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -48,7 +43,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Törökszentmiklósi Járás ![[gasg6.png]]
+# Planet 3 - Törökszentmiklósi Járás ![[gasg6.png\|gasg6.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Saint Lawrence ![[gasg37.png]]
+# Planet 4 - Saint Lawrence ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -82,7 +77,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Cowan ![[gasg31.png]]
+# Planet 5 - Cowan ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -97,9 +92,9 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Bogatyr (large)
+- [[rock8.png\|rock8.png]] Bogatyr (large)
 
-# Planet 6 - Jo Daviess ![[gasg8.png]]
+# Planet 6 - Jo Daviess ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -114,8 +109,8 @@ dg-publish: true
 
 
 
-- ![[rock14.png]] Culann A (large)
-- ![[rock16.png]] Culann B (medium)
-- ![[rock8.png]] Culann C (medium)
+- ![[rock14.png\|rock14.png]] Culann A (large)
+- ![[rock16.png\|rock16.png]] Culann B (medium)
+- ![[rock8.png\|rock8.png]] Culann C (medium)
 
 

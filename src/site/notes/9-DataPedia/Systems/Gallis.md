@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gallis
-xcood: "-173.659"
-ycood: "-380.426"
-spectralType: K7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gallis/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gallis
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K7V.png]] |
+> | X coord | -173.659 |
+> | Y coord| -380.426 |
+> | Spectral Type | K7V ![[K7V.png\|K7V.png]] |
 
-# Planet 1 - Gallis ![[green23.png]]
+# Planet 1 - Gallis ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,12 +32,12 @@ dg-publish: true
 3
 0
 
-- ![[rock15.png]] Wodan (medium)
-- ![[rock10.png]] Eostre (medium)
-- ![[rock17.png]] Fri (medium)
+- ![[rock15.png\|rock15.png]] Wodan (medium)
+- ![[rock10.png\|rock10.png]] Eostre (medium)
+- ![[rock17.png\|rock17.png]] Fri (medium)
 
 
-# Planet 2 - Nannestad Belt ![[asteroid3.png]]
+# Planet 2 - Nannestad Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -57,7 +52,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Wilhelmsson ![[gasg1.png]]
+# Planet 3 - Wilhelmsson ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -75,17 +70,17 @@ dg-publish: true
 8
 0
 
-- ![[rock9.png]] Papageorge A (giant)
-- ![[rock16.png]] Papageorge B (large)
-- ![[rock15.png]] Papageorge C (large)
-- ![[rock8.png]] Papageorge D (large)
-- ![[rock17.png]] Papageorge E (large)
-- ![[rock4.png]] Papageorge F (large)
-- ![[oddmoon3.png]] Papageorge G (medium)
-- ![[rock3.png]] Papageorge H (medium)
+- ![[rock9.png\|rock9.png]] Papageorge A (giant)
+- ![[rock16.png\|rock16.png]] Papageorge B (large)
+- ![[rock15.png\|rock15.png]] Papageorge C (large)
+- ![[rock8.png\|rock8.png]] Papageorge D (large)
+- ![[rock17.png\|rock17.png]] Papageorge E (large)
+- ![[rock4.png\|rock4.png]] Papageorge F (large)
+- ![[oddmoon3.png\|oddmoon3.png]] Papageorge G (medium)
+- ![[rock3.png\|rock3.png]] Papageorge H (medium)
 
 
-# Planet 4 - Wikborg ![[gasg37.png]]
+# Planet 4 - Wikborg ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -105,7 +100,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Tuft's Belt ![[asteroid1.png]]
+# Planet 5 - Tuft's Belt ![[asteroid1.png\|asteroid1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -120,7 +115,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Molden's World ![[iceg15.png]]
+# Planet 6 - Molden's World ![[iceg15.png\|iceg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -138,12 +133,12 @@ dg-publish: true
 3
 0
 
-- ![[rock9.png]] Fortuna (medium)
-- ![[oddmoon2.png]] Picus (medium)
-- ![[oddmoon1.png]] Aurlandsvangen (medium)
+- ![[rock9.png\|rock9.png]] Fortuna (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Picus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Aurlandsvangen (medium)
 
 
-# Planet 7 - Nærø ![[iceg19.png]]
+# Planet 7 - Nærø ![[iceg19.png\|iceg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -163,7 +158,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Wist ![[gasg28.png]]
+# Planet 8 - Wist ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -181,12 +176,12 @@ dg-publish: true
 7
 0
 
-- ![[rock12.png]] Lom (large)
-- ![[rock13.png]] Vest-Agder Fylke (large)
-- ![[rock17.png]] Montrottier (large)
-- ![[rock6.png]] Al Minyā (large)
-- ![[rock2.png]] Hatteng (medium)
-- ![[oddmoon3.png]] Sinaa (medium)
-- ![[oddmoon2.png]] Nyami Abe (medium)
+- ![[rock12.png\|rock12.png]] Lom (large)
+- ![[rock13.png\|rock13.png]] Vest-Agder Fylke (large)
+- ![[rock17.png\|rock17.png]] Montrottier (large)
+- ![[rock6.png\|rock6.png]] Al Minyā (large)
+- ![[rock2.png\|rock2.png]] Hatteng (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Sinaa (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Nyami Abe (medium)
 
 

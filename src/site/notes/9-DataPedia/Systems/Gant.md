@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gant
-xcood: "311.293"
-ycood: "-460.545"
-spectralType: G1V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gant/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gant
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G1V.png]] |
+> | X coord | 311.293 |
+> | Y coord| -460.545 |
+> | Spectral Type | G1V ![[G1V.png\|G1V.png]] |
 
-# Planet 1 - Moreau's Roost ![[iceg7.png]]
+# Planet 1 - Moreau's Roost ![[iceg7.png\|iceg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -35,7 +30,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Moi ![[iceg10.png]]
+# Planet 2 - Moi ![[iceg10.png\|iceg10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -53,9 +48,9 @@ dg-publish: true
 3
 3
 
-- [[rock11.png]] K-1 (giant)
+- [[rock11.png\|rock11.png]] K-1 (giant)
 
-# Planet 3 - Mercier ![[rock16.png]]
+# Planet 3 - Mercier ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -75,7 +70,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Gant ![[green40.png]]
+# Planet 4 - Gant ![[green40.png\|green40.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -99,7 +94,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Korriban ![[iceg13.png]]
+# Planet 5 - Korriban ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -117,11 +112,11 @@ dg-publish: true
 2
 0
 
-- ![[rock14.png]] Di Manes Alpha (large)
-- ![[rock11.png]] Di Manes Beta (medium)
+- ![[rock14.png\|rock14.png]] Di Manes Alpha (large)
+- ![[rock11.png\|rock11.png]] Di Manes Beta (medium)
 
 
-# Planet 6 - Hubert ![[gasg36.png]]
+# Planet 6 - Hubert ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -139,9 +134,9 @@ dg-publish: true
 3
 7
 
-- [[rock14.png]] Rosteig (giant)
+- [[rock14.png\|rock14.png]] Rosteig (giant)
 
-# Planet 7 - R-1 Belt ![[asteroid2.png]]
+# Planet 7 - R-1 Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -156,7 +151,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Bernard's Glory ![[gasg13.png]]
+# Planet 8 - Bernard's Glory ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -174,15 +169,15 @@ dg-publish: true
 6
 0
 
-- ![[rock4.png]] Optimus Maximus (large)
-- ![[rock3.png]] Dies Pater (large)
-- ![[rock15.png]] Empanda (medium)
-- ![[oddmoon2.png]] Spes (medium)
-- ![[oddmoon3.png]] Romulus (medium)
-- ![[oddmoon1.png]] Crouzet (medium)
+- ![[rock4.png\|rock4.png]] Optimus Maximus (large)
+- ![[rock3.png\|rock3.png]] Dies Pater (large)
+- ![[rock15.png\|rock15.png]] Empanda (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Spes (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Romulus (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Crouzet (medium)
 
 
-# Planet 9 - Beaufils ![[gasg26.png]]
+# Planet 9 - Beaufils ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -200,9 +195,9 @@ dg-publish: true
 4
 0
 
-- ![[oddmoon1.png]] JX-1 (medium)
-- ![[rock7.png]] JX-2 (medium)
-- ![[oddmoon3.png]] JX-3 (medium)
-- ![[oddmoon2.png]] JX-4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] JX-1 (medium)
+- ![[rock7.png\|rock7.png]] JX-2 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] JX-3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] JX-4 (medium)
 
 

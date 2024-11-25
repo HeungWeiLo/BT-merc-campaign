@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gallitzin
-xcood: "131.569"
-ycood: "-163.389"
-spectralType: K6V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gallitzin/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gallitzin
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K6V.png]] |
+> | X coord | 131.569 |
+> | Y coord| -163.389 |
+> | Spectral Type | K6V ![[K6V.png\|K6V.png]] |
 
-# Planet 1 - Gallitzin ![[green48.png]]
+# Planet 1 - Gallitzin ![[green48.png\|green48.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -37,12 +32,12 @@ dg-publish: true
 3
 0
 
-- ![[rock11.png]] Gardner A (medium)
-- ![[oddmoon3.png]] Gardner B (medium)
-- ![[oddmoon2.png]] Gardner C (medium)
+- ![[rock11.png\|rock11.png]] Gardner A (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Gardner B (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Gardner C (medium)
 
 
-# Planet 2 - Hymen ![[badwater44.png]]
+# Planet 2 - Hymen ![[badwater44.png\|badwater44.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Cutcot ![[gasg1.png]]
+# Planet 3 - Cutcot ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -83,12 +78,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Anderson I (medium)
-- ![[rock10.png]] Anderson II (medium)
-- ![[rock1.png]] Anderson III (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Anderson I (medium)
+- ![[rock10.png\|rock10.png]] Anderson II (medium)
+- ![[rock1.png\|rock1.png]] Anderson III (medium)
 
 
-# Planet 4 - Moral ![[gasg9.png]]
+# Planet 4 - Moral ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -108,7 +103,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Pegasos's Retreat ![[gasg27.png]]
+# Planet 5 - Pegasos's Retreat ![[gasg27.png\|gasg27.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,13 +121,13 @@ dg-publish: true
 4
 0
 
-- ![[rock14.png]] King (large)
-- ![[oddmoon2.png]] Gilbert (medium)
-- ![[oddmoon1.png]] Rhodes (medium)
-- ![[oddmoon3.png]] Blake (medium)
+- ![[rock14.png\|rock14.png]] King (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Gilbert (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Rhodes (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Blake (medium)
 
 
-# Planet 6 - Tyche ![[iceg12.png]]
+# Planet 6 - Tyche ![[iceg12.png\|iceg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -152,7 +147,7 @@ dg-publish: true
 
 
 
-# Planet 7 - Torbeck ![[gasg31.png]]
+# Planet 7 - Torbeck ![[gasg31.png\|gasg31.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -170,14 +165,14 @@ dg-publish: true
 5
 0
 
-- ![[rock9.png]] Snyder 1 (large)
-- ![[rock16.png]] Snyder 2 (large)
-- ![[rock14.png]] Snyder 3 (medium)
-- ![[oddmoon2.png]] Snyder 4 (medium)
-- ![[rock17.png]] Snyder 5 (medium)
+- ![[rock9.png\|rock9.png]] Snyder 1 (large)
+- ![[rock16.png\|rock16.png]] Snyder 2 (large)
+- ![[rock14.png\|rock14.png]] Snyder 3 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Snyder 4 (medium)
+- ![[rock17.png\|rock17.png]] Snyder 5 (medium)
 
 
-# Planet 8 - Gwen Bach ![[gasg22.png]]
+# Planet 8 - Gwen Bach ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -195,9 +190,9 @@ dg-publish: true
 3
 9
 
-- [[rock3.png]] Tombstone (large)
+- [[rock3.png\|rock3.png]] Tombstone (large)
 
-# Planet 9 - Hypnos's Frontier ![[gasg38.png]]
+# Planet 9 - Hypnos's Frontier ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -215,11 +210,11 @@ dg-publish: true
 2
 0
 
-- ![[rock14.png]] Odysseus I (medium)
-- ![[oddmoon2.png]] Odysseus II (medium)
+- ![[rock14.png\|rock14.png]] Odysseus I (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Odysseus II (medium)
 
 
-# Planet 10 - Helius ![[iceg11.png]]
+# Planet 10 - Helius ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -237,12 +232,12 @@ dg-publish: true
 3
 0
 
-- ![[rock13.png]] D3Z-1 (large)
-- ![[rock8.png]] D3Z-2 (medium)
-- ![[rock17.png]] D3Z-3 (medium)
+- ![[rock13.png\|rock13.png]] D3Z-1 (large)
+- ![[rock8.png\|rock8.png]] D3Z-2 (medium)
+- ![[rock17.png\|rock17.png]] D3Z-3 (medium)
 
 
-# Planet 11 - Arcas ![[gasg24.png]]
+# Planet 11 - Arcas ![[gasg24.png\|gasg24.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -262,7 +257,7 @@ dg-publish: true
 
 
 
-# Planet 12 - Aeacos ![[gasg5.png]]
+# Planet 12 - Aeacos ![[gasg5.png\|gasg5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -280,12 +275,12 @@ dg-publish: true
 3
 0
 
-- ![[rock17.png]] Fletcher (large)
-- ![[rock5.png]] Arundhati (large)
-- ![[rock1.png]] Cornett (large)
+- ![[rock17.png\|rock17.png]] Fletcher (large)
+- ![[rock5.png\|rock5.png]] Arundhati (large)
+- ![[rock1.png\|rock1.png]] Cornett (large)
 
 
-# Planet 13 - Old Man Coyote ![[gasg14.png]]
+# Planet 13 - Old Man Coyote ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

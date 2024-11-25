@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Cumbres
-xcood: "-154.031"
-ycood: "201.831"
-spectralType: G7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/cumbres/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Cumbres
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G7V.png]] |
+> | X coord | -154.031 |
+> | Y coord| 201.831 |
+> | Spectral Type | G7V ![[G7V.png\|G7V.png]] |
 
-# Planet 1 - Lao Zi ![[gasg38.png]]
+# Planet 1 - Lao Zi ![[gasg38.png\|gasg38.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Cumbres ![[wet13.png]]
+# Planet 2 - Cumbres ![[wet13.png\|wet13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -53,7 +48,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ayala's Belt ![[asteroid2.png]]
+# Planet 3 - Ayala's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -65,7 +60,7 @@ dg-publish: true
 
 
 
-# Planet 4 - San Vega ![[gasg28.png]]
+# Planet 4 - San Vega ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -82,7 +77,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Ho Po ![[iceg11.png]]
+# Planet 5 - Ho Po ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -97,11 +92,11 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] 15H-1 (giant)
-- ![[rock16.png]] 15H-2 (giant)
+- ![[rock5.png\|rock5.png]] 15H-1 (giant)
+- ![[rock16.png\|rock16.png]] 15H-2 (giant)
 
 
-# Planet 6 - Li Xuan ![[gasg2.png]]
+# Planet 6 - Li Xuan ![[gasg2.png\|gasg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Katlehong
-xcood: "-217.664"
-ycood: "-252.098"
-spectralType: M2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/katlehong/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Katlehong
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M2V.png]] |
+> | X coord | -217.664 |
+> | Y coord| -252.098 |
+> | Spectral Type | M2V ![[M2V.png\|M2V.png]] |
 
-# Planet 1 - Katlehong ![[green17.png]]
+# Planet 1 - Katlehong ![[green17.png\|green17.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -39,7 +34,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Gorxheimertal ![[gasg18.png]]
+# Planet 2 - Gorxheimertal ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -57,12 +52,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 3 - Old Marcali ![[frozen28.png]]
+# Planet 3 - Old Marcali ![[frozen28.png\|frozen28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -85,7 +80,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Carpenter's Belt ![[asteroid2.png]]
+# Planet 4 - Carpenter's Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -100,7 +95,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Mitra's Planet ![[gasg7.png]]
+# Planet 5 - Mitra's Planet ![[gasg7.png\|gasg7.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -120,7 +115,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Cortlandville ![[gasg20.png]]
+# Planet 6 - Cortlandville ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -138,12 +133,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 7 - Shiremanstown ![[gasg36.png]]
+# Planet 7 - Shiremanstown ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -161,16 +156,16 @@ dg-publish: true
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Rolph ![[gasg34.png]]
+# Planet 8 - Rolph ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |

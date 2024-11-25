@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Kearny
-xcood: "-127.169"
-ycood: "-274.598"
-spectralType: G2V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/kearny/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Kearny
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[G2V.png]] |
+> | X coord | -127.169 |
+> | Y coord| -274.598 |
+> | Spectral Type | G2V ![[G2V.png\|G2V.png]] |
 
-# Planet 1 - Gaurama ![[rock9.png]]
+# Planet 1 - Gaurama ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,9 +28,9 @@ dg-publish: true
 3
 5
 
-- [[rock12.png]] Baldr (large)
+- [[rock12.png\|rock12.png]] Baldr (large)
 
-# Planet 2 - Kearny ![[green22.png]]
+# Planet 2 - Kearny ![[green22.png\|green22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -59,7 +54,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Fujimi-machi ![[rock14.png]]
+# Planet 3 - Fujimi-machi ![[rock14.png\|rock14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -77,9 +72,9 @@ dg-publish: true
 3
 6
 
-- [[rock6.png]] Ēostre (medium)
+- [[rock6.png\|rock6.png]] Ēostre (medium)
 
-# Planet 4 - O'Fallon ![[gasg25.png]]
+# Planet 4 - O'Fallon ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -97,12 +92,12 @@ dg-publish: true
 3
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 5 - Hilltop ![[gasg35.png]]
+# Planet 5 - Hilltop ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -122,7 +117,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Clarno ![[gasg4.png]]
+# Planet 6 - Clarno ![[gasg4.png\|gasg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -140,9 +135,9 @@ dg-publish: true
 3
 7
 
-- [[rock7.png]] Guan Di (medium)
+- [[rock7.png\|rock7.png]] Guan Di (medium)
 
-# Planet 7 - Maui ![[gasg12.png]]
+# Planet 7 - Maui ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -160,11 +155,11 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 8 - Salford ![[gasg1.png]]
+# Planet 8 - Salford ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,9 +177,9 @@ dg-publish: true
 3
 6
 
-- [[oddmoon2.png]] Aeolus (medium)
+- [[oddmoon2.png\|oddmoon2.png]] Aeolus (medium)
 
-# Planet 9 - Yardley ![[gasg37.png]]
+# Planet 9 - Yardley ![[gasg37.png\|gasg37.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -202,16 +197,16 @@ dg-publish: true
 7
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 
-# Planet 10 - North Slope ![[gasg28.png]]
+# Planet 10 - North Slope ![[gasg28.png\|gasg28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -229,7 +224,7 @@ dg-publish: true
 2
 0
 
-- ![[.png]]  ()
-- ![[.png]]  ()
+- ![[.png\|.png]]  ()
+- ![[.png\|.png]]  ()
 
 

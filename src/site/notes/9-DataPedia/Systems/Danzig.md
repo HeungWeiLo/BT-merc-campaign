@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Danzig
-xcood: "-642.943"
-ycood: "847.98"
-spectralType: M0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/danzig/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Danzig
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[M0V.png]] |
+> | X coord | -642.943 |
+> | Y coord| 847.98 |
+> | Spectral Type | M0V ![[M0V.png\|M0V.png]] |
 
-# Planet 1 - Danzig ![[green20.png]]
+# Planet 1 - Danzig ![[green20.png\|green20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ No description available.
 
 
 
-# Planet 2 - Zawoja ![[rock3.png]]
+# Planet 2 - Zawoja ![[rock3.png\|rock3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -53,7 +48,7 @@ No description available.
 
 
 
-# Planet 3 - Třebihošť ![[gasg9.png]]
+# Planet 3 - Třebihošť ![[gasg9.png\|gasg9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -68,12 +63,12 @@ No description available.
 
 
 
-- ![[rock12.png]] Monmouth I (large)
-- ![[rock10.png]] Monmouth II (large)
-- ![[rock8.png]] Monmouth III (large)
+- ![[rock12.png\|rock12.png]] Monmouth I (large)
+- ![[rock10.png\|rock10.png]] Monmouth II (large)
+- ![[rock8.png\|rock8.png]] Monmouth III (large)
 
 
-# Planet 4 - Inpu ![[gasg23.png]]
+# Planet 4 - Inpu ![[gasg23.png\|gasg23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -88,12 +83,12 @@ No description available.
 
 
 
-- ![[rock3.png]] Con (giant)
-- ![[rock11.png]] Tataka (medium)
-- ![[rock14.png]] Shiva (medium)
+- ![[rock3.png\|rock3.png]] Con (giant)
+- ![[rock11.png\|rock11.png]] Tataka (medium)
+- ![[rock14.png\|rock14.png]] Shiva (medium)
 
 
-# Planet 5 - Powiat milicki ![[gasg35.png]]
+# Planet 5 - Powiat milicki ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -108,12 +103,12 @@ No description available.
 
 
 
-- ![[rock6.png]] Johnson A (large)
-- ![[rock17.png]] Johnson B (medium)
-- ![[rock12.png]] Johnson C (medium)
+- ![[rock6.png\|rock6.png]] Johnson A (large)
+- ![[rock17.png\|rock17.png]] Johnson B (medium)
+- ![[rock12.png\|rock12.png]] Johnson C (medium)
 
 
-# Planet 6 - Baba Yaga Belt ![[asteroid3.png]]
+# Planet 6 - Baba Yaga Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -125,7 +120,7 @@ No description available.
 
 
 
-# Planet 7 - New Stare Pole ![[gasg19.png]]
+# Planet 7 - New Stare Pole ![[gasg19.png\|gasg19.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -140,18 +135,18 @@ No description available.
 
 
 
-- ![[rock2.png]] Lisewo (giant)
-- ![[rock13.png]] Grajewo (giant)
-- ![[rock8.png]] Krzysztofowicz (large)
-- ![[rock11.png]] Apu Qun Tiqsi Wiraqutra (large)
-- ![[rock5.png]] Villotte-devant-Louppy (large)
-- ![[rock14.png]] Białystok (large)
-- ![[rock3.png]] Chasca (large)
-- ![[oddmoon2.png]] Ayar Manco (medium)
-- ![[rock16.png]] Apotequil (medium)
+- ![[rock2.png\|rock2.png]] Lisewo (giant)
+- ![[rock13.png\|rock13.png]] Grajewo (giant)
+- ![[rock8.png\|rock8.png]] Krzysztofowicz (large)
+- ![[rock11.png\|rock11.png]] Apu Qun Tiqsi Wiraqutra (large)
+- ![[rock5.png\|rock5.png]] Villotte-devant-Louppy (large)
+- ![[rock14.png\|rock14.png]] Białystok (large)
+- ![[rock3.png\|rock3.png]] Chasca (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Ayar Manco (medium)
+- ![[rock16.png\|rock16.png]] Apotequil (medium)
 
 
-# Planet 8 - Chnum ![[gasg14.png]]
+# Planet 8 - Chnum ![[gasg14.png\|gasg14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -168,7 +163,7 @@ No description available.
 
 
 
-# Planet 9 - Old Kırıkkale ![[gasg25.png]]
+# Planet 9 - Old Kırıkkale ![[gasg25.png\|gasg25.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -183,12 +178,12 @@ No description available.
 
 
 
-- ![[rock1.png]] N.1 (large)
-- ![[rock5.png]] N.2 (large)
-- ![[rock12.png]] N.3 (large)
+- ![[rock1.png\|rock1.png]] N.1 (large)
+- ![[rock5.png\|rock5.png]] N.2 (large)
+- ![[rock12.png\|rock12.png]] N.3 (large)
 
 
-# Planet 10 - Vysokogorskiy ![[gasg1.png]]
+# Planet 10 - Vysokogorskiy ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |

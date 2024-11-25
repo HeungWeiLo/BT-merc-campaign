@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Gan Singh
-xcood: "41.613"
-ycood: "-79.668"
-spectralType: F5VII
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/gan-singh/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Gan Singh
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F5VII.png]] |
+> | X coord | 41.613 |
+> | Y coord| -79.668 |
+> | Spectral Type | F5VII ![[F5VII.png\|F5VII.png]] |
 
-# Planet 1 - Susan's Stand ![[gasg12.png]]
+# Planet 1 - Susan's Stand ![[gasg12.png\|gasg12.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,12 +28,12 @@ dg-publish: true
 3
 0
 
-- ![[oddmoon1.png]] Siddhi 1 (medium)
-- ![[oddmoon3.png]] Siddhi 2 (medium)
-- ![[oddmoon2.png]] Siddhi 3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Siddhi 1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Siddhi 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Siddhi 3 (medium)
 
 
-# Planet 2 - Lang Singalang Burong ![[gasg22.png]]
+# Planet 2 - Lang Singalang Burong ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -58,7 +53,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Ina Da Samadulo Hose ![[iceg8.png]]
+# Planet 3 - Ina Da Samadulo Hose ![[iceg8.png\|iceg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -76,9 +71,9 @@ dg-publish: true
 3
 13
 
-- [[rock17.png]] Shichifukujin (large)
+- [[rock17.png\|rock17.png]] Shichifukujin (large)
 
-# Planet 4 - Gan Singh ![[green3.png]]
+# Planet 4 - Gan Singh ![[green3.png\|green3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -100,13 +95,13 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 4
 0
 
-- ![[rock7.png]] Harl (medium)
-- ![[rock3.png]] Kishen (medium)
-- ![[oddmoon1.png]] Nain (medium)
-- ![[rock4.png]] Ranjit (large)
+- ![[rock7.png\|rock7.png]] Harl (medium)
+- ![[rock3.png\|rock3.png]] Kishen (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nain (medium)
+- ![[rock4.png\|rock4.png]] Ranjit (large)
 
 
-# Planet 5 - Kiak Kiak ![[rock9.png]]
+# Planet 5 - Kiak Kiak ![[rock9.png\|rock9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -126,7 +121,7 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 
 
 
-# Planet 6 - Dhara Belt ![[asteroid2.png]]
+# Planet 6 - Dhara Belt ![[asteroid2.png\|asteroid2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -141,7 +136,7 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 
 
 
-# Planet 7 - Satyen ![[gasg13.png]]
+# Planet 7 - Satyen ![[gasg13.png\|gasg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -159,12 +154,12 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 3
 0
 
-- ![[rock14.png]] Tien Kung (large)
-- ![[oddmoon1.png]] Feng Du (medium)
-- ![[rock17.png]] Ao Shun (medium)
+- ![[rock14.png\|rock14.png]] Tien Kung (large)
+- ![[oddmoon1.png\|oddmoon1.png]] Feng Du (medium)
+- ![[rock17.png\|rock17.png]] Ao Shun (medium)
 
 
-# Planet 8 - Chittor's End ![[gasg35.png]]
+# Planet 8 - Chittor's End ![[gasg35.png\|gasg35.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -182,11 +177,11 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 2
 0
 
-- ![[oddmoon3.png]] Pulastya (medium)
-- ![[rock10.png]] Arundhati (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Pulastya (medium)
+- ![[rock10.png\|rock10.png]] Arundhati (medium)
 
 
-# Planet 9 - Kan Ajana ![[frozen9.png]]
+# Planet 9 - Kan Ajana ![[frozen9.png\|frozen9.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -207,5 +202,5 @@ A largely agricultural world with impressive forests and jungles. Large rain for
 3
 7
 
-- [[rock6.png]] Asgardr (large)
+- [[rock6.png\|rock6.png]] Asgardr (large)
 

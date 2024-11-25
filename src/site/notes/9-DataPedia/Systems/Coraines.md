@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Coraines
-xcood: "489.546"
-ycood: "196.5"
-spectralType: F4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/coraines/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Coraines
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F4V.png]] |
+> | X coord | 489.546 |
+> | Y coord| 196.5 |
+> | Spectral Type | F4V ![[F4V.png\|F4V.png]] |
 
-# Planet 1 - Bonus Eventus's Rest ![[barren2.png]]
+# Planet 1 - Bonus Eventus's Rest ![[barren2.png\|barren2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Sterculius ![[barren4.png]]
+# Planet 2 - Sterculius ![[barren4.png\|barren4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -51,7 +46,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Lara ![[greenhouse26.png]]
+# Planet 3 - Lara ![[greenhouse26.png\|greenhouse26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -69,7 +64,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Coraines ![[green29.png]]
+# Planet 4 - Coraines ![[green29.png\|green29.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -88,12 +83,12 @@ dg-publish: true
 
 
 
-- ![[rock5.png]] GGO.1 (medium)
-- ![[rock2.png]] GGO.2 (medium)
-- ![[rock1.png]] GGO.3 (medium)
+- ![[rock5.png\|rock5.png]] GGO.1 (medium)
+- ![[rock2.png\|rock2.png]] GGO.2 (medium)
+- ![[rock1.png\|rock1.png]] GGO.3 (medium)
 
 
-# Planet 5 - Janus ![[rock10.png]]
+# Planet 5 - Janus ![[rock10.png\|rock10.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Dwarf Terrestrial |
@@ -110,7 +105,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Liber ![[iceg2.png]]
+# Planet 6 - Liber ![[iceg2.png\|iceg2.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -125,12 +120,12 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Hera A (medium)
-- ![[rock1.png]] Hera B (medium)
-- ![[oddmoon1.png]] Hera C (medium)
+- ![[rock16.png\|rock16.png]] Hera A (medium)
+- ![[rock1.png\|rock1.png]] Hera B (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Hera C (medium)
 
 
-# Planet 7 - Port Thalna ![[gasg1.png]]
+# Planet 7 - Port Thalna ![[gasg1.png\|gasg1.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Giant Terrestrial |
@@ -145,5 +140,5 @@ dg-publish: true
 
 
 
-- [[rock6.png]] Biscocho (medium)
+- [[rock6.png\|rock6.png]] Biscocho (medium)
 

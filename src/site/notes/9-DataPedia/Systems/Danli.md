@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Danli
-xcood: "667.385"
-ycood: "273.411"
-spectralType: F0V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/danli/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Danli
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F0V.png]] |
+> | X coord | 667.385 |
+> | Y coord| 273.411 |
+> | Spectral Type | F0V ![[F0V.png\|F0V.png]] |
 
-# Planet 1 - Buri ![[greenhouse21.png]]
+# Planet 1 - Buri ![[greenhouse21.png\|greenhouse21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -33,7 +28,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Lokkju ![[barren14.png]]
+# Planet 2 - Lokkju ![[barren14.png\|barren14.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -49,11 +44,11 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Contreras 1 (medium)
-- ![[rock15.png]] Contreras 2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Contreras 1 (medium)
+- ![[rock15.png\|rock15.png]] Contreras 2 (medium)
 
 
-# Planet 3 - Danli ![[green36.png]]
+# Planet 3 - Danli ![[green36.png\|green36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -74,7 +69,7 @@ dg-publish: true
 
 
 
-# Planet 4 - Valkyrja ![[iceg11.png]]
+# Planet 4 - Valkyrja ![[iceg11.png\|iceg11.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -89,11 +84,11 @@ dg-publish: true
 
 
 
-- ![[rock15.png]] Quirinus I (large)
-- ![[rock16.png]] Quirinus II (large)
+- ![[rock15.png\|rock15.png]] Quirinus I (large)
+- ![[rock16.png\|rock16.png]] Quirinus II (large)
 
 
-# Planet 5 - Heimdallr ![[iceg13.png]]
+# Planet 5 - Heimdallr ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -108,11 +103,11 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] FH1 (medium)
-- ![[oddmoon3.png]] FH2 (medium)
+- ![[rock16.png\|rock16.png]] FH1 (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] FH2 (medium)
 
 
-# Planet 6 - Týr ![[gasg36.png]]
+# Planet 6 - Týr ![[gasg36.png\|gasg36.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -127,15 +122,15 @@ dg-publish: true
 
 
 
-- ![[rock7.png]] Canice (large)
-- ![[rock17.png]] Lucy (large)
-- ![[rock10.png]] Elizabeth (large)
-- ![[rock14.png]] Jerome (large)
-- ![[oddmoon2.png]] Oswald of York (medium)
-- ![[rock12.png]] Wunebald (medium)
+- ![[rock7.png\|rock7.png]] Canice (large)
+- ![[rock17.png\|rock17.png]] Lucy (large)
+- ![[rock10.png\|rock10.png]] Elizabeth (large)
+- ![[rock14.png\|rock14.png]] Jerome (large)
+- ![[oddmoon2.png\|oddmoon2.png]] Oswald of York (medium)
+- ![[rock12.png\|rock12.png]] Wunebald (medium)
 
 
-# Planet 7 - Kara ![[gasg8.png]]
+# Planet 7 - Kara ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -150,11 +145,11 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] Rodríguez (medium)
-- ![[rock17.png]] Negrón (medium)
+- ![[rock12.png\|rock12.png]] Rodríguez (medium)
+- ![[rock17.png\|rock17.png]] Negrón (medium)
 
 
-# Planet 8 - Hyldemoer ![[gasg21.png]]
+# Planet 8 - Hyldemoer ![[gasg21.png\|gasg21.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,5 +164,5 @@ dg-publish: true
 
 
 
-- [[rock8.png]] Petero (medium)
+- [[rock8.png\|rock8.png]] Petero (medium)
 

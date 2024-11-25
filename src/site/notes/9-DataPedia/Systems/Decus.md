@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Decus
-xcood: "44.448"
-ycood: "-251.599"
-spectralType: F7V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/decus/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Decus
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[F7V.png]] |
+> | X coord | 44.448 |
+> | Y coord| -251.599 |
+> | Spectral Type | F7V ![[F7V.png\|F7V.png]] |
 
-# Planet 1 - Shunchang Xian ![[rock16.png]]
+# Planet 1 - Shunchang Xian ![[rock16.png\|rock16.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -32,7 +27,7 @@ dg-publish: true
 
 
 
-# Planet 2 - New Alnwick ![[barren18.png]]
+# Planet 2 - New Alnwick ![[barren18.png\|barren18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -50,7 +45,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Gelderl ![[iceg18.png]]
+# Planet 3 - Gelderl ![[iceg18.png\|iceg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -65,15 +60,15 @@ dg-publish: true
 
 
 
-- ![[rock3.png]] Dubiaku (large)
-- ![[rock15.png]] Olorun (large)
-- ![[rock2.png]] Setekh (large)
-- ![[rock11.png]] Mbongo (medium)
-- ![[oddmoon1.png]] Orishala (medium)
-- ![[rock9.png]] Orixa (medium)
+- ![[rock3.png\|rock3.png]] Dubiaku (large)
+- ![[rock15.png\|rock15.png]] Olorun (large)
+- ![[rock2.png\|rock2.png]] Setekh (large)
+- ![[rock11.png\|rock11.png]] Mbongo (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Orishala (medium)
+- ![[rock9.png\|rock9.png]] Orixa (medium)
 
 
-# Planet 4 - Decus ![[wet20.png]]
+# Planet 4 - Decus ![[wet20.png\|wet20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Whitemouth ![[frozen28.png]]
+# Planet 5 - Whitemouth ![[frozen28.png\|frozen28.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -114,7 +109,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Enosichthon ![[gasg34.png]]
+# Planet 6 - Enosichthon ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -129,12 +124,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon2.png]] Skäfthammar Alpha (medium)
-- ![[oddmoon1.png]] Skäfthammar Beta (medium)
-- ![[oddmoon3.png]] Skäfthammar Gamma (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Skäfthammar Alpha (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Skäfthammar Beta (medium)
+- ![[oddmoon3.png\|oddmoon3.png]] Skäfthammar Gamma (medium)
 
 
-# Planet 7 - Volus Belt ![[asteroid3.png]]
+# Planet 7 - Volus Belt ![[asteroid3.png\|asteroid3.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Asteroid Belt |
@@ -146,7 +141,7 @@ dg-publish: true
 
 
 
-# Planet 8 - Wisznia Mała ![[gasg20.png]]
+# Planet 8 - Wisznia Mała ![[gasg20.png\|gasg20.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -163,7 +158,7 @@ dg-publish: true
 
 
 
-# Planet 9 - Hinsdale ![[gasg15.png]]
+# Planet 9 - Hinsdale ![[gasg15.png\|gasg15.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -178,12 +173,12 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] 5PS-1 (medium)
-- ![[rock9.png]] 5PS-2 (medium)
-- ![[rock5.png]] 5PS-3 (medium)
+- ![[rock12.png\|rock12.png]] 5PS-1 (medium)
+- ![[rock9.png\|rock9.png]] 5PS-2 (medium)
+- ![[rock5.png\|rock5.png]] 5PS-3 (medium)
 
 
-# Planet 10 - Muses ![[iceg13.png]]
+# Planet 10 - Muses ![[iceg13.png\|iceg13.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -198,8 +193,8 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Confalonieri A (medium)
-- ![[rock14.png]] Confalonieri B (medium)
-- ![[rock13.png]] Confalonieri C (medium)
+- ![[rock10.png\|rock10.png]] Confalonieri A (medium)
+- ![[rock14.png\|rock14.png]] Confalonieri B (medium)
+- ![[rock13.png\|rock13.png]] Confalonieri C (medium)
 
 

@@ -1,21 +1,16 @@
 ---
-obsidianUIMode: read
-NoteIcon: Settlement
-name: Czarvowo
-xcood: "-317.48"
-ycood: "61.477"
-spectralType: K4V
-dg-publish: true
+{"dg-publish":true,"permalink":"/9-data-pedia/systems/czarvowo/"}
 ---
+
 > [!infobox|wsmall]
-> # `=this.name`
+> # Czarvowo
 > | | |
 > | - | - |
-> | X coord | `=this.xcood` |
-> | Y coord| `=this.ycood` |
-> | Spectral Type | `=this.spectralType` ![[K4V.png]] |
+> | X coord | -317.48 |
+> | Y coord| 61.477 |
+> | Spectral Type | K4V ![[K4V.png\|K4V.png]] |
 
-# Planet 1 - Czarvowo ![[green23.png]]
+# Planet 1 - Czarvowo ![[green23.png\|green23.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -36,7 +31,7 @@ dg-publish: true
 
 
 
-# Planet 2 - Zhuan ![[badwater5.png]]
+# Planet 2 - Zhuan ![[badwater5.png\|badwater5.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Terrestrial |
@@ -56,7 +51,7 @@ dg-publish: true
 
 
 
-# Planet 3 - Lumes ![[gasg34.png]]
+# Planet 3 - Lumes ![[gasg34.png\|gasg34.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -71,13 +66,13 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] Zhang Guolao (medium)
-- ![[rock6.png]] Pi Ma Wen (medium)
-- ![[rock5.png]] Long Wang (medium)
-- ![[oddmoon2.png]] Euros (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Zhang Guolao (medium)
+- ![[rock6.png\|rock6.png]] Pi Ma Wen (medium)
+- ![[rock5.png\|rock5.png]] Long Wang (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Euros (medium)
 
 
-# Planet 4 - Shamong ![[iceg4.png]]
+# Planet 4 - Shamong ![[iceg4.png\|iceg4.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Ice Giant |
@@ -94,7 +89,7 @@ dg-publish: true
 
 
 
-# Planet 5 - Nordbø's Wind ![[gasg26.png]]
+# Planet 5 - Nordbø's Wind ![[gasg26.png\|gasg26.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -111,7 +106,7 @@ dg-publish: true
 
 
 
-# Planet 6 - Woods ![[gasg8.png]]
+# Planet 6 - Woods ![[gasg8.png\|gasg8.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -126,13 +121,13 @@ dg-publish: true
 
 
 
-- ![[rock16.png]] Sirte (medium)
-- ![[oddmoon1.png]] Nomós Korinthías (medium)
-- ![[rock12.png]] Kombo South (medium)
-- ![[oddmoon2.png]] Hitterdal (medium)
+- ![[rock16.png\|rock16.png]] Sirte (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Nomós Korinthías (medium)
+- ![[rock12.png\|rock12.png]] Kombo South (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] Hitterdal (medium)
 
 
-# Planet 7 - Bautista's Choice ![[gasg18.png]]
+# Planet 7 - Bautista's Choice ![[gasg18.png\|gasg18.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -147,14 +142,14 @@ dg-publish: true
 
 
 
-- ![[rock12.png]] VHI-1 (large)
-- ![[rock8.png]] VHI-2 (large)
-- ![[oddmoon2.png]] VHI-3 (medium)
-- ![[rock9.png]] VHI-4 (medium)
-- ![[rock3.png]] VHI-5 (medium)
+- ![[rock12.png\|rock12.png]] VHI-1 (large)
+- ![[rock8.png\|rock8.png]] VHI-2 (large)
+- ![[oddmoon2.png\|oddmoon2.png]] VHI-3 (medium)
+- ![[rock9.png\|rock9.png]] VHI-4 (medium)
+- ![[rock3.png\|rock3.png]] VHI-5 (medium)
 
 
-# Planet 8 - Boru Deak Paradjar ![[gasg22.png]]
+# Planet 8 - Boru Deak Paradjar ![[gasg22.png\|gasg22.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -169,12 +164,12 @@ dg-publish: true
 
 
 
-- ![[oddmoon1.png]] 60-1 (medium)
-- ![[rock12.png]] 60-2 (medium)
-- ![[oddmoon2.png]] 60-3 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] 60-1 (medium)
+- ![[rock12.png\|rock12.png]] 60-2 (medium)
+- ![[oddmoon2.png\|oddmoon2.png]] 60-3 (medium)
 
 
-# Planet 9 - Pentzopoulos's Tears ![[gasg30.png]]
+# Planet 9 - Pentzopoulos's Tears ![[gasg30.png\|gasg30.png]]
 |                             |                           |
 | --------------------------- | -------------------------:|
 | **Type**                    |             Gas Giant |
@@ -189,10 +184,10 @@ dg-publish: true
 
 
 
-- ![[rock10.png]] Fenrir 1 (large)
-- ![[rock17.png]] Fenrir 2 (large)
-- ![[rock16.png]] Fenrir 3 (large)
-- ![[rock14.png]] Fenrir 4 (medium)
-- ![[oddmoon1.png]] Fenrir 5 (medium)
+- ![[rock10.png\|rock10.png]] Fenrir 1 (large)
+- ![[rock17.png\|rock17.png]] Fenrir 2 (large)
+- ![[rock16.png\|rock16.png]] Fenrir 3 (large)
+- ![[rock14.png\|rock14.png]] Fenrir 4 (medium)
+- ![[oddmoon1.png\|oddmoon1.png]] Fenrir 5 (medium)
 
 
